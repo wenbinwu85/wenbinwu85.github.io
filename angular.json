@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "ahbenApp": {
+    "AhbenSite": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:application": {
@@ -68,10 +68,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "ahbenApp:build:production"
+              "browserTarget": "AhbenSite:build:production"
             },
             "development": {
-              "browserTarget": "ahbenApp:build:development"
+              "browserTarget": "AhbenSite:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -79,7 +79,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "ahbenApp:build"
+            "browserTarget": "AhbenSite:build"
           }
         },
         "test": {
@@ -102,5 +102,5 @@
       }
     }
   },
-  "defaultProject": "ahbenApp"
+  "defaultProject": "AhbenSite"
 }
