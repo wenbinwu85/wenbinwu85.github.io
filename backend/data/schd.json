@@ -1,0 +1,471 @@
+{
+    "postMarketChangePercent": -0.000252898,
+    "postMarketChange": -0.0199966,
+    "postMarketPrice": 79.05,
+    "regularMarketChangePercent": 0.0044461186,
+    "regularMarketChange": 0.34999847,
+    "regularMarketPrice": 79.07,
+    "regularMarketDayHigh": 79.11,
+    "regularMarketDayLow": 78.59,
+    "regularMarketVolume": 3387624,
+    "averageDailyVolume10Day": 3394910,
+    "averageDailyVolume3Month": 3629608,
+    "regularMarketPreviousClose": 78.72,
+    "regularMarketOpen": 78.7,
+    "exchange": "PCX",
+    "exchangeName": "NYSEArca",
+    "quoteType": "ETF",
+    "symbol": "SCHD",
+    "shortName": "Schwab US Dividend Equity ETF",
+    "longName": "Schwab U.S. Dividend Equity ETF",
+    "previousClose": 78.72,
+    "open": 78.7,
+    "dayLow": 78.59,
+    "dayHigh": 79.11,
+    "trailingPE": 14.998424,
+    "volume": 3387624,
+    "averageVolume": 3629608,
+    "averageVolume10days": 3394910,
+    "yield": 0.0342,
+    "totalAssets": 53454794752,
+    "fiftyTwoWeekLow": 66.67,
+    "fiftyTwoWeekHigh": 79.56,
+    "fiftyDayAverage": 77.2944,
+    "twoHundredDayAverage": 73.7472,
+    "trailingAnnualDividendRate": 0.0,
+    "trailingAnnualDividendYield": 0.0,
+    "navPrice": 78.73,
+    "ytdReturn": 0.0340208,
+    "beta3Year": 0.77,
+    "fundInceptionDate": "2011-10-19 20:00:00",
+    "threeYearAverageReturn": 0.0645231,
+    "fiveYearAverageReturn": 0.1221912,
+    "profile": {
+        "phone": "1-800-435-4000",
+        "longBusinessSummary": "To pursue its goal, the fund generally invests in stocks that are included in the index. The index is designed to measure the performance of high dividend yielding stocks issued by U.S. companies that have a record of consistently paying dividends, selected for fundamental strength relative to their peers, based on financial ratios. The fund will invest at least 90% of its net assets in these stocks.",
+        "companyOfficers": [],
+        "maxAge": 1,
+        "styleBoxUrl": "https://s.yimg.com/lq/i/fi/3_0stylelargeeq1.gif",
+        "family": "Schwab ETFs",
+        "categoryName": "Large Value",
+        "legalType": "Exchange Traded Fund",
+        "managementInfo": {
+            "managerName": null,
+            "managerBio": null
+        },
+        "feesExpensesInvestment": {
+            "annualReportExpenseRatio": 0.00059999997,
+            "annualHoldingsTurnover": 0.28,
+            "totalNetAssets": 102322.77,
+            "projectionValues": {}
+        },
+        "feesExpensesInvestmentCat": {
+            "annualReportExpenseRatio": 0.0090085,
+            "annualHoldingsTurnover": 0.5546,
+            "totalNetAssets": 102322.77,
+            "projectionValuesCat": {}
+        },
+        "brokerages": []
+    },
+    "dividendRate": 2.7041939999999998,
+    "dividendYield": 0.0342,
+    "topHoldings": {
+        "maxAge": 1,
+        "cashPosition": 0.00059999997,
+        "stockPosition": 0.9994,
+        "bondPosition": 0.0,
+        "otherPosition": 0.0,
+        "preferredPosition": 0.0,
+        "convertiblePosition": 0.0,
+        "holdings": [
+            {
+                "symbol": "AVGO",
+                "holdingName": "Broadcom Inc",
+                "holdingPercent": 0.0506669
+            },
+            {
+                "symbol": "ABBV",
+                "holdingName": "AbbVie Inc",
+                "holdingPercent": 0.0475129
+            },
+            {
+                "symbol": "MRK",
+                "holdingName": "Merck & Co Inc",
+                "holdingPercent": 0.0468615
+            },
+            {
+                "symbol": "HD",
+                "holdingName": "The Home Depot Inc",
+                "holdingPercent": 0.0448844
+            },
+            {
+                "symbol": "TXN",
+                "holdingName": "Texas Instruments Inc",
+                "holdingPercent": 0.0393438
+            },
+            {
+                "symbol": "VZ",
+                "holdingName": "Verizon Communications Inc",
+                "holdingPercent": 0.0392604
+            },
+            {
+                "symbol": "CVX",
+                "holdingName": "Chevron Corp",
+                "holdingPercent": 0.039135
+            },
+            {
+                "symbol": "AMGN",
+                "holdingName": "Amgen Inc",
+                "holdingPercent": 0.0384752
+            },
+            {
+                "symbol": "KO",
+                "holdingName": "Coca-Cola Co",
+                "holdingPercent": 0.038347002
+            },
+            {
+                "symbol": "CSCO",
+                "holdingName": "Cisco Systems Inc",
+                "holdingPercent": 0.036977
+            }
+        ],
+        "equityHoldings": {
+            "priceToEarnings": 0.05278,
+            "priceToBook": 0.27581,
+            "priceToSales": 0.50667,
+            "priceToCashflow": 0.08473
+        },
+        "bondHoldings": {},
+        "bondRatings": [
+            {
+                "us_government": 0.0
+            }
+        ],
+        "sectorWeightings": [
+            {
+                "realestate": 0.0
+            },
+            {
+                "consumer_cyclical": 0.09729999
+            },
+            {
+                "basic_materials": 0.0191
+            },
+            {
+                "consumer_defensive": 0.1187
+            },
+            {
+                "technology": 0.1275
+            },
+            {
+                "communication_services": 0.044699997
+            },
+            {
+                "financial_services": 0.16299999
+            },
+            {
+                "utilities": 0.004
+            },
+            {
+                "industrials": 0.1664
+            },
+            {
+                "energy": 0.092700005
+            },
+            {
+                "healthcare": 0.1667
+            }
+        ]
+    },
+    "fundPerformance": {
+        "maxAge": 1,
+        "fundCategoryName": "Large Value",
+        "performanceOverview": {
+            "asOfDate": "2024-03-17 20:00:00",
+            "ytdReturnPct": 0.0340208,
+            "fiveYrAvgReturnPct": 0.1221912,
+            "oneYearTotalReturn": 0.15839949,
+            "threeYearTotalReturn": 0.0645231
+        },
+        "performanceOverviewCat": {
+            "ytdReturnPct": 0.036018,
+            "fiveYrAvgReturnPct": 0.098832995,
+            "oneYearTotalReturn": 0.1390555,
+            "threeYearTotalReturn": 0.0930776
+        },
+        "trailingReturns": {
+            "asOfDate": "2024-03-17 20:00:00",
+            "ytd": 0.020362599,
+            "oneMonth": 0.0187566,
+            "threeMonth": 0.084434,
+            "oneYear": 0.080732495,
+            "threeYear": 0.0846111,
+            "fiveYear": 0.1222397,
+            "tenYear": 0.1133789,
+            "lastBullMkt": 0.0,
+            "lastBearMkt": 0.0
+        },
+        "trailingReturnsNav": {
+            "ytd": 0.020362599,
+            "oneMonth": 0.0187566,
+            "threeMonth": 0.084434,
+            "oneYear": 0.080732495,
+            "threeYear": 0.0846111,
+            "fiveYear": 0.1222397,
+            "tenYear": 0.1133789
+        },
+        "trailingReturnsCat": {
+            "ytd": 0.036018,
+            "oneMonth": 0.0325599,
+            "threeMonth": 0.091997296,
+            "oneYear": 0.1390555,
+            "threeYear": 0.0930776,
+            "fiveYear": 0.098832995,
+            "tenYear": 0.0873821,
+            "lastBullMkt": 0.0,
+            "lastBearMkt": 0.0
+        },
+        "annualTotalReturns": {
+            "returns": [
+                {
+                    "year": "2023",
+                    "annualValue": 0.045689702
+                },
+                {
+                    "year": "2022",
+                    "annualValue": -0.0323168
+                },
+                {
+                    "year": "2021",
+                    "annualValue": 0.2986999
+                },
+                {
+                    "year": "2020",
+                    "annualValue": 0.1507516
+                },
+                {
+                    "year": "2019",
+                    "annualValue": 0.2728154
+                },
+                {
+                    "year": "2018",
+                    "annualValue": -0.0555648
+                },
+                {
+                    "year": "2017",
+                    "annualValue": 0.2083493
+                },
+                {
+                    "year": "2016",
+                    "annualValue": 0.16438049
+                },
+                {
+                    "year": "2015",
+                    "annualValue": -0.0031379
+                },
+                {
+                    "year": "2014",
+                    "annualValue": 0.116872996
+                },
+                {
+                    "year": "2013",
+                    "annualValue": 0.3289025
+                },
+                {
+                    "year": "2012",
+                    "annualValue": 0.1139403
+                }
+            ],
+            "returnsCat": [
+                {
+                    "year": "2023",
+                    "annualValue": 0.1163058
+                },
+                {
+                    "year": "2022",
+                    "annualValue": -0.059034802
+                },
+                {
+                    "year": "2021",
+                    "annualValue": 0.2621527
+                },
+                {
+                    "year": "2020",
+                    "annualValue": 0.0291066
+                },
+                {
+                    "year": "2019",
+                    "annualValue": 0.250395
+                },
+                {
+                    "year": "2018",
+                    "annualValue": -0.0853312
+                },
+                {
+                    "year": "2017",
+                    "annualValue": 0.15944
+                },
+                {
+                    "year": "2016",
+                    "annualValue": 0.1481126
+                },
+                {
+                    "year": "2015",
+                    "annualValue": -0.040458698
+                },
+                {
+                    "year": "2014",
+                    "annualValue": 0.102136895
+                },
+                {
+                    "year": "2013",
+                    "annualValue": 0.312137
+                },
+                {
+                    "year": "2012",
+                    "annualValue": 0.1456607
+                },
+                {
+                    "year": "2011",
+                    "annualValue": -0.0074608
+                },
+                {
+                    "year": "2010",
+                    "annualValue": 0.1366086
+                },
+                {
+                    "year": "2009",
+                    "annualValue": 0.2412957
+                },
+                {
+                    "year": "2008",
+                    "annualValue": -0.3709089
+                },
+                {
+                    "year": "2007",
+                    "annualValue": 0.014242199
+                },
+                {
+                    "year": "2006",
+                    "annualValue": 0.181512
+                },
+                {
+                    "year": "2005",
+                    "annualValue": 0.0595259
+                },
+                {
+                    "year": "2004",
+                    "annualValue": 0.1296895
+                },
+                {
+                    "year": "2003",
+                    "annualValue": 0.2843527
+                },
+                {
+                    "year": "2002",
+                    "annualValue": -0.1869376
+                },
+                {
+                    "year": "2001",
+                    "annualValue": -0.049872298
+                },
+                {
+                    "year": "2000",
+                    "annualValue": 0.078667104
+                },
+                {
+                    "year": "1999",
+                    "annualValue": 0.067206204
+                },
+                {
+                    "year": "1998",
+                    "annualValue": 0.1200449
+                },
+                {
+                    "year": "1997",
+                    "annualValue": 0.2661205
+                },
+                {
+                    "year": "1996",
+                    "annualValue": 0.20079839
+                },
+                {
+                    "year": "1995",
+                    "annualValue": 0.32386348
+                },
+                {
+                    "year": "1994",
+                    "annualValue": -0.0069925
+                }
+            ]
+        },
+        "pastQuarterlyReturns": {
+            "returns": []
+        },
+        "riskOverviewStatistics": {
+            "riskStatistics": [
+                {
+                    "year": "5y",
+                    "alpha": -0.74,
+                    "beta": 0.88,
+                    "meanAnnualReturn": 1.09,
+                    "rSquared": 81.75,
+                    "stdDev": 17.72,
+                    "sharpeRatio": 0.62,
+                    "treynorRatio": 11.54
+                },
+                {
+                    "year": "3y",
+                    "alpha": -1.17,
+                    "beta": 0.77,
+                    "meanAnnualReturn": 0.78,
+                    "rSquared": 72.01,
+                    "stdDev": 15.99,
+                    "sharpeRatio": 0.41,
+                    "treynorRatio": 7.3
+                },
+                {
+                    "year": "10y",
+                    "alpha": 0.06,
+                    "beta": 0.88,
+                    "meanAnnualReturn": 0.99,
+                    "rSquared": 83.85,
+                    "stdDev": 14.54,
+                    "sharpeRatio": 0.71,
+                    "treynorRatio": 11.23
+                }
+            ]
+        },
+        "riskOverviewStatisticsCat": {
+            "riskStatisticsCat": [
+                {
+                    "year": "5y",
+                    "alpha": -3.44,
+                    "beta": 0.94,
+                    "meanAnnualReturn": 0.94,
+                    "rSquared": 83.12,
+                    "sharpeRatio": 0.48,
+                    "treynorRatio": 8.27
+                },
+                {
+                    "year": "3y",
+                    "alpha": -0.88,
+                    "beta": 0.83,
+                    "meanAnnualReturn": 0.86,
+                    "rSquared": 78.16,
+                    "sharpeRatio": 0.45,
+                    "treynorRatio": 7.87
+                },
+                {
+                    "year": "10y",
+                    "alpha": -2.86,
+                    "beta": 0.94,
+                    "meanAnnualReturn": 0.8,
+                    "rSquared": 84.04,
+                    "sharpeRatio": 0.53,
+                    "treynorRatio": 7.81
+                }
+            ]
+        }
+    }
+}
