@@ -6,11 +6,11 @@
             "shortTermOutlook": {
                 "stateDescription": "Recent bearish events outweigh bullish events.",
                 "direction": "Bearish",
-                "score": 4,
-                "scoreDescription": "Very Strong Bearish Evidence",
+                "score": 3,
+                "scoreDescription": "Strong Bearish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 3,
-                "indexScoreDescription": "Strong Bearish Evidence"
+                "indexScore": 2,
+                "indexScoreDescription": "Bearish Evidence"
             },
             "intermediateTermOutlook": {
                 "stateDescription": "All events are bullish.",
@@ -34,8 +34,8 @@
         "keyTechnicals": {
             "provider": "Trading Central",
             "support": 54.8999,
-            "resistance": 57.5991,
-            "stopLoss": 56.644016
+            "resistance": 57.88,
+            "stopLoss": 56.812627
         },
         "valuation": {
             "provider": "Trading Central"
@@ -44,13 +44,13 @@
     "upsell": {},
     "events": [
         {
-            "eventType": "MACD",
+            "eventType": "Slow Stochastic",
             "pricePeriod": "D",
             "tradingHorizon": "S",
             "tradeType": "S",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1711373400,
-            "endDate": 1711373400
+            "startDate": 1711546200,
+            "endDate": 1711546200
         }
     ],
     "sigDevs": []
