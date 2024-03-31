@@ -2,14 +2,14 @@
     "postMarketChangePercent": 0.00319509,
     "postMarketChange": 0.5,
     "postMarketPrice": 156.99,
-    "regularMarketChangePercent": 0.013996006,
-    "regularMarketChange": 2.1600037,
+    "regularMarketChangePercent": 0.013996,
+    "regularMarketChange": 2.16,
     "regularMarketPrice": 156.49,
     "regularMarketDayHigh": 156.86,
     "regularMarketDayLow": 154.7,
     "regularMarketVolume": 1854168,
-    "averageDailyVolume10Day": 1592690,
-    "averageDailyVolume3Month": 1570742,
+    "averageDailyVolume10Day": 1628180,
+    "averageDailyVolume3Month": 1581840,
     "regularMarketPreviousClose": 154.33,
     "regularMarketOpen": 154.79,
     "exchange": "NYQ",
@@ -18,40 +18,40 @@
     "symbol": "SPG",
     "shortName": "Simon Property Group, Inc.",
     "longName": "Simon Property Group, Inc.",
-    "marketCap": 57844809728,
+    "marketCap": 58623971328,
     "previousClose": 154.33,
     "open": 154.79,
     "dayLow": 154.7,
     "dayHigh": 156.86,
     "dividendRate": 7.8,
-    "dividendYield": 0.0505,
+    "dividendYield": 0.0498,
     "exDividendDate": "2024-03-06 19:00:00",
     "payoutRatio": 1.0673001,
-    "fiveYearAvgDividendYield": 6.27,
+    "fiveYearAvgDividendYield": 6.28,
     "beta": 1.681,
-    "trailingPE": 22.13437,
-    "forwardPE": 24.918789,
+    "trailingPE": 22.419771,
+    "forwardPE": 24.839684,
     "volume": 1854168,
-    "averageVolume": 1570742,
-    "averageVolume10days": 1592690,
+    "averageVolume": 1581840,
+    "averageVolume10days": 1628180,
     "fiftyTwoWeekLow": 100.17,
     "fiftyTwoWeekHigh": 157.82,
-    "priceToSalesTrailing12Months": 10.2220335,
-    "fiftyDayAverage": 147.1848,
-    "twoHundredDayAverage": 126.71805,
+    "priceToSalesTrailing12Months": 10.359723,
+    "fiftyDayAverage": 147.4722,
+    "twoHundredDayAverage": 126.9507,
     "trailingAnnualDividendRate": 7.45,
     "trailingAnnualDividendYield": 0.04827318,
     "enterpriseValue": 77055098880,
     "profitMargins": 0.40346,
-    "floatShares": 322340193,
-    "sharesOutstanding": 325891008,
+    "floatShares": 322336934,
+    "sharesOutstanding": 325766016,
     "sharesShort": 4047423,
     "sharesShortPriorMonth": 4082582,
     "sharesShortPreviousMonthDate": "2024-02-14 19:00:00",
     "dateShortInterest": "2024-03-14 20:00:00",
     "sharesPercentSharesOut": 0.0124,
-    "heldPercentInsiders": 0.00928,
-    "heldPercentInstitutions": 0.91438,
+    "heldPercentInsiders": 0.0093,
+    "heldPercentInstitutions": 0.91436,
     "shortRatio": 2.54,
     "shortPercentOfFloat": 0.016900001,
     "impliedSharesOutstanding": 8000,
@@ -62,19 +62,19 @@
     "mostRecentQuarter": "2023-12-30 19:00:00",
     "earningsQuarterlyGrowth": 0.109,
     "netIncomeToCommon": 2279789056,
-    "trailingEps": 7.07,
-    "forwardEps": 6.28,
-    "pegRatio": 2.96,
+    "trailingEps": 6.98,
+    "forwardEps": 6.3,
+    "pegRatio": 3.0,
     "enterpriseToRevenue": 13.617,
     "enterpriseToEbitda": 18.764,
-    "52WeekChange": 0.4348271,
-    "SandP52WeekChange": 0.29565787,
+    "52WeekChange": 0.39201212,
+    "SandP52WeekChange": 0.27393317,
     "lastDividendValue": 1.95,
     "lastDividendDate": 1709769600,
     "currentPrice": 156.49,
     "targetHighPrice": 180.0,
-    "targetLowPrice": 135.0,
-    "targetMeanPrice": 156.07,
+    "targetLowPrice": 142.0,
+    "targetMeanPrice": 156.53,
     "targetMedianPrice": 152.0,
     "recommendationMean": 2.3,
     "recommendationKey": "buy",
@@ -121,8 +121,8 @@
                 "age": 61,
                 "title": "Chairman, CEO & President",
                 "yearBorn": 1962,
-                "fiscalYear": 2022,
-                "totalPay": 29402916,
+                "fiscalYear": 2023,
+                "totalPay": 5564048,
                 "exercisedValue": 0,
                 "unexercisedValue": 0
             },
@@ -132,8 +132,8 @@
                 "age": 44,
                 "title": "Executive VP & CFO",
                 "yearBorn": 1979,
-                "fiscalYear": 2022,
-                "totalPay": 4343890,
+                "fiscalYear": 2023,
+                "totalPay": 1560753,
                 "exercisedValue": 0,
                 "unexercisedValue": 0
             },
@@ -143,8 +143,8 @@
                 "age": 48,
                 "title": "Senior VP & Chief Accounting Officer",
                 "yearBorn": 1975,
-                "fiscalYear": 2022,
-                "totalPay": 1894703,
+                "fiscalYear": 2023,
+                "totalPay": 686980,
                 "exercisedValue": 0,
                 "unexercisedValue": 0
             },
@@ -154,8 +154,8 @@
                 "age": 67,
                 "title": "Chief Administrative Officer",
                 "yearBorn": 1956,
-                "fiscalYear": 2022,
-                "totalPay": 2951997,
+                "fiscalYear": 2023,
+                "totalPay": 1590062,
                 "exercisedValue": 0,
                 "unexercisedValue": 0
             },
@@ -165,8 +165,8 @@
                 "age": 62,
                 "title": "General Counsel & Secretary",
                 "yearBorn": 1961,
-                "fiscalYear": 2022,
-                "totalPay": 7449961,
+                "fiscalYear": 2023,
+                "totalPay": 1588026,
                 "exercisedValue": 0,
                 "unexercisedValue": 0
             },
@@ -176,7 +176,7 @@
                 "age": 56,
                 "title": "Senior Vice President of Financial Reporting & Operations",
                 "yearBorn": 1967,
-                "fiscalYear": 2022,
+                "fiscalYear": 2023,
                 "exercisedValue": 0,
                 "unexercisedValue": 0
             },
@@ -186,7 +186,7 @@
                 "age": 52,
                 "title": "Chief Investment Officer",
                 "yearBorn": 1971,
-                "fiscalYear": 2022,
+                "fiscalYear": 2023,
                 "exercisedValue": 0,
                 "unexercisedValue": 0
             },
@@ -194,7 +194,7 @@
                 "maxAge": 1,
                 "name": "Joseph W. Chiappetta",
                 "title": "Senior VP & Chief Technology Officer",
-                "fiscalYear": 2022,
+                "fiscalYear": 2023,
                 "exercisedValue": 0,
                 "unexercisedValue": 0
             },
@@ -204,7 +204,7 @@
                 "age": 54,
                 "title": "Senior Vice President of Investor Relations",
                 "yearBorn": 1969,
-                "fiscalYear": 2022,
+                "fiscalYear": 2023,
                 "exercisedValue": 0,
                 "unexercisedValue": 0
             },
@@ -212,7 +212,7 @@
                 "maxAge": 1,
                 "name": "Susan  Massela",
                 "title": "Senior Vice President of Human Resources",
-                "fiscalYear": 2022,
+                "fiscalYear": 2023,
                 "exercisedValue": 0,
                 "unexercisedValue": 0
             }
@@ -222,8 +222,8 @@
         "compensationRisk": 10,
         "shareHolderRightsRisk": 10,
         "overallRisk": 10,
-        "governanceEpochDate": "2024-02-29 19:00:00",
-        "compensationAsOfEpochDate": "2022-12-30 19:00:00",
+        "governanceEpochDate": "2024-03-28 20:00:00",
+        "compensationAsOfEpochDate": "2023-12-30 19:00:00",
         "maxAge": 86400
     },
     "calendarEvents": {
@@ -236,9 +236,9 @@
             "earningsAverage": 1.38,
             "earningsLow": 1.21,
             "earningsHigh": 1.55,
-            "revenueAverage": 1284350000,
+            "revenueAverage": 1289730000,
             "revenueLow": 1232010000,
-            "revenueHigh": 1313100000
+            "revenueHigh": 1332740000
         },
         "exDividendDate": "2024-03-06 19:00:00",
         "dividendDate": "2024-03-28 20:00:00"
@@ -372,16 +372,16 @@
                     "low": 1.21,
                     "high": 1.55,
                     "yearAgoEps": 1.38,
-                    "numberOfAnalysts": 3,
+                    "numberOfAnalysts": 4,
                     "growth": 0.0
                 },
                 "revenueEstimate": {
-                    "avg": 1284350000,
+                    "avg": 1289730000,
                     "low": 1232010000,
-                    "high": 1313100000,
-                    "numberOfAnalysts": 8,
+                    "high": 1332740000,
+                    "numberOfAnalysts": 9,
                     "yearAgoRevenue": 1239040000,
-                    "growth": 0.037
+                    "growth": 0.040999997
                 },
                 "epsTrend": {
                     "current": 1.38,
@@ -407,16 +407,16 @@
                     "low": 1.34,
                     "high": 1.57,
                     "yearAgoEps": 1.49,
-                    "numberOfAnalysts": 3,
+                    "numberOfAnalysts": 4,
                     "growth": -0.0069999998
                 },
                 "revenueEstimate": {
-                    "avg": 1297650000,
+                    "avg": 1299250000,
                     "low": 1236900000,
                     "high": 1332200000,
-                    "numberOfAnalysts": 8,
+                    "numberOfAnalysts": 9,
                     "yearAgoRevenue": 1254960000,
-                    "growth": 0.034
+                    "growth": 0.035
                 },
                 "epsTrend": {
                     "current": 1.48,
@@ -436,25 +436,25 @@
                 "maxAge": 1,
                 "period": "0y",
                 "endDate": "2024-12-31",
-                "growth": -0.132,
+                "growth": -0.13,
                 "earningsEstimate": {
-                    "avg": 6.06,
+                    "avg": 6.07,
                     "low": 5.52,
                     "high": 6.6,
                     "yearAgoEps": 6.98,
-                    "numberOfAnalysts": 4,
-                    "growth": -0.132
+                    "numberOfAnalysts": 5,
+                    "growth": -0.13
                 },
                 "revenueEstimate": {
-                    "avg": 5310880000,
+                    "avg": 5319620000,
                     "low": 5091150000,
-                    "high": 5401000000,
-                    "numberOfAnalysts": 10,
+                    "high": 5407040000,
+                    "numberOfAnalysts": 11,
                     "yearAgoRevenue": 5164330000,
-                    "growth": 0.027999999
+                    "growth": 0.03
                 },
                 "epsTrend": {
-                    "current": 6.06,
+                    "current": 6.07,
                     "7daysAgo": 5.91,
                     "30daysAgo": 6.52,
                     "60daysAgo": 6.31,
@@ -463,7 +463,7 @@
                 "epsRevisions": {
                     "upLast7days": 1,
                     "upLast30days": 1,
-                    "downLast30days": 0,
+                    "downLast30days": 1,
                     "downLast90days": {}
                 }
             },
@@ -471,25 +471,25 @@
                 "maxAge": 1,
                 "period": "+1y",
                 "endDate": "2025-12-31",
-                "growth": 0.036,
+                "growth": 0.038,
                 "earningsEstimate": {
-                    "avg": 6.28,
+                    "avg": 6.3,
                     "low": 5.54,
                     "high": 7.02,
-                    "yearAgoEps": 6.06,
-                    "numberOfAnalysts": 4,
-                    "growth": 0.036
+                    "yearAgoEps": 6.07,
+                    "numberOfAnalysts": 5,
+                    "growth": 0.038
                 },
                 "revenueEstimate": {
-                    "avg": 5472650000,
+                    "avg": 5485430000,
                     "low": 5306830000,
-                    "high": 5567400000,
-                    "numberOfAnalysts": 10,
-                    "yearAgoRevenue": 5310880000,
-                    "growth": 0.03
+                    "high": 5613230000,
+                    "numberOfAnalysts": 11,
+                    "yearAgoRevenue": 5319620000,
+                    "growth": 0.031
                 },
                 "epsTrend": {
-                    "current": 6.28,
+                    "current": 6.3,
                     "7daysAgo": 6.18,
                     "30daysAgo": 6.75,
                     "60daysAgo": 6.59,
@@ -498,7 +498,7 @@
                 "epsRevisions": {
                     "upLast7days": 1,
                     "upLast30days": 1,
-                    "downLast30days": 0,
+                    "downLast30days": 1,
                     "downLast90days": {}
                 }
             },
@@ -577,12 +577,12 @@
     "indexTrend": {
         "maxAge": 1,
         "symbol": "SP5",
-        "peRatio": 15.6157,
-        "pegRatio": 0.930475,
+        "peRatio": 15.7471,
+        "pegRatio": 0.969864,
         "estimates": [
             {
                 "period": "0q",
-                "growth": 0.005
+                "growth": 0.006
             },
             {
                 "period": "+1q",
@@ -594,11 +594,11 @@
             },
             {
                 "period": "+1y",
-                "growth": 0.132
+                "growth": 0.133
             },
             {
                 "period": "+5y",
-                "growth": 0.110166
+                "growth": 0.1101
             },
             {
                 "period": "-5y"
@@ -2699,10 +2699,10 @@
         ],
         "majorHolders": {
             "maxAge": 1,
-            "insidersPercentHeld": 0.00928,
-            "institutionsPercentHeld": 0.91438,
+            "insidersPercentHeld": 0.0093,
+            "institutionsPercentHeld": 0.91436,
             "institutionsFloatPercentHeld": 0.92294,
-            "institutionsCount": 1469
+            "institutionsCount": 1470
         }
     },
     "upgradeDowngradeHistory": [
@@ -2742,7 +2742,7 @@
             "action": "main"
         }
     ],
-    "fcfPerShare": 6.5359145349601055,
-    "fcfYield": 0.03682259110222239,
-    "fcfPayoutRatio": 1.193406057909478
+    "fcfPerShare": 6.538422276680942,
+    "fcfYield": 0.036333188075620367,
+    "fcfPayoutRatio": 1.1929483398186793
 }

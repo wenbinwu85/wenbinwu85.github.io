@@ -7,11 +7,11 @@
             "shortTermOutlook": {
                 "stateDescription": "Recent bullish events outweigh bearish events.",
                 "direction": "Bullish",
-                "score": 2,
-                "scoreDescription": "Bullish Evidence",
+                "score": 4,
+                "scoreDescription": "Very Strong Bullish Evidence",
                 "sectorDirection": "Bearish",
-                "sectorScore": 4,
-                "sectorScoreDescription": "Very Strong Bearish Evidence",
+                "sectorScore": 2,
+                "sectorScoreDescription": "Bearish Evidence",
                 "indexDirection": "Bearish",
                 "indexScore": 2,
                 "indexScoreDescription": "Bearish Evidence"
@@ -43,9 +43,9 @@
         },
         "keyTechnicals": {
             "provider": "Trading Central",
-            "support": 9.11,
+            "support": 9.34,
             "resistance": 10.8678,
-            "stopLoss": 8.718226
+            "stopLoss": 8.501986
         },
         "valuation": {
             "color": 0.0,
@@ -58,9 +58,9 @@
         "sectorInfo": "Financial Services",
         "company": {
             "innovativeness": 0.0301,
-            "insiderSentiments": 0.909,
-            "earningsReports": 0.1589,
-            "dividends": 0.993
+            "insiderSentiments": 0.9094,
+            "earningsReports": 0.1559,
+            "dividends": 0.9931
         },
         "sector": {
             "innovativeness": 0.5,
@@ -76,13 +76,13 @@
     },
     "events": [
         {
-            "eventType": "Relative Strength Index (RSI)",
+            "eventType": "Gap Up",
             "pricePeriod": "D",
             "tradingHorizon": "S",
-            "tradeType": "L",
+            "tradeType": "U",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
             "startDate": 1711546200,
-            "endDate": 1711546200
+            "endDate": 1711632600
         }
     ],
     "reports": [

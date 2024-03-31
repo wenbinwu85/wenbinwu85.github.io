@@ -7,20 +7,20 @@
             "shortTermOutlook": {
                 "stateDescription": "Recent bullish events outweigh bearish events.",
                 "direction": "Bullish",
-                "score": 1,
-                "scoreDescription": "Weak Bullish Evidence",
+                "score": 2,
+                "scoreDescription": "Bullish Evidence",
                 "sectorDirection": "Bullish",
-                "sectorScore": 3,
-                "sectorScoreDescription": "Strong Bullish Evidence",
+                "sectorScore": 4,
+                "sectorScoreDescription": "Very Strong Bullish Evidence",
                 "indexDirection": "Bearish",
                 "indexScore": 2,
                 "indexScoreDescription": "Bearish Evidence"
             },
             "intermediateTermOutlook": {
-                "stateDescription": "All events are bearish.",
-                "direction": "Bearish",
+                "stateDescription": "Recent bullish events outweigh bearish events.",
+                "direction": "Bullish",
                 "score": 2,
-                "scoreDescription": "Bearish Evidence",
+                "scoreDescription": "Bullish Evidence",
                 "sectorDirection": "Bullish",
                 "sectorScore": 1,
                 "sectorScoreDescription": "Weak Bullish Evidence",
@@ -45,7 +45,7 @@
             "provider": "Trading Central",
             "support": 91.31,
             "resistance": 98.35,
-            "stopLoss": 85.913917
+            "stopLoss": 87.617181
         },
         "valuation": {
             "color": 0.5,
@@ -61,8 +61,8 @@
             "hiring": 0.8902,
             "sustainability": 0.7474,
             "insiderSentiments": 0.2875,
-            "earningsReports": 0.8523000000000001,
-            "dividends": 0.4334
+            "earningsReports": 0.8489,
+            "dividends": 0.4315
         },
         "sector": {
             "innovativeness": 0.5,
@@ -104,10 +104,10 @@
     },
     "events": [
         {
-            "eventType": "Fast Stochastic",
+            "eventType": "Commodity Channel Index",
             "pricePeriod": "D",
             "tradingHorizon": "S",
-            "tradeType": "L",
+            "tradeType": "U",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
             "startDate": 1711546200,
             "endDate": 1711546200
@@ -1163,6 +1163,18 @@
             ]
         },
         {
+            "id": "3375_Analyst Report_1580305667000",
+            "headHtml": "Analyst Report: Starbucks Corp.",
+            "provider": "Argus Research",
+            "reportDate": "2020-01-29T13:47:47Z",
+            "reportTitle": "Starbucks is a leading retailer of fresh-brewed coffee and branded merchandise. Its brands include Starbucks, Tazo Tea, and Frappuccino. With a market cap of more than $104 billion, SBUX shares are generally considered large-cap growth.",
+            "targetPrice": 110.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "SBUX"
+            ]
+        },
+        {
             "id": "26062_Market Update_1580305667000",
             "headHtml": "Market Update: MMM, ASH, MA, SBUX, MDC, MYL, AEE",
             "provider": "Argus Research",
@@ -1176,18 +1188,6 @@
                 "ASH",
                 "MMM",
                 "MDC"
-            ]
-        },
-        {
-            "id": "3375_Analyst Report_1580305667000",
-            "headHtml": "Analyst Report: Starbucks Corp.",
-            "provider": "Argus Research",
-            "reportDate": "2020-01-29T13:47:47Z",
-            "reportTitle": "Starbucks is a leading retailer of fresh-brewed coffee and branded merchandise. Its brands include Starbucks, Tazo Tea, and Frappuccino. With a market cap of more than $104 billion, SBUX shares are generally considered large-cap growth.",
-            "targetPrice": 110.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "SBUX"
             ]
         },
         {
@@ -1973,15 +1973,6 @@
             "formType": "8-K"
         },
         {
-            "id": "0001193125-24-014922_829224",
-            "type": "Proxy Statements",
-            "title": "DEFA14A : Proxy Statements",
-            "description": "Definitive additional proxy soliciting materials including Rule 14(a)(12) material. Note: Submission type DEFA14A can be filed as part of Form 8-K. For filers subject to 8-K filing requirements we recommend the use of the 8-K combined form type as the easiest method for fulfilling your filing requirement for both forms",
-            "filingDate": 1706140800000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000829224/000119312524014922/thumbnail.png",
-            "formType": "DEFA14A"
-        },
-        {
             "id": "0001193125-24-014772_829224",
             "type": "Proxy Statements",
             "title": "DEFC14A : Proxy Statements",
@@ -1989,6 +1980,15 @@
             "filingDate": 1706140800000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000829224/000119312524014772/thumbnail.png",
             "formType": "DEFC14A"
+        },
+        {
+            "id": "0001193125-24-014922_829224",
+            "type": "Proxy Statements",
+            "title": "DEFA14A : Proxy Statements",
+            "description": "Definitive additional proxy soliciting materials including Rule 14(a)(12) material. Note: Submission type DEFA14A can be filed as part of Form 8-K. For filers subject to 8-K filing requirements we recommend the use of the 8-K combined form type as the easiest method for fulfilling your filing requirement for both forms",
+            "filingDate": 1706140800000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000829224/000119312524014922/thumbnail.png",
+            "formType": "DEFA14A"
         },
         {
             "id": "0001193125-24-014829_829224",
@@ -2018,15 +2018,6 @@
             "formType": "DEFA14A"
         },
         {
-            "id": "0001193125-24-015199_829224",
-            "type": "Annual Report to Shareholders",
-            "title": "ARS : Annual Report to Shareholders",
-            "description": "Annual report to security holders",
-            "filingDate": 1706140800000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000829224/000119312524015199/thumbnail.png",
-            "formType": "ARS"
-        },
-        {
             "id": "0001193125-24-015573_829224",
             "type": "Proxy Statements",
             "title": "DEFA14A : Proxy Statements",
@@ -2034,6 +2025,15 @@
             "filingDate": 1706140800000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000829224/000119312524015573/thumbnail.png",
             "formType": "DEFA14A"
+        },
+        {
+            "id": "0001193125-24-015199_829224",
+            "type": "Annual Report to Shareholders",
+            "title": "ARS : Annual Report to Shareholders",
+            "description": "Annual report to security holders",
+            "filingDate": 1706140800000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000829224/000119312524015199/thumbnail.png",
+            "formType": "ARS"
         },
         {
             "id": "0001193125-24-006282_829224",
@@ -2144,15 +2144,6 @@
             "formType": "10-Q"
         },
         {
-            "id": "0000829224-23-000035_829224",
-            "type": "Corporate Changes & Voting Matters",
-            "title": "8-K : Corporate Changes & Voting Matters",
-            "description": "Current report filing",
-            "filingDate": 1682985600000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000829224/000082922423000035/thumbnail.png",
-            "formType": "8-K"
-        },
-        {
             "id": "0000829224-23-000037_829224",
             "type": "Periodic Financial Reports",
             "title": "10-Q : Periodic Financial Reports",
@@ -2160,6 +2151,15 @@
             "filingDate": 1682985600000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000829224/000082922423000037/thumbnail.png",
             "formType": "10-Q"
+        },
+        {
+            "id": "0000829224-23-000035_829224",
+            "type": "Corporate Changes & Voting Matters",
+            "title": "8-K : Corporate Changes & Voting Matters",
+            "description": "Current report filing",
+            "filingDate": 1682985600000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000829224/000082922423000035/thumbnail.png",
+            "formType": "8-K"
         },
         {
             "id": "0000829224-23-000030_829224",

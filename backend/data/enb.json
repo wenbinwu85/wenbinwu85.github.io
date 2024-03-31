@@ -2,14 +2,14 @@
     "postMarketChangePercent": 0.00055280427,
     "postMarketChange": 0.020000458,
     "postMarketPrice": 36.2,
-    "regularMarketChangePercent": 0.005279206,
-    "regularMarketChange": 0.18999863,
+    "regularMarketChangePercent": 0.0052792104,
+    "regularMarketChange": 0.189999,
     "regularMarketPrice": 36.18,
     "regularMarketDayHigh": 36.26,
     "regularMarketDayLow": 35.96,
     "regularMarketVolume": 3671397,
-    "averageDailyVolume10Day": 3870590,
-    "averageDailyVolume3Month": 5527116,
+    "averageDailyVolume10Day": 3863840,
+    "averageDailyVolume3Month": 5533336,
     "regularMarketPreviousClose": 35.99,
     "regularMarketOpen": 36.05,
     "exchange": "NYQ",
@@ -24,21 +24,21 @@
     "dayLow": 35.96,
     "dayHigh": 36.26,
     "dividendRate": 2.7,
-    "dividendYield": 0.0749,
+    "dividendYield": 0.074499995,
     "exDividendDate": "2024-02-13 19:00:00",
     "payoutRatio": 1.25,
-    "fiveYearAvgDividendYield": 6.77,
+    "fiveYearAvgDividendYield": 6.8,
     "beta": 0.881,
-    "trailingPE": 17.228573,
-    "forwardPE": 16.59633,
+    "trailingPE": 17.311007,
+    "forwardPE": 16.520548,
     "volume": 3671397,
-    "averageVolume": 5527116,
-    "averageVolume10days": 3870590,
+    "averageVolume": 5533336,
+    "averageVolume10days": 3863840,
     "fiftyTwoWeekLow": 31.03,
     "fiftyTwoWeekHigh": 40.3,
     "priceToSalesTrailing12Months": 1.7618697,
-    "fiftyDayAverage": 35.2278,
-    "twoHundredDayAverage": 35.0318,
+    "fiftyDayAverage": 35.2296,
+    "twoHundredDayAverage": 35.0252,
     "trailingAnnualDividendRate": 3.55,
     "trailingAnnualDividendYield": 0.098638505,
     "enterpriseValue": 163290710016,
@@ -51,7 +51,7 @@
     "dateShortInterest": "2024-03-14 20:00:00",
     "sharesPercentSharesOut": 0.0119,
     "heldPercentInsiders": 0.00099,
-    "heldPercentInstitutions": 0.53814,
+    "heldPercentInstitutions": 0.53811,
     "shortRatio": 4.52,
     "shortPercentOfFloat": 0.0119,
     "impliedSharesOutstanding": 2136540032,
@@ -61,20 +61,20 @@
     "nextFiscalYearEnd": "2024-12-30 19:00:00",
     "mostRecentQuarter": "2023-12-30 19:00:00",
     "netIncomeToCommon": 5839000064,
-    "trailingEps": 2.1,
-    "forwardEps": 2.18,
-    "pegRatio": 26.7,
+    "trailingEps": 2.09,
+    "forwardEps": 2.19,
+    "pegRatio": 26.34,
     "enterpriseToRevenue": 3.741,
     "enterpriseToEbitda": 11.817,
-    "52WeekChange": -0.054884434,
-    "SandP52WeekChange": 0.29565787,
+    "52WeekChange": -0.07254553,
+    "SandP52WeekChange": 0.27393317,
     "lastDividendValue": 0.643,
     "lastDividendDate": 1699920000,
     "currentPrice": 36.18,
-    "targetHighPrice": 42.7,
-    "targetLowPrice": 33.77,
-    "targetMeanPrice": 39.21,
-    "targetMedianPrice": 39.33,
+    "targetHighPrice": 42.84,
+    "targetLowPrice": 34.07,
+    "targetMeanPrice": 39.38,
+    "targetMedianPrice": 39.68,
     "recommendationMean": 2.6,
     "recommendationKey": "hold",
     "numberOfAnalystOpinions": 9,
@@ -122,7 +122,7 @@
                 "title": "President, CEO & Director",
                 "yearBorn": 1964,
                 "fiscalYear": 2023,
-                "totalPay": 4740389,
+                "totalPay": 4755138,
                 "exercisedValue": 0,
                 "unexercisedValue": 0
             },
@@ -133,7 +133,7 @@
                 "title": "Executive VP & CFO",
                 "yearBorn": 1976,
                 "fiscalYear": 2023,
-                "totalPay": 1082314,
+                "totalPay": 1085681,
                 "exercisedValue": 0,
                 "unexercisedValue": 0
             },
@@ -144,7 +144,7 @@
                 "title": "Executive VP & President of Liquids Pipelines",
                 "yearBorn": 1970,
                 "fiscalYear": 2023,
-                "totalPay": 1761423,
+                "totalPay": 1766903,
                 "exercisedValue": 0,
                 "unexercisedValue": 0
             },
@@ -155,7 +155,7 @@
                 "title": "Executive VP and President of Gas Transmission & Midstream",
                 "yearBorn": 1965,
                 "fiscalYear": 2023,
-                "totalPay": 1700254,
+                "totalPay": 1705544,
                 "exercisedValue": 0,
                 "unexercisedValue": 0
             },
@@ -166,7 +166,7 @@
                 "title": "Executive VP of Corporate Strategy & President of Power",
                 "yearBorn": 1968,
                 "fiscalYear": 2023,
-                "totalPay": 938893,
+                "totalPay": 941814,
                 "exercisedValue": 0,
                 "unexercisedValue": 0
             },
@@ -221,10 +221,10 @@
         ],
         "auditRisk": 4,
         "boardRisk": 1,
-        "compensationRisk": 8,
-        "shareHolderRightsRisk": 6,
+        "compensationRisk": 7,
+        "shareHolderRightsRisk": 7,
         "overallRisk": 5,
-        "governanceEpochDate": "2024-02-29 19:00:00",
+        "governanceEpochDate": "2024-03-28 20:00:00",
         "compensationAsOfEpochDate": "2023-12-30 19:00:00",
         "maxAge": 86400
     },
@@ -238,9 +238,9 @@
             "earningsAverage": 0.59,
             "earningsLow": 0.5,
             "earningsHigh": 0.65,
-            "revenueAverage": 9891280000,
-            "revenueLow": 8925680000,
-            "revenueHigh": 10856900000
+            "revenueAverage": 9922180000,
+            "revenueLow": 8953560000,
+            "revenueHigh": 10890800000
         },
         "exDividendDate": "2024-02-13 19:00:00",
         "dividendDate": "2024-02-29 19:00:00"
@@ -378,17 +378,17 @@
                     "growth": -0.078
                 },
                 "revenueEstimate": {
-                    "avg": 9891280000,
-                    "low": 8925680000,
-                    "high": 10856900000,
+                    "avg": 9922180000,
+                    "low": 8953560000,
+                    "high": 10890800000,
                     "numberOfAnalysts": 2,
                     "yearAgoRevenue": 12069400000,
-                    "growth": -0.18
+                    "growth": -0.17799999
                 },
                 "epsTrend": {
                     "current": 0.59,
                     "7daysAgo": 0.59,
-                    "30daysAgo": 0.6,
+                    "30daysAgo": 0.59,
                     "60daysAgo": 0.63,
                     "90daysAgo": 0.62
                 },
@@ -413,17 +413,17 @@
                     "growth": -0.08
                 },
                 "revenueEstimate": {
-                    "avg": 7757240000,
-                    "low": 6962070000,
-                    "high": 8552400000,
+                    "avg": 7781470000,
+                    "low": 6983820000,
+                    "high": 8579110000,
                     "numberOfAnalysts": 2,
                     "yearAgoRevenue": 7644990000,
-                    "growth": 0.015
+                    "growth": 0.018
                 },
                 "epsTrend": {
                     "current": 0.46,
                     "7daysAgo": 0.46,
-                    "30daysAgo": 0.47,
+                    "30daysAgo": 0.46,
                     "60daysAgo": 0.51,
                     "90daysAgo": 0.5
                 },
@@ -440,27 +440,27 @@
                 "endDate": "2024-12-31",
                 "growth": 0.015,
                 "earningsEstimate": {
-                    "avg": 2.08,
+                    "avg": 2.09,
                     "low": 1.88,
-                    "high": 2.25,
-                    "yearAgoEps": 2.05,
+                    "high": 2.26,
+                    "yearAgoEps": 2.06,
                     "numberOfAnalysts": 11,
                     "growth": 0.015
                 },
                 "revenueEstimate": {
-                    "avg": 33555700000,
-                    "low": 30653400000,
-                    "high": 35101200000,
+                    "avg": 33660500000,
+                    "low": 30749200000,
+                    "high": 35210900000,
                     "numberOfAnalysts": 5,
-                    "yearAgoRevenue": 32137000000,
+                    "yearAgoRevenue": 32237400000,
                     "growth": 0.044
                 },
                 "epsTrend": {
-                    "current": 2.08,
+                    "current": 2.09,
                     "7daysAgo": 2.08,
                     "30daysAgo": 2.05,
                     "60daysAgo": 2.03,
-                    "90daysAgo": 2.08
+                    "90daysAgo": 2.07
                 },
                 "epsRevisions": {
                     "upLast7days": 4,
@@ -475,27 +475,27 @@
                 "endDate": "2025-12-31",
                 "growth": 0.048,
                 "earningsEstimate": {
-                    "avg": 2.18,
+                    "avg": 2.19,
                     "low": 2.02,
                     "high": 2.33,
-                    "yearAgoEps": 2.08,
+                    "yearAgoEps": 2.09,
                     "numberOfAnalysts": 10,
                     "growth": 0.048
                 },
                 "revenueEstimate": {
-                    "avg": 35101100000,
-                    "low": 31533300000,
-                    "high": 37247400000,
+                    "avg": 35210700000,
+                    "low": 31631800000,
+                    "high": 37363800000,
                     "numberOfAnalysts": 4,
-                    "yearAgoRevenue": 33555700000,
+                    "yearAgoRevenue": 33660500000,
                     "growth": 0.046
                 },
                 "epsTrend": {
-                    "current": 2.18,
+                    "current": 2.19,
                     "7daysAgo": 2.18,
-                    "30daysAgo": 2.21,
+                    "30daysAgo": 2.22,
                     "60daysAgo": 2.2,
-                    "90daysAgo": 2.27
+                    "90daysAgo": 2.26
                 },
                 "epsRevisions": {
                     "upLast7days": 4,
@@ -508,7 +508,7 @@
                 "maxAge": 1,
                 "period": "+5y",
                 "endDate": null,
-                "growth": 0.0088,
+                "growth": 0.0089,
                 "earningsEstimate": {
                     "avg": {},
                     "low": {},
@@ -579,12 +579,12 @@
     "indexTrend": {
         "maxAge": 1,
         "symbol": "SP5",
-        "peRatio": 15.6157,
-        "pegRatio": 0.930475,
+        "peRatio": 15.7471,
+        "pegRatio": 0.969864,
         "estimates": [
             {
                 "period": "0q",
-                "growth": 0.005
+                "growth": 0.006
             },
             {
                 "period": "+1q",
@@ -596,11 +596,11 @@
             },
             {
                 "period": "+1y",
-                "growth": 0.132
+                "growth": 0.133
             },
             {
                 "period": "+5y",
-                "growth": 0.110166
+                "growth": 0.1101
             },
             {
                 "period": "-5y"
@@ -1855,12 +1855,12 @@
             },
             {
                 "maxAge": 1,
-                "reportDate": "2023-10-31",
+                "reportDate": "2024-01-31",
                 "organization": "JP Morgan ETF Tr-BetaBuilders Canada ETF",
-                "pctHeld": 0.0034,
-                "position": 7251475,
-                "value": 262358367,
-                "pctChange": 0.094
+                "pctHeld": 0.0034999999,
+                "position": 7388485,
+                "value": 267315389,
+                "pctChange": 0.0189
             },
             {
                 "maxAge": 1,
@@ -2113,8 +2113,8 @@
         "majorHolders": {
             "maxAge": 1,
             "insidersPercentHeld": 0.00099,
-            "institutionsPercentHeld": 0.53814,
-            "institutionsFloatPercentHeld": 0.53868,
+            "institutionsPercentHeld": 0.53811,
+            "institutionsFloatPercentHeld": 0.53865004,
             "institutionsCount": 1547
         }
     },

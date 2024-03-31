@@ -7,11 +7,11 @@
             "shortTermOutlook": {
                 "stateDescription": "Recent bullish events outweigh bearish events.",
                 "direction": "Bullish",
-                "score": 2,
-                "scoreDescription": "Bullish Evidence",
+                "score": 4,
+                "scoreDescription": "Very Strong Bullish Evidence",
                 "sectorDirection": "Bullish",
-                "sectorScore": 3,
-                "sectorScoreDescription": "Strong Bullish Evidence",
+                "sectorScore": 4,
+                "sectorScoreDescription": "Very Strong Bullish Evidence",
                 "indexDirection": "Bearish",
                 "indexScore": 2,
                 "indexScoreDescription": "Bearish Evidence"
@@ -45,7 +45,7 @@
             "provider": "Trading Central",
             "support": 147.87,
             "resistance": 182.16,
-            "stopLoss": 171.148108
+            "stopLoss": 170.394708
         },
         "valuation": {
             "color": 0.5,
@@ -57,12 +57,12 @@
     "companySnapshot": {
         "sectorInfo": "Healthcare",
         "company": {
-            "innovativeness": 0.9514,
+            "innovativeness": 0.9478,
             "hiring": 0.9181,
             "sustainability": 0.9237000000000001,
-            "insiderSentiments": 0.0725,
+            "insiderSentiments": 0.0724,
             "earningsReports": 0.9742000000000001,
-            "dividends": 0.7776000000000001
+            "dividends": 0.7735
         },
         "sector": {
             "innovativeness": 0.5,
@@ -104,13 +104,13 @@
     },
     "events": [
         {
-            "eventType": "Williams %R",
+            "eventType": "Commodity Channel Index",
             "pricePeriod": "D",
             "tradingHorizon": "S",
             "tradeType": "L",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1711546200,
-            "endDate": 1711546200
+            "startDate": 1711632600,
+            "endDate": 1711632600
         }
     ],
     "reports": [

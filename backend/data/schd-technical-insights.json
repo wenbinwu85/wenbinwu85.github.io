@@ -4,10 +4,10 @@
         "technicalEvents": {
             "provider": "Trading Central",
             "shortTermOutlook": {
-                "stateDescription": "The bullish and bearish events are balanced.",
-                "direction": "Neutral",
-                "score": 0,
-                "scoreDescription": "Neutral Evidence",
+                "stateDescription": "Recent bullish events outweigh bearish events.",
+                "direction": "Bullish",
+                "score": 2,
+                "scoreDescription": "Bullish Evidence",
                 "indexDirection": "Bearish",
                 "indexScore": 2,
                 "indexScoreDescription": "Bearish Evidence"
@@ -33,8 +33,9 @@
         },
         "keyTechnicals": {
             "provider": "Trading Central",
-            "support": 76.71,
-            "stopLoss": 77.211168
+            "support": 76.85,
+            "resistance": 80.63,
+            "stopLoss": 77.031281
         },
         "valuation": {
             "provider": "Trading Central"
@@ -42,7 +43,7 @@
     },
     "events": [
         {
-            "eventType": "Commodity Channel Index",
+            "eventType": "Momentum",
             "pricePeriod": "D",
             "tradingHorizon": "S",
             "tradeType": "L",

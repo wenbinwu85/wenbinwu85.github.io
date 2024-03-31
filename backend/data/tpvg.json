@@ -2,14 +2,14 @@
     "postMarketChangePercent": 0.016877722,
     "postMarketChange": 0.1600008,
     "postMarketPrice": 9.64,
-    "regularMarketChangePercent": 0.017167367,
-    "regularMarketChange": 0.15999985,
+    "regularMarketChangePercent": 0.0171674,
+    "regularMarketChange": 0.16,
     "regularMarketPrice": 9.48,
     "regularMarketDayHigh": 9.53,
     "regularMarketDayLow": 9.4,
     "regularMarketVolume": 542776,
-    "averageDailyVolume10Day": 381760,
-    "averageDailyVolume3Month": 295765,
+    "averageDailyVolume10Day": 387190,
+    "averageDailyVolume3Month": 297132,
     "regularMarketPreviousClose": 9.32,
     "regularMarketOpen": 9.41,
     "exchange": "NYQ",
@@ -31,13 +31,13 @@
     "beta": 1.817,
     "forwardPE": 6.3199997,
     "volume": 542776,
-    "averageVolume": 295765,
-    "averageVolume10days": 381760,
+    "averageVolume": 297132,
+    "averageVolume10days": 387190,
     "fiftyTwoWeekLow": 8.94,
     "fiftyTwoWeekHigh": 12.699,
     "priceToSalesTrailing12Months": 2.6301744,
-    "fiftyDayAverage": 10.5126,
-    "twoHundredDayAverage": 10.81755,
+    "fiftyDayAverage": 10.483,
+    "twoHundredDayAverage": 10.80385,
     "trailingAnnualDividendRate": 1.6,
     "trailingAnnualDividendYield": 0.17167383,
     "enterpriseValue": 805187392,
@@ -61,10 +61,10 @@
     "netIncomeToCommon": -39821000,
     "trailingEps": -1.12,
     "forwardEps": 1.5,
-    "pegRatio": 1.41,
+    "pegRatio": 1.44,
     "enterpriseToRevenue": 5.938,
-    "52WeekChange": -0.21680671,
-    "SandP52WeekChange": 0.29565787,
+    "52WeekChange": -0.21393037,
+    "SandP52WeekChange": 0.27393317,
     "lastDividendValue": 0.4,
     "lastDividendDate": 1710288000,
     "currentPrice": 9.48,
@@ -513,12 +513,12 @@
     "indexTrend": {
         "maxAge": 1,
         "symbol": "SP5",
-        "peRatio": 15.6157,
-        "pegRatio": 0.930475,
+        "peRatio": 15.7471,
+        "pegRatio": 0.969864,
         "estimates": [
             {
                 "period": "0q",
-                "growth": 0.005
+                "growth": 0.006
             },
             {
                 "period": "+1q",
@@ -530,11 +530,11 @@
             },
             {
                 "period": "+1y",
-                "growth": 0.132
+                "growth": 0.133
             },
             {
                 "period": "+5y",
-                "growth": 0.110166
+                "growth": 0.1101
             },
             {
                 "period": "-5y"
@@ -1100,12 +1100,12 @@
             },
             {
                 "maxAge": 1,
-                "reportDate": "2023-10-31",
+                "reportDate": "2024-01-31",
                 "organization": "ETFis Ser Tr I-Virtus Private Credit Strategy ETF",
-                "pctHeld": 0.0017,
-                "position": 62320,
-                "value": 590793,
-                "pctChange": -0.119399995
+                "pctHeld": 0.0019,
+                "position": 73205,
+                "value": 693983,
+                "pctChange": 0.17469999
             },
             {
                 "maxAge": 1,

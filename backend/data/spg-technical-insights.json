@@ -5,13 +5,13 @@
             "provider": "Trading Central",
             "sector": "Real Estate",
             "shortTermOutlook": {
-                "stateDescription": "Recent bearish events outweigh bullish events.",
-                "direction": "Bearish",
-                "score": 2,
-                "scoreDescription": "Bearish Evidence",
-                "sectorDirection": "Bearish",
-                "sectorScore": 2,
-                "sectorScoreDescription": "Bearish Evidence",
+                "stateDescription": "Recent bullish events outweigh bearish events.",
+                "direction": "Bullish",
+                "score": 3,
+                "scoreDescription": "Strong Bullish Evidence",
+                "sectorDirection": "Bullish",
+                "sectorScore": 4,
+                "sectorScoreDescription": "Very Strong Bullish Evidence",
                 "indexDirection": "Bearish",
                 "indexScore": 2,
                 "indexScoreDescription": "Bearish Evidence"
@@ -44,8 +44,8 @@
         "keyTechnicals": {
             "provider": "Trading Central",
             "support": 118.0,
-            "resistance": 156.065,
-            "stopLoss": 143.75117
+            "resistance": 156.49,
+            "stopLoss": 143.455818
         },
         "valuation": {
             "color": 0.0,
@@ -61,9 +61,9 @@
             "innovativeness": 0.6139,
             "hiring": 0.6901,
             "sustainability": 0.5611999999999999,
-            "insiderSentiments": 0.9512,
-            "earningsReports": 0.7012999999999999,
-            "dividends": 0.3574
+            "insiderSentiments": 0.9515,
+            "earningsReports": 0.6998000000000001,
+            "dividends": 0.35009999999999997
         },
         "sector": {
             "innovativeness": 0.5,
@@ -106,13 +106,13 @@
     },
     "events": [
         {
-            "eventType": "Price Crosses Moving Average",
+            "eventType": "Commodity Channel Index",
             "pricePeriod": "D",
             "tradingHorizon": "S",
             "tradeType": "L",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1711546200,
-            "endDate": 1711546200
+            "startDate": 1711632600,
+            "endDate": 1711632600
         }
     ],
     "reports": [
@@ -1024,18 +1024,6 @@
             ]
         },
         {
-            "id": "3403_Analyst Report_1573221592000",
-            "headHtml": "Analyst Report: Simon Property Group, Inc.",
-            "provider": "Argus Research",
-            "reportDate": "2019-11-08T13:59:52Z",
-            "reportTitle": "Simon Property Group Inc., based in Indianapolis, is a retail REIT that owns and leases malls and outlets. Simon has an interest in or owns 233 properties with 191 million square feet of leasable space in North America, Asia, and Europe. It also has a 22% interest in Klepierre, a Paris-based real estate firm, which owns shopping centers in 16 European countries. SPG is a member of the S&P 500.",
-            "targetPrice": 180.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "SPG"
-            ]
-        },
-        {
             "id": "25426_Market Update_1573221592000",
             "headHtml": "Market Update: BKNG, CPRI, SPG, CVX, LGF/A, LYB, NYT",
             "provider": "Argus Research",
@@ -1049,6 +1037,18 @@
                 "CPRI",
                 "BKNG",
                 "LGF-A"
+            ]
+        },
+        {
+            "id": "3403_Analyst Report_1573221592000",
+            "headHtml": "Analyst Report: Simon Property Group, Inc.",
+            "provider": "Argus Research",
+            "reportDate": "2019-11-08T13:59:52Z",
+            "reportTitle": "Simon Property Group Inc., based in Indianapolis, is a retail REIT that owns and leases malls and outlets. Simon has an interest in or owns 233 properties with 191 million square feet of leasable space in North America, Asia, and Europe. It also has a 22% interest in Klepierre, a Paris-based real estate firm, which owns shopping centers in 16 European countries. SPG is a member of the S&P 500.",
+            "targetPrice": 180.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "SPG"
             ]
         },
         {
@@ -1875,15 +1875,6 @@
             "formType": "DEF 14A"
         },
         {
-            "id": "0001104659-23-036090_1063761",
-            "type": "Annual Report to Shareholders",
-            "title": "ARS : Annual Report to Shareholders",
-            "description": "Annual report to security holders",
-            "filingDate": 1679529600000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001063761/000110465923036090/thumbnail.png",
-            "formType": "ARS"
-        },
-        {
             "id": "0001104659-23-036098_1063761",
             "type": "Corporate Changes & Voting Matters",
             "title": "8-K : Corporate Changes & Voting Matters",
@@ -1891,6 +1882,15 @@
             "filingDate": 1679529600000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001063761/000110465923036098/thumbnail.png",
             "formType": "8-K"
+        },
+        {
+            "id": "0001104659-23-036090_1063761",
+            "type": "Annual Report to Shareholders",
+            "title": "ARS : Annual Report to Shareholders",
+            "description": "Annual report to security holders",
+            "filingDate": 1679529600000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001063761/000110465923036090/thumbnail.png",
+            "formType": "ARS"
         },
         {
             "id": "0001104659-23-036086_1063761",
