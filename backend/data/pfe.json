@@ -1,10 +1,13 @@
 {
-    "regularMarketChangePercent": -0.003783767,
-    "regularMarketChange": -0.10499954,
-    "regularMarketPrice": 27.645,
+    "postMarketChangePercent": -0.00018041,
+    "postMarketChange": -0.0049991608,
+    "postMarketPrice": 27.705,
+    "regularMarketChangePercent": -0.0014414744,
+    "regularMarketChange": -0.040000916,
+    "regularMarketPrice": 27.71,
     "regularMarketDayHigh": 27.8688,
-    "regularMarketDayLow": 27.61,
-    "regularMarketVolume": 6208109,
+    "regularMarketDayLow": 27.575,
+    "regularMarketVolume": 22520188,
     "averageDailyVolume10Day": 37790820,
     "averageDailyVolume3Month": 43832627,
     "regularMarketPreviousClose": 27.75,
@@ -15,10 +18,10 @@
     "symbol": "PFE",
     "shortName": "Pfizer, Inc.",
     "longName": "Pfizer Inc.",
-    "marketCap": 156540911616,
+    "marketCap": 156908978176,
     "previousClose": 27.75,
     "open": 27.76,
-    "dayLow": 27.61,
+    "dayLow": 27.575,
     "dayHigh": 27.8688,
     "dividendRate": 1.68,
     "dividendYield": 0.060500003,
@@ -26,14 +29,14 @@
     "payoutRatio": 4.4323997,
     "fiveYearAvgDividendYield": 3.97,
     "beta": 0.557,
-    "trailingPE": 74.71622,
-    "forwardPE": 10.016305,
-    "volume": 6208109,
+    "trailingPE": 74.89189,
+    "forwardPE": 10.039855,
+    "volume": 22520188,
     "averageVolume": 43832627,
     "averageVolume10days": 37790820,
     "fiftyTwoWeekLow": 25.61,
     "fiftyTwoWeekHigh": 42.22,
-    "priceToSalesTrailing12Months": 2.676096,
+    "priceToSalesTrailing12Months": 2.682388,
     "fiftyDayAverage": 27.462,
     "twoHundredDayAverage": 31.61045,
     "trailingAnnualDividendRate": 1.64,
@@ -53,7 +56,7 @@
     "shortPercentOfFloat": 0.0127,
     "impliedSharesOutstanding": 5668660224,
     "bookValue": 15.766,
-    "priceToBook": 1.7534568,
+    "priceToBook": 1.7575796,
     "lastFiscalYearEnd": "2023-12-30 19:00:00",
     "nextFiscalYearEnd": "2024-12-30 19:00:00",
     "mostRecentQuarter": "2023-12-30 19:00:00",
@@ -67,7 +70,7 @@
     "SandP52WeekChange": 0.27393317,
     "lastDividendValue": 0.42,
     "lastDividendDate": 1706140800,
-    "currentPrice": 27.645,
+    "currentPrice": 27.71,
     "targetHighPrice": 50.0,
     "targetLowPrice": 26.0,
     "targetMeanPrice": 32.18,
@@ -443,8 +446,8 @@
                     "low": 58500000000,
                     "high": 60887900000,
                     "numberOfAnalysts": 21,
-                    "yearAgoRevenue": 58496000000,
-                    "growth": 0.025
+                    "yearAgoRevenue": 54155600000,
+                    "growth": 0.107
                 },
                 "epsTrend": {
                     "current": 2.2,
@@ -570,20 +573,20 @@
     "indexTrend": {
         "maxAge": 1,
         "symbol": "SP5",
-        "peRatio": 15.7332,
-        "pegRatio": 0.968915,
+        "peRatio": 15.5429,
+        "pegRatio": 0.987492,
         "estimates": [
             {
                 "period": "0q",
-                "growth": 0.006
+                "growth": 0.016
             },
             {
                 "period": "+1q",
-                "growth": 0.1
+                "growth": 0.111
             },
             {
                 "period": "0y",
-                "growth": 0.046
+                "growth": 0.049000002
             },
             {
                 "period": "+1y",
@@ -591,7 +594,7 @@
             },
             {
                 "period": "+5y",
-                "growth": 0.110203
+                "growth": 0.111607
             },
             {
                 "period": "-5y"
@@ -2442,7 +2445,7 @@
                 "organization": "Vanguard Total Stock Market Index Fund",
                 "pctHeld": 0.0313,
                 "position": 177263184,
-                "value": 4900440802,
+                "value": 4911962666,
                 "pctChange": 0.0081
             },
             {
@@ -2451,7 +2454,7 @@
                 "organization": "Vanguard 500 Index Fund",
                 "pctHeld": 0.024400001,
                 "position": 137934829,
-                "value": 3813208410,
+                "value": 3822173985,
                 "pctChange": 0.0166
             },
             {
@@ -2460,7 +2463,7 @@
                 "organization": "SPDR S&P 500 ETF Trust",
                 "pctHeld": 0.0119,
                 "position": 67343918,
-                "value": 1861722643,
+                "value": 1866099906,
                 "pctChange": 0.0517
             },
             {
@@ -2469,7 +2472,7 @@
                 "organization": "Fidelity 500 Index Fund",
                 "pctHeld": 0.0117999995,
                 "position": 67038517,
-                "value": 1853279833,
+                "value": 1857637244,
                 "pctChange": 0.010299999
             },
             {
@@ -2478,7 +2481,7 @@
                 "organization": "Vanguard Specialized-Health Care Fund",
                 "pctHeld": 0.0104,
                 "position": 58865924,
-                "value": 1627348495,
+                "value": 1631174700,
                 "pctChange": 0.0
             },
             {
@@ -2487,7 +2490,7 @@
                 "organization": "Schwab Strategic Tr-Schwab U.S. Dividend Equity ETF",
                 "pctHeld": 0.010199999,
                 "position": 57554766,
-                "value": 1591101532,
+                "value": 1594842513,
                 "pctChange": 0.1766
             },
             {
@@ -2496,7 +2499,7 @@
                 "organization": "iShares Core S&P 500 ETF",
                 "pctHeld": 0.010199999,
                 "position": 57984720,
-                "value": 1602987610,
+                "value": 1606756538,
                 "pctChange": 0.031600002
             },
             {
@@ -2505,7 +2508,7 @@
                 "organization": "Washington Mutual Investors Fund",
                 "pctHeld": 0.0084,
                 "position": 47448164,
-                "value": 1311704515,
+                "value": 1314788580,
                 "pctChange": -0.096
             },
             {
@@ -2514,7 +2517,7 @@
                 "organization": "Vanguard Index-Value Index Fund",
                 "pctHeld": 0.0083,
                 "position": 47057153,
-                "value": 1300895016,
+                "value": 1303953666,
                 "pctChange": -0.028099999
             },
             {
@@ -2523,7 +2526,7 @@
                 "organization": "Select Sector SPDR Fund-Health Care",
                 "pctHeld": 0.0076,
                 "position": 42838701,
-                "value": 1184275908,
+                "value": 1187060365,
                 "pctChange": 0.0198
             }
         ],
@@ -2636,7 +2639,7 @@
                 "organization": "Vanguard Group Inc",
                 "pctHeld": 0.089499995,
                 "position": 506517466,
-                "value": 14002675579,
+                "value": 14035598519,
                 "pctChange": -0.0004
             },
             {
@@ -2645,7 +2648,7 @@
                 "organization": "Blackrock Inc.",
                 "pctHeld": 0.0764,
                 "position": 432503754,
-                "value": 11956566477,
+                "value": 11984678627,
                 "pctChange": -0.0146
             },
             {
@@ -2654,7 +2657,7 @@
                 "organization": "State Street Corporation",
                 "pctHeld": 0.0508,
                 "position": 287482006,
-                "value": 7947440187,
+                "value": 7966126123,
                 "pctChange": 0.016900001
             },
             {
@@ -2663,7 +2666,7 @@
                 "organization": "Wellington Management Group, LLP",
                 "pctHeld": 0.0422,
                 "position": 239209768,
-                "value": 6612954145,
+                "value": 6628502452,
                 "pctChange": 0.048699997
             },
             {
@@ -2672,7 +2675,7 @@
                 "organization": "Capital World Investors",
                 "pctHeld": 0.0306,
                 "position": 173394272,
-                "value": 4793484728,
+                "value": 4804755118,
                 "pctChange": -0.048299998
             },
             {
@@ -2681,7 +2684,7 @@
                 "organization": "Geode Capital Management, LLC",
                 "pctHeld": 0.019299999,
                 "position": 109534217,
-                "value": 3028073479,
+                "value": 3035193052,
                 "pctChange": 0.0229
             },
             {
@@ -2690,7 +2693,7 @@
                 "organization": "Charles Schwab Investment Management, Inc.",
                 "pctHeld": 0.0184,
                 "position": 104246432,
-                "value": 2881892660,
+                "value": 2888668535,
                 "pctChange": 0.0885
             },
             {
@@ -2699,7 +2702,7 @@
                 "organization": "Morgan Stanley",
                 "pctHeld": 0.0145000005,
                 "position": 82106536,
-                "value": 2269835225,
+                "value": 2275172037,
                 "pctChange": -0.0332
             },
             {
@@ -2708,7 +2711,7 @@
                 "organization": "Norges Bank Investment Management",
                 "pctHeld": 0.013099999,
                 "position": 73981480,
-                "value": 2045218048,
+                "value": 2050026743,
                 "pctChange": 1.0
             },
             {
@@ -2717,7 +2720,7 @@
                 "organization": "Massachusetts Financial Services Co.",
                 "pctHeld": 0.0121,
                 "position": 68506441,
-                "value": 1893860592,
+                "value": 1898313417,
                 "pctChange": 0.1378
             }
         ],
@@ -2767,6 +2770,6 @@
         }
     ],
     "fcfPerShare": 0.1808817287855816,
-    "fcfYield": 0.006543017882203976,
+    "fcfYield": 0.00652766970957602,
     "fcfPayoutRatio": 9.287836926810243
 }

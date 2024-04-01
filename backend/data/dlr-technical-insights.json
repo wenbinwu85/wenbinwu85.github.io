@@ -105,7 +105,7 @@
     },
     "events": [
         {
-            "eventType": "Momentum",
+            "eventType": "Slow Stochastic",
             "pricePeriod": "D",
             "tradingHorizon": "S",
             "tradeType": "L",
@@ -799,18 +799,6 @@
             ]
         },
         {
-            "id": "4555_Analyst Report_1597044849000",
-            "headHtml": "Analyst Report: Digital Realty Trust Inc",
-            "provider": "Argus Research",
-            "reportDate": "2020-08-10T07:34:09Z",
-            "reportTitle": "Digital Realty Trust is a real estate investment trust focusing on interconnected data centers. Digital Realty Trust also develops data center platforms for businesses involved in cloud software, IT, financial services, social media, and mobile services. The company operates in more than 36 metropolitan markets on five continents.",
-            "targetPrice": 180.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "DLR"
-            ]
-        },
-        {
             "id": "27630_Market Summary_1597044849000",
             "headHtml": "Market Digest: BDX, MCHP, PCAR, TSCO, JCI, VLO, WDC, XOM, DLR, CPRI",
             "provider": "Argus Research",
@@ -827,6 +815,18 @@
                 "DLR",
                 "CPRI",
                 "TSCO"
+            ]
+        },
+        {
+            "id": "4555_Analyst Report_1597044849000",
+            "headHtml": "Analyst Report: Digital Realty Trust Inc",
+            "provider": "Argus Research",
+            "reportDate": "2020-08-10T07:34:09Z",
+            "reportTitle": "Digital Realty Trust is a real estate investment trust focusing on interconnected data centers. Digital Realty Trust also develops data center platforms for businesses involved in cloud software, IT, financial services, social media, and mobile services. The company operates in more than 36 metropolitan markets on five continents.",
+            "targetPrice": 180.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "DLR"
             ]
         },
         {

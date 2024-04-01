@@ -823,6 +823,18 @@
             ]
         },
         {
+            "id": "3610_Analyst Report_1636096726000",
+            "headHtml": "Analyst Report: AbbVie Inc",
+            "provider": "Argus Research",
+            "reportDate": "2021-11-05T07:18:46Z",
+            "reportTitle": "AbbVie, a research-based biopharmaceutical company, was spun off from Abbott Laboratories in January 2013. The company is based in suburban Chicago. The shares are a component of the S&P 500.",
+            "targetPrice": 140.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "ABBV"
+            ]
+        },
+        {
             "id": "31322_Market Summary_1636096726000",
             "headHtml": "Market Digest: ETN, PH, RL, AWK, ABBV, QRVO, SHOP",
             "provider": "Argus Research",
@@ -836,18 +848,6 @@
                 "ABBV",
                 "QRVO",
                 "ETN"
-            ]
-        },
-        {
-            "id": "3610_Analyst Report_1636096726000",
-            "headHtml": "Analyst Report: AbbVie Inc",
-            "provider": "Argus Research",
-            "reportDate": "2021-11-05T07:18:46Z",
-            "reportTitle": "AbbVie, a research-based biopharmaceutical company, was spun off from Abbott Laboratories in January 2013. The company is based in suburban Chicago. The shares are a component of the S&P 500.",
-            "targetPrice": 140.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "ABBV"
             ]
         },
         {
@@ -1179,6 +1179,18 @@
             ]
         },
         {
+            "id": "3610_Analyst Report_1607432865000",
+            "headHtml": "Analyst Report: AbbVie Inc",
+            "provider": "Argus Research",
+            "reportDate": "2020-12-08T13:07:45Z",
+            "reportTitle": "AbbVie, a research-based biopharmaceutical company, was spun off from Abbott Laboratories in January 2013. The company is based in suburban Chicago. The shares are a component of the S&P 500.",
+            "targetPrice": 130.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "ABBV"
+            ]
+        },
+        {
             "id": "28614_Market Update_1607432865000",
             "headHtml": "Market Update: CC, PEAK, DG, ABBV, CC",
             "provider": "Argus Research",
@@ -1188,18 +1200,6 @@
                 "CC",
                 "DG",
                 "PEAK",
-                "ABBV"
-            ]
-        },
-        {
-            "id": "3610_Analyst Report_1607432865000",
-            "headHtml": "Analyst Report: AbbVie Inc",
-            "provider": "Argus Research",
-            "reportDate": "2020-12-08T13:07:45Z",
-            "reportTitle": "AbbVie, a research-based biopharmaceutical company, was spun off from Abbott Laboratories in January 2013. The company is based in suburban Chicago. The shares are a component of the S&P 500.",
-            "targetPrice": 130.0,
-            "investmentRating": "Bullish",
-            "tickers": [
                 "ABBV"
             ]
         },
@@ -1355,18 +1355,6 @@
             ]
         },
         {
-            "id": "3610_Analyst Report_1597708800000",
-            "headHtml": "Analyst Report: AbbVie Inc",
-            "provider": "Argus Research",
-            "reportDate": "2020-08-18T00:00:00Z",
-            "reportTitle": "AbbVie, a research-based biopharmaceutical company, was spun off from Abbott Laboratories in January 2013. The company is based in suburban Chicago. The shares are a component of the S&P 500.",
-            "targetPrice": 115.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "ABBV"
-            ]
-        },
-        {
             "id": "27712_Market Update_1597708800000",
             "headHtml": "Market Update: ABBV, MKL, FOXA, HOG, SYY, WRK, WSM, AEP",
             "provider": "Argus Research",
@@ -1381,6 +1369,18 @@
                 "ABBV",
                 "AEP",
                 "MKL"
+            ]
+        },
+        {
+            "id": "3610_Analyst Report_1597708800000",
+            "headHtml": "Analyst Report: AbbVie Inc",
+            "provider": "Argus Research",
+            "reportDate": "2020-08-18T00:00:00Z",
+            "reportTitle": "AbbVie, a research-based biopharmaceutical company, was spun off from Abbott Laboratories in January 2013. The company is based in suburban Chicago. The shares are a component of the S&P 500.",
+            "targetPrice": 115.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "ABBV"
             ]
         },
         {
@@ -2007,15 +2007,6 @@
             "formType": "S-8"
         },
         {
-            "id": "0001104659-24-025262_1551152",
-            "type": "Corporate Changes & Voting Matters",
-            "title": "8-K : Corporate Changes & Voting Matters",
-            "description": "Current report filing",
-            "filingDate": 1708387200000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001551152/000110465924025262/thumbnail.png",
-            "formType": "8-K"
-        },
-        {
             "id": "0001551152-24-000011_1551152",
             "type": "Periodic Financial Reports",
             "title": "10-K : Periodic Financial Reports",
@@ -2023,6 +2014,15 @@
             "filingDate": 1708387200000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001551152/000155115224000011/thumbnail.png",
             "formType": "10-K"
+        },
+        {
+            "id": "0001104659-24-025262_1551152",
+            "type": "Corporate Changes & Voting Matters",
+            "title": "8-K : Corporate Changes & Voting Matters",
+            "description": "Current report filing",
+            "filingDate": 1708387200000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001551152/000110465924025262/thumbnail.png",
+            "formType": "8-K"
         },
         {
             "id": "0001104659-24-013692_1551152",
