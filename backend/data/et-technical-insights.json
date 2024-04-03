@@ -44,8 +44,8 @@
         "keyTechnicals": {
             "provider": "Trading Central",
             "support": 13.885,
-            "resistance": 15.72,
-            "stopLoss": 15.196301
+            "resistance": 15.81,
+            "stopLoss": 15.232177
         },
         "valuation": {
             "color": 1.0,
@@ -58,11 +58,11 @@
     "companySnapshot": {
         "sectorInfo": "Energy",
         "company": {
-            "innovativeness": 0.2698,
+            "innovativeness": 0.2664,
             "sustainability": 0.9265000000000001,
             "insiderSentiments": 0.8976000000000001,
-            "earningsReports": 0.8615,
-            "dividends": 0.7535
+            "earningsReports": 0.8571,
+            "dividends": 0.7503
         },
         "sector": {
             "innovativeness": 0.5,
@@ -100,7 +100,7 @@
     },
     "events": [
         {
-            "eventType": "Relative Strength Index (RSI)",
+            "eventType": "MACD",
             "pricePeriod": "D",
             "tradingHorizon": "S",
             "tradeType": "S",

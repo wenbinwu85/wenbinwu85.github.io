@@ -5,13 +5,13 @@
             "provider": "Trading Central",
             "sector": "Real Estate",
             "shortTermOutlook": {
-                "stateDescription": "Recent bullish events outweigh bearish events.",
+                "stateDescription": "Bullish events outweigh bearish events.",
                 "direction": "Bullish",
-                "score": 4,
-                "scoreDescription": "Very Strong Bullish Evidence",
-                "sectorDirection": "Bullish",
-                "sectorScore": 3,
-                "sectorScoreDescription": "Strong Bullish Evidence",
+                "score": 3,
+                "scoreDescription": "Strong Bullish Evidence",
+                "sectorDirection": "Bearish",
+                "sectorScore": 1,
+                "sectorScoreDescription": "Weak Bearish Evidence",
                 "indexDirection": "Bearish",
                 "indexScore": 2,
                 "indexScoreDescription": "Bearish Evidence"
@@ -21,9 +21,9 @@
                 "direction": "Bearish",
                 "score": 3,
                 "scoreDescription": "Strong Bearish Evidence",
-                "sectorDirection": "Bullish",
-                "sectorScore": 2,
-                "sectorScoreDescription": "Bullish Evidence",
+                "sectorDirection": "Bearish",
+                "sectorScore": 1,
+                "sectorScoreDescription": "Weak Bearish Evidence",
                 "indexDirection": "Bearish",
                 "indexScore": 1,
                 "indexScoreDescription": "Weak Bearish Evidence"
@@ -34,8 +34,8 @@
                 "score": 1,
                 "scoreDescription": "Weak Bearish Evidence",
                 "sectorDirection": "Bullish",
-                "sectorScore": 2,
-                "sectorScoreDescription": "Bullish Evidence",
+                "sectorScore": 1,
+                "sectorScoreDescription": "Weak Bullish Evidence",
                 "indexDirection": "Bullish",
                 "indexScore": 1,
                 "indexScoreDescription": "Weak Bullish Evidence"
@@ -43,9 +43,9 @@
         },
         "keyTechnicals": {
             "provider": "Trading Central",
-            "support": 28.725,
+            "support": 29.18,
             "resistance": 29.685,
-            "stopLoss": 28.491813
+            "stopLoss": 28.252164
         },
         "valuation": {
             "color": 1.0,
@@ -58,10 +58,10 @@
     "companySnapshot": {
         "sectorInfo": "Real Estate",
         "company": {
-            "innovativeness": 0.0888,
+            "innovativeness": 0.0898,
             "insiderSentiments": 0.679,
-            "earningsReports": 0.5992000000000001,
-            "dividends": 0.43560000000000004
+            "earningsReports": 0.5931000000000001,
+            "dividends": 0.4274
         },
         "sector": {
             "innovativeness": 0.5,
@@ -82,13 +82,13 @@
     },
     "events": [
         {
-            "eventType": "Price Crosses Moving Average",
+            "eventType": "Commodity Channel Index",
             "pricePeriod": "D",
-            "tradingHorizon": "I",
-            "tradeType": "S",
+            "tradingHorizon": "S",
+            "tradeType": "U",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1711978200,
-            "endDate": 1711978200
+            "startDate": 1712064600,
+            "endDate": 1712064600
         }
     ],
     "reports": [
@@ -1256,15 +1256,6 @@
             "formType": "10-Q"
         },
         {
-            "id": "0001705696-23-000072_1705696",
-            "type": "Periodic Financial Reports",
-            "title": "10-Q : Periodic Financial Reports",
-            "description": "Quarterly report pursuant to Section 13 or 15(d)",
-            "filingDate": 1682899200000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001705696/000170569623000072/thumbnail.png",
-            "formType": "10-Q"
-        },
-        {
             "id": "0001705696-23-000071_1705696",
             "type": "Corporate Changes & Voting Matters",
             "title": "8-K : Corporate Changes & Voting Matters",
@@ -1272,6 +1263,15 @@
             "filingDate": 1682899200000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001705696/000170569623000071/thumbnail.png",
             "formType": "8-K"
+        },
+        {
+            "id": "0001705696-23-000072_1705696",
+            "type": "Periodic Financial Reports",
+            "title": "10-Q : Periodic Financial Reports",
+            "description": "Quarterly report pursuant to Section 13 or 15(d)",
+            "filingDate": 1682899200000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001705696/000170569623000072/thumbnail.png",
+            "formType": "10-Q"
         },
         {
             "id": "0001705696-23-000065_1705696",
@@ -1499,15 +1499,6 @@
             "formType": "8-K"
         },
         {
-            "id": "0001193125-22-107429_1705696",
-            "type": "Corporate Changes & Voting Matters",
-            "title": "8-K : Corporate Changes & Voting Matters",
-            "description": "Current report filing",
-            "filingDate": 1650240000000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001705696/000119312522107429/thumbnail.png",
-            "formType": "8-K"
-        },
-        {
             "id": "0001193125-22-107450_1705696",
             "type": "Offering Registrations",
             "title": "S-3ASR : Offering Registrations",
@@ -1515,6 +1506,15 @@
             "filingDate": 1650240000000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001920791/000119312522107450/thumbnail.png",
             "formType": "S-3ASR"
+        },
+        {
+            "id": "0001193125-22-107429_1705696",
+            "type": "Corporate Changes & Voting Matters",
+            "title": "8-K : Corporate Changes & Voting Matters",
+            "description": "Current report filing",
+            "filingDate": 1650240000000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001705696/000119312522107429/thumbnail.png",
+            "formType": "8-K"
         },
         {
             "id": "0001705696-22-000067_1705696",

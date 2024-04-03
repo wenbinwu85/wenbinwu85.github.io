@@ -9,9 +9,9 @@
                 "direction": "Bearish",
                 "score": 3,
                 "scoreDescription": "Strong Bearish Evidence",
-                "sectorDirection": "Bullish",
+                "sectorDirection": "Bearish",
                 "sectorScore": 3,
-                "sectorScoreDescription": "Strong Bullish Evidence",
+                "sectorScoreDescription": "Strong Bearish Evidence",
                 "indexDirection": "Bearish",
                 "indexScore": 2,
                 "indexScoreDescription": "Bearish Evidence"
@@ -47,7 +47,7 @@
         "valuation": {
             "color": 0.0,
             "description": "Overvalued",
-            "discount": "9%",
+            "discount": "10%",
             "relativeValue": "Premium",
             "provider": "Trading Central"
         }
@@ -55,7 +55,7 @@
     "companySnapshot": {
         "sectorInfo": "Technology",
         "company": {
-            "earningsReports": 0.9956
+            "earningsReports": 0.9954999999999999
         },
         "sector": {
             "innovativeness": 0.5,
@@ -96,10 +96,10 @@
             "eventType": "Commodity Channel Index",
             "pricePeriod": "D",
             "tradingHorizon": "S",
-            "tradeType": "U",
+            "tradeType": "S",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1711978200,
-            "endDate": 1711978200
+            "startDate": 1712064600,
+            "endDate": 1712064600
         }
     ],
     "sigDevs": [

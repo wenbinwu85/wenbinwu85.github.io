@@ -5,13 +5,13 @@
             "provider": "Trading Central",
             "sector": "Technology",
             "shortTermOutlook": {
-                "stateDescription": "The bullish and bearish events are balanced.",
-                "direction": "Neutral",
-                "score": 0,
-                "scoreDescription": "Neutral Evidence",
-                "sectorDirection": "Bullish",
+                "stateDescription": "Recent bullish events outweigh bearish events.",
+                "direction": "Bullish",
+                "score": 1,
+                "scoreDescription": "Weak Bullish Evidence",
+                "sectorDirection": "Bearish",
                 "sectorScore": 3,
-                "sectorScoreDescription": "Strong Bullish Evidence",
+                "sectorScoreDescription": "Strong Bearish Evidence",
                 "indexDirection": "Bearish",
                 "indexScore": 2,
                 "indexScoreDescription": "Bearish Evidence"
@@ -44,8 +44,8 @@
         "keyTechnicals": {
             "provider": "Trading Central",
             "support": 332.89,
-            "resistance": 425.22,
-            "stopLoss": 406.11939
+            "resistance": 422.6,
+            "stopLoss": 405.002353
         },
         "valuation": {
             "color": 0.0,
@@ -58,12 +58,12 @@
     "companySnapshot": {
         "sectorInfo": "Technology",
         "company": {
-            "innovativeness": 0.963,
+            "innovativeness": 0.9629000000000001,
             "hiring": 0.9662999999999999,
             "sustainability": 0.3644,
             "insiderSentiments": 0.32439999999999997,
-            "earningsReports": 0.8835,
-            "dividends": 0.1574
+            "earningsReports": 0.8845999999999999,
+            "dividends": 0.1578
         },
         "sector": {
             "innovativeness": 0.5,
@@ -2071,8 +2071,8 @@
     ],
     "sigDevs": [
         {
-            "headline": "Microsoft And Nvidia Announce Major Integrations To Accelerate Generative AI For Enterprises Everywhere",
-            "date": "2024-03-18"
+            "headline": "De La Rue Extension Of Contract With Microsoft",
+            "date": "2024-04-03"
         }
     ],
     "secReports": [

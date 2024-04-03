@@ -10,8 +10,8 @@
                 "score": 4,
                 "scoreDescription": "Very Strong Bullish Evidence",
                 "sectorDirection": "Bearish",
-                "sectorScore": 2,
-                "sectorScoreDescription": "Bearish Evidence",
+                "sectorScore": 3,
+                "sectorScoreDescription": "Strong Bearish Evidence",
                 "indexDirection": "Bearish",
                 "indexScore": 2,
                 "indexScoreDescription": "Bearish Evidence"
@@ -45,7 +45,7 @@
             "provider": "Trading Central",
             "support": 9.11,
             "resistance": 10.8678,
-            "stopLoss": 8.896016
+            "stopLoss": 8.821142
         },
         "valuation": {
             "color": 0.0,
@@ -58,9 +58,9 @@
         "sectorInfo": "Financial Services",
         "company": {
             "innovativeness": 0.030299999999999997,
-            "insiderSentiments": 0.9116,
-            "earningsReports": 0.1578,
-            "dividends": 0.993
+            "insiderSentiments": 0.9115000000000001,
+            "earningsReports": 0.1489,
+            "dividends": 0.9976
         },
         "sector": {
             "innovativeness": 0.5,
@@ -159,15 +159,6 @@
             "formType": "N-2"
         },
         {
-            "id": "0001580345-23-000038_1580345",
-            "type": "Corporate Changes & Voting Matters",
-            "title": "8-K : Corporate Changes & Voting Matters",
-            "description": "Current report filing",
-            "filingDate": 1698796800000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001580345/000158034523000038/thumbnail.png",
-            "formType": "8-K"
-        },
-        {
             "id": "0001580345-23-000039_1580345",
             "type": "Periodic Financial Reports",
             "title": "10-Q : Periodic Financial Reports",
@@ -175,6 +166,15 @@
             "filingDate": 1698796800000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001580345/000158034523000039/thumbnail.png",
             "formType": "10-Q"
+        },
+        {
+            "id": "0001580345-23-000038_1580345",
+            "type": "Corporate Changes & Voting Matters",
+            "title": "8-K : Corporate Changes & Voting Matters",
+            "description": "Current report filing",
+            "filingDate": 1698796800000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001580345/000158034523000038/thumbnail.png",
+            "formType": "8-K"
         },
         {
             "id": "0001580345-23-000034_1580345",
