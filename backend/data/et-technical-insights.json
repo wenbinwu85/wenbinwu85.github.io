@@ -5,16 +5,16 @@
             "provider": "Trading Central",
             "sector": "Energy",
             "shortTermOutlook": {
-                "stateDescription": "Recent bearish events outweigh bullish events.",
-                "direction": "Bearish",
+                "stateDescription": "Recent bullish events outweigh bearish events.",
+                "direction": "Bullish",
                 "score": 2,
-                "scoreDescription": "Bearish Evidence",
+                "scoreDescription": "Bullish Evidence",
                 "sectorDirection": "Bullish",
-                "sectorScore": 2,
-                "sectorScoreDescription": "Bullish Evidence",
+                "sectorScore": 1,
+                "sectorScoreDescription": "Weak Bullish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 2,
-                "indexScoreDescription": "Bearish Evidence"
+                "indexScore": 4,
+                "indexScoreDescription": "Very Strong Bearish Evidence"
             },
             "intermediateTermOutlook": {
                 "stateDescription": "Bullish events outweigh bearish events.",
@@ -45,7 +45,7 @@
             "provider": "Trading Central",
             "support": 13.885,
             "resistance": 15.81,
-            "stopLoss": 15.232177
+            "stopLoss": 15.413855
         },
         "valuation": {
             "color": 1.0,
@@ -61,8 +61,8 @@
             "innovativeness": 0.2664,
             "sustainability": 0.9265000000000001,
             "insiderSentiments": 0.8976000000000001,
-            "earningsReports": 0.8571,
-            "dividends": 0.7503
+            "earningsReports": 0.8573999999999999,
+            "dividends": 0.7191
         },
         "sector": {
             "innovativeness": 0.5,
@@ -100,13 +100,13 @@
     },
     "events": [
         {
-            "eventType": "MACD",
+            "eventType": "Relative Strength Index (RSI)",
             "pricePeriod": "D",
             "tradingHorizon": "S",
             "tradeType": "S",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1711978200,
-            "endDate": 1711978200
+            "startDate": 1712237400,
+            "endDate": 1712237400
         }
     ],
     "sigDevs": [

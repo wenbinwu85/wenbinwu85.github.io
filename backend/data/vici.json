@@ -1,46 +1,46 @@
 {
-    "postMarketChangePercent": -0.00034060725,
-    "postMarketChange": -0.010000229,
-    "postMarketPrice": 29.35,
-    "regularMarketChangePercent": -0.0037325656,
-    "regularMarketChange": -0.1099987,
-    "regularMarketPrice": 29.36,
-    "regularMarketDayHigh": 29.52,
-    "regularMarketDayLow": 29.24,
-    "regularMarketVolume": 4333371,
-    "averageDailyVolume10Day": 5356540,
-    "averageDailyVolume3Month": 6253673,
-    "regularMarketPreviousClose": 29.47,
-    "regularMarketOpen": 29.41,
+    "postMarketChangePercent": 0.0,
+    "postMarketChange": 0.0,
+    "postMarketPrice": 29.32,
+    "regularMarketChangePercent": 0.0020505628,
+    "regularMarketChange": 0.059999466,
+    "regularMarketPrice": 29.32,
+    "regularMarketDayHigh": 29.34,
+    "regularMarketDayLow": 28.96,
+    "regularMarketVolume": 4988089,
+    "averageDailyVolume10Day": 5298990,
+    "averageDailyVolume3Month": 6180239,
+    "regularMarketPreviousClose": 29.26,
+    "regularMarketOpen": 29.25,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "quoteType": "EQUITY",
     "symbol": "VICI",
     "shortName": "VICI Properties Inc.",
     "longName": "VICI Properties Inc.",
-    "marketCap": 30626590720,
-    "previousClose": 29.47,
-    "open": 29.41,
-    "dayLow": 29.24,
-    "dayHigh": 29.52,
+    "marketCap": 30584862720,
+    "previousClose": 29.26,
+    "open": 29.25,
+    "dayLow": 28.96,
+    "dayHigh": 29.34,
     "dividendRate": 1.66,
     "dividendYield": 0.0558,
     "exDividendDate": "2024-03-19 20:00:00",
     "payoutRatio": 0.6518,
     "fiveYearAvgDividendYield": 4.93,
     "beta": 0.921,
-    "trailingPE": 11.88664,
-    "forwardPE": 10.914498,
-    "volume": 4333371,
-    "averageVolume": 6253673,
-    "averageVolume10days": 5356540,
+    "trailingPE": 11.870445,
+    "forwardPE": 10.899628,
+    "volume": 4988089,
+    "averageVolume": 6180239,
+    "averageVolume10days": 5298990,
     "fiftyTwoWeekLow": 26.625,
     "fiftyTwoWeekHigh": 34.05,
-    "priceToSalesTrailing12Months": 8.476147,
-    "fiftyDayAverage": 29.6242,
-    "twoHundredDayAverage": 30.20225,
+    "priceToSalesTrailing12Months": 8.464599,
+    "fiftyDayAverage": 29.5652,
+    "twoHundredDayAverage": 30.17095,
     "trailingAnnualDividendRate": 1.61,
-    "trailingAnnualDividendYield": 0.05463183,
+    "trailingAnnualDividendYield": 0.055023924,
     "enterpriseValue": 48537161728,
     "profitMargins": 0.69564,
     "floatShares": 1038790330,
@@ -56,7 +56,7 @@
     "shortPercentOfFloat": 0.023599999,
     "impliedSharesOutstanding": 1043139968,
     "bookValue": 24.222,
-    "priceToBook": 1.2121212,
+    "priceToBook": 1.2104698,
     "lastFiscalYearEnd": "2023-12-30 19:00:00",
     "nextFiscalYearEnd": "2024-12-30 19:00:00",
     "mostRecentQuarter": "2023-12-30 19:00:00",
@@ -64,14 +64,14 @@
     "netIncomeToCommon": 2513540096,
     "trailingEps": 2.47,
     "forwardEps": 2.69,
-    "pegRatio": 1.78,
+    "pegRatio": 1.77,
     "enterpriseToRevenue": 13.433,
     "enterpriseToEbitda": 14.522,
-    "52WeekChange": -0.08250314,
-    "SandP52WeekChange": 0.2726959,
+    "52WeekChange": -0.10327917,
+    "SandP52WeekChange": 0.2526338,
     "lastDividendValue": 0.415,
     "lastDividendDate": 1710892800,
-    "currentPrice": 29.36,
+    "currentPrice": 29.32,
     "targetHighPrice": 43.0,
     "targetLowPrice": 31.0,
     "targetMeanPrice": 35.73,
@@ -224,8 +224,7 @@
         "maxAge": 1,
         "earnings": {
             "earningsDate": [
-                "2024-04-29 06:59:S",
-                "2024-05-03 08:00:S"
+                "2024-05-01 16:00:S"
             ],
             "earningsAverage": 0.66,
             "earningsLow": 0.66,
@@ -266,8 +265,7 @@
             "currentQuarterEstimateDate": "1Q",
             "currentQuarterEstimateYear": 2024,
             "earningsDate": [
-                "2024-04-29 06:59:S",
-                "2024-05-03 08:00:S"
+                "2024-05-01 16:00:S"
             ]
         },
         "financialsChart": {
@@ -571,20 +569,20 @@
     "indexTrend": {
         "maxAge": 1,
         "symbol": "SP5",
-        "peRatio": 15.4492,
-        "pegRatio": 1.80332,
+        "peRatio": 14.2576,
+        "pegRatio": 1.05702,
         "estimates": [
             {
                 "period": "0q",
-                "growth": 0.0069999998
+                "growth": 0.004
             },
             {
                 "period": "+1q",
-                "growth": 0.1
+                "growth": 0.096999995
             },
             {
                 "period": "0y",
-                "growth": 0.046
+                "growth": 0.045
             },
             {
                 "period": "+1y",
@@ -592,7 +590,7 @@
             },
             {
                 "period": "+5y",
-                "growth": 0.110205
+                "growth": 0.11053701
             },
             {
                 "period": "-5y"
@@ -600,6 +598,78 @@
         ]
     },
     "insiderTransactions": [
+        {
+            "maxAge": 1,
+            "shares": 173,
+            "value": 0,
+            "filerUrl": "",
+            "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+            "filerName": "RUMBOLZ MICHAEL D",
+            "filerRelation": "Director",
+            "moneyText": "",
+            "startDate": "2024-04-01",
+            "ownership": "D"
+        },
+        {
+            "maxAge": 1,
+            "shares": 388,
+            "value": 0,
+            "filerUrl": "",
+            "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+            "filerName": "MACNAB CRAIG",
+            "filerRelation": "Director",
+            "moneyText": "",
+            "startDate": "2024-04-01",
+            "ownership": "D"
+        },
+        {
+            "maxAge": 1,
+            "shares": 517,
+            "value": 0,
+            "filerUrl": "",
+            "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+            "filerName": "ABRAHAMSON JAMES R",
+            "filerRelation": "Director",
+            "moneyText": "",
+            "startDate": "2024-04-01",
+            "ownership": "D"
+        },
+        {
+            "maxAge": 1,
+            "shares": 431,
+            "value": 0,
+            "filerUrl": "",
+            "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+            "filerName": "CANTOR DIANA F",
+            "filerRelation": "Director",
+            "moneyText": "",
+            "startDate": "2024-04-01",
+            "ownership": "D"
+        },
+        {
+            "maxAge": 1,
+            "shares": 207,
+            "value": 0,
+            "filerUrl": "",
+            "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+            "filerName": "HOLLAND ELIZABETH I",
+            "filerRelation": "Director",
+            "moneyText": "",
+            "startDate": "2024-04-01",
+            "ownership": "D"
+        },
+        {
+            "maxAge": 1,
+            "shares": 52,
+            "value": 0,
+            "filerUrl": "",
+            "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+            "filerName": "DOUGLAS MONICA HOWARD",
+            "filerRelation": "Director",
+            "moneyText": "",
+            "startDate": "2024-04-01",
+            "ownership": "D"
+        },
         {
             "maxAge": 1,
             "shares": 10000,
@@ -2327,78 +2397,6 @@
             "moneyText": "",
             "startDate": "2020-03-12",
             "ownership": "D"
-        },
-        {
-            "maxAge": 1,
-            "shares": 5000,
-            "value": 109500,
-            "filerUrl": "",
-            "transactionText": "Purchase at price 21.90 per share.",
-            "filerName": "ABRAHAMSON JAMES R",
-            "filerRelation": "Director",
-            "moneyText": "",
-            "startDate": "2020-03-09",
-            "ownership": "D"
-        },
-        {
-            "maxAge": 1,
-            "shares": 17835,
-            "value": 449977,
-            "filerUrl": "",
-            "transactionText": "Purchase at price 25.23 per share.",
-            "filerName": "PAYNE JOHN W R",
-            "filerRelation": "President",
-            "moneyText": "",
-            "startDate": "2020-03-02",
-            "ownership": "D"
-        },
-        {
-            "maxAge": 1,
-            "shares": 8300,
-            "value": 209492,
-            "filerUrl": "",
-            "transactionText": "Purchase at price 25.24 per share.",
-            "filerName": "GALLAGHER SAMANTHA SACKS",
-            "filerRelation": "General Counsel",
-            "moneyText": "",
-            "startDate": "2020-03-02",
-            "ownership": "D"
-        },
-        {
-            "maxAge": 1,
-            "shares": 23710,
-            "value": 583266,
-            "filerUrl": "",
-            "transactionText": "Purchase at price 24.60 per share.",
-            "filerName": "PITONIAK EDWARD BALTAZAR",
-            "filerRelation": "Chief Executive Officer",
-            "moneyText": "",
-            "startDate": "2020-03-02",
-            "ownership": "D"
-        },
-        {
-            "maxAge": 1,
-            "shares": 9000,
-            "value": 227340,
-            "filerUrl": "",
-            "transactionText": "Purchase at price 25.26 per share.",
-            "filerName": "KIESKE DAVID ANDREW",
-            "filerRelation": "Chief Financial Officer",
-            "moneyText": "",
-            "startDate": "2020-03-02",
-            "ownership": "D"
-        },
-        {
-            "maxAge": 1,
-            "shares": 22691,
-            "value": 0,
-            "filerUrl": "",
-            "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-            "filerName": "PAYNE JOHN W R",
-            "filerRelation": "President",
-            "moneyText": "",
-            "startDate": "2020-02-28",
-            "ownership": "D"
         }
     ],
     "recommendationTrend": [
@@ -2443,7 +2441,7 @@
                 "organization": "Capital Income Builder, Inc.",
                 "pctHeld": 0.0463,
                 "position": 48267335,
-                "value": 1417128985,
+                "value": 1415198247,
                 "pctChange": 0.0515
             },
             {
@@ -2452,7 +2450,7 @@
                 "organization": "Vanguard Specialized-Real Estate Index Fund",
                 "pctHeld": 0.036,
                 "position": 37530377,
-                "value": 1101891891,
+                "value": 1100390642,
                 "pctChange": 0.0423
             },
             {
@@ -2461,7 +2459,7 @@
                 "organization": "Vanguard Total Stock Market Index Fund",
                 "pctHeld": 0.026400002,
                 "position": 27556514,
-                "value": 809059267,
+                "value": 807956982,
                 "pctChange": 0.0307
             },
             {
@@ -2470,7 +2468,7 @@
                 "organization": "Vanguard 500 Index Fund",
                 "pctHeld": 0.0217,
                 "position": 22618020,
-                "value": 664065081,
+                "value": 663160339,
                 "pctChange": 0.0422
             },
             {
@@ -2479,17 +2477,17 @@
                 "organization": "Vanguard Mid-Cap Index Fund",
                 "pctHeld": 0.0197,
                 "position": 20536438,
-                "value": 602949832,
+                "value": 602128355,
                 "pctChange": 0.0135
             },
             {
                 "maxAge": 1,
-                "reportDate": "2023-12-31",
+                "reportDate": "2024-01-31",
                 "organization": "Income Fund of America Inc",
-                "pctHeld": 0.0182,
-                "position": 18945662,
-                "value": 556244647,
-                "pctChange": -0.45049998
+                "pctHeld": 0.0188,
+                "position": 19585048,
+                "value": 574233601,
+                "pctChange": 0.0337
             },
             {
                 "maxAge": 1,
@@ -2497,7 +2495,7 @@
                 "organization": "Fundamental Investors Inc",
                 "pctHeld": 0.0125,
                 "position": 13052996,
-                "value": 383235970,
+                "value": 382713838,
                 "pctChange": 0.1573
             },
             {
@@ -2506,7 +2504,7 @@
                 "organization": "Fidelity 500 Index Fund",
                 "pctHeld": 0.0117999995,
                 "position": 12282762,
-                "value": 360621899,
+                "value": 360130578,
                 "pctChange": 0.010299999
             },
             {
@@ -2515,7 +2513,7 @@
                 "organization": "SPDR S&P 500 ETF Trust",
                 "pctHeld": 0.0117999995,
                 "position": 12339047,
-                "value": 362274427,
+                "value": 361780854,
                 "pctChange": 0.08
             },
             {
@@ -2524,7 +2522,7 @@
                 "organization": "PIMCO Income Fd",
                 "pctHeld": 0.0111,
                 "position": 11625222,
-                "value": 341316525,
+                "value": 340851505,
                 "pctChange": 0.0
             }
         ],
@@ -2534,10 +2532,10 @@
                 "name": "ABRAHAMSON JAMES R",
                 "relation": "Director",
                 "url": "",
-                "transactionDescription": "Purchase",
-                "latestTransDate": "2024-03-15",
-                "positionDirect": 153742,
-                "positionDirectDate": "2024-03-15"
+                "transactionDescription": "Stock Award(Grant)",
+                "latestTransDate": "2024-04-01",
+                "positionDirect": 154259,
+                "positionDirectDate": "2024-04-01"
             },
             {
                 "maxAge": 1,
@@ -2545,9 +2543,19 @@
                 "relation": "Director",
                 "url": "",
                 "transactionDescription": "Stock Award(Grant)",
-                "latestTransDate": "2024-01-02",
-                "positionDirect": 41419,
-                "positionDirectDate": "2024-01-02"
+                "latestTransDate": "2024-04-01",
+                "positionDirect": 41850,
+                "positionDirectDate": "2024-04-01"
+            },
+            {
+                "maxAge": 1,
+                "name": "DOUGLAS MONICA HOWARD",
+                "relation": "Director",
+                "url": "",
+                "transactionDescription": "Stock Award(Grant)",
+                "latestTransDate": "2024-04-01",
+                "positionDirect": 25907,
+                "positionDirectDate": "2024-04-01"
             },
             {
                 "maxAge": 1,
@@ -2565,9 +2573,9 @@
                 "relation": "Director",
                 "url": "",
                 "transactionDescription": "Stock Award(Grant)",
-                "latestTransDate": "2024-01-02",
-                "positionDirect": 43277,
-                "positionDirectDate": "2024-01-02"
+                "latestTransDate": "2024-04-01",
+                "positionDirect": 43484,
+                "positionDirectDate": "2024-04-01"
             },
             {
                 "maxAge": 1,
@@ -2585,9 +2593,9 @@
                 "relation": "Director",
                 "url": "",
                 "transactionDescription": "Stock Award(Grant)",
-                "latestTransDate": "2024-01-02",
-                "positionDirect": 57411,
-                "positionDirectDate": "2024-01-02"
+                "latestTransDate": "2024-04-01",
+                "positionDirect": 57799,
+                "positionDirectDate": "2024-04-01"
             },
             {
                 "maxAge": 1,
@@ -2615,19 +2623,9 @@
                 "relation": "Director",
                 "url": "",
                 "transactionDescription": "Stock Award(Grant)",
-                "latestTransDate": "2024-01-02",
-                "positionDirect": 74526,
-                "positionDirectDate": "2024-01-02"
-            },
-            {
-                "maxAge": 1,
-                "name": "WASSERMAN GABRIEL J.",
-                "relation": "Officer",
-                "url": "",
-                "transactionDescription": "Stock Award(Grant)",
-                "latestTransDate": "2024-02-22",
-                "positionDirect": 45687,
-                "positionDirectDate": "2024-02-22"
+                "latestTransDate": "2024-04-01",
+                "positionDirect": 74699,
+                "positionDirectDate": "2024-04-01"
             }
         ],
         "institutionOwnership": [
@@ -2637,7 +2635,7 @@
                 "organization": "Vanguard Group Inc",
                 "pctHeld": 0.1408,
                 "position": 146919295,
-                "value": 4313550590,
+                "value": 4307673684,
                 "pctChange": 0.0072000003
             },
             {
@@ -2646,7 +2644,7 @@
                 "organization": "Blackrock Inc.",
                 "pctHeld": 0.098000005,
                 "position": 102221825,
-                "value": 3001232844,
+                "value": 2997143877,
                 "pctChange": 0.0363
             },
             {
@@ -2655,7 +2653,7 @@
                 "organization": "Capital International Investors",
                 "pctHeld": 0.060300004,
                 "position": 62871097,
-                "value": 1845895446,
+                "value": 1843380544,
                 "pctChange": 0.174
             },
             {
@@ -2664,7 +2662,7 @@
                 "organization": "State Street Corporation",
                 "pctHeld": 0.052199997,
                 "position": 54463278,
-                "value": 1599041875,
+                "value": 1596863294,
                 "pctChange": 0.0541
             },
             {
@@ -2673,7 +2671,7 @@
                 "organization": "Cohen & Steers Inc.",
                 "pctHeld": 0.033299997,
                 "position": 34784906,
-                "value": 1021284861,
+                "value": 1019893433,
                 "pctChange": 1.3195
             },
             {
@@ -2682,7 +2680,7 @@
                 "organization": "Capital Research Global Investors",
                 "pctHeld": 0.033099998,
                 "position": 34526829,
-                "value": 1013707720,
+                "value": 1012326615,
                 "pctChange": -0.070199996
             },
             {
@@ -2691,7 +2689,7 @@
                 "organization": "Bank of America Corporation",
                 "pctHeld": 0.0296,
                 "position": 30908919,
-                "value": 907485880,
+                "value": 906249495,
                 "pctChange": -0.13069999
             },
             {
@@ -2700,7 +2698,7 @@
                 "organization": "Principal Financial Group, Inc.",
                 "pctHeld": 0.0248,
                 "position": 25885444,
-                "value": 759996651,
+                "value": 758961210,
                 "pctChange": 0.0013
             },
             {
@@ -2709,7 +2707,7 @@
                 "organization": "Geode Capital Management, LLC",
                 "pctHeld": 0.0241,
                 "position": 25117457,
-                "value": 737448552,
+                "value": 736443831,
                 "pctChange": 0.048899997
             },
             {
@@ -2718,7 +2716,7 @@
                 "organization": "Allianz Asset Management GmbH",
                 "pctHeld": 0.0224,
                 "position": 23329637,
-                "value": 684958156,
+                "value": 684024949,
                 "pctChange": -0.0115
             }
         ],
@@ -2768,6 +2766,6 @@
         }
     ],
     "fcfPerShare": -5.452995515938279,
-    "fcfYield": -0.18572872246878674,
+    "fcfYield": -0.18598211867337752,
     "fcfPayoutRatio": -0.30441983587700955
 }

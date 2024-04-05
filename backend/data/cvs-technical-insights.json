@@ -7,14 +7,14 @@
             "shortTermOutlook": {
                 "stateDescription": "Recent bearish events outweigh bullish events.",
                 "direction": "Bearish",
-                "score": 3,
-                "scoreDescription": "Strong Bearish Evidence",
+                "score": 4,
+                "scoreDescription": "Very Strong Bearish Evidence",
                 "sectorDirection": "Bearish",
                 "sectorScore": 4,
                 "sectorScoreDescription": "Very Strong Bearish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 2,
-                "indexScoreDescription": "Bearish Evidence"
+                "indexScore": 4,
+                "indexScoreDescription": "Very Strong Bearish Evidence"
             },
             "intermediateTermOutlook": {
                 "stateDescription": "Recent bearish events outweigh bullish events.",
@@ -45,7 +45,7 @@
             "provider": "Trading Central",
             "support": 69.554,
             "resistance": 76.28,
-            "stopLoss": 62.871255
+            "stopLoss": 67.995058
         },
         "valuation": {
             "color": 0.5,
@@ -57,12 +57,12 @@
     "companySnapshot": {
         "sectorInfo": "Healthcare",
         "company": {
-            "innovativeness": 0.8991,
+            "innovativeness": 0.899,
             "hiring": 0.9893000000000001,
             "sustainability": 0.4322,
-            "insiderSentiments": 0.46740000000000004,
-            "earningsReports": 0.8946,
-            "dividends": 0.7784
+            "insiderSentiments": 0.46880000000000005,
+            "earningsReports": 0.895,
+            "dividends": 0.7872
         },
         "sector": {
             "innovativeness": 0.5,
@@ -105,13 +105,13 @@
     },
     "events": [
         {
-            "eventType": "Slow Stochastic",
+            "eventType": "Short-term KST",
             "pricePeriod": "D",
             "tradingHorizon": "S",
             "tradeType": "S",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1712064600,
-            "endDate": 1712064600
+            "startDate": 1712237400,
+            "endDate": 1712237400
         }
     ],
     "reports": [
@@ -200,18 +200,6 @@
             ]
         },
         {
-            "id": "2877_Analyst Report_1692035160000",
-            "headHtml": "Analyst Report: CVS Health Corp",
-            "provider": "Argus Research",
-            "reportDate": "2023-08-14T17:46:00Z",
-            "reportTitle": "CVS Health Corp. operated 9,675 retail drugstores at the end of 2022, including over 1,880 locations in Target stores. The total number of locations exceeds 10,000 when we include a leading specialty pharmacy, Long Term Care pharmacies, Infusion Centers where cancer medicines, for example, are delivered through a needle. The combined company posted 2022 revenue of $322 billion, with about half in the PBM business (now Health Services), 34% in Retail/Long Term Care (Pharmacy & Consumer Wellness), and 27% in Health Care Benefits. Approximately 77% of the $107 billion in Retail and long-term care revenue came from prescriptions; 23% from over-the-counter medicines, Beauty and General Merchandise. The 2019 and 2020 results include Aetna, which was acquired at the end of 2018.\r\n\r\nCVS operated approximately 1,100 Minute Clinics, primarily within CVS pharmacy stores. The corporate headquarters is in Woonsocket, Rhode Island.",
-            "targetPrice": 100.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "CVS"
-            ]
-        },
-        {
             "id": "37358_Market Update_1692035160000",
             "headHtml": "Market Update: ALB, APA, CVS, DEO",
             "provider": "Argus Research",
@@ -222,6 +210,18 @@
                 "APA",
                 "ALB",
                 "DEO"
+            ]
+        },
+        {
+            "id": "2877_Analyst Report_1692035160000",
+            "headHtml": "Analyst Report: CVS Health Corp",
+            "provider": "Argus Research",
+            "reportDate": "2023-08-14T17:46:00Z",
+            "reportTitle": "CVS Health Corp. operated 9,675 retail drugstores at the end of 2022, including over 1,880 locations in Target stores. The total number of locations exceeds 10,000 when we include a leading specialty pharmacy, Long Term Care pharmacies, Infusion Centers where cancer medicines, for example, are delivered through a needle. The combined company posted 2022 revenue of $322 billion, with about half in the PBM business (now Health Services), 34% in Retail/Long Term Care (Pharmacy & Consumer Wellness), and 27% in Health Care Benefits. Approximately 77% of the $107 billion in Retail and long-term care revenue came from prescriptions; 23% from over-the-counter medicines, Beauty and General Merchandise. The 2019 and 2020 results include Aetna, which was acquired at the end of 2018.\r\n\r\nCVS operated approximately 1,100 Minute Clinics, primarily within CVS pharmacy stores. The corporate headquarters is in Woonsocket, Rhode Island.",
+            "targetPrice": 100.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "CVS"
             ]
         },
         {
@@ -437,17 +437,6 @@
             ]
         },
         {
-            "id": "33374_Market Summary_1656573330000",
-            "headHtml": "Market Digest: CVS, PAYX",
-            "provider": "Argus Research",
-            "reportDate": "2022-06-30T07:15:30Z",
-            "reportTitle": "Market Tries to Rally amid Softening Data",
-            "tickers": [
-                "CVS",
-                "PAYX"
-            ]
-        },
-        {
             "id": "2877_Analyst Report_1656573330000",
             "headHtml": "Analyst Report: CVS Health Corp",
             "provider": "Argus Research",
@@ -457,6 +446,17 @@
             "investmentRating": "Bullish",
             "tickers": [
                 "CVS"
+            ]
+        },
+        {
+            "id": "33374_Market Summary_1656573330000",
+            "headHtml": "Market Digest: CVS, PAYX",
+            "provider": "Argus Research",
+            "reportDate": "2022-06-30T07:15:30Z",
+            "reportTitle": "Market Tries to Rally amid Softening Data",
+            "tickers": [
+                "CVS",
+                "PAYX"
             ]
         },
         {
@@ -703,6 +703,18 @@
             ]
         },
         {
+            "id": "2877_Analyst Report_1639490317000",
+            "headHtml": "Analyst Report: CVS Health Corp",
+            "provider": "Argus Research",
+            "reportDate": "2021-12-14T13:58:37Z",
+            "reportTitle": "CVS Health Corp. operated 9,900 retail drugstores at the end of 2020, including over 1,700 locations in Target stores. The total number of locations exceeds 10,000 when we include a leading specialty pharmacy, Long Term Care pharmacies, Infusion Centers where cancer medicines, for example, are delivered through a needle. The combined company posted 2020 revenue of $269 billion, with about half in the PBM business, 30% in Retail/Long Term Care, and 20% in Health Care Benefits. Approximately 77% of the $91 billion in Retail and long-term care revenue came from prescriptions; 23% from over-the-counter medicines, Beauty and General Merchandise. The 2019 and 2020 results include Aetna, which was acquired at the end of 2018.\r\n\r\nCVS operated approximately 1,100 Minute Clinics, primarily within CVS pharmacy stores. The corporate headquarters is in Woonsocket, Rhode Island.",
+            "targetPrice": 120.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "CVS"
+            ]
+        },
+        {
             "id": "31643_Market Update_1639490317000",
             "headHtml": "Market Update: CVS, HOG, THO, WTRG, ULTA",
             "provider": "Argus Research",
@@ -714,18 +726,6 @@
                 "ULTA",
                 "WTRG",
                 "THO"
-            ]
-        },
-        {
-            "id": "2877_Analyst Report_1639490317000",
-            "headHtml": "Analyst Report: CVS Health Corp",
-            "provider": "Argus Research",
-            "reportDate": "2021-12-14T13:58:37Z",
-            "reportTitle": "CVS Health Corp. operated 9,900 retail drugstores at the end of 2020, including over 1,700 locations in Target stores. The total number of locations exceeds 10,000 when we include a leading specialty pharmacy, Long Term Care pharmacies, Infusion Centers where cancer medicines, for example, are delivered through a needle. The combined company posted 2020 revenue of $269 billion, with about half in the PBM business, 30% in Retail/Long Term Care, and 20% in Health Care Benefits. Approximately 77% of the $91 billion in Retail and long-term care revenue came from prescriptions; 23% from over-the-counter medicines, Beauty and General Merchandise. The 2019 and 2020 results include Aetna, which was acquired at the end of 2018.\r\n\r\nCVS operated approximately 1,100 Minute Clinics, primarily within CVS pharmacy stores. The corporate headquarters is in Woonsocket, Rhode Island.",
-            "targetPrice": 120.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "CVS"
             ]
         },
         {
@@ -1731,6 +1731,15 @@
     ],
     "secReports": [
         {
+            "id": "0001308179-24-000463_64803",
+            "type": "Proxy Statements",
+            "title": "DEF 14A : Proxy Statements",
+            "description": "Definitive proxy statements",
+            "filingDate": 1712275200000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000064803/000130817924000463/thumbnail.png",
+            "formType": "DEF 14A"
+        },
+        {
             "id": "0000064803-24-000009_64803",
             "type": "Corporate Changes & Voting Matters",
             "title": "8-K : Corporate Changes & Voting Matters",
@@ -1857,15 +1866,6 @@
             "formType": "10-Q"
         },
         {
-            "id": "0000064803-23-000032_64803",
-            "type": "Corporate Changes & Voting Matters",
-            "title": "8-K : Corporate Changes & Voting Matters",
-            "description": "Current report filing",
-            "filingDate": 1690934400000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000064803/000006480323000032/thumbnail.png",
-            "formType": "8-K"
-        },
-        {
             "id": "0000947871-23-000807_64803",
             "type": "Offering Registrations",
             "title": "S-8 : Offering Registrations",
@@ -1873,6 +1873,15 @@
             "filingDate": 1690934400000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000064803/000094787123000807/thumbnail.png",
             "formType": "S-8"
+        },
+        {
+            "id": "0000064803-23-000032_64803",
+            "type": "Corporate Changes & Voting Matters",
+            "title": "8-K : Corporate Changes & Voting Matters",
+            "description": "Current report filing",
+            "filingDate": 1690934400000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000064803/000006480323000032/thumbnail.png",
+            "formType": "8-K"
         },
         {
             "id": "0000947871-23-000769_64803",
@@ -2151,15 +2160,6 @@
             "description": "Current report filing",
             "filingDate": 1663027200000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000064803/000094787122000962/thumbnail.png",
-            "formType": "8-K"
-        },
-        {
-            "id": "0000064803-22-000032_64803",
-            "type": "Corporate Changes & Voting Matters",
-            "title": "8-K : Corporate Changes & Voting Matters",
-            "description": "Current report filing",
-            "filingDate": 1663027200000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000064803/000006480322000032/thumbnail.png",
             "formType": "8-K"
         }
     ]
