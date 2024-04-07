@@ -1,15 +1,15 @@
 {
-    "postMarketChangePercent": -0.0009469914,
-    "postMarketChange": -0.015000343,
-    "postMarketPrice": 15.825,
+    "postMarketChangePercent": 0.0,
+    "postMarketChange": 0.0,
+    "postMarketPrice": 15.84,
     "regularMarketChangePercent": 0.0018975162,
     "regularMarketChange": 0.029999733,
     "regularMarketPrice": 15.84,
     "regularMarketDayHigh": 15.89,
     "regularMarketDayLow": 15.76,
     "regularMarketVolume": 7641935,
-    "averageDailyVolume10Day": 10860330,
-    "averageDailyVolume3Month": 12475068,
+    "averageDailyVolume10Day": 10064900,
+    "averageDailyVolume3Month": 12400991,
     "regularMarketPreviousClose": 15.81,
     "regularMarketOpen": 15.81,
     "exchange": "NYQ",
@@ -32,13 +32,13 @@
     "trailingPE": 14.53211,
     "forwardPE": 9.542169,
     "volume": 7641935,
-    "averageVolume": 12475068,
-    "averageVolume10days": 10860330,
+    "averageVolume": 12400991,
+    "averageVolume10days": 10064900,
     "fiftyTwoWeekLow": 12.18,
     "fiftyTwoWeekHigh": 16.04,
     "priceToSalesTrailing12Months": 0.6788145,
-    "fiftyDayAverage": 14.864,
-    "twoHundredDayAverage": 13.78905,
+    "fiftyDayAverage": 14.8994,
+    "twoHundredDayAverage": 13.8045,
     "trailingAnnualDividendRate": 1.245,
     "trailingAnnualDividendYield": 0.07874762,
     "enterpriseValue": 119892951040,
@@ -67,8 +67,8 @@
     "pegRatio": 1.24,
     "enterpriseToRevenue": 1.526,
     "enterpriseToEbitda": 9.446,
-    "52WeekChange": 0.26378894,
-    "SandP52WeekChange": 0.2526338,
+    "52WeekChange": 0.26618707,
+    "SandP52WeekChange": 0.26653707,
     "lastDividendValue": 0.315,
     "lastDividendDate": 1707177600,
     "currentPrice": 15.84,
@@ -453,8 +453,8 @@
                 "epsTrend": {
                     "current": 1.55,
                     "7daysAgo": 1.55,
-                    "30daysAgo": 1.65,
-                    "60daysAgo": 1.51,
+                    "30daysAgo": 1.59,
+                    "60daysAgo": 1.53,
                     "90daysAgo": 1.49
                 },
                 "epsRevisions": {
@@ -488,8 +488,8 @@
                 "epsTrend": {
                     "current": 1.66,
                     "7daysAgo": 1.66,
-                    "30daysAgo": 1.74,
-                    "60daysAgo": 1.65,
+                    "30daysAgo": 1.69,
+                    "60daysAgo": 1.67,
                     "90daysAgo": 1.62
                 },
                 "epsRevisions": {
@@ -574,20 +574,20 @@
     "indexTrend": {
         "maxAge": 1,
         "symbol": "SP5",
-        "peRatio": 14.2576,
-        "pegRatio": 1.05702,
+        "peRatio": 14.1235,
+        "pegRatio": 1.05298,
         "estimates": [
             {
                 "period": "0q",
-                "growth": 0.004
+                "growth": 0.016
             },
             {
                 "period": "+1q",
-                "growth": 0.096999995
+                "growth": 0.11
             },
             {
                 "period": "0y",
-                "growth": 0.045
+                "growth": 0.049000002
             },
             {
                 "period": "+1y",
@@ -595,7 +595,7 @@
             },
             {
                 "period": "+5y",
-                "growth": 0.11053701
+                "growth": 0.112211
             },
             {
                 "period": "-5y"

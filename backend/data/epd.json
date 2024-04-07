@@ -1,15 +1,15 @@
 {
-    "postMarketChangePercent": 0.00033636828,
-    "postMarketChange": 0.010000229,
-    "postMarketPrice": 29.74,
+    "postMarketChangePercent": 0.00067273696,
+    "postMarketChange": 0.0200005,
+    "postMarketPrice": 29.75,
     "regularMarketChangePercent": -0.0013436653,
     "regularMarketChange": -0.040000916,
     "regularMarketPrice": 29.73,
     "regularMarketDayHigh": 29.83,
     "regularMarketDayLow": 29.33,
     "regularMarketVolume": 4209696,
-    "averageDailyVolume10Day": 4859180,
-    "averageDailyVolume3Month": 4975296,
+    "averageDailyVolume10Day": 4763660,
+    "averageDailyVolume3Month": 4965537,
     "regularMarketPreviousClose": 29.77,
     "regularMarketOpen": 29.77,
     "exchange": "NYQ",
@@ -23,25 +23,25 @@
     "open": 29.77,
     "dayLow": 29.33,
     "dayHigh": 29.83,
-    "dividendRate": 2.01,
-    "dividendYield": 0.0673,
-    "exDividendDate": "2024-01-29 19:00:00",
+    "dividendRate": 2.06,
+    "dividendYield": 0.069299996,
+    "exDividendDate": "2024-04-28 20:00:00",
     "payoutRatio": 0.7857,
     "fiveYearAvgDividendYield": 7.8,
     "beta": 0.994,
     "trailingPE": 11.797619,
     "forwardPE": 10.542553,
     "volume": 4209696,
-    "averageVolume": 4975296,
-    "averageVolume10days": 4859180,
+    "averageVolume": 4965537,
+    "averageVolume10days": 4763660,
     "fiftyTwoWeekLow": 25.19,
     "fiftyTwoWeekHigh": 29.99,
     "priceToSalesTrailing12Months": 1.2966323,
-    "fiftyDayAverage": 27.8232,
-    "twoHundredDayAverage": 26.96185,
+    "fiftyDayAverage": 27.8754,
+    "twoHundredDayAverage": 26.97995,
     "trailingAnnualDividendRate": 2.005,
     "trailingAnnualDividendYield": 0.06734969,
-    "enterpriseValue": 94680662016,
+    "enterpriseValue": 94593933312,
     "profitMargins": 0.111269996,
     "floatShares": 1429459038,
     "sharesOutstanding": 2168250112,
@@ -51,7 +51,7 @@
     "dateShortInterest": "2024-03-14 20:00:00",
     "sharesPercentSharesOut": 0.0081,
     "heldPercentInsiders": 0.32806,
-    "heldPercentInstitutions": 0.26395,
+    "heldPercentInstitutions": 0.26393,
     "shortRatio": 3.87,
     "shortPercentOfFloat": 0.012,
     "impliedSharesOutstanding": 2168250112,
@@ -65,10 +65,10 @@
     "trailingEps": 2.52,
     "forwardEps": 2.82,
     "pegRatio": 1.32,
-    "enterpriseToRevenue": 1.904,
-    "enterpriseToEbitda": 10.725,
-    "52WeekChange": 0.12170315,
-    "SandP52WeekChange": 0.2526338,
+    "enterpriseToRevenue": 1.903,
+    "enterpriseToEbitda": 10.715,
+    "52WeekChange": 0.120195985,
+    "SandP52WeekChange": 0.26653707,
     "lastDividendValue": 0.515,
     "lastDividendDate": 1706572800,
     "currentPrice": 29.73,
@@ -234,7 +234,7 @@
             "revenueLow": 13933900000,
             "revenueHigh": 14417900000
         },
-        "exDividendDate": "2024-01-29 19:00:00",
+        "exDividendDate": "2024-04-28 20:00:00",
         "dividendDate": "2024-02-13 19:00:00"
     },
     "earnings": {
@@ -381,7 +381,7 @@
                     "current": 0.67,
                     "7daysAgo": 0.67,
                     "30daysAgo": 0.67,
-                    "60daysAgo": 0.64,
+                    "60daysAgo": 0.65,
                     "90daysAgo": 0.64
                 },
                 "epsRevisions": {
@@ -451,7 +451,7 @@
                     "current": 2.69,
                     "7daysAgo": 2.69,
                     "30daysAgo": 2.69,
-                    "60daysAgo": 2.65,
+                    "60daysAgo": 2.66,
                     "90daysAgo": 2.65
                 },
                 "epsRevisions": {
@@ -486,8 +486,8 @@
                     "current": 2.82,
                     "7daysAgo": 2.82,
                     "30daysAgo": 2.83,
-                    "60daysAgo": 2.78,
-                    "90daysAgo": 2.78
+                    "60daysAgo": 2.8,
+                    "90daysAgo": 2.77
                 },
                 "epsRevisions": {
                     "upLast7days": 2,
@@ -571,20 +571,20 @@
     "indexTrend": {
         "maxAge": 1,
         "symbol": "SP5",
-        "peRatio": 14.2576,
-        "pegRatio": 1.05702,
+        "peRatio": 14.1235,
+        "pegRatio": 1.05298,
         "estimates": [
             {
                 "period": "0q",
-                "growth": 0.004
+                "growth": 0.016
             },
             {
                 "period": "+1q",
-                "growth": 0.096999995
+                "growth": 0.11
             },
             {
                 "period": "0y",
-                "growth": 0.045
+                "growth": 0.049000002
             },
             {
                 "period": "+1y",
@@ -592,7 +592,7 @@
             },
             {
                 "period": "+5y",
-                "growth": 0.11053701
+                "growth": 0.112211
             },
             {
                 "period": "-5y"
@@ -2677,9 +2677,9 @@
         "majorHolders": {
             "maxAge": 1,
             "insidersPercentHeld": 0.32806,
-            "institutionsPercentHeld": 0.26395,
-            "institutionsFloatPercentHeld": 0.39282,
-            "institutionsCount": 1367
+            "institutionsPercentHeld": 0.26393,
+            "institutionsFloatPercentHeld": 0.39278,
+            "institutionsCount": 1368
         }
     },
     "upgradeDowngradeHistory": [
@@ -2721,5 +2721,5 @@
     ],
     "fcfPerShare": 1.0206386817426347,
     "fcfYield": 0.034330262798301495,
-    "fcfPayoutRatio": 1.9693551067142911
+    "fcfPayoutRatio": 2.0183440397171344
 }

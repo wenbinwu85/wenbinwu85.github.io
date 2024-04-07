@@ -5,7 +5,7 @@
             "provider": "Trading Central",
             "sector": "Energy",
             "shortTermOutlook": {
-                "stateDescription": "Bullish events outweigh bearish events.",
+                "stateDescription": "All events are bullish.",
                 "direction": "Bullish",
                 "score": 2,
                 "scoreDescription": "Bullish Evidence",
@@ -25,8 +25,8 @@
                 "sectorScore": 4,
                 "sectorScoreDescription": "Very Strong Bullish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 1,
-                "indexScoreDescription": "Weak Bearish Evidence"
+                "indexScore": 2,
+                "indexScoreDescription": "Bearish Evidence"
             },
             "longTermOutlook": {
                 "stateDescription": "Recent bullish events outweigh bearish events.",
@@ -45,7 +45,7 @@
             "provider": "Trading Central",
             "support": 48.86,
             "resistance": 53.36,
-            "stopLoss": 49.862268
+            "stopLoss": 49.712385
         },
         "valuation": {
             "color": 0.5,
@@ -61,8 +61,8 @@
             "hiring": 0.24710000000000001,
             "sustainability": 0.5588000000000001,
             "insiderSentiments": 0.7559,
-            "earningsReports": 0.7284999999999999,
-            "dividends": 0.4244
+            "earningsReports": 0.7306999999999999,
+            "dividends": 0.4211
         },
         "sector": {
             "innovativeness": 0.5,

@@ -1,15 +1,15 @@
 {
-    "postMarketChangePercent": -0.00054031657,
-    "postMarketChange": -0.01910019,
-    "postMarketPrice": 35.3309,
+    "postMarketChangePercent": 0.00084873,
+    "postMarketChange": 0.0300026,
+    "postMarketPrice": 35.38,
     "regularMarketChangePercent": -0.00813695,
     "regularMarketChange": -0.29000092,
     "regularMarketPrice": 35.35,
     "regularMarketDayHigh": 35.51,
     "regularMarketDayLow": 35.13,
     "regularMarketVolume": 3192898,
-    "averageDailyVolume10Day": 4004870,
-    "averageDailyVolume3Month": 5550247,
+    "averageDailyVolume10Day": 4022790,
+    "averageDailyVolume3Month": 5519527,
     "regularMarketPreviousClose": 35.64,
     "regularMarketOpen": 35.5,
     "exchange": "NYQ",
@@ -18,30 +18,30 @@
     "symbol": "ENB",
     "shortName": "Enbridge Inc",
     "longName": "Enbridge Inc.",
-    "marketCap": 75259437056,
+    "marketCap": 75385995264,
     "previousClose": 35.64,
     "open": 35.5,
     "dayLow": 35.13,
     "dayHigh": 35.51,
     "dividendRate": 2.7,
-    "dividendYield": 0.0756,
+    "dividendYield": 0.0763,
     "exDividendDate": "2024-02-13 19:00:00",
     "payoutRatio": 1.25,
     "fiveYearAvgDividendYield": 6.8,
     "beta": 0.886,
-    "trailingPE": 16.913876,
-    "forwardPE": 16.06818,
+    "trailingPE": 16.833334,
+    "forwardPE": 16.141552,
     "volume": 3192898,
-    "averageVolume": 5550247,
-    "averageVolume10days": 4004870,
+    "averageVolume": 5519527,
+    "averageVolume10days": 4022790,
     "fiftyTwoWeekLow": 31.03,
     "fiftyTwoWeekHigh": 40.3,
-    "priceToSalesTrailing12Months": 1.7241962,
-    "fiftyDayAverage": 35.2238,
-    "twoHundredDayAverage": 34.99525,
+    "priceToSalesTrailing12Months": 1.7270956,
+    "fiftyDayAverage": 35.2208,
+    "twoHundredDayAverage": 34.98755,
     "trailingAnnualDividendRate": 3.55,
     "trailingAnnualDividendYield": 0.099607185,
-    "enterpriseValue": 162142896128,
+    "enterpriseValue": 161526480896,
     "profitMargins": 0.14184,
     "floatShares": 2122291697,
     "sharesOutstanding": 2125590016,
@@ -51,30 +51,30 @@
     "dateShortInterest": "2024-03-14 20:00:00",
     "sharesPercentSharesOut": 0.0119,
     "heldPercentInsiders": 0.00099,
-    "heldPercentInstitutions": 0.53668,
+    "heldPercentInstitutions": 0.53669,
     "shortRatio": 4.52,
     "shortPercentOfFloat": 0.0119,
-    "impliedSharesOutstanding": 2128979968,
+    "impliedSharesOutstanding": 2132560000,
     "bookValue": 25.711,
     "priceToBook": 1.3748978,
     "lastFiscalYearEnd": "2023-12-30 19:00:00",
     "nextFiscalYearEnd": "2024-12-30 19:00:00",
     "mostRecentQuarter": "2023-12-30 19:00:00",
     "netIncomeToCommon": 5839000064,
-    "trailingEps": 2.09,
-    "forwardEps": 2.2,
-    "pegRatio": 25.94,
-    "enterpriseToRevenue": 3.715,
-    "enterpriseToEbitda": 11.734,
-    "52WeekChange": -0.087791145,
-    "SandP52WeekChange": 0.2526338,
+    "trailingEps": 2.1,
+    "forwardEps": 2.19,
+    "pegRatio": 26.36,
+    "enterpriseToRevenue": 3.701,
+    "enterpriseToEbitda": 11.69,
+    "52WeekChange": -0.09521371,
+    "SandP52WeekChange": 0.26653707,
     "lastDividendValue": 0.643,
     "lastDividendDate": 1699920000,
     "currentPrice": 35.35,
-    "targetHighPrice": 42.88,
-    "targetLowPrice": 34.0,
-    "targetMeanPrice": 39.48,
-    "targetMedianPrice": 39.93,
+    "targetHighPrice": 42.67,
+    "targetLowPrice": 33.83,
+    "targetMeanPrice": 39.28,
+    "targetMedianPrice": 39.73,
     "recommendationMean": 2.6,
     "recommendationKey": "hold",
     "numberOfAnalystOpinions": 9,
@@ -122,7 +122,7 @@
                 "title": "President, CEO & Director",
                 "yearBorn": 1964,
                 "fiscalYear": 2023,
-                "totalPay": 4755009,
+                "totalPay": 4738347,
                 "exercisedValue": 0,
                 "unexercisedValue": 0
             },
@@ -133,7 +133,7 @@
                 "title": "Executive VP & CFO",
                 "yearBorn": 1976,
                 "fiscalYear": 2023,
-                "totalPay": 1085652,
+                "totalPay": 1081848,
                 "exercisedValue": 0,
                 "unexercisedValue": 0
             },
@@ -144,7 +144,7 @@
                 "title": "Executive VP & President of Liquids Pipelines",
                 "yearBorn": 1970,
                 "fiscalYear": 2023,
-                "totalPay": 1766856,
+                "totalPay": 1760664,
                 "exercisedValue": 0,
                 "unexercisedValue": 0
             },
@@ -155,7 +155,7 @@
                 "title": "Executive VP and President of Gas Transmission & Midstream",
                 "yearBorn": 1965,
                 "fiscalYear": 2023,
-                "totalPay": 1705498,
+                "totalPay": 1699522,
                 "exercisedValue": 0,
                 "unexercisedValue": 0
             },
@@ -166,7 +166,7 @@
                 "title": "Executive VP of Corporate Strategy & President of Power",
                 "yearBorn": 1968,
                 "fiscalYear": 2023,
-                "totalPay": 941789,
+                "totalPay": 938488,
                 "exercisedValue": 0,
                 "unexercisedValue": 0
             },
@@ -233,15 +233,14 @@
         "maxAge": 1,
         "earnings": {
             "earningsDate": [
-                "2024-05-03 08:30:S",
-                "2024-05-07 08:30:S"
+                "2024-05-10 08:30:S"
             ],
-            "earningsAverage": 0.6,
+            "earningsAverage": 0.59,
             "earningsLow": 0.5,
             "earningsHigh": 0.65,
-            "revenueAverage": 9933070000,
-            "revenueLow": 8963380000,
-            "revenueHigh": 10902800000
+            "revenueAverage": 9883400000,
+            "revenueLow": 8918560000,
+            "revenueHigh": 10848200000
         },
         "exDividendDate": "2024-02-13 19:00:00",
         "dividendDate": "2024-02-29 19:00:00"
@@ -271,12 +270,11 @@
                     "estimate": 0.5
                 }
             ],
-            "currentQuarterEstimate": 0.6,
+            "currentQuarterEstimate": 0.59,
             "currentQuarterEstimateDate": "1Q",
             "currentQuarterEstimateYear": 2024,
             "earningsDate": [
-                "2024-05-03 08:30:S",
-                "2024-05-07 08:30:S"
+                "2024-05-10 08:30:S"
             ]
         },
         "financialsChart": {
@@ -369,25 +367,25 @@
                 "maxAge": 1,
                 "period": "0q",
                 "endDate": "2024-03-31",
-                "growth": -0.063,
+                "growth": -0.078,
                 "earningsEstimate": {
-                    "avg": 0.6,
+                    "avg": 0.59,
                     "low": 0.5,
                     "high": 0.65,
                     "yearAgoEps": 0.64,
                     "numberOfAnalysts": 9,
-                    "growth": -0.063
+                    "growth": -0.078
                 },
                 "revenueEstimate": {
-                    "avg": 9933070000,
-                    "low": 8963380000,
-                    "high": 10902800000,
+                    "avg": 9883400000,
+                    "low": 8918560000,
+                    "high": 10848200000,
                     "numberOfAnalysts": 2,
                     "yearAgoRevenue": 12069400000,
-                    "growth": -0.177
+                    "growth": -0.18100001
                 },
                 "epsTrend": {
-                    "current": 0.6,
+                    "current": 0.59,
                     "7daysAgo": 0.59,
                     "30daysAgo": 0.59,
                     "60daysAgo": 0.62,
@@ -414,18 +412,18 @@
                     "growth": -0.08
                 },
                 "revenueEstimate": {
-                    "avg": 7790000000,
-                    "low": 6991480000,
-                    "high": 8588520000,
+                    "avg": 7751050000,
+                    "low": 6956520000,
+                    "high": 8545580000,
                     "numberOfAnalysts": 2,
                     "yearAgoRevenue": 7644990000,
-                    "growth": 0.019
+                    "growth": 0.0139999995
                 },
                 "epsTrend": {
                     "current": 0.46,
                     "7daysAgo": 0.46,
                     "30daysAgo": 0.46,
-                    "60daysAgo": 0.5,
+                    "60daysAgo": 0.49,
                     "90daysAgo": 0.51
                 },
                 "epsRevisions": {
@@ -441,26 +439,26 @@
                 "endDate": "2024-12-31",
                 "growth": 0.015,
                 "earningsEstimate": {
-                    "avg": 2.09,
-                    "low": 1.89,
-                    "high": 2.26,
-                    "yearAgoEps": 2.06,
+                    "avg": 2.08,
+                    "low": 1.88,
+                    "high": 2.25,
+                    "yearAgoEps": 2.05,
                     "numberOfAnalysts": 12,
                     "growth": 0.015
                 },
                 "revenueEstimate": {
-                    "avg": 33702000000,
-                    "low": 30782900000,
-                    "high": 35249500000,
+                    "avg": 33533400000,
+                    "low": 30629000000,
+                    "high": 35073200000,
                     "numberOfAnalysts": 5,
-                    "yearAgoRevenue": 32272800000,
+                    "yearAgoRevenue": 32111400000,
                     "growth": 0.044
                 },
                 "epsTrend": {
-                    "current": 2.09,
-                    "7daysAgo": 2.08,
-                    "30daysAgo": 2.05,
-                    "60daysAgo": 2.06,
+                    "current": 2.08,
+                    "7daysAgo": 2.09,
+                    "30daysAgo": 2.06,
+                    "60daysAgo": 2.05,
                     "90daysAgo": 2.04
                 },
                 "epsRevisions": {
@@ -476,26 +474,26 @@
                 "endDate": "2025-12-31",
                 "growth": 0.053000003,
                 "earningsEstimate": {
-                    "avg": 2.2,
-                    "low": 2.03,
-                    "high": 2.34,
-                    "yearAgoEps": 2.09,
+                    "avg": 2.19,
+                    "low": 2.02,
+                    "high": 2.32,
+                    "yearAgoEps": 2.08,
                     "numberOfAnalysts": 11,
                     "growth": 0.053000003
                 },
                 "revenueEstimate": {
-                    "avg": 35255200000,
-                    "low": 31666500000,
-                    "high": 37404700000,
+                    "avg": 35078900000,
+                    "low": 31508100000,
+                    "high": 37217700000,
                     "numberOfAnalysts": 4,
-                    "yearAgoRevenue": 33702000000,
+                    "yearAgoRevenue": 33533400000,
                     "growth": 0.046
                 },
                 "epsTrend": {
-                    "current": 2.2,
-                    "7daysAgo": 2.18,
-                    "30daysAgo": 2.17,
-                    "60daysAgo": 2.2,
+                    "current": 2.19,
+                    "7daysAgo": 2.19,
+                    "30daysAgo": 2.16,
+                    "60daysAgo": 2.19,
                     "90daysAgo": 2.22
                 },
                 "epsRevisions": {
@@ -509,7 +507,7 @@
                 "maxAge": 1,
                 "period": "+5y",
                 "endDate": null,
-                "growth": 0.0089,
+                "growth": 0.0088,
                 "earningsEstimate": {
                     "avg": {},
                     "low": {},
@@ -580,20 +578,20 @@
     "indexTrend": {
         "maxAge": 1,
         "symbol": "SP5",
-        "peRatio": 14.2576,
-        "pegRatio": 1.05702,
+        "peRatio": 14.1235,
+        "pegRatio": 1.05298,
         "estimates": [
             {
                 "period": "0q",
-                "growth": 0.004
+                "growth": 0.016
             },
             {
                 "period": "+1q",
-                "growth": 0.096999995
+                "growth": 0.11
             },
             {
                 "period": "0y",
-                "growth": 0.045
+                "growth": 0.049000002
             },
             {
                 "period": "+1y",
@@ -601,7 +599,7 @@
             },
             {
                 "period": "+5y",
-                "growth": 0.11053701
+                "growth": 0.112211
             },
             {
                 "period": "-5y"
@@ -735,7 +733,7 @@
             "value": 63273,
             "filerUrl": "",
             "transactionText": "Purchase at price 33.45 - 37.25 per share.",
-            "filerName": "HANSEN CYNTHIA L.",
+            "filerName": "HANSEN, CYNTHIA LYNN",
             "filerRelation": "Officer",
             "moneyText": "",
             "startDate": "2019-03-01",
@@ -847,7 +845,7 @@
             "shares": 4769,
             "filerUrl": "",
             "transactionText": "",
-            "filerName": "HANSEN CYNTHIA L.",
+            "filerName": "HANSEN, CYNTHIA LYNN",
             "filerRelation": "Officer",
             "moneyText": "",
             "startDate": "2019-02-12",
@@ -989,7 +987,7 @@
             "value": 990250,
             "filerUrl": "",
             "transactionText": "Conversion of Exercise of derivative security at price 19.80 per share.",
-            "filerName": "HANSEN CYNTHIA L.",
+            "filerName": "HANSEN, CYNTHIA LYNN",
             "filerRelation": "Officer",
             "moneyText": "",
             "startDate": "2018-12-20",
@@ -1120,7 +1118,7 @@
             "value": 401400,
             "filerUrl": "",
             "transactionText": "Sale at price 33.45 per share.",
-            "filerName": "HANSEN CYNTHIA L.",
+            "filerName": "HANSEN, CYNTHIA LYNN",
             "filerRelation": "Officer",
             "moneyText": "",
             "startDate": "2018-12-03",
@@ -1132,7 +1130,7 @@
             "value": 237660,
             "filerUrl": "",
             "transactionText": "Conversion of Exercise of derivative security at price 19.80 per share.",
-            "filerName": "HANSEN CYNTHIA L.",
+            "filerName": "HANSEN, CYNTHIA LYNN",
             "filerRelation": "Officer",
             "moneyText": "",
             "startDate": "2018-12-03",
@@ -1192,7 +1190,7 @@
             "value": 0,
             "filerUrl": "",
             "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-            "filerName": "HANSEN CYNTHIA L.",
+            "filerName": "HANSEN, CYNTHIA LYNN",
             "filerRelation": "Officer",
             "moneyText": "",
             "startDate": "2018-11-08",
@@ -1204,7 +1202,7 @@
             "value": 0,
             "filerUrl": "",
             "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-            "filerName": "HANSEN CYNTHIA L.",
+            "filerName": "HANSEN, CYNTHIA LYNN",
             "filerRelation": "Officer",
             "moneyText": "",
             "startDate": "2018-11-08",
@@ -1414,7 +1412,7 @@
             "shares": 4585,
             "filerUrl": "",
             "transactionText": "",
-            "filerName": "HANSEN CYNTHIA L.",
+            "filerName": "HANSEN, CYNTHIA LYNN",
             "filerRelation": "Officer",
             "moneyText": "",
             "startDate": "2018-03-02",
@@ -1951,7 +1949,7 @@
             },
             {
                 "maxAge": 1,
-                "name": "HANSEN CYNTHIA L.",
+                "name": "HANSEN, CYNTHIA LYNN",
                 "relation": "Officer",
                 "url": "",
                 "transactionDescription": "Purchase",
@@ -2114,8 +2112,8 @@
         "majorHolders": {
             "maxAge": 1,
             "insidersPercentHeld": 0.00099,
-            "institutionsPercentHeld": 0.53668,
-            "institutionsFloatPercentHeld": 0.53721,
+            "institutionsPercentHeld": 0.53669,
+            "institutionsFloatPercentHeld": 0.53722,
             "institutionsCount": 1536
         }
     },
@@ -2157,6 +2155,6 @@
         }
     ],
     "fcfPerShare": 1.8567197786461564,
-    "fcfYield": 0.05244026767119378,
+    "fcfYield": 0.052352230811293414,
     "fcfPayoutRatio": 1.4541774321856629
 }

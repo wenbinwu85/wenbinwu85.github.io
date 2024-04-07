@@ -1,17 +1,17 @@
 {
-    "postMarketChangePercent": -0.00056080514,
-    "postMarketChange": -0.069999695,
-    "postMarketPrice": 124.75,
+    "postMarketChangePercent": -0.000881274,
+    "postMarketChange": -0.110001,
+    "postMarketPrice": 124.71,
     "regularMarketChangePercent": 0.023030879,
     "regularMarketChange": 2.8099976,
     "regularMarketPrice": 124.82,
     "regularMarketDayHigh": 125.72,
     "regularMarketDayLow": 120.02,
-    "regularMarketVolume": 4505049,
-    "averageDailyVolume10Day": 8681730,
-    "averageDailyVolume3Month": 16262898,
+    "regularMarketVolume": 4537556,
+    "averageDailyVolume10Day": 8380540,
+    "averageDailyVolume3Month": 16074091,
     "regularMarketPreviousClose": 122.01,
-    "regularMarketOpen": 122.4,
+    "regularMarketOpen": 122.6,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "quoteType": "EQUITY",
@@ -20,23 +20,23 @@
     "longName": "Arm Holdings plc",
     "marketCap": 128324943872,
     "previousClose": 122.01,
-    "open": 122.4,
+    "open": 122.6,
     "dayLow": 120.02,
     "dayHigh": 125.72,
     "payoutRatio": 0.0,
     "trailingPE": 1386.8888,
     "forwardPE": 81.5817,
-    "volume": 4505049,
-    "averageVolume": 16262898,
-    "averageVolume10days": 8681730,
+    "volume": 4537556,
+    "averageVolume": 16074091,
+    "averageVolume10days": 8380540,
     "fiftyTwoWeekLow": 46.5,
     "fiftyTwoWeekHigh": 164.0,
     "priceToSalesTrailing12Months": 43.677654,
-    "fiftyDayAverage": 117.8198,
-    "twoHundredDayAverage": 80.79228,
+    "fiftyDayAverage": 118.8014,
+    "twoHundredDayAverage": 81.10454,
     "trailingAnnualDividendRate": 0.0,
     "trailingAnnualDividendYield": 0.0,
-    "enterpriseValue": 123255472128,
+    "enterpriseValue": 126144364544,
     "profitMargins": 0.02893,
     "floatShares": 96382064,
     "sharesOutstanding": 1028080000,
@@ -46,7 +46,7 @@
     "dateShortInterest": "2024-03-14 20:00:00",
     "sharesPercentSharesOut": 0.0077,
     "heldPercentInsiders": 0.90436995,
-    "heldPercentInstitutions": 0.081870005,
+    "heldPercentInstitutions": 0.082229994,
     "shortRatio": 0.32,
     "impliedSharesOutstanding": 1028080000,
     "bookValue": 4.867,
@@ -59,10 +59,10 @@
     "trailingEps": 0.09,
     "forwardEps": 1.53,
     "pegRatio": 2.3,
-    "enterpriseToRevenue": 41.952,
-    "enterpriseToEbitda": 504.112,
-    "52WeekChange": 0.91869795,
-    "SandP52WeekChange": 0.2526338,
+    "enterpriseToRevenue": 42.935,
+    "enterpriseToEbitda": 515.928,
+    "52WeekChange": 0.9628873,
+    "SandP52WeekChange": 0.26653707,
     "currentPrice": 124.82,
     "targetHighPrice": 180.0,
     "targetLowPrice": 55.4,
@@ -501,20 +501,20 @@
     "indexTrend": {
         "maxAge": 1,
         "symbol": "SP5",
-        "peRatio": 14.2576,
-        "pegRatio": 1.05702,
+        "peRatio": 14.1235,
+        "pegRatio": 1.05298,
         "estimates": [
             {
                 "period": "0q",
-                "growth": 0.004
+                "growth": 0.016
             },
             {
                 "period": "+1q",
-                "growth": 0.096999995
+                "growth": 0.11
             },
             {
                 "period": "0y",
-                "growth": 0.045
+                "growth": 0.049000002
             },
             {
                 "period": "+1y",
@@ -522,7 +522,7 @@
             },
             {
                 "period": "+5y",
-                "growth": 0.11053701
+                "growth": 0.112211
             },
             {
                 "period": "-5y"
@@ -753,9 +753,9 @@
         "majorHolders": {
             "maxAge": 1,
             "insidersPercentHeld": 0.90436995,
-            "institutionsPercentHeld": 0.081870005,
-            "institutionsFloatPercentHeld": 0.85616994,
-            "institutionsCount": 373
+            "institutionsPercentHeld": 0.082229994,
+            "institutionsFloatPercentHeld": 0.8599,
+            "institutionsCount": 374
         }
     },
     "upgradeDowngradeHistory": [

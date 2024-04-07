@@ -5,28 +5,28 @@
             "provider": "Trading Central",
             "sector": "Real Estate",
             "shortTermOutlook": {
-                "stateDescription": "Recent bearish events outweigh bullish events.",
-                "direction": "Bearish",
-                "score": 3,
-                "scoreDescription": "Strong Bearish Evidence",
+                "stateDescription": "Recent bullish events outweigh bearish events.",
+                "direction": "Bullish",
+                "score": 1,
+                "scoreDescription": "Weak Bullish Evidence",
                 "sectorDirection": "Bearish",
-                "sectorScore": 2,
-                "sectorScoreDescription": "Bearish Evidence",
+                "sectorScore": 3,
+                "sectorScoreDescription": "Strong Bearish Evidence",
                 "indexDirection": "Bearish",
                 "indexScore": 4,
                 "indexScoreDescription": "Very Strong Bearish Evidence"
             },
             "intermediateTermOutlook": {
-                "stateDescription": "Recent bearish events outweigh bullish events.",
-                "direction": "Bearish",
-                "score": 2,
-                "scoreDescription": "Bearish Evidence",
+                "stateDescription": "The bullish and bearish events are balanced.",
+                "direction": "Neutral",
+                "score": 0,
+                "scoreDescription": "Neutral Evidence",
                 "sectorDirection": "Bearish",
-                "sectorScore": 1,
-                "sectorScoreDescription": "Weak Bearish Evidence",
+                "sectorScore": 3,
+                "sectorScoreDescription": "Strong Bearish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 1,
-                "indexScoreDescription": "Weak Bearish Evidence"
+                "indexScore": 2,
+                "indexScoreDescription": "Bearish Evidence"
             },
             "longTermOutlook": {
                 "stateDescription": "Bullish events outweigh bearish events.",
@@ -45,7 +45,7 @@
             "provider": "Trading Central",
             "support": 134.85,
             "resistance": 144.035,
-            "stopLoss": 131.848657
+            "stopLoss": 131.799174
         },
         "valuation": {
             "color": 0.0,
@@ -61,8 +61,8 @@
             "innovativeness": 0.5078,
             "sustainability": 0.4082,
             "insiderSentiments": 0.4753,
-            "earningsReports": 0.8981,
-            "dividends": 0.19140000000000001
+            "earningsReports": 0.903,
+            "dividends": 0.1866
         },
         "sector": {
             "innovativeness": 0.5,

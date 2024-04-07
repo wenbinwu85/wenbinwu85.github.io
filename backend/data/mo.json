@@ -1,15 +1,15 @@
 {
-    "postMarketChangePercent": 0.0007202588,
-    "postMarketChange": 0.02999878,
-    "postMarketPrice": 41.68,
+    "postMarketChangePercent": 0.0014405176,
+    "postMarketChange": 0.05999756,
+    "postMarketPrice": 41.71,
     "regularMarketChangePercent": 0.0028895438,
     "regularMarketChange": 0.12000275,
     "regularMarketPrice": 41.65,
     "regularMarketDayHigh": 41.7625,
     "regularMarketDayLow": 41.37,
     "regularMarketVolume": 8454447,
-    "averageDailyVolume10Day": 14949490,
-    "averageDailyVolume3Month": 12101985,
+    "averageDailyVolume10Day": 13696190,
+    "averageDailyVolume3Month": 12044203,
     "regularMarketPreviousClose": 41.53,
     "regularMarketOpen": 41.48,
     "exchange": "NYQ",
@@ -18,13 +18,13 @@
     "symbol": "MO",
     "shortName": "Altria Group, Inc.",
     "longName": "Altria Group, Inc.",
-    "marketCap": 73448112128,
+    "marketCap": 71539294208,
     "previousClose": 41.53,
     "open": 41.48,
     "dayLow": 41.37,
     "dayHigh": 41.7625,
     "dividendRate": 3.92,
-    "dividendYield": 0.094399996,
+    "dividendYield": 0.0941,
     "exDividendDate": "2024-03-21 20:00:00",
     "payoutRatio": 0.84029996,
     "fiveYearAvgDividendYield": 7.87,
@@ -32,26 +32,26 @@
     "trailingPE": 9.113786,
     "forwardPE": 7.903226,
     "volume": 8454447,
-    "averageVolume": 12101985,
-    "averageVolume10days": 14949490,
+    "averageVolume": 12044203,
+    "averageVolume10days": 13696190,
     "fiftyTwoWeekLow": 39.07,
     "fiftyTwoWeekHigh": 48.04,
-    "priceToSalesTrailing12Months": 3.5824852,
-    "fiftyDayAverage": 41.637,
-    "twoHundredDayAverage": 42.4293,
+    "priceToSalesTrailing12Months": 3.4893813,
+    "fiftyDayAverage": 41.6714,
+    "twoHundredDayAverage": 42.4202,
     "trailingAnnualDividendRate": 3.84,
     "trailingAnnualDividendYield": 0.09246328,
-    "enterpriseValue": 95833571328,
+    "enterpriseValue": 96045178880,
     "profitMargins": 0.39655,
-    "floatShares": 1760446255,
-    "sharesOutstanding": 1763459968,
+    "floatShares": 1760499159,
+    "sharesOutstanding": 1717629952,
     "sharesShort": 14530929,
     "sharesShortPriorMonth": 14607254,
     "sharesShortPreviousMonthDate": "2024-02-14 19:00:00",
     "dateShortInterest": "2024-03-14 20:00:00",
     "sharesPercentSharesOut": 0.0082,
-    "heldPercentInsiders": 0.00092,
-    "heldPercentInstitutions": 0.57342,
+    "heldPercentInsiders": 0.00102,
+    "heldPercentInstitutions": 0.59931,
     "shortRatio": 1.14,
     "shortPercentOfFloat": 0.0082,
     "impliedSharesOutstanding": 1763459968,
@@ -64,10 +64,10 @@
     "trailingEps": 4.57,
     "forwardEps": 5.27,
     "pegRatio": 2.93,
-    "enterpriseToRevenue": 4.674,
-    "enterpriseToEbitda": 7.686,
-    "52WeekChange": -0.066741586,
-    "SandP52WeekChange": 0.2526338,
+    "enterpriseToRevenue": 4.685,
+    "enterpriseToEbitda": 7.703,
+    "52WeekChange": -0.06404495,
+    "SandP52WeekChange": 0.26653707,
     "lastDividendValue": 0.98,
     "lastDividendDate": 1711065600,
     "currentPrice": 41.65,
@@ -147,6 +147,33 @@
             },
             {
                 "maxAge": 1,
+                "name": "Mr. Charles N. Whitaker",
+                "age": 56,
+                "title": "Senior VP, Chief Human Resources Officer & Chief Compliance Officer",
+                "yearBorn": 1967,
+                "fiscalYear": 2015,
+                "totalPay": 1042492,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mac  Livingston",
+                "title": "Vice President of Investor Relations",
+                "fiscalYear": 2015,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Robert A. McCarter III",
+                "title": "Executive VP & General Counsel",
+                "fiscalYear": 2015,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
                 "name": "Ms. Shannon  Leistra",
                 "title": "President & CEO of NJOY, LLC",
                 "fiscalYear": 2015,
@@ -165,6 +192,14 @@
                 "maxAge": 1,
                 "name": "Ms. Kenya  Blake",
                 "title": "MD & GM of Horizon Innovations",
+                "fiscalYear": 2015,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Olivier  Houpert",
+                "title": "Chief Innovation & Product Officer for Altria Client Services LLC",
                 "fiscalYear": 2015,
                 "exercisedValue": 0,
                 "unexercisedValue": 0
@@ -337,9 +372,9 @@
                 },
                 "epsTrend": {
                     "current": 1.15,
-                    "7daysAgo": 1.15,
+                    "7daysAgo": 1.06,
                     "30daysAgo": 1.15,
-                    "60daysAgo": 1.16,
+                    "60daysAgo": 1.08,
                     "90daysAgo": 1.19
                 },
                 "epsRevisions": {
@@ -372,9 +407,9 @@
                 },
                 "epsTrend": {
                     "current": 1.32,
-                    "7daysAgo": 1.32,
+                    "7daysAgo": 1.22,
                     "30daysAgo": 1.32,
-                    "60daysAgo": 1.32,
+                    "60daysAgo": 1.23,
                     "90daysAgo": 1.34
                 },
                 "epsRevisions": {
@@ -407,9 +442,9 @@
                 },
                 "epsTrend": {
                     "current": 5.06,
-                    "7daysAgo": 5.06,
+                    "7daysAgo": 4.69,
                     "30daysAgo": 5.05,
-                    "60daysAgo": 5.07,
+                    "60daysAgo": 4.72,
                     "90daysAgo": 5.1
                 },
                 "epsRevisions": {
@@ -442,9 +477,9 @@
                 },
                 "epsTrend": {
                     "current": 5.27,
-                    "7daysAgo": 5.27,
+                    "7daysAgo": 4.88,
                     "30daysAgo": 5.24,
-                    "60daysAgo": 5.26,
+                    "60daysAgo": 4.9,
                     "90daysAgo": 5.28
                 },
                 "epsRevisions": {
@@ -529,20 +564,20 @@
     "indexTrend": {
         "maxAge": 1,
         "symbol": "SP5",
-        "peRatio": 14.2576,
-        "pegRatio": 1.05702,
+        "peRatio": 14.1235,
+        "pegRatio": 1.05298,
         "estimates": [
             {
                 "period": "0q",
-                "growth": 0.004
+                "growth": 0.016
             },
             {
                 "period": "+1q",
-                "growth": 0.096999995
+                "growth": 0.11
             },
             {
                 "period": "0y",
-                "growth": 0.045
+                "growth": 0.049000002
             },
             {
                 "period": "+1y",
@@ -550,7 +585,7 @@
             },
             {
                 "period": "+5y",
-                "growth": 0.11053701
+                "growth": 0.112211
             },
             {
                 "period": "-5y"
@@ -792,7 +827,7 @@
             "value": 48599,
             "filerUrl": "",
             "transactionText": "Purchase at price 40.50 per share.",
-            "filerName": "DAVIS ROBERT MATTHEWS",
+            "filerName": "DAVIS ROBERT MATTHEW",
             "filerRelation": "Director",
             "moneyText": "",
             "startDate": "2023-11-06",
@@ -912,7 +947,7 @@
             "value": 0,
             "filerUrl": "",
             "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-            "filerName": "DAVIS ROBERT MATTHEWS",
+            "filerName": "DAVIS ROBERT MATTHEW",
             "filerRelation": "Director",
             "moneyText": "",
             "startDate": "2023-05-18",
@@ -1344,7 +1379,7 @@
             "value": 0,
             "filerUrl": "",
             "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-            "filerName": "DAVIS ROBERT MATTHEWS",
+            "filerName": "DAVIS ROBERT MATTHEW",
             "filerRelation": "Director",
             "moneyText": "",
             "startDate": "2022-05-19",
@@ -2682,10 +2717,10 @@
         ],
         "majorHolders": {
             "maxAge": 1,
-            "insidersPercentHeld": 0.00092,
-            "institutionsPercentHeld": 0.57342,
-            "institutionsFloatPercentHeld": 0.57394004,
-            "institutionsCount": 2261
+            "insidersPercentHeld": 0.00102,
+            "institutionsPercentHeld": 0.59931,
+            "institutionsFloatPercentHeld": 0.59992003,
+            "institutionsCount": 2262
         }
     },
     "upgradeDowngradeHistory": [
@@ -2725,7 +2760,7 @@
             "action": "main"
         }
     ],
-    "fcfPerShare": 7.874363641919656,
-    "fcfYield": 0.18906034006429295,
-    "fcfPayoutRatio": 0.4978180051441415
+    "fcfPerShare": 8.084468391943831,
+    "fcfYield": 0.1941048651616018,
+    "fcfPayoutRatio": 0.48488036689045355
 }

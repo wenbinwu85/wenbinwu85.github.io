@@ -7,8 +7,8 @@
             "shortTermOutlook": {
                 "stateDescription": "Recent bearish events outweigh bullish events.",
                 "direction": "Bearish",
-                "score": 4,
-                "scoreDescription": "Very Strong Bearish Evidence",
+                "score": 3,
+                "scoreDescription": "Strong Bearish Evidence",
                 "sectorDirection": "Bearish",
                 "sectorScore": 4,
                 "sectorScoreDescription": "Very Strong Bearish Evidence",
@@ -22,11 +22,11 @@
                 "score": 1,
                 "scoreDescription": "Weak Bearish Evidence",
                 "sectorDirection": "Bearish",
-                "sectorScore": 4,
-                "sectorScoreDescription": "Very Strong Bearish Evidence",
+                "sectorScore": 3,
+                "sectorScoreDescription": "Strong Bearish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 1,
-                "indexScoreDescription": "Weak Bearish Evidence"
+                "indexScore": 2,
+                "indexScoreDescription": "Bearish Evidence"
             },
             "longTermOutlook": {
                 "stateDescription": "There are no events.",
@@ -44,13 +44,13 @@
         "keyTechnicals": {
             "provider": "Trading Central",
             "support": 332.89,
-            "resistance": 420.55,
-            "stopLoss": 405.448968
+            "resistance": 427.82,
+            "stopLoss": 399.908531
         },
         "valuation": {
             "color": 0.0,
             "description": "Overvalued",
-            "discount": "-2%",
+            "discount": "-3%",
             "relativeValue": "Premium",
             "provider": "Trading Central"
         }
@@ -62,7 +62,7 @@
             "hiring": 0.9662999999999999,
             "sustainability": 0.3644,
             "insiderSentiments": 0.32659999999999995,
-            "earningsReports": 0.8841,
+            "earningsReports": 0.8865000000000001,
             "dividends": 0.1408
         },
         "sector": {
@@ -106,7 +106,7 @@
     },
     "events": [
         {
-            "eventType": "Price Crosses Moving Average",
+            "eventType": "Short-term KST",
             "pricePeriod": "D",
             "tradingHorizon": "S",
             "tradeType": "S",

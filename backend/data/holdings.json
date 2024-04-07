@@ -2,7 +2,7 @@
     "portfolioPositions": 22,
     "portfolioMarketValue": 127894.78,
     "portfolioTotalInvestment": 96927.92,
-    "portfolioDividendIncome": 5310.81866133854,
+    "portfolioDividendIncome": 5312.56866133854,
     "portfolioUnrealizedGain": 30966.860000000004,
     "portfolioUnrealizedGainPercent": 0.31948338517942,
     "AAPL": {
@@ -131,8 +131,8 @@
         "marketValue": 1040.55,
         "unrealizedGain": 178.14999999999998,
         "unrealizedGainPercent": 0.2065746753246753,
-        "dividendIncome": 70.35,
-        "yieldOnCost": 0.08157467532467531,
+        "dividendIncome": 72.10000000000001,
+        "yieldOnCost": 0.08360389610389611,
         "portfolioPercent": 0.0081359849088446
     },
     "ET": {
@@ -291,6 +291,6 @@
         "yieldOnCost": 0.03185085595927645,
         "portfolioPercent": 0.032636984871470126
     },
-    "portfolioYieldOnCost": 0.054791422959850365,
-    "portfolioYield": 0.041524905561732384
+    "portfolioYieldOnCost": 0.05480947761324642,
+    "portfolioYield": 0.04153858868468705
 }

@@ -10,8 +10,8 @@
                 "score": 4,
                 "scoreDescription": "Very Strong Bullish Evidence",
                 "sectorDirection": "Bearish",
-                "sectorScore": 4,
-                "sectorScoreDescription": "Very Strong Bearish Evidence",
+                "sectorScore": 3,
+                "sectorScoreDescription": "Strong Bearish Evidence",
                 "indexDirection": "Bearish",
                 "indexScore": 4,
                 "indexScoreDescription": "Very Strong Bearish Evidence"
@@ -19,14 +19,14 @@
             "intermediateTermOutlook": {
                 "stateDescription": "Recent bullish events outweigh bearish events.",
                 "direction": "Bullish",
-                "score": 2,
-                "scoreDescription": "Bullish Evidence",
+                "score": 3,
+                "scoreDescription": "Strong Bullish Evidence",
                 "sectorDirection": "Bullish",
                 "sectorScore": 2,
                 "sectorScoreDescription": "Bullish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 1,
-                "indexScoreDescription": "Weak Bearish Evidence"
+                "indexScore": 2,
+                "indexScoreDescription": "Bearish Evidence"
             },
             "longTermOutlook": {
                 "stateDescription": "All events are bullish.",
@@ -44,8 +44,8 @@
         "keyTechnicals": {
             "provider": "Trading Central",
             "support": 19.595,
-            "resistance": 20.495,
-            "stopLoss": 19.609044
+            "resistance": 20.66,
+            "stopLoss": 19.91271
         },
         "valuation": {
             "color": 0.5,
@@ -59,8 +59,8 @@
         "company": {
             "innovativeness": 0.012,
             "insiderSentiments": 0.5155,
-            "earningsReports": 0.45659999999999995,
-            "dividends": 0.8704999999999999
+            "earningsReports": 0.4547,
+            "dividends": 0.8695999999999999
         },
         "sector": {
             "innovativeness": 0.5,
@@ -219,15 +219,6 @@
             "formType": "8-K"
         },
         {
-            "id": "0001287750-23-000043_1287750",
-            "type": "Corporate Changes & Voting Matters",
-            "title": "8-K : Corporate Changes & Voting Matters",
-            "description": "Current report filing",
-            "filingDate": 1698105600000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001287750/000128775023000043/thumbnail.png",
-            "formType": "8-K"
-        },
-        {
             "id": "0001287750-23-000045_1287750",
             "type": "Periodic Financial Reports",
             "title": "10-Q : Periodic Financial Reports",
@@ -235,6 +226,15 @@
             "filingDate": 1698105600000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001287750/000128775023000045/thumbnail.png",
             "formType": "10-Q"
+        },
+        {
+            "id": "0001287750-23-000043_1287750",
+            "type": "Corporate Changes & Voting Matters",
+            "title": "8-K : Corporate Changes & Voting Matters",
+            "description": "Current report filing",
+            "filingDate": 1698105600000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001287750/000128775023000043/thumbnail.png",
+            "formType": "8-K"
         },
         {
             "id": "0001287750-23-000039_1287750",

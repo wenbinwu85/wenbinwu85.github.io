@@ -10,8 +10,8 @@
                 "score": 4,
                 "scoreDescription": "Very Strong Bearish Evidence",
                 "sectorDirection": "Bearish",
-                "sectorScore": 4,
-                "sectorScoreDescription": "Very Strong Bearish Evidence",
+                "sectorScore": 3,
+                "sectorScoreDescription": "Strong Bearish Evidence",
                 "indexDirection": "Bearish",
                 "indexScore": 4,
                 "indexScoreDescription": "Very Strong Bearish Evidence"
@@ -22,17 +22,17 @@
                 "score": 1,
                 "scoreDescription": "Weak Bullish Evidence",
                 "sectorDirection": "Bearish",
-                "sectorScore": 2,
-                "sectorScoreDescription": "Bearish Evidence",
+                "sectorScore": 1,
+                "sectorScoreDescription": "Weak Bearish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 1,
-                "indexScoreDescription": "Weak Bearish Evidence"
+                "indexScore": 2,
+                "indexScoreDescription": "Bearish Evidence"
             },
             "longTermOutlook": {
                 "stateDescription": "All events are bearish.",
                 "direction": "Bearish",
-                "score": 2,
-                "scoreDescription": "Bearish Evidence",
+                "score": 3,
+                "scoreDescription": "Strong Bearish Evidence",
                 "sectorDirection": "Bullish",
                 "sectorScore": 2,
                 "sectorScoreDescription": "Bullish Evidence",
@@ -45,7 +45,7 @@
             "provider": "Trading Central",
             "support": 40.35,
             "resistance": 45.45,
-            "stopLoss": 39.893678
+            "stopLoss": 39.388285
         },
         "valuation": {
             "color": 0.5,
@@ -61,8 +61,8 @@
             "hiring": 0.6476000000000001,
             "sustainability": 0.8525,
             "insiderSentiments": 0.763,
-            "earningsReports": 0.703,
-            "dividends": 0.9745999999999999
+            "earningsReports": 0.7068000000000001,
+            "dividends": 0.9842
         },
         "sector": {
             "innovativeness": 0.5,

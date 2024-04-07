@@ -1,15 +1,15 @@
 {
-    "postMarketChangePercent": 0.0009385853,
-    "postMarketChange": 0.069999695,
-    "postMarketPrice": 74.65,
+    "postMarketChangePercent": -0.00040223598,
+    "postMarketChange": -0.0299988,
+    "postMarketPrice": 74.55,
     "regularMarketChangePercent": 0.009201628,
     "regularMarketChange": 0.6800003,
     "regularMarketPrice": 74.58,
     "regularMarketDayHigh": 75.12,
     "regularMarketDayLow": 73.7,
     "regularMarketVolume": 6351083,
-    "averageDailyVolume10Day": 10493180,
-    "averageDailyVolume3Month": 11102055,
+    "averageDailyVolume10Day": 10249880,
+    "averageDailyVolume3Month": 11025683,
     "regularMarketPreviousClose": 73.9,
     "regularMarketOpen": 74.06,
     "exchange": "NYQ",
@@ -24,7 +24,7 @@
     "dayLow": 73.7,
     "dayHigh": 75.12,
     "dividendRate": 2.66,
-    "dividendYield": 0.036,
+    "dividendYield": 0.0357,
     "exDividendDate": "2024-04-18 20:00:00",
     "payoutRatio": 0.374,
     "fiveYearAvgDividendYield": 2.86,
@@ -32,18 +32,18 @@
     "trailingPE": 11.527048,
     "forwardPE": 8.115343,
     "volume": 6351083,
-    "averageVolume": 11102055,
-    "averageVolume10days": 10493180,
+    "averageVolume": 11025683,
+    "averageVolume10days": 10249880,
     "fiftyTwoWeekLow": 64.41,
     "fiftyTwoWeekHigh": 83.25,
     "priceToSalesTrailing12Months": 0.26317766,
-    "fiftyDayAverage": 75.8296,
-    "twoHundredDayAverage": 72.65095,
+    "fiftyDayAverage": 75.8374,
+    "twoHundredDayAverage": 72.6805,
     "trailingAnnualDividendRate": 2.42,
     "trailingAnnualDividendYield": 0.032746956,
-    "enterpriseValue": 161104429056,
+    "enterpriseValue": 161960165376,
     "profitMargins": 0.0234,
-    "floatShares": 1254837803,
+    "floatShares": 1254951063,
     "sharesOutstanding": 1258450048,
     "sharesShort": 18644394,
     "sharesShortPriorMonth": 30761242,
@@ -51,7 +51,7 @@
     "dateShortInterest": "2024-03-14 20:00:00",
     "sharesPercentSharesOut": 0.0148,
     "heldPercentInsiders": 0.00117,
-    "heldPercentInstitutions": 0.8303,
+    "heldPercentInstitutions": 0.83018994,
     "shortRatio": 2.07,
     "shortPercentOfFloat": 0.0148,
     "impliedSharesOutstanding": 1258450048,
@@ -65,10 +65,10 @@
     "trailingEps": 6.47,
     "forwardEps": 9.19,
     "pegRatio": 2.41,
-    "enterpriseToRevenue": 0.452,
-    "enterpriseToEbitda": 8.737,
-    "52WeekChange": -0.028143108,
-    "SandP52WeekChange": 0.2526338,
+    "enterpriseToRevenue": 0.454,
+    "enterpriseToEbitda": 8.784,
+    "52WeekChange": -0.019200444,
+    "SandP52WeekChange": 0.26653707,
     "lastDividendValue": 0.665,
     "lastDividendDate": 1705622400,
     "currentPrice": 74.58,
@@ -113,7 +113,7 @@
         "sector": "Healthcare",
         "sectorKey": "healthcare",
         "sectorDisp": "Healthcare",
-        "longBusinessSummary": "CVS Health Corporation provides health solutions in the United States. It operates through Health Care Benefits, Health Services, and Pharmacy & Consumer Wellness segments. The Health Care Benefits segment offers traditional, voluntary, and consumer-directed health insurance products and related services. It serves employer groups, individuals, college students, part-time and hourly workers, health plans, health care providers, governmental units, government-sponsored plans, labor groups, and expatriates. The Health Services segment offers pharmacy benefit management solutions, including plan design and administration, formulary management, retail pharmacy network management, mail order pharmacy, specialty pharmacy and infusion, clinical, and disease and medical spend management services. It serves employers, insurance companies, unions, government employee groups, health plans, prescription drug plans, Medicaid managed care plans, CMS, plans offered on public health insurance and private health insurance exchanges, other sponsors of health benefit plans, and individuals. The Pharmacy & Consumer Wellness segment sells prescription and over-the-counter drugs, consumer health and beauty products, and personal care products. This segment also distributes prescription drugs; and provides related pharmacy consulting and other ancillary services to care facilities and other care settings. It operates online retail pharmacy websites, LTC pharmacies and on-site pharmacies, retail specialty pharmacy stores, compounding pharmacies and branches for infusion and enteral nutrition services. The company was formerly known as CVS Caremark Corporation and changed its name to CVS Health Corporation in September 2014. CVS Health Corporation was incorporated in 1996 and is headquartered in Woonsocket, Rhode Island.",
+        "longBusinessSummary": "CVS Health Corporation provides health solutions in the United States. It operates through Health Care Benefits, Health Services, and Pharmacy & Consumer Wellness segments. The Health Care Benefits segment offers traditional, voluntary, and consumer-directed health insurance products and related services. It serves employer groups, individuals, college students, part-time and hourly workers, health plans, health care providers, governmental units, government-sponsored plans, labor groups, and expatriates. The Health Services segment offers pharmacy benefit management solutions, including plan design and administration, formulary management, retail pharmacy network management, specialty and mail order pharmacy, clinical, disease management, and medical spend management services. It serves employers, insurance companies, unions, government employee groups, health plans, prescription drug plans, Medicaid managed care plans, CMS, plans offered on public health insurance, and other sponsors of health benefit plans. The Pharmacy & Consumer Wellness segment sells prescription and over-the-counter drugs, consumer health and beauty products, and personal care products. This segment also distributes prescription drugs; and provides related pharmacy consulting and other ancillary services to care facilities and other care settings. It operates online retail pharmacy websites, LTC pharmacies and on-site pharmacies, retail specialty pharmacy stores, compounding pharmacies and branches for infusion and enteral nutrition services. The company was formerly known as CVS Caremark Corporation and changed its name to CVS Health Corporation in September 2014. CVS Health Corporation was incorporated in 1996 and is headquartered in Woonsocket, Rhode Island.",
         "fullTimeEmployees": 219000,
         "companyOfficers": [
             {
@@ -383,7 +383,7 @@
                     "current": 1.71,
                     "7daysAgo": 1.71,
                     "30daysAgo": 1.73,
-                    "60daysAgo": 2.02,
+                    "60daysAgo": 1.87,
                     "90daysAgo": 2.03
                 },
                 "epsRevisions": {
@@ -418,7 +418,7 @@
                     "current": 2.22,
                     "7daysAgo": 2.22,
                     "30daysAgo": 2.19,
-                    "60daysAgo": 2.2,
+                    "60daysAgo": 2.03,
                     "90daysAgo": 2.2
                 },
                 "epsRevisions": {
@@ -452,8 +452,8 @@
                 "epsTrend": {
                     "current": 8.3,
                     "7daysAgo": 8.31,
-                    "30daysAgo": 8.32,
-                    "60daysAgo": 8.5,
+                    "30daysAgo": 8.31,
+                    "60daysAgo": 7.91,
                     "90daysAgo": 8.52
                 },
                 "epsRevisions": {
@@ -487,8 +487,8 @@
                 "epsTrend": {
                     "current": 9.19,
                     "7daysAgo": 9.22,
-                    "30daysAgo": 9.22,
-                    "60daysAgo": 9.33,
+                    "30daysAgo": 9.21,
+                    "60daysAgo": 8.69,
                     "90daysAgo": 9.38
                 },
                 "epsRevisions": {
@@ -573,20 +573,20 @@
     "indexTrend": {
         "maxAge": 1,
         "symbol": "SP5",
-        "peRatio": 14.2576,
-        "pegRatio": 1.05702,
+        "peRatio": 14.1235,
+        "pegRatio": 1.05298,
         "estimates": [
             {
                 "period": "0q",
-                "growth": 0.004
+                "growth": 0.016
             },
             {
                 "period": "+1q",
-                "growth": 0.096999995
+                "growth": 0.11
             },
             {
                 "period": "0y",
-                "growth": 0.045
+                "growth": 0.049000002
             },
             {
                 "period": "+1y",
@@ -594,7 +594,7 @@
             },
             {
                 "period": "+5y",
-                "growth": 0.11053701
+                "growth": 0.112211
             },
             {
                 "period": "-5y"
@@ -2727,9 +2727,9 @@
         "majorHolders": {
             "maxAge": 1,
             "insidersPercentHeld": 0.00117,
-            "institutionsPercentHeld": 0.8303,
-            "institutionsFloatPercentHeld": 0.83127,
-            "institutionsCount": 2785
+            "institutionsPercentHeld": 0.83018994,
+            "institutionsFloatPercentHeld": 0.83115995,
+            "institutionsCount": 2784
         }
     },
     "upgradeDowngradeHistory": [

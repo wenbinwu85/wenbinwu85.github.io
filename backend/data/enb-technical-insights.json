@@ -7,8 +7,8 @@
             "shortTermOutlook": {
                 "stateDescription": "Recent bearish events outweigh bullish events.",
                 "direction": "Bearish",
-                "score": 3,
-                "scoreDescription": "Strong Bearish Evidence",
+                "score": 4,
+                "scoreDescription": "Very Strong Bearish Evidence",
                 "sectorDirection": "Bullish",
                 "sectorScore": 1,
                 "sectorScoreDescription": "Weak Bullish Evidence",
@@ -17,22 +17,22 @@
                 "indexScoreDescription": "Very Strong Bearish Evidence"
             },
             "intermediateTermOutlook": {
-                "stateDescription": "All events are bullish.",
-                "direction": "Bullish",
-                "score": 3,
-                "scoreDescription": "Strong Bullish Evidence",
+                "stateDescription": "The bullish and bearish events are balanced.",
+                "direction": "Neutral",
+                "score": 0,
+                "scoreDescription": "Neutral Evidence",
                 "sectorDirection": "Bullish",
                 "sectorScore": 4,
                 "sectorScoreDescription": "Very Strong Bullish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 1,
-                "indexScoreDescription": "Weak Bearish Evidence"
+                "indexScore": 2,
+                "indexScoreDescription": "Bearish Evidence"
             },
             "longTermOutlook": {
-                "stateDescription": "Recent bullish events outweigh bearish events.",
-                "direction": "Bullish",
-                "score": 2,
-                "scoreDescription": "Bullish Evidence",
+                "stateDescription": "Recent bearish events outweigh bullish events.",
+                "direction": "Bearish",
+                "score": 1,
+                "scoreDescription": "Weak Bearish Evidence",
                 "sectorDirection": "Bullish",
                 "sectorScore": 3,
                 "sectorScoreDescription": "Strong Bullish Evidence",
@@ -43,9 +43,9 @@
         },
         "keyTechnicals": {
             "provider": "Trading Central",
-            "support": 35.62,
-            "resistance": 36.1,
-            "stopLoss": 34.374021
+            "support": 34.955,
+            "resistance": 35.945,
+            "stopLoss": 34.465401
         },
         "valuation": {
             "color": 0.5,
@@ -60,7 +60,7 @@
             "innovativeness": 0.5514,
             "sustainability": 0.0882,
             "insiderSentiments": 0.2407,
-            "dividends": 0.7014
+            "dividends": 0.6959000000000001
         },
         "sector": {
             "innovativeness": 0.5,
@@ -2510,15 +2510,6 @@
             "formType": "8-K"
         },
         {
-            "id": "0000895728-22-000019_895728",
-            "type": "Periodic Financial Reports",
-            "title": "10-Q : Periodic Financial Reports",
-            "description": "Quarterly report pursuant to Section 13 or 15(d)",
-            "filingDate": 1651795200000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000089572822000019/thumbnail.png",
-            "formType": "10-Q"
-        },
-        {
             "id": "0000895728-22-000017_895728",
             "type": "Corporate Changes & Voting Matters",
             "title": "8-K : Corporate Changes & Voting Matters",
@@ -2526,6 +2517,15 @@
             "filingDate": 1651795200000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000089572822000017/thumbnail.png",
             "formType": "8-K"
+        },
+        {
+            "id": "0000895728-22-000019_895728",
+            "type": "Periodic Financial Reports",
+            "title": "10-Q : Periodic Financial Reports",
+            "description": "Quarterly report pursuant to Section 13 or 15(d)",
+            "filingDate": 1651795200000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000089572822000019/thumbnail.png",
+            "formType": "10-Q"
         },
         {
             "id": "0001193125-22-142488_895728",

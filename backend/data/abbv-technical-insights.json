@@ -7,8 +7,8 @@
             "shortTermOutlook": {
                 "stateDescription": "Recent bearish events outweigh bullish events.",
                 "direction": "Bearish",
-                "score": 3,
-                "scoreDescription": "Strong Bearish Evidence",
+                "score": 4,
+                "scoreDescription": "Very Strong Bearish Evidence",
                 "sectorDirection": "Bearish",
                 "sectorScore": 4,
                 "sectorScoreDescription": "Very Strong Bearish Evidence",
@@ -19,14 +19,14 @@
             "intermediateTermOutlook": {
                 "stateDescription": "Recent bearish events outweigh bullish events.",
                 "direction": "Bearish",
-                "score": 2,
-                "scoreDescription": "Bearish Evidence",
+                "score": 3,
+                "scoreDescription": "Strong Bearish Evidence",
                 "sectorDirection": "Bearish",
-                "sectorScore": 2,
-                "sectorScoreDescription": "Bearish Evidence",
+                "sectorScore": 3,
+                "sectorScoreDescription": "Strong Bearish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 1,
-                "indexScoreDescription": "Weak Bearish Evidence"
+                "indexScore": 2,
+                "indexScoreDescription": "Bearish Evidence"
             },
             "longTermOutlook": {
                 "stateDescription": "All events are bullish.",
@@ -45,7 +45,7 @@
             "provider": "Trading Central",
             "support": 149.015,
             "resistance": 178.92,
-            "stopLoss": 155.233474
+            "stopLoss": 157.932153
         },
         "valuation": {
             "color": 0.5,
@@ -57,12 +57,12 @@
     "companySnapshot": {
         "sectorInfo": "Healthcare",
         "company": {
-            "innovativeness": 0.9404,
+            "innovativeness": 0.9415,
             "hiring": 0.9181,
             "sustainability": 0.9237000000000001,
             "insiderSentiments": 0.07150000000000001,
-            "earningsReports": 0.9718000000000001,
-            "dividends": 0.7686
+            "earningsReports": 0.9721,
+            "dividends": 0.7748
         },
         "sector": {
             "innovativeness": 0.5,
@@ -104,9 +104,9 @@
     },
     "events": [
         {
-            "eventType": "Momentum",
+            "eventType": "Price Crosses Moving Average",
             "pricePeriod": "D",
-            "tradingHorizon": "S",
+            "tradingHorizon": "I",
             "tradeType": "S",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
             "startDate": 1712237400,

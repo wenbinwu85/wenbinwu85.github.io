@@ -7,8 +7,8 @@
             "shortTermOutlook": {
                 "stateDescription": "Recent bearish events outweigh bullish events.",
                 "direction": "Bearish",
-                "score": 3,
-                "scoreDescription": "Strong Bearish Evidence",
+                "score": 2,
+                "scoreDescription": "Bearish Evidence",
                 "sectorDirection": "Bearish",
                 "sectorScore": 4,
                 "sectorScoreDescription": "Very Strong Bearish Evidence",
@@ -22,11 +22,11 @@
                 "score": 2,
                 "scoreDescription": "Bearish Evidence",
                 "sectorDirection": "Bearish",
-                "sectorScore": 4,
-                "sectorScoreDescription": "Very Strong Bearish Evidence",
+                "sectorScore": 3,
+                "sectorScoreDescription": "Strong Bearish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 1,
-                "indexScoreDescription": "Weak Bearish Evidence"
+                "indexScore": 2,
+                "indexScoreDescription": "Bearish Evidence"
             },
             "longTermOutlook": {
                 "stateDescription": "All events are bearish.",
@@ -43,9 +43,9 @@
         },
         "keyTechnicals": {
             "provider": "Trading Central",
-            "support": 150.66,
+            "support": 169.24,
             "resistance": 173.19,
-            "stopLoss": 162.252491
+            "stopLoss": 164.204136
         },
         "valuation": {
             "color": 0.5,
@@ -61,7 +61,7 @@
             "hiring": 0.9512999999999999,
             "sustainability": 0.5763,
             "insiderSentiments": 0.22820000000000001,
-            "earningsReports": 0.8382,
+            "earningsReports": 0.8379000000000001,
             "dividends": 0.09970000000000001
         },
         "sector": {
@@ -2162,15 +2162,6 @@
             "formType": "8-K"
         },
         {
-            "id": "0001193125-22-128361_320193",
-            "type": "Offering Registrations",
-            "title": "S-8 POS : Offering Registrations",
-            "description": "Post-effective amendment to a S-8 registration statement",
-            "filingDate": 1651190400000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000320193/000119312522128361/thumbnail.png",
-            "formType": "S-8 POS"
-        },
-        {
             "id": "0001193125-22-128368_320193",
             "type": "Offering Registrations",
             "title": "S-8 : Offering Registrations",
@@ -2178,6 +2169,15 @@
             "filingDate": 1651190400000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000320193/000119312522128368/thumbnail.png",
             "formType": "S-8"
+        },
+        {
+            "id": "0001193125-22-128361_320193",
+            "type": "Offering Registrations",
+            "title": "S-8 POS : Offering Registrations",
+            "description": "Post-effective amendment to a S-8 registration statement",
+            "filingDate": 1651190400000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000320193/000119312522128361/thumbnail.png",
+            "formType": "S-8 POS"
         },
         {
             "id": "0000320193-22-000059_320193",
