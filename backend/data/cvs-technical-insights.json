@@ -13,14 +13,14 @@
                 "sectorScore": 4,
                 "sectorScoreDescription": "Very Strong Bearish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 2,
-                "indexScoreDescription": "Bearish Evidence"
+                "indexScore": 4,
+                "indexScoreDescription": "Very Strong Bearish Evidence"
             },
             "intermediateTermOutlook": {
                 "stateDescription": "Recent bearish events outweigh bullish events.",
                 "direction": "Bearish",
-                "score": 2,
-                "scoreDescription": "Bearish Evidence",
+                "score": 3,
+                "scoreDescription": "Strong Bearish Evidence",
                 "sectorDirection": "Bearish",
                 "sectorScore": 3,
                 "sectorScoreDescription": "Strong Bearish Evidence",
@@ -29,10 +29,10 @@
                 "indexScoreDescription": "Bearish Evidence"
             },
             "longTermOutlook": {
-                "stateDescription": "Bullish events outweigh bearish events.",
-                "direction": "Bullish",
-                "score": 1,
-                "scoreDescription": "Weak Bullish Evidence",
+                "stateDescription": "Recent bearish events outweigh bullish events.",
+                "direction": "Bearish",
+                "score": 2,
+                "scoreDescription": "Bearish Evidence",
                 "sectorDirection": "Bullish",
                 "sectorScore": 3,
                 "sectorScoreDescription": "Strong Bullish Evidence",
@@ -45,24 +45,24 @@
             "provider": "Trading Central",
             "support": 69.554,
             "resistance": 76.28,
-            "stopLoss": 69.664075
+            "stopLoss": 66.965076
         },
         "valuation": {
             "color": 0.5,
             "description": "Near Fair Value",
-            "discount": "5%",
+            "discount": "6%",
             "provider": "Trading Central"
         }
     },
     "companySnapshot": {
         "sectorInfo": "Healthcare",
         "company": {
-            "innovativeness": 0.8876999999999999,
+            "innovativeness": 0.8915000000000001,
             "hiring": 0.9893000000000001,
             "sustainability": 0.4322,
-            "insiderSentiments": 0.47009999999999996,
-            "earningsReports": 0.8983,
-            "dividends": 0.7873
+            "insiderSentiments": 0.47090000000000004,
+            "earningsReports": 0.8979,
+            "dividends": 0.7853
         },
         "sector": {
             "innovativeness": 0.5,
@@ -105,13 +105,13 @@
     },
     "events": [
         {
-            "eventType": "Commodity Channel Index",
+            "eventType": "Price Crosses Moving Average",
             "pricePeriod": "D",
-            "tradingHorizon": "S",
+            "tradingHorizon": "L",
             "tradeType": "S",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1712669400,
-            "endDate": 1712669400
+            "startDate": 1712755800,
+            "endDate": 1712755800
         }
     ],
     "reports": [
@@ -1238,6 +1238,18 @@
             ]
         },
         {
+            "id": "2877_Analyst Report_1589550396000",
+            "headHtml": "Analyst Report: CVS Health Corp",
+            "provider": "Argus Research",
+            "reportDate": "2020-05-15T13:46:36Z",
+            "reportTitle": "CVS Health Corp. operated 9,900 retail drugstores at the end of 2019, including over 1,700 locations in Target stores. The total number of locations exceeds 10,000 when we include a leading specialty pharmacy, Long Term Care pharmacies, Infusion Centers where cancer medicines, for example, are delivered through a needle. The combined company posted 2019 revenue of $257 billion, with about half in the PBM business, 30% in Retail/Long Term Care, and 20% in Health Care Benefits. Approximately 75% of the $87 billion in Retail and long-term care revenue came from prescriptions; 25% from over-the-counter medicines, Beauty and General Merchandise. The 2019 results include Aetna, which was acquired at the end of 2018.\r\n\r\nCVS operated approximately 1,100 Minute Clinics, primarily within CVS pharmacy stores. The corporate headquarters is in Woonsocket, Rhode Island.",
+            "targetPrice": 85.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "CVS"
+            ]
+        },
+        {
             "id": "26951_Market Update_1589550396000",
             "headHtml": "Market Update: BDX, HST, MSI, CVS",
             "provider": "Argus Research",
@@ -1248,18 +1260,6 @@
                 "MSI",
                 "BDX",
                 "HST"
-            ]
-        },
-        {
-            "id": "2877_Analyst Report_1589550396000",
-            "headHtml": "Analyst Report: CVS Health Corp",
-            "provider": "Argus Research",
-            "reportDate": "2020-05-15T13:46:36Z",
-            "reportTitle": "CVS Health Corp. operated 9,900 retail drugstores at the end of 2019, including over 1,700 locations in Target stores. The total number of locations exceeds 10,000 when we include a leading specialty pharmacy, Long Term Care pharmacies, Infusion Centers where cancer medicines, for example, are delivered through a needle. The combined company posted 2019 revenue of $257 billion, with about half in the PBM business, 30% in Retail/Long Term Care, and 20% in Health Care Benefits. Approximately 75% of the $87 billion in Retail and long-term care revenue came from prescriptions; 25% from over-the-counter medicines, Beauty and General Merchandise. The 2019 results include Aetna, which was acquired at the end of 2018.\r\n\r\nCVS operated approximately 1,100 Minute Clinics, primarily within CVS pharmacy stores. The corporate headquarters is in Woonsocket, Rhode Island.",
-            "targetPrice": 85.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "CVS"
             ]
         },
         {

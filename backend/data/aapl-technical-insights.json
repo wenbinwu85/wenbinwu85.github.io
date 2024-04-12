@@ -7,14 +7,14 @@
             "shortTermOutlook": {
                 "stateDescription": "Recent bearish events outweigh bullish events.",
                 "direction": "Bearish",
-                "score": 2,
-                "scoreDescription": "Bearish Evidence",
+                "score": 3,
+                "scoreDescription": "Strong Bearish Evidence",
                 "sectorDirection": "Bearish",
                 "sectorScore": 3,
                 "sectorScoreDescription": "Strong Bearish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 2,
-                "indexScoreDescription": "Bearish Evidence"
+                "indexScore": 4,
+                "indexScoreDescription": "Very Strong Bearish Evidence"
             },
             "intermediateTermOutlook": {
                 "stateDescription": "All events are bearish.",
@@ -22,8 +22,8 @@
                 "score": 2,
                 "scoreDescription": "Bearish Evidence",
                 "sectorDirection": "Bearish",
-                "sectorScore": 2,
-                "sectorScoreDescription": "Bearish Evidence",
+                "sectorScore": 4,
+                "sectorScoreDescription": "Very Strong Bearish Evidence",
                 "indexDirection": "Bearish",
                 "indexScore": 2,
                 "indexScoreDescription": "Bearish Evidence"
@@ -43,9 +43,9 @@
         },
         "keyTechnicals": {
             "provider": "Trading Central",
-            "support": 169.24,
+            "support": 150.66,
             "resistance": 173.19,
-            "stopLoss": 164.138503
+            "stopLoss": 163.485811
         },
         "valuation": {
             "color": 0.5,
@@ -60,9 +60,9 @@
             "innovativeness": 0.9961,
             "hiring": 0.9512999999999999,
             "sustainability": 0.5763,
-            "insiderSentiments": 0.23440000000000003,
-            "earningsReports": 0.8420000000000001,
-            "dividends": 0.1011
+            "insiderSentiments": 0.2349,
+            "earningsReports": 0.8416,
+            "dividends": 0.09949999999999999
         },
         "sector": {
             "innovativeness": 0.5,
@@ -108,10 +108,10 @@
             "eventType": "Commodity Channel Index",
             "pricePeriod": "D",
             "tradingHorizon": "S",
-            "tradeType": "U",
+            "tradeType": "S",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1712669400,
-            "endDate": 1712669400
+            "startDate": 1712755800,
+            "endDate": 1712755800
         }
     ],
     "reports": [
@@ -1904,8 +1904,8 @@
     ],
     "sigDevs": [
         {
-            "headline": "U.S. Justice Department Antitrust Chief Jonathan Kanter On Apple Lawsuit Says Investigation Was Methodical, Involved Millions Of Documents\u2013 CNBC Interview",
-            "date": "2024-03-22"
+            "headline": "Apple To Expand Repair Options With Support For Used Genuine Parts",
+            "date": "2024-04-11"
         }
     ],
     "secReports": [

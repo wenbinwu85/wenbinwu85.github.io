@@ -13,8 +13,8 @@
                 "sectorScore": 0,
                 "sectorScoreDescription": "Neutral Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 2,
-                "indexScoreDescription": "Bearish Evidence"
+                "indexScore": 4,
+                "indexScoreDescription": "Very Strong Bearish Evidence"
             },
             "intermediateTermOutlook": {
                 "stateDescription": "Bullish events outweigh bearish events.",
@@ -43,9 +43,9 @@
         },
         "keyTechnicals": {
             "provider": "Trading Central",
-            "support": 13.885,
-            "resistance": 15.77,
-            "stopLoss": 15.347772
+            "support": 12.8512,
+            "resistance": 15.85,
+            "stopLoss": 15.17621
         },
         "valuation": {
             "color": 1.0,
@@ -61,7 +61,7 @@
             "innovativeness": 0.2664,
             "sustainability": 0.9265000000000001,
             "insiderSentiments": 0.8984000000000001,
-            "earningsReports": 0.8484999999999999,
+            "earningsReports": 0.8540000000000001,
             "dividends": 0.7188
         },
         "sector": {
@@ -100,7 +100,7 @@
     },
     "events": [
         {
-            "eventType": "Short-term KST",
+            "eventType": "Slow Stochastic",
             "pricePeriod": "D",
             "tradingHorizon": "S",
             "tradeType": "S",

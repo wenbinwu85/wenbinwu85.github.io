@@ -1,45 +1,45 @@
 {
-    "postMarketChangePercent": 0.005405426,
-    "postMarketChange": 0.05000019,
-    "postMarketPrice": 9.3,
-    "regularMarketChangePercent": -0.0032327296,
-    "regularMarketChange": -0.029999733,
-    "regularMarketPrice": 9.25,
-    "regularMarketDayHigh": 9.279,
-    "regularMarketDayLow": 9.19,
-    "regularMarketVolume": 190725,
+    "postMarketChangePercent": 0.0,
+    "postMarketChange": 0.0,
+    "postMarketPrice": 9.23,
+    "regularMarketChangePercent": -0.0021622116,
+    "regularMarketChange": -0.020000458,
+    "regularMarketPrice": 9.23,
+    "regularMarketDayHigh": 9.26,
+    "regularMarketDayLow": 9.13,
+    "regularMarketVolume": 288583,
     "averageDailyVolume10Day": 292200,
     "averageDailyVolume3Month": 298686,
-    "regularMarketPreviousClose": 9.28,
-    "regularMarketOpen": 9.2,
+    "regularMarketPreviousClose": 9.25,
+    "regularMarketOpen": 9.25,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "quoteType": "EQUITY",
     "symbol": "TPVG",
     "shortName": "TriplePoint Venture Growth BDC ",
     "longName": "TriplePoint Venture Growth BDC Corp.",
-    "marketCap": 347985920,
-    "previousClose": 9.28,
-    "open": 9.2,
-    "dayLow": 9.19,
-    "dayHigh": 9.279,
+    "marketCap": 347233504,
+    "previousClose": 9.25,
+    "open": 9.25,
+    "dayLow": 9.13,
+    "dayHigh": 9.26,
     "dividendRate": 1.6,
     "dividendYield": 0.1717,
     "exDividendDate": "2024-03-12 20:00:00",
     "payoutRatio": 8.4706,
     "fiveYearAvgDividendYield": 11.6,
     "beta": 1.817,
-    "forwardPE": 6.125828,
-    "volume": 190725,
+    "forwardPE": 6.1125827,
+    "volume": 288583,
     "averageVolume": 298686,
     "averageVolume10days": 292200,
     "fiftyTwoWeekLow": 8.94,
     "fiftyTwoWeekHigh": 12.699,
-    "priceToSalesTrailing12Months": 2.5663624,
+    "priceToSalesTrailing12Months": 2.5608134,
     "fiftyDayAverage": 10.1644,
     "twoHundredDayAverage": 10.70965,
     "trailingAnnualDividendRate": 1.6,
-    "trailingAnnualDividendYield": 0.1724138,
+    "trailingAnnualDividendYield": 0.17297298,
     "enterpriseValue": 805187392,
     "profitMargins": -0.29368,
     "sharesOutstanding": 37620100,
@@ -54,7 +54,7 @@
     "shortPercentOfFloat": 0.071,
     "impliedSharesOutstanding": 37620100,
     "bookValue": 9.205,
-    "priceToBook": 1.0048887,
+    "priceToBook": 1.0027158,
     "lastFiscalYearEnd": "2023-12-30 19:00:00",
     "nextFiscalYearEnd": "2024-12-30 19:00:00",
     "mostRecentQuarter": "2023-12-30 19:00:00",
@@ -67,7 +67,7 @@
     "SandP52WeekChange": 0.24466145,
     "lastDividendValue": 0.4,
     "lastDividendDate": 1710288000,
-    "currentPrice": 9.25,
+    "currentPrice": 9.23,
     "targetHighPrice": 11.5,
     "targetLowPrice": 8.75,
     "targetMeanPrice": 9.84,
@@ -391,7 +391,7 @@
                 },
                 "epsTrend": {
                     "current": 1.66,
-                    "7daysAgo": 1.65,
+                    "7daysAgo": 1.66,
                     "30daysAgo": 1.65,
                     "60daysAgo": 1.69,
                     "90daysAgo": 1.69
@@ -426,8 +426,8 @@
                 },
                 "epsTrend": {
                     "current": 1.51,
-                    "7daysAgo": 1.5,
-                    "30daysAgo": 1.52,
+                    "7daysAgo": 1.51,
+                    "30daysAgo": 1.5,
                     "60daysAgo": 1.63,
                     "90daysAgo": 1.63
                 },
@@ -513,16 +513,16 @@
     "indexTrend": {
         "maxAge": 1,
         "symbol": "SP5",
-        "peRatio": 13.6897,
-        "pegRatio": 0.958271,
+        "peRatio": 15.1037,
+        "pegRatio": 0.985797,
         "estimates": [
             {
                 "period": "0q",
-                "growth": 0.0139999995
+                "growth": 0.012999999
             },
             {
                 "period": "+1q",
-                "growth": 0.109
+                "growth": 0.11
             },
             {
                 "period": "0y",
@@ -534,7 +534,7 @@
             },
             {
                 "period": "+5y",
-                "growth": 0.111812
+                "growth": 0.11231399
             },
             {
                 "period": "-5y"
@@ -1077,7 +1077,7 @@
                 "organization": "Invesco ETF Tr-Invesco KBW High Div Yld Financial ETF",
                 "pctHeld": 0.0269,
                 "position": 1010404,
-                "value": 9346237,
+                "value": 9326028,
                 "pctChange": 0.0
             },
             {
@@ -1086,7 +1086,7 @@
                 "organization": "VanEck ETF Trust -VanEck BDC Income ETF",
                 "pctHeld": 0.0194,
                 "position": 729503,
-                "value": 6747902,
+                "value": 6733312,
                 "pctChange": 0.013300001
             },
             {
@@ -1095,7 +1095,7 @@
                 "organization": "First Trust Gallatin Specialty Finance & Financial Opportunities Fund",
                 "pctHeld": 0.0028,
                 "position": 105000,
-                "value": 971250,
+                "value": 969149,
                 "pctChange": 0.0
             },
             {
@@ -1104,7 +1104,7 @@
                 "organization": "ETFis Ser Tr I-Virtus Private Credit Strategy ETF",
                 "pctHeld": 0.0019,
                 "position": 73205,
-                "value": 677146,
+                "value": 675682,
                 "pctChange": 0.17469999
             },
             {
@@ -1113,7 +1113,7 @@
                 "organization": "John Hancock Var Ins Tr-Total Stock Market Index Tr",
                 "pctHeld": 0.0,
                 "position": 568,
-                "value": 5254,
+                "value": 5242,
                 "pctChange": 0.0
             },
             {
@@ -1122,7 +1122,7 @@
                 "organization": "Blackstone Alternative Multi-Strategy Fund",
                 "pctHeld": 0.0,
                 "position": 600,
-                "value": 5550,
+                "value": 5537,
                 "pctChange": 0.2
             },
             {
@@ -1131,7 +1131,7 @@
                 "organization": "EA Series Trust-WHITEWOLF Publicly Listed Private Equity ETF",
                 "pctHeld": 0.0,
                 "position": 300,
-                "value": 2775,
+                "value": 2768,
                 "pctChange": 1.0
             }
         ],
@@ -1244,7 +1244,7 @@
                 "organization": "Invesco Ltd.",
                 "pctHeld": 0.0269,
                 "position": 1010404,
-                "value": 9346237,
+                "value": 9326028,
                 "pctChange": 0.018
             },
             {
@@ -1253,7 +1253,7 @@
                 "organization": "Van Eck Associates Corporation",
                 "pctHeld": 0.0176,
                 "position": 661530,
-                "value": 6119152,
+                "value": 6105921,
                 "pctChange": 0.1258
             },
             {
@@ -1262,7 +1262,7 @@
                 "organization": "Legal & General Group PLC",
                 "pctHeld": 0.0070999996,
                 "position": 268472,
-                "value": 2483366,
+                "value": 2477996,
                 "pctChange": 0.0403
             },
             {
@@ -1271,7 +1271,7 @@
                 "organization": "Two Sigma Advisers, LP",
                 "pctHeld": 0.0056,
                 "position": 209192,
-                "value": 1935026,
+                "value": 1930842,
                 "pctChange": 1.1326001
             },
             {
@@ -1280,7 +1280,7 @@
                 "organization": "Two Sigma Investments, LP",
                 "pctHeld": 0.0054,
                 "position": 202660,
-                "value": 1874605,
+                "value": 1870551,
                 "pctChange": 14.6301
             },
             {
@@ -1289,7 +1289,7 @@
                 "organization": "Ameriprise Financial, Inc.",
                 "pctHeld": 0.0046,
                 "position": 173885,
-                "value": 1608436,
+                "value": 1604958,
                 "pctChange": -0.1449
             },
             {
@@ -1298,7 +1298,7 @@
                 "organization": "Morgan Stanley",
                 "pctHeld": 0.0037,
                 "position": 139908,
-                "value": 1294149,
+                "value": 1291350,
                 "pctChange": -0.1076
             },
             {
@@ -1307,7 +1307,7 @@
                 "organization": "Advisors Asset Management, Inc.",
                 "pctHeld": 0.0034999999,
                 "position": 132864,
-                "value": 1228992,
+                "value": 1226334,
                 "pctChange": -0.43150002
             },
             {
@@ -1316,7 +1316,7 @@
                 "organization": "Millennium Management Llc",
                 "pctHeld": 0.0034,
                 "position": 129677,
-                "value": 1199512,
+                "value": 1196918,
                 "pctChange": 0.8314
             },
             {
@@ -1325,7 +1325,7 @@
                 "organization": "Blackrock Inc.",
                 "pctHeld": 0.0034,
                 "position": 129259,
-                "value": 1195645,
+                "value": 1193060,
                 "pctChange": 0.0683
             }
         ],
@@ -1375,6 +1375,6 @@
         }
     ],
     "fcfPerShare": 1.0203522053370406,
-    "fcfYield": 0.11030834810787747,
+    "fcfYield": 0.11054737390778972,
     "fcfPayoutRatio": 1.5680859919065804
 }
