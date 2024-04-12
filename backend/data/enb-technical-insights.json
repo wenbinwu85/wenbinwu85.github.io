@@ -7,8 +7,8 @@
             "shortTermOutlook": {
                 "stateDescription": "Recent bearish events outweigh bullish events.",
                 "direction": "Bearish",
-                "score": 4,
-                "scoreDescription": "Very Strong Bearish Evidence",
+                "score": 3,
+                "scoreDescription": "Strong Bearish Evidence",
                 "sectorDirection": "Neutral",
                 "sectorScore": 0,
                 "sectorScoreDescription": "Neutral Evidence",
@@ -45,7 +45,7 @@
             "provider": "Trading Central",
             "support": 34.465,
             "resistance": 35.945,
-            "stopLoss": 33.079846
+            "stopLoss": 33.452646
         },
         "valuation": {
             "color": 0.5,
@@ -103,10 +103,10 @@
     },
     "events": [
         {
-            "eventType": "Bollinger Bands",
+            "eventType": "Price Crosses Moving Average",
             "pricePeriod": "D",
-            "tradingHorizon": "S",
-            "tradeType": "L",
+            "tradingHorizon": "L",
+            "tradeType": "S",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
             "startDate": 1712755800,
             "endDate": 1712755800
@@ -2103,15 +2103,22 @@
             ]
         },
         {
-            "id": "3799_Analyst Report_1582156800000",
-            "headHtml": "Analyst Report: Enbridge Inc",
+            "id": "26236_Market Summary_1582156800000",
+            "headHtml": "Market Digest: BABA, AWK, ADI, ECL, LIN, ENB, FOXA, NLOK, TSN, ATO",
             "provider": "Argus Research",
             "reportDate": "2020-02-20T00:00:00Z",
-            "reportTitle": "Enbridge Inc. is North America's largest energy infrastructure company. Enbridge has six operating segments: Liquids Pipelines, Gas Transmission & Midstream, Gas Distribution, Renewable Power Generation & Transmission, Energy Services, and Eliminations & Other. According to the company's most recent 10-K, Enbridge delivers over three million barrels of crude oil per day, and transports 62% of all U.S.-bound Canadian crude exports. The company also transports 18% of the natural gas used in the U.S. Its regulated utilities serve approximately 3.7 million retail customers.",
-            "targetPrice": 46.0,
-            "investmentRating": "Bullish",
+            "reportTitle": "The Situation is Evolving: Scenarios for an Outbreak",
             "tickers": [
-                "ENB"
+                "LIN",
+                "BABA",
+                "FOXA",
+                "AWK",
+                "ADI",
+                "ENB",
+                "ATO",
+                "NLOK",
+                "TSN",
+                "ECL"
             ]
         }
     ],
@@ -2294,15 +2301,6 @@
             "formType": "10-Q"
         },
         {
-            "id": "0001193125-23-203941_895728",
-            "type": "Corporate Changes & Voting Matters",
-            "title": "8-K/A : Corporate Changes & Voting Matters",
-            "description": "Current report filing",
-            "filingDate": 1691107200000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000119312523203941/thumbnail.png",
-            "formType": "8-K/A"
-        },
-        {
             "id": "0000895728-23-000024_895728",
             "type": "Corporate Changes & Voting Matters",
             "title": "8-K : Corporate Changes & Voting Matters",
@@ -2310,6 +2308,15 @@
             "filingDate": 1691107200000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000089572823000024/thumbnail.png",
             "formType": "8-K"
+        },
+        {
+            "id": "0001193125-23-203941_895728",
+            "type": "Corporate Changes & Voting Matters",
+            "title": "8-K/A : Corporate Changes & Voting Matters",
+            "description": "Current report filing",
+            "filingDate": 1691107200000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000119312523203941/thumbnail.png",
+            "formType": "8-K/A"
         },
         {
             "id": "0001193125-23-197747_895728",
@@ -2447,15 +2454,6 @@
             "formType": "8-K"
         },
         {
-            "id": "0000895728-22-000033_895728",
-            "type": "Periodic Financial Reports",
-            "title": "10-Q : Periodic Financial Reports",
-            "description": "Quarterly report pursuant to Section 13 or 15(d)",
-            "filingDate": 1667520000000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000089572822000033/thumbnail.png",
-            "formType": "10-Q"
-        },
-        {
             "id": "0000895728-22-000032_895728",
             "type": "Corporate Changes & Voting Matters",
             "title": "8-K : Corporate Changes & Voting Matters",
@@ -2463,6 +2461,15 @@
             "filingDate": 1667520000000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000089572822000032/thumbnail.png",
             "formType": "8-K"
+        },
+        {
+            "id": "0000895728-22-000033_895728",
+            "type": "Periodic Financial Reports",
+            "title": "10-Q : Periodic Financial Reports",
+            "description": "Quarterly report pursuant to Section 13 or 15(d)",
+            "filingDate": 1667520000000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000089572822000033/thumbnail.png",
+            "formType": "10-Q"
         },
         {
             "id": "0001193125-22-257129_895728",

@@ -7,8 +7,8 @@
             "shortTermOutlook": {
                 "stateDescription": "Bearish events outweigh bullish events.",
                 "direction": "Bearish",
-                "score": 2,
-                "scoreDescription": "Bearish Evidence",
+                "score": 3,
+                "scoreDescription": "Strong Bearish Evidence",
                 "sectorDirection": "Bearish",
                 "sectorScore": 4,
                 "sectorScoreDescription": "Very Strong Bearish Evidence",
@@ -45,7 +45,7 @@
             "provider": "Trading Central",
             "support": 26.13,
             "resistance": 27.6,
-            "stopLoss": 24.684864
+            "stopLoss": 25.103848
         },
         "valuation": {
             "color": 1.0,
@@ -58,9 +58,9 @@
     "companySnapshot": {
         "sectorInfo": "Healthcare",
         "company": {
-            "innovativeness": 0.8976000000000001,
+            "innovativeness": 0.8973,
             "hiring": 0.9109999999999999,
-            "sustainability": 0.6695,
+            "sustainability": 0.6751999999999999,
             "insiderSentiments": 0.7117,
             "earningsReports": 0.9764,
             "dividends": 0.9489
@@ -759,6 +759,18 @@
             ]
         },
         {
+            "id": "3305_Analyst Report_1660239464000",
+            "headHtml": "Analyst Report: Pfizer Inc.",
+            "provider": "Argus Research",
+            "reportDate": "2022-08-11T17:37:44Z",
+            "reportTitle": "Pfizer is a leading global developer and manufacturer of pharmaceuticals and biotech drugs. Its products include oncology and immunology drugs, treatments for rare diseases, and vaccines.",
+            "targetPrice": 65.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "PFE"
+            ]
+        },
+        {
             "id": "33789_Market Update_1660239464000",
             "headHtml": "Market Update: CENT, EBAY, PFE, VMC, RKT",
             "provider": "Argus Research",
@@ -769,18 +781,6 @@
                 "CENT",
                 "RKT",
                 "VMC",
-                "PFE"
-            ]
-        },
-        {
-            "id": "3305_Analyst Report_1660239464000",
-            "headHtml": "Analyst Report: Pfizer Inc.",
-            "provider": "Argus Research",
-            "reportDate": "2022-08-11T17:37:44Z",
-            "reportTitle": "Pfizer is a leading global developer and manufacturer of pharmaceuticals and biotech drugs. Its products include oncology and immunology drugs, treatments for rare diseases, and vaccines.",
-            "targetPrice": 65.0,
-            "investmentRating": "Bullish",
-            "tickers": [
                 "PFE"
             ]
         },
@@ -991,18 +991,6 @@
             ]
         },
         {
-            "id": "3305_Analyst Report_1644585579000",
-            "headHtml": "Analyst Report: Pfizer Inc.",
-            "provider": "Argus Research",
-            "reportDate": "2022-02-11T13:19:39Z",
-            "reportTitle": "Pfizer is a leading global developer and manufacturer of pharmaceuticals and biotech drugs. Its products include oncology and immunology drugs, treatments for rare diseases, and vaccines.",
-            "targetPrice": 65.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "PFE"
-            ]
-        },
-        {
             "id": "32134_Market Update_1644585579000",
             "headHtml": "Market Update: APD, MAS, MAT, PFE, TWTR",
             "provider": "Argus Research",
@@ -1013,6 +1001,18 @@
                 "APD",
                 "TWTR",
                 "MAS",
+                "PFE"
+            ]
+        },
+        {
+            "id": "3305_Analyst Report_1644585579000",
+            "headHtml": "Analyst Report: Pfizer Inc.",
+            "provider": "Argus Research",
+            "reportDate": "2022-02-11T13:19:39Z",
+            "reportTitle": "Pfizer is a leading global developer and manufacturer of pharmaceuticals and biotech drugs. Its products include oncology and immunology drugs, treatments for rare diseases, and vaccines.",
+            "targetPrice": 65.0,
+            "investmentRating": "Bullish",
+            "tickers": [
                 "PFE"
             ]
         },
@@ -1416,6 +1416,18 @@
             ]
         },
         {
+            "id": "3305_Analyst Report_1613027405000",
+            "headHtml": "Analyst Report: Pfizer Inc.",
+            "provider": "Argus Research",
+            "reportDate": "2021-02-11T07:10:05Z",
+            "reportTitle": "Pfizer is a leading global developer and manufacturer of pharmaceuticals and biotech drugs. Its products include oncology and immunology drugs, treatments for rare diseases, and vaccines.",
+            "targetPrice": 55.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "PFE"
+            ]
+        },
+        {
             "id": "29117_Market Summary_1613027405000",
             "headHtml": "Market Digest: CHKP, CMI, CSCO, IEX, J, PFE, CBOE, OTIS",
             "provider": "Argus Research",
@@ -1429,18 +1441,6 @@
                 "OTIS",
                 "IEX",
                 "CMI",
-                "PFE"
-            ]
-        },
-        {
-            "id": "3305_Analyst Report_1613027405000",
-            "headHtml": "Analyst Report: Pfizer Inc.",
-            "provider": "Argus Research",
-            "reportDate": "2021-02-11T07:10:05Z",
-            "reportTitle": "Pfizer is a leading global developer and manufacturer of pharmaceuticals and biotech drugs. Its products include oncology and immunology drugs, treatments for rare diseases, and vaccines.",
-            "targetPrice": 55.0,
-            "investmentRating": "Bullish",
-            "tickers": [
                 "PFE"
             ]
         },
@@ -1963,6 +1963,33 @@
     ],
     "secReports": [
         {
+            "id": "0000078003-24-000097_78003",
+            "type": "Proxy Statements",
+            "title": "DEFA14A : Proxy Statements",
+            "description": "Definitive additional proxy soliciting materials including Rule 14(a)(12) material. Note: Submission type DEFA14A can be filed as part of Form 8-K. For filers subject to 8-K filing requirements we recommend the use of the 8-K combined form type as the easiest method for fulfilling your filing requirement for both forms",
+            "filingDate": 1712793600000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000078003/000007800324000097/thumbnail.png",
+            "formType": "DEFA14A"
+        },
+        {
+            "id": "0000078003-24-000096_78003",
+            "type": "Proxy Statements",
+            "title": "DEFA14A : Proxy Statements",
+            "description": "Definitive additional proxy soliciting materials including Rule 14(a)(12) material. Note: Submission type DEFA14A can be filed as part of Form 8-K. For filers subject to 8-K filing requirements we recommend the use of the 8-K combined form type as the easiest method for fulfilling your filing requirement for both forms",
+            "filingDate": 1712793600000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000078003/000007800324000096/thumbnail.png",
+            "formType": "DEFA14A"
+        },
+        {
+            "id": "0000078003-24-000095_78003",
+            "type": "Proxy Statements",
+            "title": "DEFA14A : Proxy Statements",
+            "description": "Definitive additional proxy soliciting materials including Rule 14(a)(12) material. Note: Submission type DEFA14A can be filed as part of Form 8-K. For filers subject to 8-K filing requirements we recommend the use of the 8-K combined form type as the easiest method for fulfilling your filing requirement for both forms",
+            "filingDate": 1712793600000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000078003/000007800324000095/thumbnail.png",
+            "formType": "DEFA14A"
+        },
+        {
             "id": "0000078003-24-000094_78003",
             "type": "Proxy Statements",
             "title": "DEFA14A : Proxy Statements",
@@ -2356,24 +2383,6 @@
             "description": "Definitive additional proxy soliciting materials including Rule 14(a)(12) material. Note: Submission type DEFA14A can be filed as part of Form 8-K. For filers subject to 8-K filing requirements we recommend the use of the 8-K combined form type as the easiest method for fulfilling your filing requirement for both forms",
             "filingDate": 1681084800000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000078003/000007800323000067/thumbnail.png",
-            "formType": "DEFA14A"
-        },
-        {
-            "id": "0000078003-23-000060_78003",
-            "type": "Tender Offer/Acquisition Reports",
-            "title": "SC 13G : Tender Offer/Acquisition Reports",
-            "description": "Schedule filed to report acquisition of beneficial ownership of 5% or more of a class of equity securities by passive investors and certain institutions",
-            "filingDate": 1680134400000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001855644/000007800323000060/thumbnail.png",
-            "formType": "SC 13G"
-        },
-        {
-            "id": "0000078003-23-000061_78003",
-            "type": "Proxy Statements",
-            "title": "DEFA14A : Proxy Statements",
-            "description": "Definitive additional proxy soliciting materials including Rule 14(a)(12) material. Note: Submission type DEFA14A can be filed as part of Form 8-K. For filers subject to 8-K filing requirements we recommend the use of the 8-K combined form type as the easiest method for fulfilling your filing requirement for both forms",
-            "filingDate": 1680134400000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000078003/000007800323000061/thumbnail.png",
             "formType": "DEFA14A"
         }
     ]
