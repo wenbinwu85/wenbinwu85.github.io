@@ -1,7 +1,7 @@
 {
-    "postMarketChangePercent": -4.8192564e-05,
-    "postMarketChange": -0.0013999939,
-    "postMarketPrice": 29.0486,
+    "postMarketChangePercent": -0.00102925,
+    "postMarketChange": -0.0298996,
+    "postMarketPrice": 29.0201,
     "regularMarketChangePercent": -0.0058179363,
     "regularMarketChange": -0.17000008,
     "regularMarketPrice": 29.05,
@@ -41,7 +41,7 @@
     "twoHundredDayAverage": 27.0455,
     "trailingAnnualDividendRate": 2.005,
     "trailingAnnualDividendYield": 0.06861739,
-    "enterpriseValue": 93488128000,
+    "enterpriseValue": 93119520768,
     "profitMargins": 0.111269996,
     "floatShares": 1429459038,
     "sharesOutstanding": 2168250112,
@@ -65,8 +65,8 @@
     "trailingEps": 2.52,
     "forwardEps": 2.83,
     "pegRatio": 1.29,
-    "enterpriseToRevenue": 1.88,
-    "enterpriseToEbitda": 10.59,
+    "enterpriseToRevenue": 1.873,
+    "enterpriseToEbitda": 10.548,
     "52WeekChange": 0.0830245,
     "SandP52WeekChange": 0.2565279,
     "lastDividendValue": 0.515,
@@ -223,8 +223,7 @@
         "maxAge": 1,
         "earnings": {
             "earningsDate": [
-                "2024-04-30 08:30:S",
-                "2024-05-06 08:30:S"
+                "2024-04-30 08:30:S"
             ],
             "earningsAverage": 0.67,
             "earningsLow": 0.64,
@@ -265,8 +264,7 @@
             "currentQuarterEstimateDate": "1Q",
             "currentQuarterEstimateYear": 2024,
             "earningsDate": [
-                "2024-04-30 08:30:S",
-                "2024-05-06 08:30:S"
+                "2024-04-30 08:30:S"
             ]
         },
         "financialsChart": {
