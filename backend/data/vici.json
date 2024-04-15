@@ -1,10 +1,10 @@
 {
-    "regularMarketChangePercent": 0.0016105968,
-    "regularMarketChange": 0.045000076,
-    "regularMarketPrice": 27.985,
+    "regularMarketChangePercent": -0.012710398,
+    "regularMarketChange": -0.35500145,
+    "regularMarketPrice": 27.585,
     "regularMarketDayHigh": 28.13,
-    "regularMarketDayLow": 27.945,
-    "regularMarketVolume": 189882,
+    "regularMarketDayLow": 27.555,
+    "regularMarketVolume": 1941333,
     "averageDailyVolume10Day": 6002570,
     "averageDailyVolume3Month": 6247529,
     "regularMarketPreviousClose": 27.94,
@@ -15,10 +15,10 @@
     "symbol": "VICI",
     "shortName": "VICI Properties Inc.",
     "longName": "VICI Properties Inc.",
-    "marketCap": 29192271872,
+    "marketCap": 28775014400,
     "previousClose": 27.94,
     "open": 28.03,
-    "dayLow": 27.945,
+    "dayLow": 27.555,
     "dayHigh": 28.13,
     "dividendRate": 1.66,
     "dividendYield": 0.0594,
@@ -26,14 +26,14 @@
     "payoutRatio": 0.6518,
     "fiveYearAvgDividendYield": 4.94,
     "beta": 0.916,
-    "trailingPE": 11.32996,
-    "forwardPE": 10.403346,
-    "volume": 189882,
+    "trailingPE": 11.1680155,
+    "forwardPE": 10.254646,
+    "volume": 1941333,
     "averageVolume": 6247529,
     "averageVolume10days": 6002570,
     "fiftyTwoWeekLow": 26.625,
     "fiftyTwoWeekHigh": 34.05,
-    "priceToSalesTrailing12Months": 8.079188,
+    "priceToSalesTrailing12Months": 7.963709,
     "fiftyDayAverage": 29.3842,
     "twoHundredDayAverage": 30.0995,
     "trailingAnnualDividendRate": 1.61,
@@ -53,7 +53,7 @@
     "shortPercentOfFloat": 0.0224,
     "impliedSharesOutstanding": 1052840000,
     "bookValue": 24.222,
-    "priceToBook": 1.1553546,
+    "priceToBook": 1.1388407,
     "lastFiscalYearEnd": "2023-12-30 19:00:00",
     "nextFiscalYearEnd": "2024-12-30 19:00:00",
     "mostRecentQuarter": "2023-12-30 19:00:00",
@@ -68,7 +68,7 @@
     "SandP52WeekChange": 0.23416412,
     "lastDividendValue": 0.415,
     "lastDividendDate": 1710892800,
-    "currentPrice": 27.985,
+    "currentPrice": 27.585,
     "targetHighPrice": 43.0,
     "targetLowPrice": 31.0,
     "targetMeanPrice": 35.73,
@@ -2438,7 +2438,7 @@
                 "organization": "Capital Income Builder, Inc.",
                 "pctHeld": 0.0463,
                 "position": 48267335,
-                "value": 1350761399,
+                "value": 1331454391,
                 "pctChange": 0.0515
             },
             {
@@ -2447,7 +2447,7 @@
                 "organization": "Vanguard Specialized-Real Estate Index Fund",
                 "pctHeld": 0.036,
                 "position": 37530377,
-                "value": 1050287623,
+                "value": 1035275415,
                 "pctChange": 0.0423
             },
             {
@@ -2456,7 +2456,7 @@
                 "organization": "Vanguard Total Stock Market Index Fund",
                 "pctHeld": 0.026400002,
                 "position": 27556514,
-                "value": 771169061,
+                "value": 760146413,
                 "pctChange": 0.0307
             },
             {
@@ -2465,7 +2465,7 @@
                 "organization": "Vanguard 500 Index Fund",
                 "pctHeld": 0.0217,
                 "position": 22618020,
-                "value": 632965303,
+                "value": 623918060,
                 "pctChange": 0.0422
             },
             {
@@ -2474,7 +2474,7 @@
                 "organization": "Vanguard Mid-Cap Index Fund",
                 "pctHeld": 0.0197,
                 "position": 20536438,
-                "value": 574712229,
+                "value": 566497623,
                 "pctChange": 0.0135
             },
             {
@@ -2483,7 +2483,7 @@
                 "organization": "Income Fund of America Inc",
                 "pctHeld": 0.0188,
                 "position": 19585048,
-                "value": 548087580,
+                "value": 540253531,
                 "pctChange": 0.0337
             },
             {
@@ -2492,7 +2492,7 @@
                 "organization": "Fundamental Investors Inc",
                 "pctHeld": 0.0125,
                 "position": 13052996,
-                "value": 365288101,
+                "value": 360066882,
                 "pctChange": 0.1573
             },
             {
@@ -2501,7 +2501,7 @@
                 "organization": "Fidelity 500 Index Fund",
                 "pctHeld": 0.0119,
                 "position": 12407616,
-                "value": 347227141,
+                "value": 342264076,
                 "pctChange": 0.010199999
             },
             {
@@ -2510,7 +2510,7 @@
                 "organization": "SPDR S&P 500 ETF Trust",
                 "pctHeld": 0.0116,
                 "position": 12135199,
-                "value": 339603551,
+                "value": 334749453,
                 "pctChange": -0.0165
             },
             {
@@ -2519,7 +2519,7 @@
                 "organization": "PIMCO Income Fd",
                 "pctHeld": 0.0111,
                 "position": 11625222,
-                "value": 325331844,
+                "value": 320681738,
                 "pctChange": 0.0
             }
         ],
@@ -2632,7 +2632,7 @@
                 "organization": "Vanguard Group Inc",
                 "pctHeld": 0.1408,
                 "position": 146919295,
-                "value": 4111536560,
+                "value": 4052768618,
                 "pctChange": 0.0072000003
             },
             {
@@ -2641,7 +2641,7 @@
                 "organization": "Blackrock Inc.",
                 "pctHeld": 0.098000005,
                 "position": 102221825,
-                "value": 2860677835,
+                "value": 2819788949,
                 "pctChange": 0.0363
             },
             {
@@ -2650,7 +2650,7 @@
                 "organization": "Capital International Investors",
                 "pctHeld": 0.060300004,
                 "position": 62871097,
-                "value": 1759447687,
+                "value": 1734299153,
                 "pctChange": 0.174
             },
             {
@@ -2659,7 +2659,7 @@
                 "organization": "State Street Corporation",
                 "pctHeld": 0.052199997,
                 "position": 54463278,
-                "value": 1524154868,
+                "value": 1502369473,
                 "pctChange": 0.0541
             },
             {
@@ -2668,7 +2668,7 @@
                 "organization": "Cohen & Steers Inc.",
                 "pctHeld": 0.033299997,
                 "position": 34784906,
-                "value": 973455615,
+                "value": 959541600,
                 "pctChange": 1.3195
             },
             {
@@ -2677,7 +2677,7 @@
                 "organization": "Capital Research Global Investors",
                 "pctHeld": 0.033099998,
                 "position": 34526829,
-                "value": 966233330,
+                "value": 952422546,
                 "pctChange": -0.070199996
             },
             {
@@ -2686,7 +2686,7 @@
                 "organization": "Bank of America Corporation",
                 "pctHeld": 0.0296,
                 "position": 30908919,
-                "value": 864986117,
+                "value": 852622502,
                 "pctChange": -0.13069999
             },
             {
@@ -2695,7 +2695,7 @@
                 "organization": "Principal Financial Group, Inc.",
                 "pctHeld": 0.0248,
                 "position": 25885444,
-                "value": 724404166,
+                "value": 714049949,
                 "pctChange": 0.0013
             },
             {
@@ -2704,7 +2704,7 @@
                 "organization": "Geode Capital Management, LLC",
                 "pctHeld": 0.0241,
                 "position": 25117457,
-                "value": 702912049,
+                "value": 692865028,
                 "pctChange": 0.048899997
             },
             {
@@ -2713,7 +2713,7 @@
                 "organization": "Allianz Asset Management GmbH",
                 "pctHeld": 0.0224,
                 "position": 23329637,
-                "value": 652879905,
+                "value": 643548015,
                 "pctChange": -0.0115
             }
         ],
@@ -2763,6 +2763,6 @@
         }
     ],
     "fcfPerShare": -5.452995515938279,
-    "fcfYield": -0.19485422693174895,
+    "fcfYield": -0.19767974705166438,
     "fcfPayoutRatio": -0.30441983587700955
 }

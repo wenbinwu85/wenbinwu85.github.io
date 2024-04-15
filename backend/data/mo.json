@@ -1,10 +1,10 @@
 {
-    "regularMarketChangePercent": 0.0062119626,
-    "regularMarketChange": 0.25500107,
-    "regularMarketPrice": 41.305,
+    "regularMarketChangePercent": -0.0026796737,
+    "regularMarketChange": -0.11000061,
+    "regularMarketPrice": 40.94,
     "regularMarketDayHigh": 41.46,
-    "regularMarketDayLow": 41.25,
-    "regularMarketVolume": 470714,
+    "regularMarketDayLow": 40.85,
+    "regularMarketVolume": 4777427,
     "averageDailyVolume10Day": 11200100,
     "averageDailyVolume3Month": 12106958,
     "regularMarketPreviousClose": 41.05,
@@ -15,10 +15,10 @@
     "symbol": "MO",
     "shortName": "Altria Group, Inc.",
     "longName": "Altria Group, Inc.",
-    "marketCap": 70946709504,
+    "marketCap": 70319767552,
     "previousClose": 41.05,
     "open": 41.3,
-    "dayLow": 41.25,
+    "dayLow": 40.85,
     "dayHigh": 41.46,
     "dividendRate": 3.92,
     "dividendYield": 0.0955,
@@ -26,14 +26,14 @@
     "payoutRatio": 0.84029996,
     "fiveYearAvgDividendYield": 7.87,
     "beta": 0.695,
-    "trailingPE": 9.038293,
-    "forwardPE": 8.361336,
-    "volume": 470714,
+    "trailingPE": 8.958424,
+    "forwardPE": 8.287449,
+    "volume": 4777427,
     "averageVolume": 12106958,
     "averageVolume10days": 11200100,
     "fiftyTwoWeekLow": 39.07,
     "fiftyTwoWeekHigh": 48.04,
-    "priceToSalesTrailing12Months": 3.4604776,
+    "priceToSalesTrailing12Months": 3.429898,
     "fiftyDayAverage": 41.8056,
     "twoHundredDayAverage": 42.3627,
     "trailingAnnualDividendRate": 3.84,
@@ -67,7 +67,7 @@
     "SandP52WeekChange": 0.23416412,
     "lastDividendValue": 0.98,
     "lastDividendDate": 1711065600,
-    "currentPrice": 41.305,
+    "currentPrice": 40.94,
     "targetHighPrice": 68.4,
     "targetLowPrice": 34.2,
     "targetMeanPrice": 43.65,
@@ -2435,7 +2435,7 @@
                 "organization": "Vanguard Total Stock Market Index Fund",
                 "pctHeld": 0.0322,
                 "position": 55351414,
-                "value": 2286290172,
+                "value": 2266086813,
                 "pctChange": 0.0053
             },
             {
@@ -2444,7 +2444,7 @@
                 "organization": "Vanguard 500 Index Fund",
                 "pctHeld": 0.0252,
                 "position": 43201041,
-                "value": 1784419011,
+                "value": 1768650559,
                 "pctChange": 0.0128
             },
             {
@@ -2453,7 +2453,7 @@
                 "organization": "Schwab Strategic Tr-Schwab U.S. Dividend Equity ETF",
                 "pctHeld": 0.0167,
                 "position": 28641163,
-                "value": 1183023246,
+                "value": 1172569173,
                 "pctChange": 0.0211
             },
             {
@@ -2462,7 +2462,7 @@
                 "organization": "American Balanced Fund",
                 "pctHeld": 0.0136,
                 "position": 23385640,
-                "value": 965943867,
+                "value": 957408069,
                 "pctChange": -0.0806
             },
             {
@@ -2471,7 +2471,7 @@
                 "organization": "Washington Mutual Investors Fund",
                 "pctHeld": 0.013200001,
                 "position": 22606397,
-                "value": 933757234,
+                "value": 925505862,
                 "pctChange": 0.0
             },
             {
@@ -2480,7 +2480,7 @@
                 "organization": "Fidelity 500 Index Fund",
                 "pctHeld": 0.0123000005,
                 "position": 21212152,
-                "value": 876167944,
+                "value": 868425473,
                 "pctChange": 0.010199999
             },
             {
@@ -2489,7 +2489,7 @@
                 "organization": "SPDR S&P 500 ETF Trust",
                 "pctHeld": 0.0121,
                 "position": 20746335,
-                "value": 856927373,
+                "value": 849354926,
                 "pctChange": -0.0165
             },
             {
@@ -2498,7 +2498,7 @@
                 "organization": "iShares Core S&P 500 ETF",
                 "pctHeld": 0.0107,
                 "position": 18400548,
-                "value": 760034640,
+                "value": 753318409,
                 "pctChange": 0.013099999
             },
             {
@@ -2507,7 +2507,7 @@
                 "organization": "Fundamental Investors Inc",
                 "pctHeld": 0.0087,
                 "position": 14911882,
-                "value": 615935290,
+                "value": 610492428,
                 "pctChange": 0.0
             },
             {
@@ -2516,7 +2516,7 @@
                 "organization": "Vanguard Index-Value Index Fund",
                 "pctHeld": 0.0086,
                 "position": 14734177,
-                "value": 608595185,
+                "value": 603217186,
                 "pctChange": -0.0318
             }
         ],
@@ -2629,7 +2629,7 @@
                 "organization": "Vanguard Group Inc",
                 "pctHeld": 0.093,
                 "position": 159708869,
-                "value": 6596774882,
+                "value": 6538480877,
                 "pctChange": -0.001
             },
             {
@@ -2638,7 +2638,7 @@
                 "organization": "Blackrock Inc.",
                 "pctHeld": 0.0736,
                 "position": 126395276,
-                "value": 5220756913,
+                "value": 5174622425,
                 "pctChange": -0.0062
             },
             {
@@ -2647,7 +2647,7 @@
                 "organization": "Capital World Investors",
                 "pctHeld": 0.041199997,
                 "position": 70797651,
-                "value": 2924296996,
+                "value": 2898455734,
                 "pctChange": -0.19399999
             },
             {
@@ -2656,7 +2656,7 @@
                 "organization": "State Street Corporation",
                 "pctHeld": 0.04,
                 "position": 68767101,
-                "value": 2840425127,
+                "value": 2815325020,
                 "pctChange": 0.0069
             },
             {
@@ -2665,7 +2665,7 @@
                 "organization": "Charles Schwab Investment Management, Inc.",
                 "pctHeld": 0.0256,
                 "position": 44003071,
-                "value": 1817546861,
+                "value": 1801485666,
                 "pctChange": -0.010199999
             },
             {
@@ -2674,7 +2674,7 @@
                 "organization": "Geode Capital Management, LLC",
                 "pctHeld": 0.0223,
                 "position": 38329934,
-                "value": 1583217935,
+                "value": 1569227445,
                 "pctChange": 0.0138
             },
             {
@@ -2683,7 +2683,7 @@
                 "organization": "FMR, LLC",
                 "pctHeld": 0.0123000005,
                 "position": 21134299,
-                "value": 872952226,
+                "value": 865238172,
                 "pctChange": 0.0191
             },
             {
@@ -2692,7 +2692,7 @@
                 "organization": "Morgan Stanley",
                 "pctHeld": 0.0106,
                 "position": 18255471,
-                "value": 754042235,
+                "value": 747378957,
                 "pctChange": -0.0047999998
             },
             {
@@ -2701,7 +2701,7 @@
                 "organization": "Northern Trust Corporation",
                 "pctHeld": 0.0097,
                 "position": 16575924,
-                "value": 684668545,
+                "value": 678618305,
                 "pctChange": -0.002
             },
             {
@@ -2710,7 +2710,7 @@
                 "organization": "Bank Of New York Mellon Corporation",
                 "pctHeld": 0.0086,
                 "position": 14690309,
-                "value": 606783217,
+                "value": 601421230,
                 "pctChange": -0.1514
             }
         ],
@@ -2760,6 +2760,6 @@
         }
     ],
     "fcfPerShare": 7.670380410320186,
-    "fcfYield": 0.18570100330385578,
+    "fcfYield": 0.1873566366137012,
     "fcfPayoutRatio": 0.5110567912284766
 }

@@ -1,10 +1,10 @@
 {
-    "regularMarketChangePercent": 0.009547027,
-    "regularMarketChange": 0.51000214,
-    "regularMarketPrice": 53.93,
+    "regularMarketChangePercent": -0.012635703,
+    "regularMarketChange": -0.67499924,
+    "regularMarketPrice": 52.745,
     "regularMarketDayHigh": 54.04,
-    "regularMarketDayLow": 53.58,
-    "regularMarketVolume": 485610,
+    "regularMarketDayLow": 52.53,
+    "regularMarketVolume": 4999779,
     "averageDailyVolume10Day": 7986330,
     "averageDailyVolume3Month": 8017283,
     "regularMarketPreviousClose": 53.42,
@@ -15,10 +15,10 @@
     "symbol": "DVN",
     "shortName": "Devon Energy Corporation",
     "longName": "Devon Energy Corporation",
-    "marketCap": 34245550080,
+    "marketCap": 33493073920,
     "previousClose": 53.42,
     "open": 53.66,
-    "dayLow": 53.58,
+    "dayLow": 52.53,
     "dayHigh": 54.04,
     "dividendRate": 2.42,
     "dividendYield": 0.045300003,
@@ -26,14 +26,14 @@
     "payoutRatio": 0.4914,
     "fiveYearAvgDividendYield": 4.59,
     "beta": 2.22,
-    "trailingPE": 9.234589,
-    "forwardPE": 9.717117,
-    "volume": 485610,
+    "trailingPE": 9.031677,
+    "forwardPE": 9.503603,
+    "volume": 4999779,
     "averageVolume": 8017283,
     "averageVolume10days": 7986330,
     "fiftyTwoWeekLow": 40.47,
     "fiftyTwoWeekHigh": 56.19,
-    "priceToSalesTrailing12Months": 2.3737125,
+    "priceToSalesTrailing12Months": 2.3215551,
     "fiftyDayAverage": 46.6268,
     "twoHundredDayAverage": 47.19735,
     "trailingAnnualDividendRate": 2.87,
@@ -53,7 +53,7 @@
     "shortPercentOfFloat": 0.0278,
     "impliedSharesOutstanding": 638384000,
     "bookValue": 18.973,
-    "priceToBook": 2.8424604,
+    "priceToBook": 2.780003,
     "lastFiscalYearEnd": "2023-12-30 19:00:00",
     "nextFiscalYearEnd": "2024-12-30 19:00:00",
     "mostRecentQuarter": "2023-12-30 19:00:00",
@@ -68,7 +68,7 @@
     "SandP52WeekChange": 0.23416412,
     "lastDividendValue": 0.44,
     "lastDividendDate": 1710374400,
-    "currentPrice": 53.93,
+    "currentPrice": 52.745,
     "targetHighPrice": 67.0,
     "targetLowPrice": 47.0,
     "targetMeanPrice": 55.57,
@@ -2448,7 +2448,7 @@
                 "organization": "Vanguard Total Stock Market Index Fund",
                 "pctHeld": 0.031600002,
                 "position": 20080179,
-                "value": 1082924059,
+                "value": 1059129019,
                 "pctChange": 0.0069999998
             },
             {
@@ -2457,7 +2457,7 @@
                 "organization": "Vanguard 500 Index Fund",
                 "pctHeld": 0.024600001,
                 "position": 15649408,
-                "value": 843972578,
+                "value": 825428008,
                 "pctChange": 0.0165
             },
             {
@@ -2466,7 +2466,7 @@
                 "organization": "Select Sector SPDR Fund-Energy Select",
                 "pctHeld": 0.023699999,
                 "position": 15052673,
-                "value": 811790659,
+                "value": 793953221,
                 "pctChange": -0.0256
             },
             {
@@ -2475,7 +2475,7 @@
                 "organization": "Vanguard Mid-Cap Index Fund",
                 "pctHeld": 0.0226,
                 "position": 14358576,
-                "value": 774358008,
+                "value": 757343075,
                 "pctChange": -0.010299999
             },
             {
@@ -2484,7 +2484,7 @@
                 "organization": "Fidelity 500 Index Fund",
                 "pctHeld": 0.0121,
                 "position": 7684206,
-                "value": 414409231,
+                "value": 405303437,
                 "pctChange": 0.010199999
             },
             {
@@ -2493,7 +2493,7 @@
                 "organization": "SPDR S&P 500 ETF Trust",
                 "pctHeld": 0.0119,
                 "position": 7529699,
-                "value": 406076669,
+                "value": 397153965,
                 "pctChange": -0.0165
             },
             {
@@ -2502,7 +2502,7 @@
                 "organization": "iShares Core S&P 500 ETF",
                 "pctHeld": 0.0105,
                 "position": 6665679,
-                "value": 359480070,
+                "value": 351581231,
                 "pctChange": 0.013099999
             },
             {
@@ -2511,7 +2511,7 @@
                 "organization": "Pacer U.S. Cash Cows 100 ETF",
                 "pctHeld": 0.0101,
                 "position": 6398466,
-                "value": 345069273,
+                "value": 337487082,
                 "pctChange": 1.0
             },
             {
@@ -2520,7 +2520,7 @@
                 "organization": "Vanguard Index-Value Index Fund",
                 "pctHeld": 0.0084,
                 "position": 5334980,
-                "value": 287715473,
+                "value": 281393514,
                 "pctChange": -0.0292
             },
             {
@@ -2529,7 +2529,7 @@
                 "organization": "Victory Portfolios-Sycamore Established Value Fund",
                 "pctHeld": 0.007900001,
                 "position": 5004000,
-                "value": 269865721,
+                "value": 263935974,
                 "pctChange": -0.0066000004
             }
         ],
@@ -2642,7 +2642,7 @@
                 "organization": "Vanguard Group Inc",
                 "pctHeld": 0.1164,
                 "position": 73898017,
-                "value": 3985320079,
+                "value": 3897750827,
                 "pctChange": 0.0014
             },
             {
@@ -2651,7 +2651,7 @@
                 "organization": "Blackrock Inc.",
                 "pctHeld": 0.08189999,
                 "position": 51995849,
-                "value": 2804136152,
+                "value": 2742520999,
                 "pctChange": 0.01
             },
             {
@@ -2660,7 +2660,7 @@
                 "organization": "State Street Corporation",
                 "pctHeld": 0.063,
                 "position": 40006064,
-                "value": 2157527043,
+                "value": 2110119802,
                 "pctChange": -0.0512
             },
             {
@@ -2669,7 +2669,7 @@
                 "organization": "Geode Capital Management, LLC",
                 "pctHeld": 0.0235,
                 "position": 14927360,
-                "value": 805032529,
+                "value": 787343587,
                 "pctChange": 0.0273
             },
             {
@@ -2678,7 +2678,7 @@
                 "organization": "Morgan Stanley",
                 "pctHeld": 0.0159,
                 "position": 10122770,
-                "value": 545920989,
+                "value": 533925492,
                 "pctChange": -0.1309
             },
             {
@@ -2687,7 +2687,7 @@
                 "organization": "Victory Capital Management Inc.",
                 "pctHeld": 0.0134000005,
                 "position": 8539335,
-                "value": 460526339,
+                "value": 450407215,
                 "pctChange": 0.0081
             },
             {
@@ -2696,7 +2696,7 @@
                 "organization": "Raymond James & Associates, Inc.",
                 "pctHeld": 0.013099999,
                 "position": 8308410,
-                "value": 448072553,
+                "value": 438227076,
                 "pctChange": -0.014400001
             },
             {
@@ -2705,7 +2705,7 @@
                 "organization": "Dimensional Fund Advisors LP",
                 "pctHeld": 0.0111,
                 "position": 7077042,
-                "value": 381664877,
+                "value": 373278572,
                 "pctChange": 0.2663
             },
             {
@@ -2714,7 +2714,7 @@
                 "organization": "Northern Trust Corporation",
                 "pctHeld": 0.010299999,
                 "position": 6527971,
-                "value": 352053478,
+                "value": 344317823,
                 "pctChange": -0.0364
             },
             {
@@ -2723,7 +2723,7 @@
                 "organization": "Fuller & Thaler Asset Management Inc.",
                 "pctHeld": 0.0099,
                 "position": 6259826,
-                "value": 337592418,
+                "value": 330174515,
                 "pctChange": 0.1688
             }
         ],
@@ -2736,6 +2736,13 @@
         }
     },
     "upgradeDowngradeHistory": [
+        {
+            "epochGradeDate": "2024-04-15 12:17:40",
+            "firm": "Morgan Stanley",
+            "toGrade": "Overweight",
+            "fromGrade": "Overweight",
+            "action": "main"
+        },
         {
             "epochGradeDate": "2024-04-11 12:23:36",
             "firm": "Citigroup",
@@ -2763,16 +2770,9 @@
             "toGrade": "Equal-Weight",
             "fromGrade": "",
             "action": "init"
-        },
-        {
-            "epochGradeDate": "2024-04-08 16:53:57",
-            "firm": "JP Morgan",
-            "toGrade": "Overweight",
-            "fromGrade": "Overweight",
-            "action": "main"
         }
     ],
     "fcfPerShare": 2.2590550677165355,
-    "fcfYield": 0.04188865311402234,
+    "fcfYield": 0.042829749560353285,
     "fcfPayoutRatio": 1.0712443599022792
 }

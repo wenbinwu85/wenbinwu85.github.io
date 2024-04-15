@@ -1,10 +1,10 @@
 {
-    "regularMarketChangePercent": -0.0037973612,
-    "regularMarketChange": -0.6199951,
-    "regularMarketPrice": 162.66,
+    "regularMarketChangePercent": -0.0137188,
+    "regularMarketChange": -2.2400055,
+    "regularMarketPrice": 161.04,
     "regularMarketDayHigh": 164.44,
-    "regularMarketDayLow": 159.31,
-    "regularMarketVolume": 9709085,
+    "regularMarketDayLow": 158.77,
+    "regularMarketVolume": 47893599,
     "averageDailyVolume10Day": 59889320,
     "averageDailyVolume3Month": 77279274,
     "regularMarketPreviousClose": 163.28,
@@ -15,22 +15,22 @@
     "symbol": "AMD",
     "shortName": "Advanced Micro Devices, Inc.",
     "longName": "Advanced Micro Devices, Inc.",
-    "marketCap": 262881345536,
+    "marketCap": 260263182336,
     "previousClose": 163.28,
     "open": 164.405,
-    "dayLow": 159.31,
+    "dayLow": 158.77,
     "dayHigh": 164.44,
     "exDividendDate": "1995-04-26 20:00:00",
     "payoutRatio": 0.0,
     "beta": 1.635,
-    "trailingPE": 312.8077,
-    "forwardPE": 31.769533,
-    "volume": 9709085,
+    "trailingPE": 309.6923,
+    "forwardPE": 31.453125,
+    "volume": 47893599,
     "averageVolume": 77279274,
     "averageVolume10days": 59889320,
     "fiftyTwoWeekLow": 81.02,
     "fiftyTwoWeekHigh": 227.3,
-    "priceToSalesTrailing12Months": 11.590888,
+    "priceToSalesTrailing12Months": 11.475449,
     "fiftyDayAverage": 181.024,
     "twoHundredDayAverage": 134.9168,
     "trailingAnnualDividendRate": 0.0,
@@ -50,7 +50,7 @@
     "shortPercentOfFloat": 0.020399999,
     "impliedSharesOutstanding": 1687410048,
     "bookValue": 34.587,
-    "priceToBook": 4.702923,
+    "priceToBook": 4.656084,
     "lastFiscalYearEnd": "2023-12-29 19:00:00",
     "nextFiscalYearEnd": "2024-12-29 19:00:00",
     "mostRecentQuarter": "2023-12-29 19:00:00",
@@ -63,7 +63,7 @@
     "enterpriseToEbitda": 67.764,
     "52WeekChange": 0.8168466,
     "SandP52WeekChange": 0.23416412,
-    "currentPrice": 162.66,
+    "currentPrice": 161.04,
     "targetHighPrice": 252.99,
     "targetLowPrice": 56.22,
     "targetMeanPrice": 178.73,
@@ -2386,7 +2386,7 @@
                 "organization": "Vanguard Total Stock Market Index Fund",
                 "pctHeld": 0.031400003,
                 "position": 50705613,
-                "value": 8247775196,
+                "value": 8165631577,
                 "pctChange": 0.0081
             },
             {
@@ -2395,7 +2395,7 @@
                 "organization": "Vanguard 500 Index Fund",
                 "pctHeld": 0.024400001,
                 "position": 39468049,
-                "value": 6419872994,
+                "value": 6355934345,
                 "pctChange": 0.0166
             },
             {
@@ -2404,7 +2404,7 @@
                 "organization": "Invesco ETF Tr-Invesco QQQ Tr, Series 1 ETF",
                 "pctHeld": 0.0189,
                 "position": 30480453,
-                "value": 4957950596,
+                "value": 4908571946,
                 "pctChange": 0.0005
             },
             {
@@ -2413,7 +2413,7 @@
                 "organization": "Fidelity 500 Index Fund",
                 "pctHeld": 0.012,
                 "position": 19377464,
-                "value": 3151938365,
+                "value": 3120546672,
                 "pctChange": 0.010199999
             },
             {
@@ -2422,7 +2422,7 @@
                 "organization": "SPDR S&P 500 ETF Trust",
                 "pctHeld": 0.0117,
                 "position": 18951833,
-                "value": 3082705225,
+                "value": 3052003059,
                 "pctChange": -0.0165
             },
             {
@@ -2431,7 +2431,7 @@
                 "organization": "iShares Core S&P 500 ETF",
                 "pctHeld": 0.0104,
                 "position": 16809035,
-                "value": 2734157694,
+                "value": 2706926883,
                 "pctChange": 0.013099999
             },
             {
@@ -2440,7 +2440,7 @@
                 "organization": "Vanguard Growth Index Fund",
                 "pctHeld": 0.0092,
                 "position": 14809559,
-                "value": 2408922921,
+                "value": 2384931281,
                 "pctChange": 0.056199998
             },
             {
@@ -2449,7 +2449,7 @@
                 "organization": "Vanguard Institutional Index Fund-Institutional Index Fund",
                 "pctHeld": 0.0066000004,
                 "position": 10697092,
-                "value": 1739989023,
+                "value": 1722659623,
                 "pctChange": -0.013300001
             },
             {
@@ -2458,7 +2458,7 @@
                 "organization": "Select Sector SPDR Fund-Technology",
                 "pctHeld": 0.0064,
                 "position": 10422143,
-                "value": 1695265818,
+                "value": 1678381838,
                 "pctChange": 0.0038
             },
             {
@@ -2467,7 +2467,7 @@
                 "organization": "Vanguard Information Technology Index Fund",
                 "pctHeld": 0.0056,
                 "position": 9038705,
-                "value": 1470235788,
+                "value": 1455592992,
                 "pctChange": 0.0013
             }
         ],
@@ -2580,7 +2580,7 @@
                 "organization": "Vanguard Group Inc",
                 "pctHeld": 0.0881,
                 "position": 142445378,
-                "value": 23170165707,
+                "value": 22939402716,
                 "pctChange": 0.0171
             },
             {
@@ -2589,7 +2589,7 @@
                 "organization": "Blackrock Inc.",
                 "pctHeld": 0.0765,
                 "position": 123699344,
-                "value": 20120935748,
+                "value": 19920541527,
                 "pctChange": 0.016900001
             },
             {
@@ -2598,7 +2598,7 @@
                 "organization": "State Street Corporation",
                 "pctHeld": 0.040999997,
                 "position": 66319789,
-                "value": 10787577121,
+                "value": 10680138375,
                 "pctChange": 0.0336
             },
             {
@@ -2607,7 +2607,7 @@
                 "organization": "FMR, LLC",
                 "pctHeld": 0.025,
                 "position": 40339216,
-                "value": 6561577022,
+                "value": 6496227073,
                 "pctChange": -0.018
             },
             {
@@ -2616,7 +2616,7 @@
                 "organization": "JP Morgan Chase & Company",
                 "pctHeld": 0.0223,
                 "position": 35979845,
-                "value": 5852481719,
+                "value": 5794193997,
                 "pctChange": 0.0047
             },
             {
@@ -2625,7 +2625,7 @@
                 "organization": "Geode Capital Management, LLC",
                 "pctHeld": 0.0197,
                 "position": 31776843,
-                "value": 5168821398,
+                "value": 5117342583,
                 "pctChange": 0.0216
             },
             {
@@ -2634,7 +2634,7 @@
                 "organization": "Fisher Asset Management, LLC",
                 "pctHeld": 0.0175,
                 "position": 28338223,
-                "value": 4609495456,
+                "value": 4563587241,
                 "pctChange": 0.020499999
             },
             {
@@ -2643,7 +2643,7 @@
                 "organization": "Price (T.Rowe) Associates Inc",
                 "pctHeld": 0.0171,
                 "position": 27675684,
-                "value": 4501726860,
+                "value": 4456891965,
                 "pctChange": 0.1016
             },
             {
@@ -2652,7 +2652,7 @@
                 "organization": "Jennison Associates LLC",
                 "pctHeld": 0.0166,
                 "position": 26886280,
-                "value": 4373322403,
+                "value": 4329766350,
                 "pctChange": 0.0587
             },
             {
@@ -2661,7 +2661,7 @@
                 "organization": "Morgan Stanley",
                 "pctHeld": 0.0165,
                 "position": 26590372,
-                "value": 4325190006,
+                "value": 4282113328,
                 "pctChange": 0.0919
             }
         ],

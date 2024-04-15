@@ -1,10 +1,10 @@
 {
-    "regularMarketChangePercent": 0.0073982547,
-    "regularMarketChange": 0.14999962,
-    "regularMarketPrice": 20.43,
-    "regularMarketDayHigh": 20.46,
-    "regularMarketDayLow": 20.36,
-    "regularMarketVolume": 220954,
+    "regularMarketChangePercent": -0.0032051546,
+    "regularMarketChange": -0.065000534,
+    "regularMarketPrice": 20.215,
+    "regularMarketDayHigh": 20.5,
+    "regularMarketDayLow": 20.16,
+    "regularMarketVolume": 1828922,
     "averageDailyVolume10Day": 2779660,
     "averageDailyVolume3Month": 3715035,
     "regularMarketPreviousClose": 20.28,
@@ -15,25 +15,25 @@
     "symbol": "ARCC",
     "shortName": "Ares Capital Corporation",
     "longName": "Ares Capital Corporation",
-    "marketCap": 12396454912,
+    "marketCap": 12265997312,
     "previousClose": 20.28,
     "open": 20.37,
-    "dayLow": 20.36,
-    "dayHigh": 20.46,
+    "dayLow": 20.16,
+    "dayHigh": 20.5,
     "dividendRate": 1.92,
     "dividendYield": 0.0947,
     "exDividendDate": "2024-03-13 20:00:00",
     "payoutRatio": 0.71639997,
     "fiveYearAvgDividendYield": 9.22,
     "beta": 1.032,
-    "trailingPE": 7.623134,
-    "forwardPE": 9.161435,
-    "volume": 220954,
+    "trailingPE": 7.54291,
+    "forwardPE": 9.065022,
+    "volume": 1828922,
     "averageVolume": 3715035,
     "averageVolume10days": 2779660,
     "fiftyTwoWeekLow": 17.53,
     "fiftyTwoWeekHigh": 20.86,
-    "priceToSalesTrailing12Months": 4.7423315,
+    "priceToSalesTrailing12Months": 4.6924243,
     "fiftyDayAverage": 20.2612,
     "twoHundredDayAverage": 19.7342,
     "trailingAnnualDividendRate": 1.92,
@@ -52,7 +52,7 @@
     "shortPercentOfFloat": 0.026700001,
     "impliedSharesOutstanding": 606777024,
     "bookValue": 19.246,
-    "priceToBook": 1.0615193,
+    "priceToBook": 1.0503482,
     "lastFiscalYearEnd": "2023-12-30 19:00:00",
     "nextFiscalYearEnd": "2024-12-30 19:00:00",
     "mostRecentQuarter": "2023-12-30 19:00:00",
@@ -66,7 +66,7 @@
     "SandP52WeekChange": 0.23416412,
     "lastDividendValue": 0.48,
     "lastDividendDate": 1710374400,
-    "currentPrice": 20.43,
+    "currentPrice": 20.215,
     "targetHighPrice": 24.0,
     "targetLowPrice": 20.0,
     "targetMeanPrice": 21.68,
@@ -2439,7 +2439,7 @@
                 "organization": "VanEck ETF Trust -VanEck BDC Income ETF",
                 "pctHeld": 0.0150999995,
                 "position": 9152958,
-                "value": 186994934,
+                "value": 185027047,
                 "pctChange": 0.013300001
             },
             {
@@ -2448,7 +2448,7 @@
                 "organization": "Fidelity Dividend Growth Fund",
                 "pctHeld": 0.0055,
                 "position": 3315782,
-                "value": 67741427,
+                "value": 67028533,
                 "pctChange": 0.9232
             },
             {
@@ -2457,7 +2457,7 @@
                 "organization": "Columbia Fds Ser Tr II-Columbia Flexible Capital Income Fd",
                 "pctHeld": 0.0011,
                 "position": 650000,
-                "value": 13279500,
+                "value": 13139750,
                 "pctChange": -0.1333
             },
             {
@@ -2466,7 +2466,7 @@
                 "organization": "Fidelity Advisor Dividend Growth Fund",
                 "pctHeld": 0.0011,
                 "position": 690229,
-                "value": 14101378,
+                "value": 13952979,
                 "pctChange": 1.0347
             },
             {
@@ -2475,7 +2475,7 @@
                 "organization": "Columbia Fds Ser Tr II-Columbia Dividend Opportunity Fd",
                 "pctHeld": 0.00090000004,
                 "position": 568000,
-                "value": 11604240,
+                "value": 11482120,
                 "pctChange": -0.0912
             },
             {
@@ -2484,7 +2484,7 @@
                 "organization": "Tri-Continental Corp",
                 "pctHeld": 0.0007,
                 "position": 450000,
-                "value": 9193500,
+                "value": 9096750,
                 "pctChange": 0.0
             },
             {
@@ -2493,7 +2493,7 @@
                 "organization": "Bridge Builder Tr-Bridge Builder Large Cap Value Fd",
                 "pctHeld": 0.00059999997,
                 "position": 393900,
-                "value": 8047377,
+                "value": 7962688,
                 "pctChange": 0.0
             },
             {
@@ -2502,7 +2502,7 @@
                 "organization": "LMP Capital & Income Fund",
                 "pctHeld": 0.0005,
                 "position": 286890,
-                "value": 5861162,
+                "value": 5799481,
                 "pctChange": 0.0
             },
             {
@@ -2511,7 +2511,7 @@
                 "organization": "Advisors Inner Circle Fund-CIBC Atlas Income Opportunities Fund",
                 "pctHeld": 0.0005,
                 "position": 324545,
-                "value": 6630454,
+                "value": 6560677,
                 "pctChange": 0.0
             },
             {
@@ -2520,7 +2520,7 @@
                 "organization": "Invesco ETF Tr-Invesco Global Listed Private Equity ETF",
                 "pctHeld": 0.0005,
                 "position": 329500,
-                "value": 6731685,
+                "value": 6660842,
                 "pctChange": -0.004
             }
         ],
@@ -2633,7 +2633,7 @@
                 "organization": "Morgan Stanley",
                 "pctHeld": 0.0225,
                 "position": 13681240,
-                "value": 279507737,
+                "value": 276566268,
                 "pctChange": 0.14899999
             },
             {
@@ -2642,7 +2642,7 @@
                 "organization": "Royal Bank of Canada",
                 "pctHeld": 0.0186,
                 "position": 11269125,
-                "value": 230228227,
+                "value": 227805363,
                 "pctChange": -0.0738
             },
             {
@@ -2651,7 +2651,7 @@
                 "organization": "Van Eck Associates Corporation",
                 "pctHeld": 0.0136,
                 "position": 8282079,
-                "value": 169202876,
+                "value": 167422228,
                 "pctChange": 0.113000005
             },
             {
@@ -2660,7 +2660,7 @@
                 "organization": "Bank of America Corporation",
                 "pctHeld": 0.0098,
                 "position": 5929702,
-                "value": 121143813,
+                "value": 119868926,
                 "pctChange": 0.027
             },
             {
@@ -2669,7 +2669,7 @@
                 "organization": "Legal & General Group PLC",
                 "pctHeld": 0.007900001,
                 "position": 4771933,
-                "value": 97490592,
+                "value": 96464626,
                 "pctChange": 0.08180001
             },
             {
@@ -2678,7 +2678,7 @@
                 "organization": "Two Sigma Advisers, LP",
                 "pctHeld": 0.0077,
                 "position": 4674500,
-                "value": 95500036,
+                "value": 94495018,
                 "pctChange": -0.033
             },
             {
@@ -2687,7 +2687,7 @@
                 "organization": "Two Sigma Investments, LP",
                 "pctHeld": 0.0070999996,
                 "position": 4328734,
-                "value": 88436036,
+                "value": 87505358,
                 "pctChange": -0.0553
             },
             {
@@ -2696,7 +2696,7 @@
                 "organization": "Confluence Investment Management LLC",
                 "pctHeld": 0.0068,
                 "position": 4141554,
-                "value": 84611949,
+                "value": 83721514,
                 "pctChange": -0.0354
             },
             {
@@ -2705,7 +2705,7 @@
                 "organization": "OMERS Administration Corporation",
                 "pctHeld": 0.0064999997,
                 "position": 3972793,
-                "value": 81164162,
+                "value": 80310011,
                 "pctChange": -0.0877
             },
             {
@@ -2714,7 +2714,7 @@
                 "organization": "Ameriprise Financial, Inc.",
                 "pctHeld": 0.0062,
                 "position": 3776072,
-                "value": 77145152,
+                "value": 76333296,
                 "pctChange": -0.0028
             }
         ],
@@ -2764,6 +2764,6 @@
         }
     ],
     "fcfPerShare": 1.4416333865667268,
-    "fcfYield": 0.0705645301184636,
+    "fcfYield": 0.07131503405305817,
     "fcfPayoutRatio": 1.331822651924364
 }
