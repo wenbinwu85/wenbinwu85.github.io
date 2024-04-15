@@ -104,13 +104,13 @@
     },
     "events": [
         {
-            "eventType": "Price Crosses Moving Average",
-            "pricePeriod": "D",
-            "tradingHorizon": "I",
+            "eventType": "Momentum",
+            "pricePeriod": "W",
+            "tradingHorizon": "S",
             "tradeType": "S",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1712755800,
-            "endDate": 1712755800
+            "startDate": 1712928600,
+            "endDate": 1712928600
         }
     ],
     "reports": [
@@ -1384,18 +1384,6 @@
             ]
         },
         {
-            "id": "3203_Analyst Report_1540797837000",
-            "headHtml": "Reaffirming BUY with revised $71 target",
-            "provider": "Argus Research",
-            "reportDate": "2018-10-29T07:23:57Z",
-            "reportTitle": "Altria Group, founded in 1919, manufactures and sells cigarettes, smokeless tobacco products, and alcoholic beverages in the United States and abroad. Its cigarette brands include Marlboro, Virginia Slims, Parliament, Benson & Hedges, Basic, Merit, Chesterfield and L&M. The company acquired the U.S. Smokeless Tobacco Company in 2009, adding the Copenhagen, Skoal, Red Seal, and Husky brands to its portfolio. The company also spun off its international operations as Philip Morris International in 2008. Altria retains the Philip Morris USA segment, which focuses on the U.S. market and includes various cigar, pipe tobacco, e-cigarette, wine, and beer brands. The company also manages a portfolio of leveraged leases in land transportation, aircraft, electric power, real estate, and manufacturing.",
-            "targetPrice": 60.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "MO"
-            ]
-        },
-        {
             "id": "22373_Market Summary_1540797837000",
             "headHtml": "Market Digest: FII, GILD, GOOGL, INTC, IP, MO, ODFL, RCL, ROP, RSG, LDOS, SYK, WDC, WM, TSLA, CFX, FTV",
             "provider": "Argus Research",
@@ -1419,6 +1407,18 @@
                 "GILD",
                 "LDOS",
                 "ODFL"
+            ]
+        },
+        {
+            "id": "3203_Analyst Report_1540797837000",
+            "headHtml": "Reaffirming BUY with revised $71 target",
+            "provider": "Argus Research",
+            "reportDate": "2018-10-29T07:23:57Z",
+            "reportTitle": "Altria Group, founded in 1919, manufactures and sells cigarettes, smokeless tobacco products, and alcoholic beverages in the United States and abroad. Its cigarette brands include Marlboro, Virginia Slims, Parliament, Benson & Hedges, Basic, Merit, Chesterfield and L&M. The company acquired the U.S. Smokeless Tobacco Company in 2009, adding the Copenhagen, Skoal, Red Seal, and Husky brands to its portfolio. The company also spun off its international operations as Philip Morris International in 2008. Altria retains the Philip Morris USA segment, which focuses on the U.S. market and includes various cigar, pipe tobacco, e-cigarette, wine, and beer brands. The company also manages a portfolio of leveraged leases in land transportation, aircraft, electric power, real estate, and manufacturing.",
+            "targetPrice": 60.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "MO"
             ]
         },
         {
