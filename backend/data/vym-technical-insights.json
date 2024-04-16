@@ -33,9 +33,9 @@
         },
         "keyTechnicals": {
             "provider": "Trading Central",
-            "support": 107.045,
+            "support": 106.901,
             "resistance": 117.1,
-            "stopLoss": 111.865136
+            "stopLoss": 112.075426
         },
         "valuation": {
             "provider": "Trading Central"
@@ -43,8 +43,8 @@
     },
     "events": [
         {
-            "eventType": "Commodity Channel Index",
-            "pricePeriod": "D",
+            "eventType": "Fast Stochastic",
+            "pricePeriod": "W",
             "tradingHorizon": "S",
             "tradeType": "S",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",

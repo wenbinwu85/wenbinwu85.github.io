@@ -2,16 +2,16 @@
     "postMarketChangePercent": 0.0,
     "postMarketChange": 0.0,
     "postMarketPrice": 20.24,
-    "regularMarketChangePercent": -0.0019724315,
-    "regularMarketChange": -0.040000916,
+    "regularMarketChangePercent": 0.0,
+    "regularMarketChange": 0.0,
     "regularMarketPrice": 20.24,
-    "regularMarketDayHigh": 20.5,
-    "regularMarketDayLow": 20.145,
-    "regularMarketVolume": 2698545,
-    "averageDailyVolume10Day": 2779660,
-    "averageDailyVolume3Month": 3715035,
-    "regularMarketPreviousClose": 20.28,
-    "regularMarketOpen": 20.37,
+    "regularMarketDayHigh": 20.32,
+    "regularMarketDayLow": 20.13,
+    "regularMarketVolume": 3103801,
+    "averageDailyVolume10Day": 2579740,
+    "averageDailyVolume3Month": 3682809,
+    "regularMarketPreviousClose": 20.24,
+    "regularMarketOpen": 20.2,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "quoteType": "EQUITY",
@@ -19,29 +19,29 @@
     "shortName": "Ares Capital Corporation",
     "longName": "Ares Capital Corporation",
     "marketCap": 12281166848,
-    "previousClose": 20.28,
-    "open": 20.37,
-    "dayLow": 20.145,
-    "dayHigh": 20.5,
+    "previousClose": 20.24,
+    "open": 20.2,
+    "dayLow": 20.13,
+    "dayHigh": 20.32,
     "dividendRate": 1.92,
-    "dividendYield": 0.0947,
+    "dividendYield": 0.0949,
     "exDividendDate": "2024-03-13 20:00:00",
     "payoutRatio": 0.71639997,
     "fiveYearAvgDividendYield": 9.22,
     "beta": 1.032,
     "trailingPE": 7.5522385,
     "forwardPE": 9.076233,
-    "volume": 2698545,
-    "averageVolume": 3715035,
-    "averageVolume10days": 2779660,
+    "volume": 3103801,
+    "averageVolume": 3682809,
+    "averageVolume10days": 2579740,
     "fiftyTwoWeekLow": 17.53,
     "fiftyTwoWeekHigh": 20.86,
     "priceToSalesTrailing12Months": 4.6982274,
-    "fiftyDayAverage": 20.2612,
-    "twoHundredDayAverage": 19.7342,
+    "fiftyDayAverage": 20.2644,
+    "twoHundredDayAverage": 19.7423,
     "trailingAnnualDividendRate": 1.92,
-    "trailingAnnualDividendYield": 0.09467455,
-    "enterpriseValue": 23241269248,
+    "trailingAnnualDividendYield": 0.09486166,
+    "enterpriseValue": 23217977344,
     "profitMargins": 0.58225,
     "sharesOutstanding": 606777024,
     "sharesShort": 16093486,
@@ -50,7 +50,7 @@
     "dateShortInterest": "2024-03-27 20:00:00",
     "sharesPercentSharesOut": 0.026500002,
     "heldPercentInsiders": 0.0058999998,
-    "heldPercentInstitutions": 0.29322,
+    "heldPercentInstitutions": 0.29332,
     "shortRatio": 4.14,
     "shortPercentOfFloat": 0.026700001,
     "impliedSharesOutstanding": 606777024,
@@ -64,9 +64,9 @@
     "trailingEps": 2.68,
     "forwardEps": 2.23,
     "pegRatio": -9.51,
-    "enterpriseToRevenue": 8.891,
-    "52WeekChange": 0.10097718,
-    "SandP52WeekChange": 0.23416412,
+    "enterpriseToRevenue": 8.882,
+    "52WeekChange": 0.10843372,
+    "SandP52WeekChange": 0.21828604,
     "lastDividendValue": 0.48,
     "lastDividendDate": 1710374400,
     "currentPrice": 20.24,
@@ -570,20 +570,20 @@
     "indexTrend": {
         "maxAge": 1,
         "symbol": "SP5",
-        "peRatio": 14.6216,
-        "pegRatio": 0.799627,
+        "peRatio": 14.4362,
+        "pegRatio": 0.818237,
         "estimates": [
             {
                 "period": "0q",
-                "growth": -0.008
+                "growth": 0.01
             },
             {
                 "period": "+1q",
-                "growth": 0.096
+                "growth": 0.106000006
             },
             {
                 "period": "0y",
-                "growth": 0.043
+                "growth": 0.049000002
             },
             {
                 "period": "+1y",
@@ -591,7 +591,7 @@
             },
             {
                 "period": "+5y",
-                "growth": 0.111075
+                "growth": 0.112204
             },
             {
                 "period": "-5y"
@@ -2519,12 +2519,12 @@
             },
             {
                 "maxAge": 1,
-                "reportDate": "2024-01-31",
+                "reportDate": "2024-02-29",
                 "organization": "Invesco ETF Tr-Invesco Global Listed Private Equity ETF",
                 "pctHeld": 0.0005,
-                "position": 329500,
-                "value": 6669079,
-                "pctChange": -0.004
+                "position": 324837,
+                "value": 6574700,
+                "pctChange": -0.014199999
             }
         ],
         "insiderHolders": [
@@ -2724,8 +2724,8 @@
         "majorHolders": {
             "maxAge": 1,
             "insidersPercentHeld": 0.0058999998,
-            "institutionsPercentHeld": 0.29322,
-            "institutionsFloatPercentHeld": 0.29496,
+            "institutionsPercentHeld": 0.29332,
+            "institutionsFloatPercentHeld": 0.29506,
             "institutionsCount": 773
         }
     },
