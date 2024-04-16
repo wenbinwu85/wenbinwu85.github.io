@@ -44,9 +44,9 @@
     "upsell": {},
     "events": [
         {
-            "eventType": "Fast Stochastic",
+            "eventType": "Price Crosses Moving Average",
             "pricePeriod": "W",
-            "tradingHorizon": "S",
+            "tradingHorizon": "L",
             "tradeType": "S",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
             "startDate": 1712928600,

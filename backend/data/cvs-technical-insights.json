@@ -105,7 +105,7 @@
     },
     "events": [
         {
-            "eventType": "Commodity Channel Index",
+            "eventType": "Momentum",
             "pricePeriod": "W",
             "tradingHorizon": "S",
             "tradeType": "S",
@@ -200,18 +200,6 @@
             ]
         },
         {
-            "id": "2877_Analyst Report_1692035160000",
-            "headHtml": "Analyst Report: CVS Health Corp",
-            "provider": "Argus Research",
-            "reportDate": "2023-08-14T17:46:00Z",
-            "reportTitle": "CVS Health Corp. operated 9,675 retail drugstores at the end of 2022, including over 1,880 locations in Target stores. The total number of locations exceeds 10,000 when we include a leading specialty pharmacy, Long Term Care pharmacies, Infusion Centers where cancer medicines, for example, are delivered through a needle. The combined company posted 2022 revenue of $322 billion, with about half in the PBM business (now Health Services), 34% in Retail/Long Term Care (Pharmacy & Consumer Wellness), and 27% in Health Care Benefits. Approximately 77% of the $107 billion in Retail and long-term care revenue came from prescriptions; 23% from over-the-counter medicines, Beauty and General Merchandise. The 2019 and 2020 results include Aetna, which was acquired at the end of 2018.\r\n\r\nCVS operated approximately 1,100 Minute Clinics, primarily within CVS pharmacy stores. The corporate headquarters is in Woonsocket, Rhode Island.",
-            "targetPrice": 100.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "CVS"
-            ]
-        },
-        {
             "id": "37358_Market Update_1692035160000",
             "headHtml": "Market Update: ALB, APA, CVS, DEO",
             "provider": "Argus Research",
@@ -222,6 +210,18 @@
                 "APA",
                 "ALB",
                 "DEO"
+            ]
+        },
+        {
+            "id": "2877_Analyst Report_1692035160000",
+            "headHtml": "Analyst Report: CVS Health Corp",
+            "provider": "Argus Research",
+            "reportDate": "2023-08-14T17:46:00Z",
+            "reportTitle": "CVS Health Corp. operated 9,675 retail drugstores at the end of 2022, including over 1,880 locations in Target stores. The total number of locations exceeds 10,000 when we include a leading specialty pharmacy, Long Term Care pharmacies, Infusion Centers where cancer medicines, for example, are delivered through a needle. The combined company posted 2022 revenue of $322 billion, with about half in the PBM business (now Health Services), 34% in Retail/Long Term Care (Pharmacy & Consumer Wellness), and 27% in Health Care Benefits. Approximately 77% of the $107 billion in Retail and long-term care revenue came from prescriptions; 23% from over-the-counter medicines, Beauty and General Merchandise. The 2019 and 2020 results include Aetna, which was acquired at the end of 2018.\r\n\r\nCVS operated approximately 1,100 Minute Clinics, primarily within CVS pharmacy stores. The corporate headquarters is in Woonsocket, Rhode Island.",
+            "targetPrice": 100.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "CVS"
             ]
         },
         {
@@ -703,6 +703,18 @@
             ]
         },
         {
+            "id": "2877_Analyst Report_1639490317000",
+            "headHtml": "Analyst Report: CVS Health Corp",
+            "provider": "Argus Research",
+            "reportDate": "2021-12-14T13:58:37Z",
+            "reportTitle": "CVS Health Corp. operated 9,900 retail drugstores at the end of 2020, including over 1,700 locations in Target stores. The total number of locations exceeds 10,000 when we include a leading specialty pharmacy, Long Term Care pharmacies, Infusion Centers where cancer medicines, for example, are delivered through a needle. The combined company posted 2020 revenue of $269 billion, with about half in the PBM business, 30% in Retail/Long Term Care, and 20% in Health Care Benefits. Approximately 77% of the $91 billion in Retail and long-term care revenue came from prescriptions; 23% from over-the-counter medicines, Beauty and General Merchandise. The 2019 and 2020 results include Aetna, which was acquired at the end of 2018.\r\n\r\nCVS operated approximately 1,100 Minute Clinics, primarily within CVS pharmacy stores. The corporate headquarters is in Woonsocket, Rhode Island.",
+            "targetPrice": 120.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "CVS"
+            ]
+        },
+        {
             "id": "31643_Market Update_1639490317000",
             "headHtml": "Market Update: CVS, HOG, THO, WTRG, ULTA",
             "provider": "Argus Research",
@@ -714,18 +726,6 @@
                 "ULTA",
                 "WTRG",
                 "THO"
-            ]
-        },
-        {
-            "id": "2877_Analyst Report_1639490317000",
-            "headHtml": "Analyst Report: CVS Health Corp",
-            "provider": "Argus Research",
-            "reportDate": "2021-12-14T13:58:37Z",
-            "reportTitle": "CVS Health Corp. operated 9,900 retail drugstores at the end of 2020, including over 1,700 locations in Target stores. The total number of locations exceeds 10,000 when we include a leading specialty pharmacy, Long Term Care pharmacies, Infusion Centers where cancer medicines, for example, are delivered through a needle. The combined company posted 2020 revenue of $269 billion, with about half in the PBM business, 30% in Retail/Long Term Care, and 20% in Health Care Benefits. Approximately 77% of the $91 billion in Retail and long-term care revenue came from prescriptions; 23% from over-the-counter medicines, Beauty and General Merchandise. The 2019 and 2020 results include Aetna, which was acquired at the end of 2018.\r\n\r\nCVS operated approximately 1,100 Minute Clinics, primarily within CVS pharmacy stores. The corporate headquarters is in Woonsocket, Rhode Island.",
-            "targetPrice": 120.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "CVS"
             ]
         },
         {
@@ -1938,15 +1938,6 @@
             "formType": "8-K"
         },
         {
-            "id": "0000947871-23-000633_64803",
-            "type": "Offering Registrations",
-            "title": "S-3ASR : Offering Registrations",
-            "description": "Automatic shelf registration statement of securities of well-known seasoned issuers",
-            "filingDate": 1684972800000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000064803/000094787123000633/thumbnail.png",
-            "formType": "S-3ASR"
-        },
-        {
             "id": "0000064803-23-000021_64803",
             "type": "Corporate Changes & Voting Matters",
             "title": "8-K : Corporate Changes & Voting Matters",
@@ -1954,6 +1945,15 @@
             "filingDate": 1684972800000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000064803/000006480323000021/thumbnail.png",
             "formType": "8-K"
+        },
+        {
+            "id": "0000947871-23-000633_64803",
+            "type": "Offering Registrations",
+            "title": "S-3ASR : Offering Registrations",
+            "description": "Automatic shelf registration statement of securities of well-known seasoned issuers",
+            "filingDate": 1684972800000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000064803/000094787123000633/thumbnail.png",
+            "formType": "S-3ASR"
         },
         {
             "id": "0000064803-23-000019_64803",
@@ -2091,15 +2091,6 @@
             "formType": "10-K"
         },
         {
-            "id": "0000947871-23-000137_64803",
-            "type": "Proxy Statements",
-            "title": "DFAN14A : Proxy Statements",
-            "description": "Definitive additional proxy soliciting materials filed by non-management including Rule 14(a)(12) material",
-            "filingDate": 1675814400000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001564406/000094787123000137/thumbnail.png",
-            "formType": "DFAN14A"
-        },
-        {
             "id": "0000064803-23-000008_64803",
             "type": "Corporate Changes & Voting Matters",
             "title": "8-K : Corporate Changes & Voting Matters",
@@ -2107,6 +2098,15 @@
             "filingDate": 1675814400000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000064803/000006480323000008/thumbnail.png",
             "formType": "8-K"
+        },
+        {
+            "id": "0000947871-23-000137_64803",
+            "type": "Proxy Statements",
+            "title": "DFAN14A : Proxy Statements",
+            "description": "Definitive additional proxy soliciting materials filed by non-management including Rule 14(a)(12) material",
+            "filingDate": 1675814400000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001564406/000094787123000137/thumbnail.png",
+            "formType": "DFAN14A"
         },
         {
             "id": "0000947871-23-000080_64803",

@@ -1325,6 +1325,15 @@
     ],
     "secReports": [
         {
+            "id": "0000726728-24-000063_726728",
+            "type": "Proxy Statements",
+            "title": "DEF 14A : Proxy Statements",
+            "description": "Definitive proxy statements",
+            "filingDate": 1713139200000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000726728/000072672824000063/thumbnail.png",
+            "formType": "DEF 14A"
+        },
+        {
             "id": "0001104659-24-026850_726728",
             "type": "Corporate Changes & Voting Matters",
             "title": "8-K : Corporate Changes & Voting Matters",
@@ -1532,21 +1541,21 @@
             "formType": "8-K"
         },
         {
-            "id": "0001104659-23-121255_726728",
-            "type": "Corporate Changes & Voting Matters",
-            "title": "8-K : Corporate Changes & Voting Matters",
-            "description": "Current report filing",
-            "filingDate": 1701043200000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000726728/000110465923121255/thumbnail.png",
-            "formType": "8-K"
-        },
-        {
             "id": "0001104659-23-121259_726728",
             "type": "Corporate Changes & Voting Matters",
             "title": "8-K : Corporate Changes & Voting Matters",
             "description": "Current report filing",
             "filingDate": 1701043200000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000726728/000110465923121259/thumbnail.png",
+            "formType": "8-K"
+        },
+        {
+            "id": "0001104659-23-121255_726728",
+            "type": "Corporate Changes & Voting Matters",
+            "title": "8-K : Corporate Changes & Voting Matters",
+            "description": "Current report filing",
+            "filingDate": 1701043200000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000726728/000110465923121255/thumbnail.png",
             "formType": "8-K"
         },
         {
@@ -1728,15 +1737,6 @@
             "filingDate": 1680220800000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000726728/000072672823000061/thumbnail.png",
             "formType": "ARS"
-        },
-        {
-            "id": "0000726728-23-000059_726728",
-            "type": "Proxy Statements",
-            "title": "DEF 14A : Proxy Statements",
-            "description": "Definitive proxy statements",
-            "filingDate": 1680220800000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000726728/000072672823000059/thumbnail.png",
-            "formType": "DEF 14A"
         }
     ]
 }

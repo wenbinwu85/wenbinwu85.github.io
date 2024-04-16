@@ -1,10 +1,13 @@
 {
-    "regularMarketChangePercent": -0.0068093706,
-    "regularMarketChange": -0.105000496,
-    "regularMarketPrice": 15.315,
+    "postMarketChangePercent": 0.00065661385,
+    "postMarketChange": 0.010000229,
+    "postMarketPrice": 15.24,
+    "regularMarketChangePercent": -0.012321695,
+    "regularMarketChange": -0.19000053,
+    "regularMarketPrice": 15.23,
     "regularMarketDayHigh": 15.5427,
-    "regularMarketDayLow": 15.3,
-    "regularMarketVolume": 8853847,
+    "regularMarketDayLow": 15.2,
+    "regularMarketVolume": 13136709,
     "averageDailyVolume10Day": 10472310,
     "averageDailyVolume3Month": 12402998,
     "regularMarketPreviousClose": 15.42,
@@ -15,10 +18,10 @@
     "symbol": "ET",
     "shortName": "Energy Transfer LP",
     "longName": "Energy Transfer LP",
-    "marketCap": 51577241600,
+    "marketCap": 51290980352,
     "previousClose": 15.42,
     "open": 15.54,
-    "dayLow": 15.3,
+    "dayLow": 15.2,
     "dayHigh": 15.5427,
     "dividendRate": 1.26,
     "dividendYield": 0.0817,
@@ -26,14 +29,14 @@
     "payoutRatio": 1.133,
     "fiveYearAvgDividendYield": 10.07,
     "beta": 1.655,
-    "trailingPE": 14.050458,
-    "forwardPE": 9.2259035,
-    "volume": 8853847,
+    "trailingPE": 13.972476,
+    "forwardPE": 9.174699,
+    "volume": 13136709,
     "averageVolume": 12402998,
     "averageVolume10days": 10472310,
     "fiftyTwoWeekLow": 12.18,
     "fiftyTwoWeekHigh": 16.04,
-    "priceToSalesTrailing12Months": 0.65631586,
+    "priceToSalesTrailing12Months": 0.65267324,
     "fiftyDayAverage": 15.0252,
     "twoHundredDayAverage": 13.88065,
     "trailingAnnualDividendRate": 1.245,
@@ -53,7 +56,7 @@
     "shortPercentOfFloat": 0.0123000005,
     "impliedSharesOutstanding": 3367759872,
     "bookValue": 8.975,
-    "priceToBook": 1.7064066,
+    "priceToBook": 1.6969358,
     "lastFiscalYearEnd": "2023-12-30 19:00:00",
     "nextFiscalYearEnd": "2024-12-30 19:00:00",
     "mostRecentQuarter": "2023-12-30 19:00:00",
@@ -68,7 +71,7 @@
     "SandP52WeekChange": 0.23416412,
     "lastDividendValue": 0.315,
     "lastDividendDate": 1707177600,
-    "currentPrice": 15.315,
+    "currentPrice": 15.23,
     "targetHighPrice": 23.0,
     "targetLowPrice": 15.0,
     "targetMeanPrice": 18.2,
@@ -571,8 +574,8 @@
     "indexTrend": {
         "maxAge": 1,
         "symbol": "SP5",
-        "peRatio": 15.0826,
-        "pegRatio": 0.788305,
+        "peRatio": 14.6216,
+        "pegRatio": 0.799627,
         "estimates": [
             {
                 "period": "0q",
@@ -580,7 +583,7 @@
             },
             {
                 "period": "+1q",
-                "growth": 0.099
+                "growth": 0.096
             },
             {
                 "period": "0y",
@@ -592,7 +595,7 @@
             },
             {
                 "period": "+5y",
-                "growth": 0.111086994
+                "growth": 0.111075
             },
             {
                 "period": "-5y"
@@ -2426,7 +2429,7 @@
                 "organization": "Alps ETF Tr-Alerian MLP ETF",
                 "pctHeld": 0.031600002,
                 "position": 106357553,
-                "value": 1628865879,
+                "value": 1619825483,
                 "pctChange": 0.6645
             },
             {
@@ -2435,7 +2438,7 @@
                 "organization": "Invesco Steelpath MLP Income Fund",
                 "pctHeld": 0.0106,
                 "position": 35565344,
-                "value": 544683228,
+                "value": 541660172,
                 "pctChange": 0.0519
             },
             {
@@ -2444,7 +2447,7 @@
                 "organization": "Goldman Sachs Tr-Goldman Sachs MLP Energy Infrastructure Fund",
                 "pctHeld": 0.0052,
                 "position": 17366251,
-                "value": 265964126,
+                "value": 264487994,
                 "pctChange": 0.19549999
             },
             {
@@ -2453,7 +2456,7 @@
                 "organization": "Kayne Anderson Energy Infrastructure Fund, Inc.",
                 "pctHeld": 0.0050999997,
                 "position": 17059027,
-                "value": 261258991,
+                "value": 259808973,
                 "pctChange": 0.0162
             },
             {
@@ -2462,7 +2465,7 @@
                 "organization": "Global X Fds-Global X MLP ETF",
                 "pctHeld": 0.0037,
                 "position": 12412069,
-                "value": 190090831,
+                "value": 189035805,
                 "pctChange": 1.0
             },
             {
@@ -2471,7 +2474,7 @@
                 "organization": "First Trust North American Energy Infrastructure Fund",
                 "pctHeld": 0.0033000002,
                 "position": 11247648,
-                "value": 172257724,
+                "value": 171301673,
                 "pctChange": -0.0107
             },
             {
@@ -2480,7 +2483,7 @@
                 "organization": "Invesco Steelpath MLP Select 40 Fund",
                 "pctHeld": 0.003,
                 "position": 10106327,
-                "value": 154778393,
+                "value": 153919355,
                 "pctChange": 0.060100004
             },
             {
@@ -2489,7 +2492,7 @@
                 "organization": "Tortoise Energy Infrastructure Total Return Fund",
                 "pctHeld": 0.0028,
                 "position": 9269809,
-                "value": 141967120,
+                "value": 141179186,
                 "pctChange": 0.1928
             },
             {
@@ -2498,7 +2501,7 @@
                 "organization": "Center Coast Brookfield  Midstream Focus Fd",
                 "pctHeld": 0.0026,
                 "position": 8757936,
-                "value": 134127786,
+                "value": 133383361,
                 "pctChange": 0.1225
             },
             {
@@ -2507,7 +2510,7 @@
                 "organization": "Invesco Steelpath MLP Alpha Fund",
                 "pctHeld": 0.0025,
                 "position": 8528504,
-                "value": 130614035,
+                "value": 129889112,
                 "pctChange": 0.0477
             }
         ],
@@ -2620,7 +2623,7 @@
                 "organization": "Blackstone Inc",
                 "pctHeld": 0.044299997,
                 "position": 149380392,
-                "value": 2287760640,
+                "value": 2275063301,
                 "pctChange": -0.0075
             },
             {
@@ -2629,7 +2632,7 @@
                 "organization": "Goldman Sachs Group Inc",
                 "pctHeld": 0.0242,
                 "position": 81532518,
-                "value": 1248670478,
+                "value": 1241740211,
                 "pctChange": 0.2851
             },
             {
@@ -2638,7 +2641,7 @@
                 "organization": "Alps Advisors Inc.",
                 "pctHeld": 0.0207,
                 "position": 69732591,
-                "value": 1067954601,
+                "value": 1062027329,
                 "pctChange": -0.053400002
             },
             {
@@ -2647,7 +2650,7 @@
                 "organization": "Morgan Stanley",
                 "pctHeld": 0.018,
                 "position": 60697936,
-                "value": 929588864,
+                "value": 924429537,
                 "pctChange": 0.0938
             },
             {
@@ -2656,7 +2659,7 @@
                 "organization": "Invesco Ltd.",
                 "pctHeld": 0.0176,
                 "position": 59204650,
-                "value": 906719189,
+                "value": 901686792,
                 "pctChange": 0.0525
             },
             {
@@ -2665,7 +2668,7 @@
                 "organization": "Bank of America Corporation",
                 "pctHeld": 0.0113,
                 "position": 38084194,
-                "value": 583259415,
+                "value": 580022257,
                 "pctChange": 0.1088
             },
             {
@@ -2674,7 +2677,7 @@
                 "organization": "Tortoise Capital Advisors, LLC",
                 "pctHeld": 0.0105,
                 "position": 35403107,
-                "value": 542198568,
+                "value": 539189303,
                 "pctChange": 0.0499
             },
             {
@@ -2683,7 +2686,7 @@
                 "organization": "JP Morgan Chase & Company",
                 "pctHeld": 0.0094,
                 "position": 31616059,
-                "value": 484199930,
+                "value": 481512564,
                 "pctChange": -0.0251
             },
             {
@@ -2692,7 +2695,7 @@
                 "organization": "UBS Group AG",
                 "pctHeld": 0.0085,
                 "position": 28642769,
-                "value": 438663995,
+                "value": 436229358,
                 "pctChange": 0.1333
             },
             {
@@ -2701,7 +2704,7 @@
                 "organization": "Mirae Asset Global Investments Co., Ltd.",
                 "pctHeld": 0.0076,
                 "position": 25621485,
-                "value": 392393032,
+                "value": 390215204,
                 "pctChange": 0.3831
             }
         ],
@@ -2751,6 +2754,6 @@
         }
     ],
     "fcfPerShare": 1.313669945646291,
-    "fcfYield": 0.08577668736747643,
+    "fcfYield": 0.08625541757318915,
     "fcfPayoutRatio": 0.9591450304361748
 }

@@ -1,10 +1,13 @@
 {
-    "regularMarketChangePercent": -0.024422843,
-    "regularMarketChange": -3.480011,
-    "regularMarketPrice": 139.01,
+    "postMarketChangePercent": -0.011258643,
+    "postMarketChange": -1.5599976,
+    "postMarketPrice": 137.0,
+    "regularMarketChangePercent": -0.02758094,
+    "regularMarketChange": -3.930008,
+    "regularMarketPrice": 138.56,
     "regularMarketDayHigh": 143.45,
-    "regularMarketDayLow": 138.08,
-    "regularMarketVolume": 760962,
+    "regularMarketDayLow": 137.34,
+    "regularMarketVolume": 1657001,
     "averageDailyVolume10Day": 1305190,
     "averageDailyVolume3Month": 2088925,
     "regularMarketPreviousClose": 142.49,
@@ -15,10 +18,10 @@
     "symbol": "DLR",
     "shortName": "Digital Realty Trust, Inc.",
     "longName": "Digital Realty Trust, Inc.",
-    "marketCap": 44308463616,
+    "marketCap": 44165029888,
     "previousClose": 142.49,
     "open": 143.4,
-    "dayLow": 138.08,
+    "dayLow": 137.34,
     "dayHigh": 143.45,
     "dividendRate": 4.88,
     "dividendYield": 0.0342,
@@ -26,14 +29,14 @@
     "payoutRatio": 1.6266999,
     "fiveYearAvgDividendYield": 3.53,
     "beta": 0.558,
-    "trailingPE": 46.182724,
-    "forwardPE": 110.32539,
-    "volume": 760962,
+    "trailingPE": 46.033222,
+    "forwardPE": 109.968254,
+    "volume": 1657001,
     "averageVolume": 2088925,
     "averageVolume10days": 1305190,
     "fiftyTwoWeekLow": 86.33,
     "fiftyTwoWeekHigh": 154.18,
-    "priceToSalesTrailing12Months": 8.134068,
+    "priceToSalesTrailing12Months": 8.107737,
     "fiftyDayAverage": 143.121,
     "twoHundredDayAverage": 131.25545,
     "trailingAnnualDividendRate": 4.88,
@@ -53,7 +56,7 @@
     "shortPercentOfFloat": 0.0377,
     "impliedSharesOutstanding": 318743008,
     "bookValue": 59.003,
-    "priceToBook": 2.3559818,
+    "priceToBook": 2.3483553,
     "lastFiscalYearEnd": "2023-12-30 19:00:00",
     "nextFiscalYearEnd": "2024-12-30 19:00:00",
     "mostRecentQuarter": "2023-12-30 19:00:00",
@@ -68,7 +71,7 @@
     "SandP52WeekChange": 0.23416412,
     "lastDividendValue": 1.22,
     "lastDividendDate": 1710374400,
-    "currentPrice": 139.01,
+    "currentPrice": 138.56,
     "targetHighPrice": 170.0,
     "targetLowPrice": 108.0,
     "targetMeanPrice": 145.63,
@@ -571,8 +574,8 @@
     "indexTrend": {
         "maxAge": 1,
         "symbol": "SP5",
-        "peRatio": 15.0826,
-        "pegRatio": 0.788305,
+        "peRatio": 14.6216,
+        "pegRatio": 0.799627,
         "estimates": [
             {
                 "period": "0q",
@@ -580,7 +583,7 @@
             },
             {
                 "period": "+1q",
-                "growth": 0.099
+                "growth": 0.096
             },
             {
                 "period": "0y",
@@ -592,7 +595,7 @@
             },
             {
                 "period": "+5y",
-                "growth": 0.111086994
+                "growth": 0.111075
             },
             {
                 "period": "-5y"
@@ -2398,7 +2401,7 @@
                 "organization": "Vanguard Specialized-Real Estate Index Fund",
                 "pctHeld": 0.037100002,
                 "position": 11600749,
-                "value": 1612620054,
+                "value": 1607399753,
                 "pctChange": 0.0187
             },
             {
@@ -2407,7 +2410,7 @@
                 "organization": "Vanguard Total Stock Market Index Fund",
                 "pctHeld": 0.0304,
                 "position": 9501851,
-                "value": 1320852255,
+                "value": 1316576451,
                 "pctChange": 0.0076
             },
             {
@@ -2416,7 +2419,7 @@
                 "organization": "Vanguard 500 Index Fund",
                 "pctHeld": 0.023699999,
                 "position": 7397289,
-                "value": 1028297103,
+                "value": 1024968345,
                 "pctChange": 0.016900001
             },
             {
@@ -2425,7 +2428,7 @@
                 "organization": "Vanguard Mid-Cap Index Fund",
                 "pctHeld": 0.0217,
                 "position": 6788014,
-                "value": 943601788,
+                "value": 940547203,
                 "pctChange": -0.0097
             },
             {
@@ -2434,7 +2437,7 @@
                 "organization": "Cohen & Steers Real Estate Securities Fund",
                 "pctHeld": 0.0119,
                 "position": 3726088,
-                "value": 517963472,
+                "value": 516286744,
                 "pctChange": -0.0949
             },
             {
@@ -2443,7 +2446,7 @@
                 "organization": "Fidelity 500 Index Fund",
                 "pctHeld": 0.0116,
                 "position": 3632240,
-                "value": 504917662,
+                "value": 503283165,
                 "pctChange": 0.010199999
             },
             {
@@ -2452,7 +2455,7 @@
                 "organization": "SPDR S&P 500 ETF Trust",
                 "pctHeld": 0.0114,
                 "position": 3554423,
-                "value": 494100321,
+                "value": 492500842,
                 "pctChange": -0.0176
             },
             {
@@ -2461,7 +2464,7 @@
                 "organization": "Cohen & Steers Institutional Realty Shares Incorporated",
                 "pctHeld": 0.0105,
                 "position": 3279953,
-                "value": 455946248,
+                "value": 454470279,
                 "pctChange": 0.0101
             },
             {
@@ -2470,7 +2473,7 @@
                 "organization": "iShares Core S&P 500 ETF",
                 "pctHeld": 0.0101,
                 "position": 3150763,
-                "value": 437987547,
+                "value": 436569713,
                 "pctChange": 0.013099999
             },
             {
@@ -2479,7 +2482,7 @@
                 "organization": "Cohen & Steers Realty Shares Incorporated",
                 "pctHeld": 0.0092,
                 "position": 2865320,
-                "value": 398308117,
+                "value": 397018732,
                 "pctChange": -0.0242
             }
         ],
@@ -2590,7 +2593,7 @@
                 "organization": "Vanguard Group Inc",
                 "pctHeld": 0.1523,
                 "position": 47552026,
-                "value": 6610206873,
+                "value": 6588808606,
                 "pctChange": 0.0034
             },
             {
@@ -2599,7 +2602,7 @@
                 "organization": "Blackrock Inc.",
                 "pctHeld": 0.105900005,
                 "position": 33064393,
-                "value": 4596281089,
+                "value": 4581402213,
                 "pctChange": 0.0582
             },
             {
@@ -2608,7 +2611,7 @@
                 "organization": "Cohen & Steers Inc.",
                 "pctHeld": 0.0719,
                 "position": 22464150,
-                "value": 3122741368,
+                "value": 3112632569,
                 "pctChange": -0.0418
             },
             {
@@ -2617,7 +2620,7 @@
                 "organization": "State Street Corporation",
                 "pctHeld": 0.0679,
                 "position": 21191985,
-                "value": 2945897718,
+                "value": 2936361389,
                 "pctChange": 0.026199998
             },
             {
@@ -2626,7 +2629,7 @@
                 "organization": "Norges Bank Investment Management",
                 "pctHeld": 0.051,
                 "position": 15915369,
-                "value": 2212395357,
+                "value": 2205233489,
                 "pctChange": 1.0
             },
             {
@@ -2635,7 +2638,7 @@
                 "organization": "Bank of America Corporation",
                 "pctHeld": 0.0311,
                 "position": 9709681,
-                "value": 1349742702,
+                "value": 1345373375,
                 "pctChange": -0.1466
             },
             {
@@ -2644,7 +2647,7 @@
                 "organization": "Apg Asset Management US Inc.",
                 "pctHeld": 0.0296,
                 "position": 9255030,
-                "value": 1286541669,
+                "value": 1282376934,
                 "pctChange": 0.0
             },
             {
@@ -2653,7 +2656,7 @@
                 "organization": "Geode Capital Management, LLC",
                 "pctHeld": 0.0247,
                 "position": 7698508,
-                "value": 1070169554,
+                "value": 1066705249,
                 "pctChange": 0.0269
             },
             {
@@ -2662,7 +2665,7 @@
                 "organization": "FMR, LLC",
                 "pctHeld": 0.022,
                 "position": 6864458,
-                "value": 954228268,
+                "value": 951139283,
                 "pctChange": -0.2062
             },
             {
@@ -2671,7 +2674,7 @@
                 "organization": "JP Morgan Chase & Company",
                 "pctHeld": 0.019,
                 "position": 5946918,
-                "value": 826681038,
+                "value": 824004943,
                 "pctChange": -0.3362
             }
         ],
@@ -2721,6 +2724,6 @@
         }
     ],
     "fcfPerShare": 4.783084822220865,
-    "fcfYield": 0.03371204158522453,
+    "fcfYield": 0.0338215273891586,
     "fcfPayoutRatio": 1.0202620654622083
 }

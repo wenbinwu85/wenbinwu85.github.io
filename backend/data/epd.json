@@ -1,10 +1,13 @@
 {
-    "regularMarketChangePercent": -0.015220868,
-    "regularMarketChange": -0.4421997,
-    "regularMarketPrice": 28.6078,
-    "regularMarketDayHigh": 29.15,
-    "regularMarketDayLow": 28.52,
-    "regularMarketVolume": 4343616,
+    "postMarketChangePercent": 0.013328628,
+    "postMarketChange": 0.37999916,
+    "postMarketPrice": 28.89,
+    "regularMarketChangePercent": -0.018588606,
+    "regularMarketChange": -0.539999,
+    "regularMarketPrice": 28.51,
+    "regularMarketDayHigh": 29.155,
+    "regularMarketDayLow": 28.41,
+    "regularMarketVolume": 6527919,
     "averageDailyVolume10Day": 4805900,
     "averageDailyVolume3Month": 4916409,
     "regularMarketPreviousClose": 29.05,
@@ -15,25 +18,25 @@
     "symbol": "EPD",
     "shortName": "Enterprise Products Partners L.",
     "longName": "Enterprise Products Partners L.P.",
-    "marketCap": 62028865536,
+    "marketCap": 61816811520,
     "previousClose": 29.05,
     "open": 29.15,
-    "dayLow": 28.52,
-    "dayHigh": 29.15,
+    "dayLow": 28.41,
+    "dayHigh": 29.155,
     "dividendRate": 2.06,
     "dividendYield": 0.0709,
     "exDividendDate": "2024-04-28 20:00:00",
     "payoutRatio": 0.7857,
     "fiveYearAvgDividendYield": 7.8,
     "beta": 0.994,
-    "trailingPE": 11.352302,
-    "forwardPE": 10.108764,
-    "volume": 4343616,
+    "trailingPE": 11.313492,
+    "forwardPE": 10.074205,
+    "volume": 6527919,
     "averageVolume": 4916409,
     "averageVolume10days": 4805900,
     "fiftyTwoWeekLow": 25.19,
     "fiftyTwoWeekHigh": 29.99,
-    "priceToSalesTrailing12Months": 1.2476891,
+    "priceToSalesTrailing12Months": 1.2434238,
     "fiftyDayAverage": 28.0788,
     "twoHundredDayAverage": 27.06035,
     "trailingAnnualDividendRate": 2.005,
@@ -53,7 +56,7 @@
     "shortPercentOfFloat": 0.0127,
     "impliedSharesOutstanding": 2168250112,
     "bookValue": 12.763,
-    "priceToBook": 2.2414637,
+    "priceToBook": 2.233801,
     "lastFiscalYearEnd": "2023-12-30 19:00:00",
     "nextFiscalYearEnd": "2024-12-30 19:00:00",
     "mostRecentQuarter": "2023-12-30 19:00:00",
@@ -68,7 +71,7 @@
     "SandP52WeekChange": 0.23416412,
     "lastDividendValue": 0.515,
     "lastDividendDate": 1706572800,
-    "currentPrice": 28.6078,
+    "currentPrice": 28.51,
     "targetHighPrice": 37.0,
     "targetLowPrice": 29.0,
     "targetMeanPrice": 32.83,
@@ -565,8 +568,8 @@
     "indexTrend": {
         "maxAge": 1,
         "symbol": "SP5",
-        "peRatio": 15.0826,
-        "pegRatio": 0.788305,
+        "peRatio": 14.6216,
+        "pegRatio": 0.799627,
         "estimates": [
             {
                 "period": "0q",
@@ -574,7 +577,7 @@
             },
             {
                 "period": "+1q",
-                "growth": 0.099
+                "growth": 0.096
             },
             {
                 "period": "0y",
@@ -586,7 +589,7 @@
             },
             {
                 "period": "+5y",
-                "growth": 0.111086994
+                "growth": 0.111075
             },
             {
                 "period": "-5y"
@@ -2389,7 +2392,7 @@
                 "organization": "Alps ETF Tr-Alerian MLP ETF",
                 "pctHeld": 0.0176,
                 "position": 38229113,
-                "value": 1093650800,
+                "value": 1089912020,
                 "pctChange": 0.2207
             },
             {
@@ -2398,7 +2401,7 @@
                 "organization": "Invesco Steelpath MLP Income Fund",
                 "pctHeld": 0.0047999998,
                 "position": 10325000,
-                "value": 295375530,
+                "value": 294365752,
                 "pctChange": 4.1625
             },
             {
@@ -2407,7 +2410,7 @@
                 "organization": "Blackrock Equity Dividend Fund",
                 "pctHeld": 0.0047999998,
                 "position": 10418101,
-                "value": 298038944,
+                "value": 297020061,
                 "pctChange": -0.22670001
             },
             {
@@ -2416,7 +2419,7 @@
                 "organization": "Kayne Anderson Energy Infrastructure Fund, Inc.",
                 "pctHeld": 0.0038,
                 "position": 8316759,
-                "value": 237924174,
+                "value": 237110800,
                 "pctChange": 0.14220001
             },
             {
@@ -2425,7 +2428,7 @@
                 "organization": "Goldman Sachs Tr-Goldman Sachs MLP Energy Infrastructure Fund",
                 "pctHeld": 0.0034999999,
                 "position": 7506743,
-                "value": 214751398,
+                "value": 214017244,
                 "pctChange": 0.3391
             },
             {
@@ -2434,7 +2437,7 @@
                 "organization": "Global X Fds-Global X MLP ETF",
                 "pctHeld": 0.0033000002,
                 "position": 7054736,
-                "value": 201820473,
+                "value": 201130524,
                 "pctChange": -0.0506
             },
             {
@@ -2443,7 +2446,7 @@
                 "organization": "First Trust North American Energy Infrastructure Fund",
                 "pctHeld": 0.0032,
                 "position": 6895814,
-                "value": 197274064,
+                "value": 196599658,
                 "pctChange": -0.0107
             },
             {
@@ -2452,7 +2455,7 @@
                 "organization": "American Century Equity Income",
                 "pctHeld": 0.003,
                 "position": 6486679,
-                "value": 185569612,
+                "value": 184935219,
                 "pctChange": 0.005
             },
             {
@@ -2461,7 +2464,7 @@
                 "organization": "American Century Mid Cap Value Fund",
                 "pctHeld": 0.0029,
                 "position": 6344533,
-                "value": 181503128,
+                "value": 180882637,
                 "pctChange": 0.0851
             },
             {
@@ -2470,7 +2473,7 @@
                 "organization": "Principal Equity Income Fd",
                 "pctHeld": 0.0028,
                 "position": 6158400,
-                "value": 176178272,
+                "value": 175575985,
                 "pctChange": -0.0322
             }
         ],
@@ -2583,7 +2586,7 @@
                 "organization": "Alps Advisors Inc.",
                 "pctHeld": 0.0163,
                 "position": 35382171,
-                "value": 1012206054,
+                "value": 1008745703,
                 "pctChange": -0.0677
             },
             {
@@ -2592,7 +2595,7 @@
                 "organization": "Marquard & Bahls Ag",
                 "pctHeld": 0.010299999,
                 "position": 22227566,
-                "value": 635881752,
+                "value": 633707911,
                 "pctChange": -0.2467
             },
             {
@@ -2601,7 +2604,7 @@
                 "organization": "Blackstone Inc",
                 "pctHeld": 0.010199999,
                 "position": 22142273,
-                "value": 633441707,
+                "value": 631276208,
                 "pctChange": -0.0429
             },
             {
@@ -2610,7 +2613,7 @@
                 "organization": "Goldman Sachs Group Inc",
                 "pctHeld": 0.010199999,
                 "position": 22197722,
-                "value": 635027980,
+                "value": 632857059,
                 "pctChange": -0.0367
             },
             {
@@ -2619,7 +2622,7 @@
                 "organization": "American Century Companies Inc",
                 "pctHeld": 0.0088,
                 "position": 19137865,
-                "value": 547492205,
+                "value": 545620535,
                 "pctChange": 1.0
             },
             {
@@ -2628,7 +2631,7 @@
                 "organization": "Invesco Ltd.",
                 "pctHeld": 0.0086,
                 "position": 18738095,
-                "value": 536055665,
+                "value": 534223092,
                 "pctChange": 0.84339994
             },
             {
@@ -2637,7 +2640,7 @@
                 "organization": "Morgan Stanley",
                 "pctHeld": 0.0082,
                 "position": 17730349,
-                "value": 507226269,
+                "value": 505492254,
                 "pctChange": 0.0618
             },
             {
@@ -2646,7 +2649,7 @@
                 "organization": "Sarofim, Fayez & Co",
                 "pctHeld": 0.0081,
                 "position": 17641462,
-                "value": 504683408,
+                "value": 502958085,
                 "pctChange": 0.0025
             },
             {
@@ -2655,7 +2658,7 @@
                 "organization": "Blackrock Inc.",
                 "pctHeld": 0.0078,
                 "position": 16958565,
-                "value": 485147227,
+                "value": 483488692,
                 "pctChange": -0.16770001
             },
             {
@@ -2664,7 +2667,7 @@
                 "organization": "Neuberger Berman Group, LLC",
                 "pctHeld": 0.0076,
                 "position": 16459787,
-                "value": 470878286,
+                "value": 469268531,
                 "pctChange": -0.072399996
             }
         ],
@@ -2714,6 +2717,6 @@
         }
     ],
     "fcfPerShare": 1.0206386817426347,
-    "fcfYield": 0.03567693713043374,
+    "fcfYield": 0.03579932192529881,
     "fcfPayoutRatio": 2.0183440397171344
 }
