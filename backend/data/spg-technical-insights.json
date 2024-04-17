@@ -45,12 +45,12 @@
             "provider": "Trading Central",
             "support": 111.195,
             "resistance": 150.92,
-            "stopLoss": 135.388281
+            "stopLoss": 133.97172
         },
         "valuation": {
             "color": 0.0,
             "description": "Overvalued",
-            "discount": "-22%",
+            "discount": "-21%",
             "relativeValue": "Premium",
             "provider": "Trading Central"
         }
@@ -62,8 +62,8 @@
             "hiring": 0.6901,
             "sustainability": 0.5611999999999999,
             "insiderSentiments": 0.9576,
-            "earningsReports": 0.6836,
-            "dividends": 0.3668
+            "earningsReports": 0.6818000000000001,
+            "dividends": 0.401
         },
         "sector": {
             "innovativeness": 0.5,
@@ -891,18 +891,6 @@
             ]
         },
         {
-            "id": "3403_Analyst Report_1598400000000",
-            "headHtml": "Analyst Report: Simon Property Group, Inc.",
-            "provider": "Argus Research",
-            "reportDate": "2020-08-26T00:00:00Z",
-            "reportTitle": "Simon Property Group Inc., based in Indianapolis, is a retail REIT that owns and leases malls and outlets. Simon has an interest in or owns 234 properties with 191 million square feet of leasable space in North America, Asia, and Europe. It also has a 22% interest in Klepierre, a Paris-based real estate firm, which owns shopping centers in 15 European countries. SPG is a member of the S&P 500.",
-            "targetPrice": 85.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "SPG"
-            ]
-        },
-        {
             "id": "27784_Market Update_1598400000000",
             "headHtml": "Market Update: PANW, SLF, BBY, MDU, SPG",
             "provider": "Argus Research",
@@ -914,6 +902,18 @@
                 "SLF",
                 "MDU",
                 "PANW"
+            ]
+        },
+        {
+            "id": "3403_Analyst Report_1598400000000",
+            "headHtml": "Analyst Report: Simon Property Group, Inc.",
+            "provider": "Argus Research",
+            "reportDate": "2020-08-26T00:00:00Z",
+            "reportTitle": "Simon Property Group Inc., based in Indianapolis, is a retail REIT that owns and leases malls and outlets. Simon has an interest in or owns 234 properties with 191 million square feet of leasable space in North America, Asia, and Europe. It also has a 22% interest in Klepierre, a Paris-based real estate firm, which owns shopping centers in 15 European countries. SPG is a member of the S&P 500.",
+            "targetPrice": 85.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "SPG"
             ]
         },
         {
@@ -996,18 +996,6 @@
             ]
         },
         {
-            "id": "3403_Analyst Report_1580947200000",
-            "headHtml": "Analyst Report: Simon Property Group, Inc.",
-            "provider": "Argus Research",
-            "reportDate": "2020-02-06T00:00:00Z",
-            "reportTitle": "Simon Property Group Inc., based in Indianapolis, is a retail REIT that owns and leases malls and outlets. Simon has an interest in or owns 233 properties with 191 million square feet of leasable space in North America, Asia, and Europe. It also has a 22% interest in Klepierre, a Paris-based real estate firm, which owns shopping centers in 15 European countries. SPG is a member of the S&P 500.",
-            "targetPrice": 160.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "SPG"
-            ]
-        },
-        {
             "id": "26128_Market Update_1580947200000",
             "headHtml": "Market Update: CMG, ETH, IR, KLAC, MRK, MCHP, SPG",
             "provider": "Argus Research",
@@ -1024,6 +1012,30 @@
             ]
         },
         {
+            "id": "3403_Analyst Report_1580947200000",
+            "headHtml": "Analyst Report: Simon Property Group, Inc.",
+            "provider": "Argus Research",
+            "reportDate": "2020-02-06T00:00:00Z",
+            "reportTitle": "Simon Property Group Inc., based in Indianapolis, is a retail REIT that owns and leases malls and outlets. Simon has an interest in or owns 233 properties with 191 million square feet of leasable space in North America, Asia, and Europe. It also has a 22% interest in Klepierre, a Paris-based real estate firm, which owns shopping centers in 15 European countries. SPG is a member of the S&P 500.",
+            "targetPrice": 160.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "SPG"
+            ]
+        },
+        {
+            "id": "3403_Analyst Report_1573221592000",
+            "headHtml": "Analyst Report: Simon Property Group, Inc.",
+            "provider": "Argus Research",
+            "reportDate": "2019-11-08T13:59:52Z",
+            "reportTitle": "Simon Property Group Inc., based in Indianapolis, is a retail REIT that owns and leases malls and outlets. Simon has an interest in or owns 233 properties with 191 million square feet of leasable space in North America, Asia, and Europe. It also has a 22% interest in Klepierre, a Paris-based real estate firm, which owns shopping centers in 16 European countries. SPG is a member of the S&P 500.",
+            "targetPrice": 180.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "SPG"
+            ]
+        },
+        {
             "id": "25426_Market Update_1573221592000",
             "headHtml": "Market Update: BKNG, CPRI, SPG, CVX, LGF/A, LYB, NYT",
             "provider": "Argus Research",
@@ -1037,18 +1049,6 @@
                 "CPRI",
                 "BKNG",
                 "LGF-A"
-            ]
-        },
-        {
-            "id": "3403_Analyst Report_1573221592000",
-            "headHtml": "Analyst Report: Simon Property Group, Inc.",
-            "provider": "Argus Research",
-            "reportDate": "2019-11-08T13:59:52Z",
-            "reportTitle": "Simon Property Group Inc., based in Indianapolis, is a retail REIT that owns and leases malls and outlets. Simon has an interest in or owns 233 properties with 191 million square feet of leasable space in North America, Asia, and Europe. It also has a 22% interest in Klepierre, a Paris-based real estate firm, which owns shopping centers in 16 European countries. SPG is a member of the S&P 500.",
-            "targetPrice": 180.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "SPG"
             ]
         },
         {
@@ -1420,18 +1420,6 @@
             ]
         },
         {
-            "id": "3403_Analyst Report_1540512000000",
-            "headHtml": "Maintaining BUY on redevelopment and solid 3Q",
-            "provider": "Argus Research",
-            "reportDate": "2018-10-26T00:00:00Z",
-            "reportTitle": "Simon Property Group Inc., based in Indianapolis, is a retail REIT that owns and leases out its malls and outlets. Simon has an interest in or owns 235 properties with 191 million square feet of leasable space. It also has a 21% interest in Klepierre, a Paris-based real estate firm, which owns shopping centers in 16 European countries. SPG is a member of the S&P 500.",
-            "targetPrice": 200.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "SPG"
-            ]
-        },
-        {
             "id": "22366_Market Summary_1540512000000",
             "headHtml": "Market Digest: BSX, CHKP, GD, LVS, MRK, MSFT, NOK, NSC, PKG, RTN, SPG, SWK, TROW, OC, KKR, TWTR",
             "provider": "Argus Research",
@@ -1454,6 +1442,18 @@
                 "CHKP",
                 "GD",
                 "NSC"
+            ]
+        },
+        {
+            "id": "3403_Analyst Report_1540512000000",
+            "headHtml": "Maintaining BUY on redevelopment and solid 3Q",
+            "provider": "Argus Research",
+            "reportDate": "2018-10-26T00:00:00Z",
+            "reportTitle": "Simon Property Group Inc., based in Indianapolis, is a retail REIT that owns and leases out its malls and outlets. Simon has an interest in or owns 235 properties with 191 million square feet of leasable space. It also has a 21% interest in Klepierre, a Paris-based real estate firm, which owns shopping centers in 16 European countries. SPG is a member of the S&P 500.",
+            "targetPrice": 200.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "SPG"
             ]
         },
         {

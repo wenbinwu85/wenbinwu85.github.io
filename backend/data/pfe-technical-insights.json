@@ -43,9 +43,9 @@
         },
         "keyTechnicals": {
             "provider": "Trading Central",
-            "support": 25.89,
+            "support": 25.69,
             "resistance": 27.6,
-            "stopLoss": 24.791979
+            "stopLoss": 24.756099
         },
         "valuation": {
             "color": 1.0,
@@ -62,8 +62,8 @@
             "hiring": 0.9109999999999999,
             "sustainability": 0.6751999999999999,
             "insiderSentiments": 0.7117,
-            "earningsReports": 0.9775,
-            "dividends": 0.9484999999999999
+            "earningsReports": 0.9773999999999999,
+            "dividends": 0.9486
         },
         "sector": {
             "innovativeness": 0.5,
@@ -1268,6 +1268,18 @@
             ]
         },
         {
+            "id": "3305_Analyst Report_1627566246000",
+            "headHtml": "Analyst Report: Pfizer Inc.",
+            "provider": "Argus Research",
+            "reportDate": "2021-07-29T13:44:06Z",
+            "reportTitle": "Pfizer is a leading global developer and manufacturer of pharmaceuticals and biotech drugs. Its products include oncology and immunology drugs, treatments for rare diseases, and vaccines.",
+            "targetPrice": 55.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "PFE"
+            ]
+        },
+        {
             "id": "30509_Market Update_1627566246000",
             "headHtml": "Market Update: ADP, BA, BYD, JBLU, PFE, QCOM, XLNX, V, PYPL",
             "provider": "Argus Research",
@@ -1283,18 +1295,6 @@
                 "ADP",
                 "PFE",
                 "BA"
-            ]
-        },
-        {
-            "id": "3305_Analyst Report_1627566246000",
-            "headHtml": "Analyst Report: Pfizer Inc.",
-            "provider": "Argus Research",
-            "reportDate": "2021-07-29T13:44:06Z",
-            "reportTitle": "Pfizer is a leading global developer and manufacturer of pharmaceuticals and biotech drugs. Its products include oncology and immunology drugs, treatments for rare diseases, and vaccines.",
-            "targetPrice": 55.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "PFE"
             ]
         },
         {
@@ -1369,6 +1369,18 @@
             ]
         },
         {
+            "id": "3305_Analyst Report_1622531573000",
+            "headHtml": "Analyst Report: Pfizer Inc.",
+            "provider": "Argus Research",
+            "reportDate": "2021-06-01T07:12:53Z",
+            "reportTitle": "Pfizer is a leading global developer and manufacturer of pharmaceuticals and biotech drugs. Its products include oncology and immunology drugs, treatments for rare diseases, and vaccines.",
+            "targetPrice": 55.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "PFE"
+            ]
+        },
+        {
             "id": "30012_Market Summary_1622531573000",
             "headHtml": "Market Digest: HPQ, PFE, BCE, FOXA",
             "provider": "Argus Research",
@@ -1378,18 +1390,6 @@
                 "FOXA",
                 "BCE",
                 "HPQ",
-                "PFE"
-            ]
-        },
-        {
-            "id": "3305_Analyst Report_1622531573000",
-            "headHtml": "Analyst Report: Pfizer Inc.",
-            "provider": "Argus Research",
-            "reportDate": "2021-06-01T07:12:53Z",
-            "reportTitle": "Pfizer is a leading global developer and manufacturer of pharmaceuticals and biotech drugs. Its products include oncology and immunology drugs, treatments for rare diseases, and vaccines.",
-            "targetPrice": 55.0,
-            "investmentRating": "Bullish",
-            "tickers": [
                 "PFE"
             ]
         },
@@ -1503,18 +1503,6 @@
             ]
         },
         {
-            "id": "3305_Analyst Report_1604410075000",
-            "headHtml": "Analyst Report: Pfizer Inc.",
-            "provider": "Argus Research",
-            "reportDate": "2020-11-03T13:27:55Z",
-            "reportTitle": "Pfizer is a leading global developer and manufacturer of pharmaceuticals and biotech drugs. Its products include oncology and immunology drugs, treatments for rare diseases, and vaccines.",
-            "targetPrice": 55.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "PFE"
-            ]
-        },
-        {
             "id": "28335_Market Update_1604410075000",
             "headHtml": "Market Update: BSX, TPR, FLEX, K, PFE, YUM, CBOE, PYPL, ANET",
             "provider": "Argus Research",
@@ -1529,6 +1517,18 @@
                 "FLEX",
                 "CBOE",
                 "K",
+                "PFE"
+            ]
+        },
+        {
+            "id": "3305_Analyst Report_1604410075000",
+            "headHtml": "Analyst Report: Pfizer Inc.",
+            "provider": "Argus Research",
+            "reportDate": "2020-11-03T13:27:55Z",
+            "reportTitle": "Pfizer is a leading global developer and manufacturer of pharmaceuticals and biotech drugs. Its products include oncology and immunology drugs, treatments for rare diseases, and vaccines.",
+            "targetPrice": 55.0,
+            "investmentRating": "Bullish",
+            "tickers": [
                 "PFE"
             ]
         },

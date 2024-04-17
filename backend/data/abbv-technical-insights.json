@@ -45,7 +45,7 @@
             "provider": "Trading Central",
             "support": 147.81,
             "resistance": 163.66,
-            "stopLoss": 153.915798
+            "stopLoss": 156.450424
         },
         "valuation": {
             "color": 0.5,
@@ -61,8 +61,8 @@
             "hiring": 0.9181,
             "sustainability": 0.9316,
             "insiderSentiments": 0.0767,
-            "earningsReports": 0.9734,
-            "dividends": 0.7835
+            "earningsReports": 0.9732999999999999,
+            "dividends": 0.7798
         },
         "sector": {
             "innovativeness": 0.5,
@@ -104,7 +104,7 @@
     },
     "events": [
         {
-            "eventType": "MACD",
+            "eventType": "Price Crosses Moving Average",
             "pricePeriod": "W",
             "tradingHorizon": "I",
             "tradeType": "S",
@@ -1952,14 +1952,14 @@
             ]
         },
         {
-            "id": "24311_Market Summary_1561532293000",
-            "headHtml": "Market Digest: PINS, ABBV",
+            "id": "3610_Analyst Report_1561532293000",
+            "headHtml": "Maintaining HOLD",
             "provider": "Argus Research",
             "reportDate": "2019-06-26T06:58:13Z",
-            "reportTitle": "The S&P 500 closed the mid-June trading week with a four-point drop from its newly established all-time closing high (2,954). The index held above the prior high of 2,945 achieved early in May 2019. While not all-important in the short term, holding above the prior all-time high might give momentum investors fresh impetus to commit to the market. Any such momentum could be self-propagating as the index approaches the psychologically important 3,000 level.",
+            "reportTitle": "AbbVie, a research-based biopharmaceutical company, was spun off from Abbott Laboratories in January 2013. The company is based in suburban Chicago. The shares are a component of the S&P 500.",
+            "investmentRating": "Neutral",
             "tickers": [
-                "ABBV",
-                "PINS"
+                "ABBV"
             ]
         }
     ],
@@ -2016,15 +2016,6 @@
             "formType": "S-8"
         },
         {
-            "id": "0001104659-24-025262_1551152",
-            "type": "Corporate Changes & Voting Matters",
-            "title": "8-K : Corporate Changes & Voting Matters",
-            "description": "Current report filing",
-            "filingDate": 1708387200000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001551152/000110465924025262/thumbnail.png",
-            "formType": "8-K"
-        },
-        {
             "id": "0001551152-24-000011_1551152",
             "type": "Periodic Financial Reports",
             "title": "10-K : Periodic Financial Reports",
@@ -2032,6 +2023,15 @@
             "filingDate": 1708387200000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001551152/000155115224000011/thumbnail.png",
             "formType": "10-K"
+        },
+        {
+            "id": "0001104659-24-025262_1551152",
+            "type": "Corporate Changes & Voting Matters",
+            "title": "8-K : Corporate Changes & Voting Matters",
+            "description": "Current report filing",
+            "filingDate": 1708387200000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001551152/000110465924025262/thumbnail.png",
+            "formType": "8-K"
         },
         {
             "id": "0001104659-24-013692_1551152",
