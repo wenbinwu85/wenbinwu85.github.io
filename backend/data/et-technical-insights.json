@@ -7,14 +7,14 @@
             "shortTermOutlook": {
                 "stateDescription": "Recent bearish events outweigh bullish events.",
                 "direction": "Bearish",
-                "score": 3,
-                "scoreDescription": "Strong Bearish Evidence",
+                "score": 1,
+                "scoreDescription": "Weak Bearish Evidence",
                 "sectorDirection": "Bearish",
                 "sectorScore": 4,
                 "sectorScoreDescription": "Very Strong Bearish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 4,
-                "indexScoreDescription": "Very Strong Bearish Evidence"
+                "indexScore": 3,
+                "indexScoreDescription": "Strong Bearish Evidence"
             },
             "intermediateTermOutlook": {
                 "stateDescription": "Recent bearish events outweigh bullish events.",
@@ -43,14 +43,14 @@
         },
         "keyTechnicals": {
             "provider": "Trading Central",
-            "support": 13.885,
+            "support": 12.8512,
             "resistance": 15.71,
-            "stopLoss": 14.486853
+            "stopLoss": 14.489188
         },
         "valuation": {
             "color": 1.0,
             "description": "Undervalued",
-            "discount": "28%",
+            "discount": "27%",
             "relativeValue": "Discount",
             "provider": "Trading Central"
         }
@@ -61,7 +61,7 @@
             "innovativeness": 0.2664,
             "sustainability": 0.9265000000000001,
             "insiderSentiments": 0.8968,
-            "earningsReports": 0.85,
+            "earningsReports": 0.8589,
             "dividends": 0.7199
         },
         "sector": {
@@ -100,13 +100,13 @@
     },
     "events": [
         {
-            "eventType": "Outside Bar (Bullish)",
+            "eventType": "Commodity Channel Index",
             "pricePeriod": "D",
             "tradingHorizon": "S",
-            "tradeType": "L",
+            "tradeType": "U",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1713274200,
-            "endDate": 1713360600
+            "startDate": 1713447000,
+            "endDate": 1713447000
         }
     ],
     "sigDevs": [

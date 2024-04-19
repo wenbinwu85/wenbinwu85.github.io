@@ -1,42 +1,42 @@
 {
-    "postMarketChangePercent": -0.00495613,
-    "postMarketChange": -0.519997,
-    "postMarketPrice": 104.4,
-    "regularMarketChangePercent": -0.024544435,
-    "regularMarketChange": -2.6399994,
-    "regularMarketPrice": 104.92,
-    "regularMarketDayHigh": 107.2963,
-    "regularMarketDayLow": 102.5878,
-    "regularMarketVolume": 11908654,
-    "averageDailyVolume10Day": 7463280,
-    "averageDailyVolume3Month": 16169154,
-    "regularMarketPreviousClose": 107.56,
-    "regularMarketOpen": 106.355,
+    "postMarketChangePercent": 0.004472983,
+    "postMarketChange": 0.3899994,
+    "postMarketPrice": 87.58,
+    "regularMarketChangePercent": -0.16898586,
+    "regularMarketChange": -17.729996,
+    "regularMarketPrice": 87.19,
+    "regularMarketDayHigh": 103.01,
+    "regularMarketDayLow": 85.61,
+    "regularMarketVolume": 29228000,
+    "averageDailyVolume10Day": 8113880,
+    "averageDailyVolume3Month": 16202046,
+    "regularMarketPreviousClose": 104.92,
+    "regularMarketOpen": 100.0,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "quoteType": "EQUITY",
     "symbol": "ARM",
     "shortName": "Arm Holdings plc",
     "longName": "Arm Holdings plc",
-    "marketCap": 107866152960,
-    "previousClose": 107.56,
-    "open": 106.355,
-    "dayLow": 102.5878,
-    "dayHigh": 107.2963,
+    "marketCap": 89638297600,
+    "previousClose": 104.92,
+    "open": 100.0,
+    "dayLow": 85.61,
+    "dayHigh": 103.01,
     "payoutRatio": 0.0,
-    "trailingPE": 1165.7777,
-    "forwardPE": 68.575165,
-    "volume": 11908654,
-    "averageVolume": 16169154,
-    "averageVolume10days": 7463280,
+    "trailingPE": 1089.875,
+    "forwardPE": 56.98693,
+    "volume": 29228000,
+    "averageVolume": 16202046,
+    "averageVolume10days": 8113880,
     "fiftyTwoWeekLow": 46.5,
     "fiftyTwoWeekHigh": 164.0,
-    "priceToSalesTrailing12Months": 36.714146,
-    "fiftyDayAverage": 127.1086,
-    "twoHundredDayAverage": 83.3996,
+    "priceToSalesTrailing12Months": 30.509974,
+    "fiftyDayAverage": 127.7474,
+    "twoHundredDayAverage": 83.54307,
     "trailingAnnualDividendRate": 0.0,
     "trailingAnnualDividendYield": 0.0,
-    "enterpriseValue": 108399788032,
+    "enterpriseValue": 105685663744,
     "profitMargins": 0.02893,
     "floatShares": 96382064,
     "sharesOutstanding": 1028080000,
@@ -46,28 +46,28 @@
     "dateShortInterest": "2024-03-27 20:00:00",
     "sharesPercentSharesOut": 0.008,
     "heldPercentInsiders": 0.90436995,
-    "heldPercentInstitutions": 0.082550004,
+    "heldPercentInstitutions": 0.08289,
     "shortRatio": 0.76,
     "impliedSharesOutstanding": 1028080000,
     "bookValue": 4.867,
-    "priceToBook": 21.557426,
+    "priceToBook": 17.914526,
     "lastFiscalYearEnd": "2023-03-30 20:00:00",
     "nextFiscalYearEnd": "2024-03-30 20:00:00",
     "mostRecentQuarter": "2023-12-30 19:00:00",
     "earningsQuarterlyGrowth": -0.522,
     "netIncomeToCommon": 85000000,
-    "trailingEps": 0.09,
+    "trailingEps": 0.08,
     "forwardEps": 1.53,
-    "pegRatio": 2.03,
-    "enterpriseToRevenue": 36.896,
-    "enterpriseToEbitda": 443.353,
-    "52WeekChange": 0.69146097,
-    "SandP52WeekChange": 0.2160933,
-    "currentPrice": 104.92,
+    "pegRatio": 1.98,
+    "enterpriseToRevenue": 35.972,
+    "enterpriseToEbitda": 432.252,
+    "52WeekChange": 0.6499449,
+    "SandP52WeekChange": 0.21231294,
+    "currentPrice": 87.19,
     "targetHighPrice": 180.0,
     "targetLowPrice": 55.4,
-    "targetMeanPrice": 112.83,
-    "targetMedianPrice": 108.0,
+    "targetMeanPrice": 114.03,
+    "targetMedianPrice": 110.0,
     "recommendationMean": 2.4,
     "recommendationKey": "buy",
     "numberOfAnalystOpinions": 25,
@@ -315,8 +315,8 @@
                     "90daysAgo": 0.21
                 },
                 "epsRevisions": {
-                    "upLast7days": 0,
-                    "upLast30days": 0,
+                    "upLast7days": 1,
+                    "upLast30days": 1,
                     "downLast30days": 0,
                     "downLast90days": {}
                 }
@@ -350,7 +350,7 @@
                     "90daysAgo": 0.25
                 },
                 "epsRevisions": {
-                    "upLast7days": 1,
+                    "upLast7days": 0,
                     "upLast30days": 1,
                     "downLast30days": 0,
                     "downLast90days": {}
@@ -381,11 +381,11 @@
                     "current": 1.19,
                     "7daysAgo": 1.19,
                     "30daysAgo": 1.2,
-                    "60daysAgo": 1.19,
+                    "60daysAgo": 1.2,
                     "90daysAgo": 1.07
                 },
                 "epsRevisions": {
-                    "upLast7days": 1,
+                    "upLast7days": 0,
                     "upLast30days": 3,
                     "downLast30days": 0,
                     "downLast90days": {}
@@ -420,9 +420,9 @@
                     "90daysAgo": 1.35
                 },
                 "epsRevisions": {
-                    "upLast7days": 1,
+                    "upLast7days": 0,
                     "upLast30days": 3,
-                    "downLast30days": 1,
+                    "downLast30days": 0,
                     "downLast90days": {}
                 }
             },
@@ -501,20 +501,20 @@
     "indexTrend": {
         "maxAge": 1,
         "symbol": "SP5",
-        "peRatio": 14.9377,
-        "pegRatio": 0.97,
+        "peRatio": 14.7363,
+        "pegRatio": 0.759119,
         "estimates": [
             {
                 "period": "0q",
-                "growth": 0.008
+                "growth": 0.016
             },
             {
                 "period": "+1q",
-                "growth": 0.096
+                "growth": 0.105
             },
             {
                 "period": "0y",
-                "growth": 0.045
+                "growth": 0.051999997
             },
             {
                 "period": "+1y",
@@ -522,7 +522,7 @@
             },
             {
                 "period": "+5y",
-                "growth": 0.11092
+                "growth": 0.11216699
             },
             {
                 "period": "-5y"
@@ -572,7 +572,7 @@
                 "organization": "Goldman Sachs GQG Partners International Opportunities Fund",
                 "pctHeld": 0.0068,
                 "position": 6947069,
-                "value": 728886466,
+                "value": 605714963,
                 "pctChange": 0.0
             },
             {
@@ -581,7 +581,7 @@
                 "organization": "Vanguard International Growth Fund",
                 "pctHeld": 0.0016,
                 "position": 1610096,
-                "value": 168931269,
+                "value": 140384274,
                 "pctChange": 1.0
             },
             {
@@ -590,7 +590,7 @@
                 "organization": "Harbor Capital Appreciation Fund",
                 "pctHeld": 0.0016,
                 "position": 1661153,
-                "value": 174288169,
+                "value": 144835934,
                 "pctChange": -0.0309
             },
             {
@@ -599,7 +599,7 @@
                 "organization": "Vanguard U.S. Growth Fund",
                 "pctHeld": 0.0013,
                 "position": 1296704,
-                "value": 136050181,
+                "value": 113059624,
                 "pctChange": 1.0
             },
             {
@@ -608,7 +608,7 @@
                 "organization": "Hartford Growth Opportunities Fund",
                 "pctHeld": 0.001,
                 "position": 990857,
-                "value": 103960714,
+                "value": 86392824,
                 "pctChange": 0.36540002
             },
             {
@@ -617,7 +617,7 @@
                 "organization": "Delaware Ivy Science and Technology Fund",
                 "pctHeld": 0.00090000004,
                 "position": 940193,
-                "value": 98645047,
+                "value": 81975429,
                 "pctChange": 0.0
             },
             {
@@ -626,7 +626,7 @@
                 "organization": "Hartford/Schroders International Stock Fd",
                 "pctHeld": 0.00090000004,
                 "position": 939780,
-                "value": 98601715,
+                "value": 81939420,
                 "pctChange": 0.24379998
             },
             {
@@ -635,7 +635,7 @@
                 "organization": "Vanguard Horizon Fund-Capital Opportunity Fund",
                 "pctHeld": 0.0008,
                 "position": 784500,
-                "value": 82309738,
+                "value": 68400556,
                 "pctChange": 0.0
             },
             {
@@ -644,7 +644,7 @@
                 "organization": "Invesco Main Street Fund",
                 "pctHeld": 0.0007,
                 "position": 717945,
-                "value": 75326788,
+                "value": 62597626,
                 "pctChange": 0.0
             },
             {
@@ -653,7 +653,7 @@
                 "organization": "Fidelity Select Portfolios - Technology",
                 "pctHeld": 0.0007,
                 "position": 693700,
-                "value": 72783002,
+                "value": 60483704,
                 "pctChange": 1.0
             }
         ],
@@ -665,7 +665,7 @@
                 "organization": "GQG Partners LLC",
                 "pctHeld": 0.0149,
                 "position": 15369239,
-                "value": 1612540527,
+                "value": 1340043985,
                 "pctChange": -0.0623
             },
             {
@@ -674,7 +674,7 @@
                 "organization": "Jennison Associates LLC",
                 "pctHeld": 0.0070999996,
                 "position": 7346660,
-                "value": 770811553,
+                "value": 640555303,
                 "pctChange": 0.1566
             },
             {
@@ -683,7 +683,7 @@
                 "organization": "Schroder Investment Management Group",
                 "pctHeld": 0.0062,
                 "position": 6390228,
-                "value": 670462710,
+                "value": 557163994,
                 "pctChange": 1.0
             },
             {
@@ -692,7 +692,7 @@
                 "organization": "Wellington Management Group, LLP",
                 "pctHeld": 0.0043,
                 "position": 4468720,
-                "value": 468858094,
+                "value": 389627707,
                 "pctChange": 0.5642
             },
             {
@@ -701,7 +701,7 @@
                 "organization": "Goldman Sachs Group Inc",
                 "pctHeld": 0.0034999999,
                 "position": 3550217,
-                "value": 372488761,
+                "value": 309543428,
                 "pctChange": 0.17469999
             },
             {
@@ -710,7 +710,7 @@
                 "organization": "FMR, LLC",
                 "pctHeld": 0.0029,
                 "position": 3000812,
-                "value": 314845189,
+                "value": 261640805,
                 "pctChange": -0.3386
             },
             {
@@ -719,7 +719,7 @@
                 "organization": "Blackrock Inc.",
                 "pctHeld": 0.0023999999,
                 "position": 2442277,
-                "value": 256243698,
+                "value": 212942137,
                 "pctChange": -0.1657
             },
             {
@@ -728,7 +728,7 @@
                 "organization": "Robeco Schweiz AG",
                 "pctHeld": 0.0021,
                 "position": 2130000,
-                "value": 223479596,
+                "value": 185714705,
                 "pctChange": 2.203
             },
             {
@@ -737,7 +737,7 @@
                 "organization": "Alphabet Inc.",
                 "pctHeld": 0.0019,
                 "position": 1960784,
-                "value": 205725453,
+                "value": 170960761,
                 "pctChange": 0.0
             },
             {
@@ -746,19 +746,26 @@
                 "organization": "Mubadala Investment Co PJSC",
                 "pctHeld": 0.0019,
                 "position": 2001960,
-                "value": 210045639,
+                "value": 174550897,
                 "pctChange": 1.0
             }
         ],
         "majorHolders": {
             "maxAge": 1,
             "insidersPercentHeld": 0.90436995,
-            "institutionsPercentHeld": 0.082550004,
-            "institutionsFloatPercentHeld": 0.86320996,
-            "institutionsCount": 396
+            "institutionsPercentHeld": 0.08289,
+            "institutionsFloatPercentHeld": 0.86679,
+            "institutionsCount": 402
         }
     },
     "upgradeDowngradeHistory": [
+        {
+            "epochGradeDate": "2024-04-19 05:15:26",
+            "firm": "Exane BNP Paribas",
+            "toGrade": "Neutral",
+            "fromGrade": "Outperform",
+            "action": "down"
+        },
         {
             "epochGradeDate": "2024-04-16 05:39:06",
             "firm": "Evercore ISI Group",
@@ -785,13 +792,6 @@
             "firm": "Susquehanna",
             "toGrade": "Neutral",
             "fromGrade": "Neutral",
-            "action": "main"
-        },
-        {
-            "epochGradeDate": "2024-03-07 06:57:59",
-            "firm": "Mizuho",
-            "toGrade": "Buy",
-            "fromGrade": "Buy",
             "action": "main"
         }
     ],

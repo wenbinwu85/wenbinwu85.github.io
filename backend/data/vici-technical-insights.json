@@ -5,7 +5,7 @@
             "provider": "Trading Central",
             "sector": "Real Estate",
             "shortTermOutlook": {
-                "stateDescription": "Recent bearish events outweigh bullish events.",
+                "stateDescription": "Bearish events outweigh bullish events.",
                 "direction": "Bearish",
                 "score": 3,
                 "scoreDescription": "Strong Bearish Evidence",
@@ -13,8 +13,8 @@
                 "sectorScore": 3,
                 "sectorScoreDescription": "Strong Bearish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 4,
-                "indexScoreDescription": "Very Strong Bearish Evidence"
+                "indexScore": 3,
+                "indexScoreDescription": "Strong Bearish Evidence"
             },
             "intermediateTermOutlook": {
                 "stateDescription": "Recent bearish events outweigh bullish events.",
@@ -43,14 +43,14 @@
         },
         "keyTechnicals": {
             "provider": "Trading Central",
-            "support": 27.2,
+            "support": 27.445,
             "resistance": 29.685,
-            "stopLoss": 26.249821
+            "stopLoss": 26.137002
         },
         "valuation": {
             "color": 1.0,
             "description": "Undervalued",
-            "discount": "91%",
+            "discount": "90%",
             "relativeValue": "Discount",
             "provider": "Trading Central"
         }
@@ -60,7 +60,7 @@
         "company": {
             "innovativeness": 0.0898,
             "insiderSentiments": 0.6848000000000001,
-            "earningsReports": 0.5916,
+            "earningsReports": 0.5905,
             "dividends": 0.3883
         },
         "sector": {
@@ -82,13 +82,13 @@
     },
     "events": [
         {
-            "eventType": "Slow Stochastic",
-            "pricePeriod": "W",
+            "eventType": "Relative Strength Index (RSI)",
+            "pricePeriod": "D",
             "tradingHorizon": "S",
             "tradeType": "L",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1712928600,
-            "endDate": 1712928600
+            "startDate": 1713447000,
+            "endDate": 1713447000
         }
     ],
     "reports": [
@@ -1292,15 +1292,6 @@
             "formType": "10-Q"
         },
         {
-            "id": "0001705696-23-000072_1705696",
-            "type": "Periodic Financial Reports",
-            "title": "10-Q : Periodic Financial Reports",
-            "description": "Quarterly report pursuant to Section 13 or 15(d)",
-            "filingDate": 1682899200000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001705696/000170569623000072/thumbnail.png",
-            "formType": "10-Q"
-        },
-        {
             "id": "0001705696-23-000071_1705696",
             "type": "Corporate Changes & Voting Matters",
             "title": "8-K : Corporate Changes & Voting Matters",
@@ -1308,6 +1299,15 @@
             "filingDate": 1682899200000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001705696/000170569623000071/thumbnail.png",
             "formType": "8-K"
+        },
+        {
+            "id": "0001705696-23-000072_1705696",
+            "type": "Periodic Financial Reports",
+            "title": "10-Q : Periodic Financial Reports",
+            "description": "Quarterly report pursuant to Section 13 or 15(d)",
+            "filingDate": 1682899200000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001705696/000170569623000072/thumbnail.png",
+            "formType": "10-Q"
         },
         {
             "id": "0001705696-23-000065_1705696",
@@ -1454,15 +1454,6 @@
             "formType": "8-K"
         },
         {
-            "id": "0001705696-22-000129_1705696",
-            "type": "Corporate Changes & Voting Matters",
-            "title": "8-K : Corporate Changes & Voting Matters",
-            "description": "Current report filing",
-            "filingDate": 1666828800000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001920791/000170569622000129/thumbnail.png",
-            "formType": "8-K"
-        },
-        {
             "id": "0001705696-22-000130_1705696",
             "type": "Periodic Financial Reports",
             "title": "10-Q : Periodic Financial Reports",
@@ -1470,6 +1461,15 @@
             "filingDate": 1666828800000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001920791/000170569622000130/thumbnail.png",
             "formType": "10-Q"
+        },
+        {
+            "id": "0001705696-22-000129_1705696",
+            "type": "Corporate Changes & Voting Matters",
+            "title": "8-K : Corporate Changes & Voting Matters",
+            "description": "Current report filing",
+            "filingDate": 1666828800000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001920791/000170569622000129/thumbnail.png",
+            "formType": "8-K"
         },
         {
             "id": "0001705696-22-000111_1705696",

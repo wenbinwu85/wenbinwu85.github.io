@@ -10,11 +10,11 @@
                 "score": 2,
                 "scoreDescription": "Bearish Evidence",
                 "sectorDirection": "Bearish",
-                "sectorScore": 3,
-                "sectorScoreDescription": "Strong Bearish Evidence",
+                "sectorScore": 4,
+                "sectorScoreDescription": "Very Strong Bearish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 4,
-                "indexScoreDescription": "Very Strong Bearish Evidence"
+                "indexScore": 3,
+                "indexScoreDescription": "Strong Bearish Evidence"
             },
             "intermediateTermOutlook": {
                 "stateDescription": "All events are bearish.",
@@ -43,7 +43,7 @@
         },
         "keyTechnicals": {
             "provider": "Trading Central",
-            "stopLoss": 65.420352
+            "stopLoss": 71.435971
         },
         "valuation": {
             "color": 0.0,
@@ -94,12 +94,12 @@
     },
     "events": [
         {
-            "eventType": "Top Triangle",
+            "eventType": "Bollinger Bands",
             "pricePeriod": "D",
-            "tradingHorizon": "I",
-            "tradeType": "S",
-            "imageUrl": "https://s.yimg.com/uc/fin/img/assets/bearish-top-triangle.svg",
-            "startDate": 1707748200,
+            "tradingHorizon": "S",
+            "tradeType": "L",
+            "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
+            "startDate": 1713360600,
             "endDate": 1713360600
         }
     ],
