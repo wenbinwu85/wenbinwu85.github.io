@@ -13,20 +13,20 @@
                 "sectorScore": 4,
                 "sectorScoreDescription": "Very Strong Bearish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 3,
-                "indexScoreDescription": "Strong Bearish Evidence"
+                "indexScore": 4,
+                "indexScoreDescription": "Very Strong Bearish Evidence"
             },
             "intermediateTermOutlook": {
-                "stateDescription": "Recent bearish events outweigh bullish events.",
+                "stateDescription": "All events are bearish.",
                 "direction": "Bearish",
-                "score": 2,
-                "scoreDescription": "Bearish Evidence",
+                "score": 4,
+                "scoreDescription": "Very Strong Bearish Evidence",
                 "sectorDirection": "Bearish",
                 "sectorScore": 4,
                 "sectorScoreDescription": "Very Strong Bearish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 3,
-                "indexScoreDescription": "Strong Bearish Evidence"
+                "indexScore": 4,
+                "indexScoreDescription": "Very Strong Bearish Evidence"
             },
             "longTermOutlook": {
                 "stateDescription": "There are no events.",
@@ -45,12 +45,12 @@
             "provider": "Trading Central",
             "support": 332.89,
             "resistance": 422.6,
-            "stopLoss": 393.238652
+            "stopLoss": 386.130335
         },
         "valuation": {
             "color": 0.0,
             "description": "Overvalued",
-            "discount": "-2%",
+            "discount": "-1%",
             "relativeValue": "Premium",
             "provider": "Trading Central"
         }
@@ -58,12 +58,12 @@
     "companySnapshot": {
         "sectorInfo": "Technology",
         "company": {
-            "innovativeness": 0.9631000000000001,
+            "innovativeness": 0.963,
             "hiring": 0.9662999999999999,
             "sustainability": 0.3667,
             "insiderSentiments": 0.3326,
-            "earningsReports": 0.8878,
-            "dividends": 0.1404
+            "earningsReports": 0.8873000000000001,
+            "dividends": 0.1392
         },
         "sector": {
             "innovativeness": 0.5,
@@ -106,13 +106,13 @@
     },
     "events": [
         {
-            "eventType": "Price Crosses Moving Average",
-            "pricePeriod": "D",
-            "tradingHorizon": "I",
+            "eventType": "Momentum",
+            "pricePeriod": "W",
+            "tradingHorizon": "S",
             "tradeType": "S",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1713187800,
-            "endDate": 1713187800
+            "startDate": 1713533400,
+            "endDate": 1713533400
         }
     ],
     "reports": [
@@ -2071,8 +2071,8 @@
     ],
     "sigDevs": [
         {
-            "headline": "European Commission Decided Microsoft's Tie-Up With OpenAI Doesn\u2019t Merit A Formal Probe Because It Falls Short Of A Takeover- Bloomberg News",
-            "date": "2024-04-17"
+            "headline": "Cognizant And Microsoft Announce Global Partnership To Expand Adoption Of Generative AI In Enterprise",
+            "date": "2024-04-22"
         }
     ],
     "secReports": [

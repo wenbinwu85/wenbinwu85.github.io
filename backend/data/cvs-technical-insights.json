@@ -13,8 +13,8 @@
                 "sectorScore": 3,
                 "sectorScoreDescription": "Strong Bearish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 3,
-                "indexScoreDescription": "Strong Bearish Evidence"
+                "indexScore": 4,
+                "indexScoreDescription": "Very Strong Bearish Evidence"
             },
             "intermediateTermOutlook": {
                 "stateDescription": "Recent bearish events outweigh bullish events.",
@@ -25,8 +25,8 @@
                 "sectorScore": 4,
                 "sectorScoreDescription": "Very Strong Bearish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 3,
-                "indexScoreDescription": "Strong Bearish Evidence"
+                "indexScore": 4,
+                "indexScoreDescription": "Very Strong Bearish Evidence"
             },
             "longTermOutlook": {
                 "stateDescription": "Recent bearish events outweigh bullish events.",
@@ -34,8 +34,8 @@
                 "score": 4,
                 "scoreDescription": "Very Strong Bearish Evidence",
                 "sectorDirection": "Bullish",
-                "sectorScore": 3,
-                "sectorScoreDescription": "Strong Bullish Evidence",
+                "sectorScore": 2,
+                "sectorScoreDescription": "Bullish Evidence",
                 "indexDirection": "Bullish",
                 "indexScore": 1,
                 "indexScoreDescription": "Weak Bullish Evidence"
@@ -43,9 +43,9 @@
         },
         "keyTechnicals": {
             "provider": "Trading Central",
-            "support": 68.58,
-            "resistance": 69.554,
-            "stopLoss": 64.5621
+            "support": 69.554,
+            "resistance": 76.28,
+            "stopLoss": 64.815428
         },
         "valuation": {
             "color": 0.5,
@@ -57,12 +57,12 @@
     "companySnapshot": {
         "sectorInfo": "Healthcare",
         "company": {
-            "innovativeness": 0.8916,
+            "innovativeness": 0.8915000000000001,
             "hiring": 0.9893000000000001,
             "sustainability": 0.4359,
             "insiderSentiments": 0.4739,
-            "earningsReports": 0.8975,
-            "dividends": 0.8086
+            "earningsReports": 0.8993000000000001,
+            "dividends": 0.812
         },
         "sector": {
             "innovativeness": 0.5,
@@ -105,10 +105,10 @@
     },
     "events": [
         {
-            "eventType": "Commodity Channel Index",
+            "eventType": "Relative Strength Index (RSI)",
             "pricePeriod": "D",
             "tradingHorizon": "S",
-            "tradeType": "U",
+            "tradeType": "L",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
             "startDate": 1713447000,
             "endDate": 1713447000
@@ -1884,15 +1884,6 @@
             "formType": "10-Q"
         },
         {
-            "id": "0000947871-23-000807_64803",
-            "type": "Offering Registrations",
-            "title": "S-8 : Offering Registrations",
-            "description": "Initial registration statement for securities to be offered to employees pursuant to employee benefit plans",
-            "filingDate": 1690934400000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000064803/000094787123000807/thumbnail.png",
-            "formType": "S-8"
-        },
-        {
             "id": "0000064803-23-000032_64803",
             "type": "Corporate Changes & Voting Matters",
             "title": "8-K : Corporate Changes & Voting Matters",
@@ -1900,6 +1891,15 @@
             "filingDate": 1690934400000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000064803/000006480323000032/thumbnail.png",
             "formType": "8-K"
+        },
+        {
+            "id": "0000947871-23-000807_64803",
+            "type": "Offering Registrations",
+            "title": "S-8 : Offering Registrations",
+            "description": "Initial registration statement for securities to be offered to employees pursuant to employee benefit plans",
+            "filingDate": 1690934400000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000064803/000094787123000807/thumbnail.png",
+            "formType": "S-8"
         },
         {
             "id": "0000947871-23-000769_64803",

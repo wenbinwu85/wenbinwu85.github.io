@@ -7,14 +7,14 @@
             "shortTermOutlook": {
                 "stateDescription": "Recent bullish events outweigh bearish events.",
                 "direction": "Bullish",
-                "score": 2,
-                "scoreDescription": "Bullish Evidence",
+                "score": 3,
+                "scoreDescription": "Strong Bullish Evidence",
                 "sectorDirection": "Bearish",
-                "sectorScore": 3,
-                "sectorScoreDescription": "Strong Bearish Evidence",
+                "sectorScore": 4,
+                "sectorScoreDescription": "Very Strong Bearish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 3,
-                "indexScoreDescription": "Strong Bearish Evidence"
+                "indexScore": 4,
+                "indexScoreDescription": "Very Strong Bearish Evidence"
             },
             "intermediateTermOutlook": {
                 "stateDescription": "Recent bullish events outweigh bearish events.",
@@ -22,11 +22,11 @@
                 "score": 2,
                 "scoreDescription": "Bullish Evidence",
                 "sectorDirection": "Bearish",
-                "sectorScore": 3,
-                "sectorScoreDescription": "Strong Bearish Evidence",
+                "sectorScore": 4,
+                "sectorScoreDescription": "Very Strong Bearish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 3,
-                "indexScoreDescription": "Strong Bearish Evidence"
+                "indexScore": 4,
+                "indexScoreDescription": "Very Strong Bearish Evidence"
             },
             "longTermOutlook": {
                 "stateDescription": "There is one bearish event.",
@@ -45,12 +45,12 @@
             "provider": "Trading Central",
             "support": 86.15,
             "resistance": 93.48,
-            "stopLoss": 83.750963
+            "stopLoss": 84.794751
         },
         "valuation": {
             "color": 0.5,
             "description": "Near Fair Value",
-            "discount": "15%",
+            "discount": "14%",
             "provider": "Trading Central"
         }
     },
@@ -61,8 +61,8 @@
             "hiring": 0.8902,
             "sustainability": 0.7474,
             "insiderSentiments": 0.2844,
-            "earningsReports": 0.8571,
-            "dividends": 0.4682
+            "earningsReports": 0.8547,
+            "dividends": 0.46490000000000004
         },
         "sector": {
             "innovativeness": 0.5,
@@ -104,13 +104,13 @@
     },
     "events": [
         {
-            "eventType": "Commodity Channel Index",
+            "eventType": "MACD",
             "pricePeriod": "D",
             "tradingHorizon": "S",
-            "tradeType": "U",
+            "tradeType": "L",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1713360600,
-            "endDate": 1713360600
+            "startDate": 1713533400,
+            "endDate": 1713533400
         }
     ],
     "reports": [
@@ -252,17 +252,6 @@
             ]
         },
         {
-            "id": "3375_Analyst Report_1675686868000",
-            "headHtml": "Analyst Report: Starbucks Corp.",
-            "provider": "Argus Research",
-            "reportDate": "2023-02-06T12:34:28Z",
-            "reportTitle": "Starbucks is a leading retailer of fresh-brewed coffee and branded merchandise. Its brands include Starbucks, Tazo Tea, and Frappuccino. With a market cap of $125.2 billion, SBUX shares are generally considered large-cap growth.",
-            "investmentRating": "Neutral",
-            "tickers": [
-                "SBUX"
-            ]
-        },
-        {
             "id": "35495_Market Summary_1675686868000",
             "headHtml": "Market Digest: AMGN, ASH, EPD, LAZ, MMM, MO, PFE, ROP, SBUX, SWK, APTV, AGNC",
             "provider": "Argus Research",
@@ -281,6 +270,17 @@
                 "AMGN",
                 "PFE",
                 "APTV"
+            ]
+        },
+        {
+            "id": "3375_Analyst Report_1675686868000",
+            "headHtml": "Analyst Report: Starbucks Corp.",
+            "provider": "Argus Research",
+            "reportDate": "2023-02-06T12:34:28Z",
+            "reportTitle": "Starbucks is a leading retailer of fresh-brewed coffee and branded merchandise. Its brands include Starbucks, Tazo Tea, and Frappuccino. With a market cap of $125.2 billion, SBUX shares are generally considered large-cap growth.",
+            "investmentRating": "Neutral",
+            "tickers": [
+                "SBUX"
             ]
         },
         {
@@ -2054,15 +2054,6 @@
             "formType": "8-K"
         },
         {
-            "id": "0000902664-23-005690_829224",
-            "type": "Proxy Statements",
-            "title": "DFAN14A : Proxy Statements",
-            "description": "Definitive additional proxy soliciting materials filed by non-management including Rule 14(a)(12) material",
-            "filingDate": 1700611200000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0002001721/000090266423005690/thumbnail.png",
-            "formType": "DFAN14A"
-        },
-        {
             "id": "0000950142-23-002828_829224",
             "type": "Proxy Statements",
             "title": "DEFA14A : Proxy Statements",
@@ -2070,6 +2061,15 @@
             "filingDate": 1700611200000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000829224/000095014223002828/thumbnail.png",
             "formType": "DEFA14A"
+        },
+        {
+            "id": "0000902664-23-005690_829224",
+            "type": "Proxy Statements",
+            "title": "DFAN14A : Proxy Statements",
+            "description": "Definitive additional proxy soliciting materials filed by non-management including Rule 14(a)(12) material",
+            "filingDate": 1700611200000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0002001721/000090266423005690/thumbnail.png",
+            "formType": "DFAN14A"
         },
         {
             "id": "0000902664-23-005676_829224",

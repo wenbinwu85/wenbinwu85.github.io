@@ -7,14 +7,14 @@
             "shortTermOutlook": {
                 "stateDescription": "Recent bearish events outweigh bullish events.",
                 "direction": "Bearish",
-                "score": 4,
-                "scoreDescription": "Very Strong Bearish Evidence",
+                "score": 3,
+                "scoreDescription": "Strong Bearish Evidence",
                 "sectorDirection": "Bearish",
                 "sectorScore": 4,
                 "sectorScoreDescription": "Very Strong Bearish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 3,
-                "indexScoreDescription": "Strong Bearish Evidence"
+                "indexScore": 4,
+                "indexScoreDescription": "Very Strong Bearish Evidence"
             },
             "intermediateTermOutlook": {
                 "stateDescription": "All events are bullish.",
@@ -25,8 +25,8 @@
                 "sectorScore": 3,
                 "sectorScoreDescription": "Strong Bullish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 3,
-                "indexScoreDescription": "Strong Bearish Evidence"
+                "indexScore": 4,
+                "indexScoreDescription": "Very Strong Bearish Evidence"
             },
             "longTermOutlook": {
                 "stateDescription": "Recent bullish events outweigh bearish events.",
@@ -45,12 +45,12 @@
             "provider": "Trading Central",
             "support": 48.3101,
             "resistance": 53.36,
-            "stopLoss": 49.748656
+            "stopLoss": 49.10479
         },
         "valuation": {
             "color": 0.5,
             "description": "Near Fair Value",
-            "discount": "-5%",
+            "discount": "-6%",
             "provider": "Trading Central"
         }
     },
@@ -61,8 +61,8 @@
             "hiring": 0.24710000000000001,
             "sustainability": 0.5588000000000001,
             "insiderSentiments": 0.754,
-            "earningsReports": 0.7263,
-            "dividends": 0.4043
+            "earningsReports": 0.7302,
+            "dividends": 0.40590000000000004
         },
         "sector": {
             "innovativeness": 0.5,
@@ -108,10 +108,10 @@
             "eventType": "Price Crosses Moving Average",
             "pricePeriod": "D",
             "tradingHorizon": "S",
-            "tradeType": "S",
+            "tradeType": "L",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1713447000,
-            "endDate": 1713447000
+            "startDate": 1713533400,
+            "endDate": 1713533400
         }
     ],
     "reports": [
@@ -1594,18 +1594,6 @@
             ]
         },
         {
-            "id": "2912_Analyst Report_1565740800000",
-            "headHtml": "Reiterating BUY following 2Q results",
-            "provider": "Argus Research",
-            "reportDate": "2019-08-14T00:00:00Z",
-            "reportTitle": "Devon Energy is a leading independent energy company engaged in oil and gas exploration, production and property acquisitions. Based in Oklahoma City, Devon is among the largest U.S.-based independent oil and gas producers and is included in the S&P 500 index. The company's operations are focused onshore in the United States and Canada.",
-            "targetPrice": 32.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "DVN"
-            ]
-        },
-        {
             "id": "24709_Market Update_1565740800000",
             "headHtml": "Market Update: LIN, SNY, SWKS, DVN, MYL",
             "provider": "Argus Research",
@@ -1617,6 +1605,18 @@
                 "SWKS",
                 "DVN",
                 "SNY"
+            ]
+        },
+        {
+            "id": "2912_Analyst Report_1565740800000",
+            "headHtml": "Reiterating BUY following 2Q results",
+            "provider": "Argus Research",
+            "reportDate": "2019-08-14T00:00:00Z",
+            "reportTitle": "Devon Energy is a leading independent energy company engaged in oil and gas exploration, production and property acquisitions. Based in Oklahoma City, Devon is among the largest U.S.-based independent oil and gas producers and is included in the S&P 500 index. The company's operations are focused onshore in the United States and Canada.",
+            "targetPrice": 32.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "DVN"
             ]
         }
     ],

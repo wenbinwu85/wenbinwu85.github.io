@@ -5,34 +5,34 @@
             "provider": "Trading Central",
             "sector": "Energy",
             "shortTermOutlook": {
-                "stateDescription": "Bearish events outweigh bullish events.",
-                "direction": "Bearish",
+                "stateDescription": "Recent bullish events outweigh bearish events.",
+                "direction": "Bullish",
                 "score": 2,
-                "scoreDescription": "Bearish Evidence",
+                "scoreDescription": "Bullish Evidence",
                 "sectorDirection": "Bearish",
                 "sectorScore": 4,
                 "sectorScoreDescription": "Very Strong Bearish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 3,
-                "indexScoreDescription": "Strong Bearish Evidence"
+                "indexScore": 4,
+                "indexScoreDescription": "Very Strong Bearish Evidence"
             },
             "intermediateTermOutlook": {
                 "stateDescription": "Recent bearish events outweigh bullish events.",
                 "direction": "Bearish",
-                "score": 3,
-                "scoreDescription": "Strong Bearish Evidence",
+                "score": 1,
+                "scoreDescription": "Weak Bearish Evidence",
                 "sectorDirection": "Bullish",
                 "sectorScore": 3,
                 "sectorScoreDescription": "Strong Bullish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 3,
-                "indexScoreDescription": "Strong Bearish Evidence"
+                "indexScore": 4,
+                "indexScoreDescription": "Very Strong Bearish Evidence"
             },
             "longTermOutlook": {
-                "stateDescription": "All events are bearish.",
-                "direction": "Bearish",
-                "score": 2,
-                "scoreDescription": "Bearish Evidence",
+                "stateDescription": "Recent bullish events outweigh bearish events.",
+                "direction": "Bullish",
+                "score": 1,
+                "scoreDescription": "Weak Bullish Evidence",
                 "sectorDirection": "Bullish",
                 "sectorScore": 3,
                 "sectorScoreDescription": "Strong Bullish Evidence",
@@ -43,9 +43,9 @@
         },
         "keyTechnicals": {
             "provider": "Trading Central",
-            "support": 33.72,
+            "support": 34.6,
             "resistance": 35.945,
-            "stopLoss": 31.501019
+            "stopLoss": 30.668186
         },
         "valuation": {
             "color": 0.5,
@@ -60,7 +60,7 @@
             "innovativeness": 0.5514,
             "sustainability": 0.0882,
             "insiderSentiments": 0.2407,
-            "dividends": 0.6943
+            "dividends": 0.695
         },
         "sector": {
             "innovativeness": 0.5,
@@ -88,7 +88,7 @@
             "Enbridge has yet to build a moaty renewables business, risking its capital investment here over the next few years."
         ],
         "companyName": "Enbridge Inc",
-        "msBullishBearishSummariesPublishDate": 1713199665000,
+        "msBullishBearishSummariesPublishDate": 1713547769000,
         "upsellReportType": "MORNINGSTAR_ANALYST"
     },
     "upsellSearchDD": {
@@ -103,13 +103,13 @@
     },
     "events": [
         {
-            "eventType": "Relative Strength Index (RSI)",
-            "pricePeriod": "D",
-            "tradingHorizon": "S",
+            "eventType": "Double Moving Average Crossover",
+            "pricePeriod": "W",
+            "tradingHorizon": "I",
             "tradeType": "L",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1713447000,
-            "endDate": 1713447000
+            "startDate": 1713533400,
+            "endDate": 1713533400
         }
     ],
     "reports": [
@@ -2447,15 +2447,6 @@
             "formType": "8-K"
         },
         {
-            "id": "0000895728-22-000032_895728",
-            "type": "Corporate Changes & Voting Matters",
-            "title": "8-K : Corporate Changes & Voting Matters",
-            "description": "Current report filing",
-            "filingDate": 1667520000000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000089572822000032/thumbnail.png",
-            "formType": "8-K"
-        },
-        {
             "id": "0000895728-22-000033_895728",
             "type": "Periodic Financial Reports",
             "title": "10-Q : Periodic Financial Reports",
@@ -2463,6 +2454,15 @@
             "filingDate": 1667520000000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000089572822000033/thumbnail.png",
             "formType": "10-Q"
+        },
+        {
+            "id": "0000895728-22-000032_895728",
+            "type": "Corporate Changes & Voting Matters",
+            "title": "8-K : Corporate Changes & Voting Matters",
+            "description": "Current report filing",
+            "filingDate": 1667520000000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000089572822000032/thumbnail.png",
+            "formType": "8-K"
         },
         {
             "id": "0001193125-22-257129_895728",
@@ -2510,15 +2510,6 @@
             "formType": "8-K"
         },
         {
-            "id": "0000895728-22-000019_895728",
-            "type": "Periodic Financial Reports",
-            "title": "10-Q : Periodic Financial Reports",
-            "description": "Quarterly report pursuant to Section 13 or 15(d)",
-            "filingDate": 1651795200000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000089572822000019/thumbnail.png",
-            "formType": "10-Q"
-        },
-        {
             "id": "0000895728-22-000017_895728",
             "type": "Corporate Changes & Voting Matters",
             "title": "8-K : Corporate Changes & Voting Matters",
@@ -2526,6 +2517,15 @@
             "filingDate": 1651795200000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000089572822000017/thumbnail.png",
             "formType": "8-K"
+        },
+        {
+            "id": "0000895728-22-000019_895728",
+            "type": "Periodic Financial Reports",
+            "title": "10-Q : Periodic Financial Reports",
+            "description": "Quarterly report pursuant to Section 13 or 15(d)",
+            "filingDate": 1651795200000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000089572822000019/thumbnail.png",
+            "formType": "10-Q"
         },
         {
             "id": "0001193125-22-142488_895728",

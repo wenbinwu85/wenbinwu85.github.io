@@ -5,28 +5,28 @@
             "provider": "Trading Central",
             "sector": "Consumer Defensive",
             "shortTermOutlook": {
-                "stateDescription": "Bearish events outweigh bullish events.",
-                "direction": "Bearish",
-                "score": 2,
-                "scoreDescription": "Bearish Evidence",
+                "stateDescription": "Recent bullish events outweigh bearish events.",
+                "direction": "Bullish",
+                "score": 3,
+                "scoreDescription": "Strong Bullish Evidence",
                 "sectorDirection": "Bearish",
-                "sectorScore": 3,
-                "sectorScoreDescription": "Strong Bearish Evidence",
+                "sectorScore": 2,
+                "sectorScoreDescription": "Bearish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 3,
-                "indexScoreDescription": "Strong Bearish Evidence"
+                "indexScore": 4,
+                "indexScoreDescription": "Very Strong Bearish Evidence"
             },
             "intermediateTermOutlook": {
-                "stateDescription": "All events are bearish.",
-                "direction": "Bearish",
-                "score": 2,
-                "scoreDescription": "Bearish Evidence",
+                "stateDescription": "All events are bullish.",
+                "direction": "Bullish",
+                "score": 3,
+                "scoreDescription": "Strong Bullish Evidence",
                 "sectorDirection": "Bearish",
                 "sectorScore": 1,
                 "sectorScoreDescription": "Weak Bearish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 3,
-                "indexScoreDescription": "Strong Bearish Evidence"
+                "indexScore": 4,
+                "indexScoreDescription": "Very Strong Bearish Evidence"
             },
             "longTermOutlook": {
                 "stateDescription": "All events are bearish.",
@@ -43,9 +43,9 @@
         },
         "keyTechnicals": {
             "provider": "Trading Central",
-            "support": 40.7117,
+            "support": 41.38,
             "resistance": 45.45,
-            "stopLoss": 38.942226
+            "stopLoss": 38.734919
         },
         "valuation": {
             "color": 0.5,
@@ -61,7 +61,7 @@
             "hiring": 0.6476000000000001,
             "sustainability": 0.8525,
             "insiderSentiments": 0.763,
-            "earningsReports": 0.7116,
+            "earningsReports": 0.7125,
             "dividends": 0.9856
         },
         "sector": {
@@ -104,13 +104,13 @@
     },
     "events": [
         {
-            "eventType": "Commodity Channel Index",
-            "pricePeriod": "D",
+            "eventType": "Momentum",
+            "pricePeriod": "W",
             "tradingHorizon": "S",
-            "tradeType": "U",
+            "tradeType": "L",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1713360600,
-            "endDate": 1713360600
+            "startDate": 1713533400,
+            "endDate": 1713533400
         }
     ],
     "reports": [
@@ -679,18 +679,6 @@
             ]
         },
         {
-            "id": "3203_Analyst Report_1590019200000",
-            "headHtml": "Analyst Report: Altria Group Inc.",
-            "provider": "Argus Research",
-            "reportDate": "2020-05-21T00:00:00Z",
-            "reportTitle": "Altria Group, founded in 1919, manufactures and sells cigarettes, smokeless tobacco products, and alcoholic beverages in the United States and abroad. Its cigarette brands include Marlboro, Virginia Slims, Parliament, Benson & Hedges, Basic, Merit, Chesterfield and L&M. The company acquired the U.S. Smokeless Tobacco Company in 2009, adding the Copenhagen, Skoal, Red Seal, and Husky brands to its portfolio. The company also spun off its international operations as Philip Morris International in 2008. Altria retains the Philip Morris USA segment, which focuses on the U.S. market and includes various cigar, pipe tobacco, e-cigarette, wine, and beer brands. The company also manages a portfolio of leveraged leases in land transportation, aircraft, electric power, real estate, and manufacturing.",
-            "targetPrice": 54.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "MO"
-            ]
-        },
-        {
             "id": "26992_Market Summary_1590019200000",
             "headHtml": "Market Digest: ADI, CENT, HLT, ILMN, IART, MAR, PXD, MO",
             "provider": "Argus Research",
@@ -705,6 +693,18 @@
                 "IART",
                 "PXD",
                 "MAR"
+            ]
+        },
+        {
+            "id": "3203_Analyst Report_1590019200000",
+            "headHtml": "Analyst Report: Altria Group Inc.",
+            "provider": "Argus Research",
+            "reportDate": "2020-05-21T00:00:00Z",
+            "reportTitle": "Altria Group, founded in 1919, manufactures and sells cigarettes, smokeless tobacco products, and alcoholic beverages in the United States and abroad. Its cigarette brands include Marlboro, Virginia Slims, Parliament, Benson & Hedges, Basic, Merit, Chesterfield and L&M. The company acquired the U.S. Smokeless Tobacco Company in 2009, adding the Copenhagen, Skoal, Red Seal, and Husky brands to its portfolio. The company also spun off its international operations as Philip Morris International in 2008. Altria retains the Philip Morris USA segment, which focuses on the U.S. market and includes various cigar, pipe tobacco, e-cigarette, wine, and beer brands. The company also manages a portfolio of leveraged leases in land transportation, aircraft, electric power, real estate, and manufacturing.",
+            "targetPrice": 54.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "MO"
             ]
         },
         {
