@@ -2,12 +2,12 @@
     "postMarketChangePercent": -0.00756145,
     "postMarketChange": -1.08,
     "postMarketPrice": 141.75,
-    "regularMarketChangePercent": 0.00947061,
-    "regularMarketChange": 1.34,
+    "regularMarketChangePercent": 0.009470608,
+    "regularMarketChange": 1.3399963,
     "regularMarketPrice": 142.83,
-    "regularMarketDayHigh": 143.77,
-    "regularMarketDayLow": 141.59,
-    "regularMarketVolume": 1798135,
+    "regularMarketDayHigh": 143.83,
+    "regularMarketDayLow": 141.43,
+    "regularMarketVolume": 1792024,
     "averageDailyVolume10Day": 1681840,
     "averageDailyVolume3Month": 2051701,
     "regularMarketPreviousClose": 141.49,
@@ -21,8 +21,8 @@
     "marketCap": 45526065152,
     "previousClose": 141.49,
     "open": 142.33,
-    "dayLow": 141.59,
-    "dayHigh": 143.77,
+    "dayLow": 141.43,
+    "dayHigh": 143.83,
     "dividendRate": 4.88,
     "dividendYield": 0.0342,
     "exDividendDate": "2024-03-13 20:00:00",
@@ -31,7 +31,7 @@
     "beta": 0.558,
     "trailingPE": 47.61,
     "forwardPE": 113.35715,
-    "volume": 1798135,
+    "volume": 1792024,
     "averageVolume": 2051701,
     "averageVolume10days": 1681840,
     "fiftyTwoWeekLow": 86.33,
@@ -577,20 +577,20 @@
     "indexTrend": {
         "maxAge": 1,
         "symbol": "SP5",
-        "peRatio": 12.87,
-        "pegRatio": 0.741254,
+        "peRatio": 12.6998,
+        "pegRatio": 0.766373,
         "estimates": [
             {
                 "period": "0q",
-                "growth": 0.065
+                "growth": 0.054
             },
             {
                 "period": "+1q",
-                "growth": 0.12
+                "growth": 0.109
             },
             {
                 "period": "0y",
-                "growth": 0.053000003
+                "growth": 0.045
             },
             {
                 "period": "+1y",
@@ -598,7 +598,7 @@
             },
             {
                 "period": "+5y",
-                "growth": 0.110893
+                "growth": 0.109389
             },
             {
                 "period": "-5y"

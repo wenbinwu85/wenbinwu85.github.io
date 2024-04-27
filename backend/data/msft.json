@@ -30,7 +30,7 @@
     "fiveYearAvgDividendYield": 0.95,
     "beta": 0.877,
     "trailingPE": 35.209705,
-    "forwardPE": 32.688656,
+    "forwardPE": 30.45877,
     "volume": 29613265,
     "averageVolume": 21724728,
     "averageVolume10days": 22542780,
@@ -63,8 +63,8 @@
     "earningsQuarterlyGrowth": 0.199,
     "netIncomeToCommon": 86181003264,
     "trailingEps": 11.54,
-    "forwardEps": 12.43,
-    "pegRatio": 2.46,
+    "forwardEps": 13.34,
+    "pegRatio": 2.14,
     "enterpriseToRevenue": 12.875,
     "enterpriseToEbitda": 24.333,
     "52WeekChange": 0.3297552,
@@ -72,10 +72,10 @@
     "lastDividendValue": 0.75,
     "lastDividendDate": 1707868800,
     "currentPrice": 406.32,
-    "targetHighPrice": 512.6,
-    "targetLowPrice": 277.83,
-    "targetMeanPrice": 430.99,
-    "targetMedianPrice": 433.38,
+    "targetHighPrice": 550.0,
+    "targetLowPrice": 298.1,
+    "targetMeanPrice": 462.44,
+    "targetMedianPrice": 465.0,
     "recommendationMean": 1.7,
     "recommendationKey": "buy",
     "numberOfAnalystOpinions": 48,
@@ -232,12 +232,12 @@
                 "2024-07-23 06:59:S",
                 "2024-07-29 08:00:S"
             ],
-            "earningsAverage": 2.68,
-            "earningsLow": 2.52,
-            "earningsHigh": 2.85,
-            "revenueAverage": 60110400000,
-            "revenueLow": 58999300000,
-            "revenueHigh": 61130800000
+            "earningsAverage": 2.88,
+            "earningsLow": 2.7,
+            "earningsHigh": 3.06,
+            "revenueAverage": 64496100000,
+            "revenueLow": 63304000000,
+            "revenueHigh": 65591000000
         },
         "exDividendDate": "2024-05-14 20:00:00",
         "dividendDate": "2024-06-12 20:00:00"
@@ -263,11 +263,11 @@
                 },
                 {
                     "date": "1Q2024",
-                    "actual": 2.74,
-                    "estimate": 2.63
+                    "actual": 2.94,
+                    "estimate": 2.82
                 }
             ],
-            "currentQuarterEstimate": 2.68,
+            "currentQuarterEstimate": 2.88,
             "currentQuarterEstimateDate": "2Q",
             "currentQuarterEstimateYear": 2024,
             "earningsDate": [
@@ -352,10 +352,10 @@
             },
             {
                 "maxAge": 1,
-                "epsActual": 2.74,
-                "epsEstimate": 2.63,
-                "epsDifference": 0.11,
-                "surprisePercent": 0.042,
+                "epsActual": 2.94,
+                "epsEstimate": 2.82,
+                "epsDifference": 0.12,
+                "surprisePercent": 0.043,
                 "quarter": "2024-03-31",
                 "period": "-1q"
             }
@@ -365,25 +365,25 @@
                 "maxAge": 1,
                 "period": "0q",
                 "endDate": "2024-06-30",
-                "growth": -0.004,
+                "growth": 0.071,
                 "earningsEstimate": {
-                    "avg": 2.68,
-                    "low": 2.52,
-                    "high": 2.85,
+                    "avg": 2.88,
+                    "low": 2.7,
+                    "high": 3.06,
                     "yearAgoEps": 2.69,
                     "numberOfAnalysts": 33,
-                    "growth": -0.004
+                    "growth": 0.071
                 },
                 "revenueEstimate": {
-                    "avg": 60110400000,
-                    "low": 58999300000,
-                    "high": 61130800000,
+                    "avg": 64496100000,
+                    "low": 63304000000,
+                    "high": 65591000000,
                     "numberOfAnalysts": 33,
                     "yearAgoRevenue": 56189000000,
-                    "growth": 0.07
+                    "growth": 0.148
                 },
                 "epsTrend": {
-                    "current": 2.68,
+                    "current": 2.88,
                     "7daysAgo": 2.71,
                     "30daysAgo": 2.66,
                     "60daysAgo": 2.88,
@@ -400,25 +400,25 @@
                 "maxAge": 1,
                 "period": "+1q",
                 "endDate": "2024-09-30",
-                "growth": 0.081,
+                "growth": 0.158,
                 "earningsEstimate": {
-                    "avg": 2.95,
-                    "low": 2.78,
-                    "high": 3.17,
+                    "avg": 3.16,
+                    "low": 2.98,
+                    "high": 3.4,
                     "yearAgoEps": 2.73,
                     "numberOfAnalysts": 26,
-                    "growth": 0.081
+                    "growth": 0.158
                 },
                 "revenueEstimate": {
-                    "avg": 60419200000,
-                    "low": 58068300000,
-                    "high": 61297400000,
+                    "avg": 64827500000,
+                    "low": 62305000000,
+                    "high": 65769700000,
                     "numberOfAnalysts": 26,
                     "yearAgoRevenue": 49656700000,
-                    "growth": 0.21700001
+                    "growth": 0.306
                 },
                 "epsTrend": {
-                    "current": 2.95,
+                    "current": 3.16,
                     "7daysAgo": 2.98,
                     "30daysAgo": 2.93,
                     "60daysAgo": 3.17,
@@ -435,25 +435,25 @@
                 "maxAge": 1,
                 "period": "0y",
                 "endDate": "2024-06-30",
-                "growth": 0.105,
+                "growth": 0.186,
                 "earningsEstimate": {
-                    "avg": 10.84,
-                    "low": 10.64,
-                    "high": 11.12,
+                    "avg": 11.63,
+                    "low": 11.42,
+                    "high": 11.93,
                     "yearAgoEps": 9.81,
                     "numberOfAnalysts": 40,
-                    "growth": 0.105
+                    "growth": 0.186
                 },
                 "revenueEstimate": {
-                    "avg": 227603000000,
-                    "low": 224990000000,
-                    "high": 231574000000,
+                    "avg": 244209000000,
+                    "low": 241406000000,
+                    "high": 248470000000,
                     "numberOfAnalysts": 49,
                     "yearAgoRevenue": 211915000000,
-                    "growth": 0.074
+                    "growth": 0.152
                 },
                 "epsTrend": {
-                    "current": 10.84,
+                    "current": 11.63,
                     "7daysAgo": 10.94,
                     "30daysAgo": 10.76,
                     "60daysAgo": 11.66,
@@ -472,23 +472,23 @@
                 "endDate": "2025-06-30",
                 "growth": 0.147,
                 "earningsEstimate": {
-                    "avg": 12.43,
-                    "low": 11.69,
-                    "high": 13.38,
-                    "yearAgoEps": 10.84,
+                    "avg": 13.34,
+                    "low": 12.54,
+                    "high": 14.36,
+                    "yearAgoEps": 11.63,
                     "numberOfAnalysts": 42,
                     "growth": 0.147
                 },
                 "revenueEstimate": {
-                    "avg": 260158000000,
-                    "low": 254744000000,
-                    "high": 271949000000,
+                    "avg": 279139000000,
+                    "low": 273331000000,
+                    "high": 291791000000,
                     "numberOfAnalysts": 49,
-                    "yearAgoRevenue": 227603000000,
+                    "yearAgoRevenue": 244209000000,
                     "growth": 0.143
                 },
                 "epsTrend": {
-                    "current": 12.43,
+                    "current": 13.34,
                     "7daysAgo": 12.55,
                     "30daysAgo": 12.34,
                     "60daysAgo": 13.36,
@@ -505,7 +505,7 @@
                 "maxAge": 1,
                 "period": "+5y",
                 "endDate": null,
-                "growth": 0.1496,
+                "growth": 0.16049999,
                 "earningsEstimate": {
                     "avg": {},
                     "low": {},
@@ -576,20 +576,20 @@
     "indexTrend": {
         "maxAge": 1,
         "symbol": "SP5",
-        "peRatio": 12.87,
-        "pegRatio": 0.741254,
+        "peRatio": 12.6998,
+        "pegRatio": 0.766373,
         "estimates": [
             {
                 "period": "0q",
-                "growth": 0.065
+                "growth": 0.054
             },
             {
                 "period": "+1q",
-                "growth": 0.12
+                "growth": 0.109
             },
             {
                 "period": "0y",
-                "growth": 0.053000003
+                "growth": 0.045
             },
             {
                 "period": "+1y",
@@ -597,7 +597,7 @@
             },
             {
                 "period": "+5y",
-                "growth": 0.110893
+                "growth": 0.109389
             },
             {
                 "period": "-5y"

@@ -2,12 +2,12 @@
     "postMarketChangePercent": 0.00028093063,
     "postMarketChange": 0.039993286,
     "postMarketPrice": 142.4,
-    "regularMarketChangePercent": -0.00259227,
-    "regularMarketChange": -0.369995,
+    "regularMarketChangePercent": -0.002592273,
+    "regularMarketChange": -0.36999512,
     "regularMarketPrice": 142.36,
-    "regularMarketDayHigh": 144.44,
-    "regularMarketDayLow": 142.315,
-    "regularMarketVolume": 509514,
+    "regularMarketDayHigh": 144.46,
+    "regularMarketDayLow": 142.31,
+    "regularMarketVolume": 859441,
     "averageDailyVolume10Day": 1145870,
     "averageDailyVolume3Month": 1514973,
     "regularMarketPreviousClose": 142.73,
@@ -21,8 +21,8 @@
     "marketCap": 53330616320,
     "previousClose": 142.73,
     "open": 143.05,
-    "dayLow": 142.315,
-    "dayHigh": 144.44,
+    "dayLow": 142.31,
+    "dayHigh": 144.46,
     "dividendRate": 7.8,
     "dividendYield": 0.0548,
     "exDividendDate": "2024-03-06 19:00:00",
@@ -31,7 +31,7 @@
     "beta": 1.701,
     "trailingPE": 20.395416,
     "forwardPE": 22.596825,
-    "volume": 509514,
+    "volume": 859441,
     "averageVolume": 1514973,
     "averageVolume10days": 1145870,
     "fiftyTwoWeekLow": 100.17,
@@ -576,20 +576,20 @@
     "indexTrend": {
         "maxAge": 1,
         "symbol": "SP5",
-        "peRatio": 12.87,
-        "pegRatio": 0.741254,
+        "peRatio": 12.6998,
+        "pegRatio": 0.766373,
         "estimates": [
             {
                 "period": "0q",
-                "growth": 0.065
+                "growth": 0.054
             },
             {
                 "period": "+1q",
-                "growth": 0.12
+                "growth": 0.109
             },
             {
                 "period": "0y",
-                "growth": 0.053000003
+                "growth": 0.045
             },
             {
                 "period": "+1y",
@@ -597,7 +597,7 @@
             },
             {
                 "period": "+5y",
-                "growth": 0.110893
+                "growth": 0.109389
             },
             {
                 "period": "-5y"

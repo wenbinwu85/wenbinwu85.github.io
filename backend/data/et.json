@@ -2,12 +2,12 @@
     "postMarketChangePercent": 0.0,
     "postMarketChange": 0.0,
     "postMarketPrice": 15.96,
-    "regularMarketChangePercent": 0.0012547299,
-    "regularMarketChange": 0.0200005,
+    "regularMarketChangePercent": 0.001254734,
+    "regularMarketChange": 0.020000458,
     "regularMarketPrice": 15.96,
     "regularMarketDayHigh": 15.97,
     "regularMarketDayLow": 15.86,
-    "regularMarketVolume": 5099305,
+    "regularMarketVolume": 5242325,
     "averageDailyVolume10Day": 12059070,
     "averageDailyVolume3Month": 12029380,
     "regularMarketPreviousClose": 15.94,
@@ -31,7 +31,7 @@
     "beta": 1.655,
     "trailingPE": 14.642201,
     "forwardPE": 9.443787,
-    "volume": 5099305,
+    "volume": 5242325,
     "averageVolume": 12029380,
     "averageVolume10days": 12059070,
     "fiftyTwoWeekLow": 12.18,
@@ -574,20 +574,20 @@
     "indexTrend": {
         "maxAge": 1,
         "symbol": "SP5",
-        "peRatio": 12.87,
-        "pegRatio": 0.741254,
+        "peRatio": 12.6998,
+        "pegRatio": 0.766373,
         "estimates": [
             {
                 "period": "0q",
-                "growth": 0.065
+                "growth": 0.054
             },
             {
                 "period": "+1q",
-                "growth": 0.12
+                "growth": 0.109
             },
             {
                 "period": "0y",
-                "growth": 0.053000003
+                "growth": 0.045
             },
             {
                 "period": "+1y",
@@ -595,7 +595,7 @@
             },
             {
                 "period": "+5y",
-                "growth": 0.110893
+                "growth": 0.109389
             },
             {
                 "period": "-5y"
