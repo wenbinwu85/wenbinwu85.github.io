@@ -7,14 +7,14 @@
             "shortTermOutlook": {
                 "stateDescription": "Recent bullish events outweigh bearish events.",
                 "direction": "Bullish",
-                "score": 2,
-                "scoreDescription": "Bullish Evidence",
+                "score": 3,
+                "scoreDescription": "Strong Bullish Evidence",
                 "sectorDirection": "Bearish",
                 "sectorScore": 2,
                 "sectorScoreDescription": "Bearish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 3,
-                "indexScoreDescription": "Strong Bearish Evidence"
+                "indexScore": 2,
+                "indexScoreDescription": "Bearish Evidence"
             },
             "intermediateTermOutlook": {
                 "stateDescription": "Recent bearish events outweigh bullish events.",
@@ -45,7 +45,7 @@
             "provider": "Trading Central",
             "support": 28.13,
             "resistance": 29.685,
-            "stopLoss": 27.465216
+            "stopLoss": 27.583541
         },
         "valuation": {
             "color": 1.0,
@@ -60,7 +60,7 @@
         "company": {
             "innovativeness": 0.0895,
             "insiderSentiments": 0.6728000000000001,
-            "earningsReports": 0.6125,
+            "earningsReports": 0.611,
             "dividends": 0.4244
         },
         "sector": {
@@ -82,7 +82,7 @@
     },
     "events": [
         {
-            "eventType": "MACD",
+            "eventType": "Momentum",
             "pricePeriod": "D",
             "tradingHorizon": "S",
             "tradeType": "L",
@@ -1466,15 +1466,6 @@
             "formType": "8-K"
         },
         {
-            "id": "0001705696-22-000130_1705696",
-            "type": "Periodic Financial Reports",
-            "title": "10-Q : Periodic Financial Reports",
-            "description": "Quarterly report pursuant to Section 13 or 15(d)",
-            "filingDate": 1666828800000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001920791/000170569622000130/thumbnail.png",
-            "formType": "10-Q"
-        },
-        {
             "id": "0001705696-22-000129_1705696",
             "type": "Corporate Changes & Voting Matters",
             "title": "8-K : Corporate Changes & Voting Matters",
@@ -1482,6 +1473,15 @@
             "filingDate": 1666828800000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001920791/000170569622000129/thumbnail.png",
             "formType": "8-K"
+        },
+        {
+            "id": "0001705696-22-000130_1705696",
+            "type": "Periodic Financial Reports",
+            "title": "10-Q : Periodic Financial Reports",
+            "description": "Quarterly report pursuant to Section 13 or 15(d)",
+            "filingDate": 1666828800000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001920791/000170569622000130/thumbnail.png",
+            "formType": "10-Q"
         },
         {
             "id": "0001705696-22-000111_1705696",
@@ -1547,15 +1547,6 @@
             "formType": "8-K"
         },
         {
-            "id": "0001193125-22-107450_1705696",
-            "type": "Offering Registrations",
-            "title": "S-3ASR : Offering Registrations",
-            "description": "Automatic shelf registration statement of securities of well-known seasoned issuers",
-            "filingDate": 1650240000000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001920791/000119312522107450/thumbnail.png",
-            "formType": "S-3ASR"
-        },
-        {
             "id": "0001193125-22-107429_1705696",
             "type": "Corporate Changes & Voting Matters",
             "title": "8-K : Corporate Changes & Voting Matters",
@@ -1563,6 +1554,15 @@
             "filingDate": 1650240000000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001705696/000119312522107429/thumbnail.png",
             "formType": "8-K"
+        },
+        {
+            "id": "0001193125-22-107450_1705696",
+            "type": "Offering Registrations",
+            "title": "S-3ASR : Offering Registrations",
+            "description": "Automatic shelf registration statement of securities of well-known seasoned issuers",
+            "filingDate": 1650240000000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001920791/000119312522107450/thumbnail.png",
+            "formType": "S-3ASR"
         },
         {
             "id": "0001705696-22-000067_1705696",
