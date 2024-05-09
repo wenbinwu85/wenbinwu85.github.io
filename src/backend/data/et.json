@@ -1,62 +1,62 @@
 {
-    "postMarketChangePercent": 0.00377593,
-    "postMarketChange": 0.0599995,
-    "postMarketPrice": 15.95,
-    "regularMarketChangePercent": 0.006970888,
-    "regularMarketChange": 0.11000061,
-    "regularMarketPrice": 15.89,
-    "regularMarketDayHigh": 15.99,
-    "regularMarketDayLow": 15.775,
-    "regularMarketVolume": 9299120,
-    "averageDailyVolume10Day": 10154120,
-    "averageDailyVolume3Month": 11658220,
-    "regularMarketPreviousClose": 15.78,
-    "regularMarketOpen": 15.94,
+    "postMarketChangePercent": 0.00428925,
+    "postMarketChange": 0.0697002,
+    "postMarketPrice": 16.3197,
+    "regularMarketChangePercent": 0.0074396064,
+    "regularMarketChange": 0.12000084,
+    "regularMarketPrice": 16.25,
+    "regularMarketDayHigh": 16.275,
+    "regularMarketDayLow": 16.04,
+    "regularMarketVolume": 14597504,
+    "averageDailyVolume10Day": 10025110,
+    "averageDailyVolume3Month": 11259960,
+    "regularMarketPreviousClose": 16.13,
+    "regularMarketOpen": 16.15,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "quoteType": "EQUITY",
     "symbol": "ET",
     "shortName": "Energy Transfer LP",
     "longName": "Energy Transfer LP",
-    "marketCap": 53513707520,
-    "previousClose": 15.78,
-    "open": 15.94,
-    "dayLow": 15.775,
-    "dayHigh": 15.99,
+    "marketCap": 54726098944,
+    "previousClose": 16.13,
+    "open": 16.15,
+    "dayLow": 16.04,
+    "dayHigh": 16.275,
     "dividendRate": 1.27,
-    "dividendYield": 0.0799,
+    "dividendYield": 0.0787,
     "exDividendDate": "2024-05-09 20:00:00",
     "payoutRatio": 1.133,
     "fiveYearAvgDividendYield": 10.07,
     "beta": 1.655,
-    "trailingPE": 14.577982,
-    "forwardPE": 9.402367,
-    "volume": 9299120,
-    "averageVolume": 11658220,
-    "averageVolume10days": 10154120,
-    "fiftyTwoWeekLow": 12.18,
-    "fiftyTwoWeekHigh": 16.07,
-    "priceToSalesTrailing12Months": 0.68095726,
-    "fiftyDayAverage": 15.4248,
-    "twoHundredDayAverage": 14.0761,
+    "trailingPE": 14.908257,
+    "forwardPE": 9.615384,
+    "volume": 14597504,
+    "averageVolume": 11259960,
+    "averageVolume10days": 10025110,
+    "fiftyTwoWeekLow": 12.21,
+    "fiftyTwoWeekHigh": 16.275,
+    "priceToSalesTrailing12Months": 0.6963848,
+    "fiftyDayAverage": 15.499,
+    "twoHundredDayAverage": 14.11885,
     "trailingAnnualDividendRate": 1.245,
-    "trailingAnnualDividendYield": 0.07889734,
-    "enterpriseValue": 121071665152,
+    "trailingAnnualDividendYield": 0.07718537,
+    "enterpriseValue": 121879928832,
     "profitMargins": 0.050029997,
-    "floatShares": 3026367973,
+    "floatShares": 3025795454,
     "sharesOutstanding": 3367759872,
     "sharesShort": 36238133,
     "sharesShortPriorMonth": 37985456,
     "sharesShortPreviousMonthDate": "2024-03-14 20:00:00",
     "dateShortInterest": "2024-04-14 20:00:00",
     "sharesPercentSharesOut": 0.0108,
-    "heldPercentInsiders": 0.10125,
-    "heldPercentInstitutions": 0.34135,
+    "heldPercentInsiders": 0.10142,
+    "heldPercentInstitutions": 0.34037998,
     "shortRatio": 3.32,
     "shortPercentOfFloat": 0.012,
     "impliedSharesOutstanding": 3367759872,
     "bookValue": 8.975,
-    "priceToBook": 1.7704735,
+    "priceToBook": 1.8105849,
     "lastFiscalYearEnd": "2023-12-30 19:00:00",
     "nextFiscalYearEnd": "2024-12-30 19:00:00",
     "mostRecentQuarter": "2023-12-30 19:00:00",
@@ -64,14 +64,14 @@
     "netIncomeToCommon": 3468999936,
     "trailingEps": 1.09,
     "forwardEps": 1.69,
-    "pegRatio": 0.63,
-    "enterpriseToRevenue": 1.541,
-    "enterpriseToEbitda": 9.539,
-    "52WeekChange": 0.27669907,
-    "SandP52WeekChange": 0.22434568,
+    "pegRatio": 0.64,
+    "enterpriseToRevenue": 1.551,
+    "enterpriseToEbitda": 9.603,
+    "52WeekChange": 0.2955823,
+    "SandP52WeekChange": 0.2537824,
     "lastDividendValue": 0.315,
     "lastDividendDate": 1707177600,
-    "currentPrice": 15.89,
+    "currentPrice": 16.25,
     "targetHighPrice": 23.0,
     "targetLowPrice": 15.0,
     "targetMeanPrice": 18.39,
@@ -229,7 +229,7 @@
         "maxAge": 1,
         "earnings": {
             "earningsDate": [
-                "2024-05-08 16:00:S"
+                "2024-05-08 16:10:S"
             ],
             "earningsAverage": 0.38,
             "earningsLow": 0.19,
@@ -270,7 +270,7 @@
             "currentQuarterEstimateDate": "1Q",
             "currentQuarterEstimateYear": 2024,
             "earningsDate": [
-                "2024-05-08 16:00:S"
+                "2024-05-08 16:10:S"
             ]
         },
         "financialsChart": {
@@ -382,7 +382,7 @@
                 },
                 "epsTrend": {
                     "current": 0.38,
-                    "7daysAgo": 0.4,
+                    "7daysAgo": 0.38,
                     "30daysAgo": 0.39,
                     "60daysAgo": 0.4,
                     "90daysAgo": 0.35
@@ -417,7 +417,7 @@
                 },
                 "epsTrend": {
                     "current": 0.37,
-                    "7daysAgo": 0.36,
+                    "7daysAgo": 0.37,
                     "30daysAgo": 0.34,
                     "60daysAgo": 0.36,
                     "90daysAgo": 0.34
@@ -452,10 +452,10 @@
                 },
                 "epsTrend": {
                     "current": 1.58,
-                    "7daysAgo": 1.59,
+                    "7daysAgo": 1.58,
                     "30daysAgo": 1.55,
-                    "60daysAgo": 1.65,
-                    "90daysAgo": 1.51
+                    "60daysAgo": 1.59,
+                    "90daysAgo": 1.53
                 },
                 "epsRevisions": {
                     "upLast7days": 3,
@@ -489,8 +489,8 @@
                     "current": 1.69,
                     "7daysAgo": 1.69,
                     "30daysAgo": 1.66,
-                    "60daysAgo": 1.74,
-                    "90daysAgo": 1.65
+                    "60daysAgo": 1.69,
+                    "90daysAgo": 1.68
                 },
                 "epsRevisions": {
                     "upLast7days": 3,
@@ -574,28 +574,28 @@
     "indexTrend": {
         "maxAge": 1,
         "symbol": "SP5",
-        "peRatio": 15.3886,
-        "pegRatio": 0.814422,
+        "peRatio": 15.2398,
+        "pegRatio": 1.11214,
         "estimates": [
             {
                 "period": "0q",
-                "growth": 0.084
+                "growth": 0.085
             },
             {
                 "period": "+1q",
-                "growth": 0.118999995
+                "growth": 0.117
             },
             {
                 "period": "0y",
-                "growth": 0.053000003
+                "growth": 0.055999998
             },
             {
                 "period": "+1y",
-                "growth": 0.133
+                "growth": 0.132
             },
             {
                 "period": "+5y",
-                "growth": 0.110393
+                "growth": 0.110688
             },
             {
                 "period": "-5y"
@@ -2429,7 +2429,7 @@
                 "organization": "Alps ETF Tr-Alerian MLP ETF",
                 "pctHeld": 0.020399999,
                 "position": 68880613,
-                "value": 1094512964,
+                "value": 1119309961,
                 "pctChange": -0.3524
             },
             {
@@ -2438,7 +2438,7 @@
                 "organization": "Invesco Steelpath MLP Income Fund",
                 "pctHeld": 0.0106,
                 "position": 35565344,
-                "value": 565133328,
+                "value": 577936840,
                 "pctChange": 0.0
             },
             {
@@ -2447,7 +2447,7 @@
                 "organization": "Kayne Anderson Energy Infrastructure Fund, Inc.",
                 "pctHeld": 0.0050999997,
                 "position": 17059027,
-                "value": 271067944,
+                "value": 277209188,
                 "pctChange": 0.0
             },
             {
@@ -2456,7 +2456,7 @@
                 "organization": "Goldman Sachs Tr-Goldman Sachs MLP Energy Infrastructure Fund",
                 "pctHeld": 0.0041,
                 "position": 13682421,
-                "value": 217413674,
+                "value": 222339341,
                 "pctChange": -0.21209998
             },
             {
@@ -2465,7 +2465,7 @@
                 "organization": "Global X Fds-Global X MLP ETF",
                 "pctHeld": 0.0038,
                 "position": 12740958,
-                "value": 202453826,
+                "value": 207040567,
                 "pctChange": 0.026500002
             },
             {
@@ -2474,7 +2474,7 @@
                 "organization": "First Trust North American Energy Infrastructure Fund",
                 "pctHeld": 0.0034,
                 "position": 11385620,
-                "value": 180917505,
+                "value": 185016325,
                 "pctChange": 0.0123000005
             },
             {
@@ -2483,7 +2483,7 @@
                 "organization": "Invesco Steelpath MLP Select 40 Fund",
                 "pctHeld": 0.0029,
                 "position": 9906327,
-                "value": 157411539,
+                "value": 160977813,
                 "pctChange": -0.0198
             },
             {
@@ -2492,7 +2492,7 @@
                 "organization": "Center Coast Brookfield  Midstream Focus Fd",
                 "pctHeld": 0.0026,
                 "position": 8757936,
-                "value": 139163606,
+                "value": 142316460,
                 "pctChange": 0.1225
             },
             {
@@ -2501,7 +2501,7 @@
                 "organization": "Invesco Steelpath MLP Alpha Fund",
                 "pctHeld": 0.0025,
                 "position": 8290593,
-                "value": 131737525,
+                "value": 134722136,
                 "pctChange": -0.0279
             },
             {
@@ -2510,7 +2510,7 @@
                 "organization": "Tortoise Energy Infrastructure Total Return Fund",
                 "pctHeld": 0.0023,
                 "position": 7715674,
-                "value": 122602062,
+                "value": 125379702,
                 "pctChange": 0.0506
             }
         ],
@@ -2623,7 +2623,7 @@
                 "organization": "Blackstone Inc",
                 "pctHeld": 0.044299997,
                 "position": 149380392,
-                "value": 2373654480,
+                "value": 2427431370,
                 "pctChange": -0.0075
             },
             {
@@ -2632,7 +2632,7 @@
                 "organization": "Goldman Sachs Group Inc",
                 "pctHeld": 0.0242,
                 "position": 81532518,
-                "value": 1295551739,
+                "value": 1324903417,
                 "pctChange": 0.2851
             },
             {
@@ -2641,7 +2641,7 @@
                 "organization": "Alps Advisors Inc.",
                 "pctHeld": 0.0207,
                 "position": 69732591,
-                "value": 1108050894,
+                "value": 1133154603,
                 "pctChange": -0.053400002
             },
             {
@@ -2650,7 +2650,7 @@
                 "organization": "Morgan Stanley",
                 "pctHeld": 0.018,
                 "position": 60697936,
-                "value": 964490223,
+                "value": 986341460,
                 "pctChange": 0.0938
             },
             {
@@ -2659,7 +2659,7 @@
                 "organization": "Invesco Ltd.",
                 "pctHeld": 0.0176,
                 "position": 59204650,
-                "value": 940761908,
+                "value": 962075562,
                 "pctChange": 0.0525
             },
             {
@@ -2668,7 +2668,7 @@
                 "organization": "Bank of America Corporation",
                 "pctHeld": 0.0113,
                 "position": 38084194,
-                "value": 605157855,
+                "value": 618868152,
                 "pctChange": 0.1088
             },
             {
@@ -2677,7 +2677,7 @@
                 "organization": "Tortoise Capital Advisors, LLC",
                 "pctHeld": 0.0105,
                 "position": 35403107,
-                "value": 562555382,
+                "value": 575300488,
                 "pctChange": 0.0499
             },
             {
@@ -2686,7 +2686,7 @@
                 "organization": "JP Morgan Chase & Company",
                 "pctHeld": 0.0094,
                 "position": 31616059,
-                "value": 502379188,
+                "value": 513760958,
                 "pctChange": -0.0251
             },
             {
@@ -2695,7 +2695,7 @@
                 "organization": "UBS Group AG",
                 "pctHeld": 0.0085,
                 "position": 28642769,
-                "value": 455133609,
+                "value": 465444996,
                 "pctChange": 0.1333
             },
             {
@@ -2704,16 +2704,16 @@
                 "organization": "ClearBridge Investments, LLC",
                 "pctHeld": 0.0075,
                 "position": 25423547,
-                "value": 403980170,
+                "value": 413132638,
                 "pctChange": 0.18540001
             }
         ],
         "majorHolders": {
             "maxAge": 1,
-            "insidersPercentHeld": 0.10125,
-            "institutionsPercentHeld": 0.34135,
-            "institutionsFloatPercentHeld": 0.37980998,
-            "institutionsCount": 1141
+            "insidersPercentHeld": 0.10142,
+            "institutionsPercentHeld": 0.34037998,
+            "institutionsFloatPercentHeld": 0.37879002,
+            "institutionsCount": 1143
         }
     },
     "upgradeDowngradeHistory": [
@@ -2754,6 +2754,6 @@
         }
     ],
     "fcfPerShare": 1.313669945646291,
-    "fcfYield": 0.08267274186425123,
+    "fcfYield": 0.08084122591173744,
     "fcfPayoutRatio": 0.9667572925824938
 }
