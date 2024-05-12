@@ -10,23 +10,23 @@
                 "score": 3,
                 "scoreDescription": "Strong Bullish Evidence",
                 "sectorDirection": "Bullish",
-                "sectorScore": 4,
-                "sectorScoreDescription": "Very Strong Bullish Evidence",
+                "sectorScore": 3,
+                "sectorScoreDescription": "Strong Bullish Evidence",
                 "indexDirection": "Bullish",
-                "indexScore": 4,
-                "indexScoreDescription": "Very Strong Bullish Evidence"
+                "indexScore": 2,
+                "indexScoreDescription": "Bullish Evidence"
             },
             "intermediateTermOutlook": {
                 "stateDescription": "All events are bearish.",
                 "direction": "Bearish",
-                "score": 3,
-                "scoreDescription": "Strong Bearish Evidence",
+                "score": 2,
+                "scoreDescription": "Bearish Evidence",
                 "sectorDirection": "Bearish",
                 "sectorScore": 2,
                 "sectorScoreDescription": "Bearish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 2,
-                "indexScoreDescription": "Bearish Evidence"
+                "indexScore": 3,
+                "indexScoreDescription": "Strong Bearish Evidence"
             },
             "longTermOutlook": {
                 "stateDescription": "There are no events.",
@@ -43,12 +43,12 @@
         },
         "keyTechnicals": {
             "provider": "Trading Central",
-            "stopLoss": 90.332466
+            "stopLoss": 88.819514
         },
         "valuation": {
             "color": 0.0,
             "description": "Overvalued",
-            "discount": "13%",
+            "discount": "14%",
             "relativeValue": "Premium",
             "provider": "Trading Central"
         }
@@ -71,7 +71,7 @@
         "msBullishSummary": [
             "We expect Arm will keep gaining market share in the data center from x86 architecture, as its chips consume less power and data centers need to minimize energy consumption. We also expect share gains in automotive thanks to the transition to electric vehicles.",
             "The overall trend toward Internet of Things and battery-powered devices is a long-term tailwind for Arm, given its architecture is the most energy efficient.",
-            "If Arm manages to change its business model and charge royalties on a per-device basis, this would provide huge revenue and margin upside."
+            "If Arm would manage to change its business model and charge royalties on a per-device basis, this would provide huge revenue and margin upside."
         ],
         "msBearishSummary": [
             "If Arm manages to charge royalties on a per-device basis, or if it were to meaningfully increase its royalty rates per chip, it could become a double-edged sword. Too much royalty revenue may encourage customers to adopt open-source RISC-V instead.",
@@ -79,28 +79,28 @@
             "Arm\u2019s revenue concentration is very high, with the top five customers representing close to 60% of sales."
         ],
         "companyName": "Arm Holdings plc",
-        "msBullishBearishSummariesPublishDate": 1707423010000,
+        "msBullishBearishSummariesPublishDate": 1715256207000,
         "upsellReportType": "MORNINGSTAR_ANALYST"
     },
     "upsellSearchDD": {
         "researchReports": {
-            "reportId": "MS_0P0001RJKB_AnalystReport_1707423010000",
+            "reportId": "MS_0P0001RJKB_AnalystReport_1715256207000",
             "provider": "Morningstar",
-            "title": "Arm Earnings: Raising Fair Value Estimate to $45 From $34; Shares Remain Highly Overvalued",
-            "reportDate": "2024-02-08T20:10:10Z",
+            "title": "Arm Earnings: Healthy 2025 Guidance Fails to Impress Investors; Maintaining Fair Value Estimate",
+            "reportDate": "2024-05-09T12:03:27Z",
             "summary": "Arm Holdings is the IP owner and developer of the ARM architecture (ARM stands for Acorn RISC Machine), which is used in 99% of the world\u2019s smartphone CPU cores, and it also has high market share in other battery-powered devices like wearables, tablets, or sensors. Arm licenses its architecture for a fee, offering different types of licenses depending on the flexibility the customer needs. Customers like Apple or Qualcomm buy architectural licenses, which allows them to modify the architecture and add or delete instructions to tailor the chips to their specific needs. Other clients directly buy off-the-shelf designs from Arm. Both off-the-shelf and architectural customers pay a royalty fee per chip shipped. ",
             "investmentRating": "Bearish"
         }
     },
     "events": [
         {
-            "eventType": "MACD",
+            "eventType": "Triple Moving Average Crossover",
             "pricePeriod": "D",
             "tradingHorizon": "S",
             "tradeType": "L",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1715002200,
-            "endDate": 1715002200
+            "startDate": 1715261400,
+            "endDate": 1715261400
         }
     ],
     "sigDevs": [

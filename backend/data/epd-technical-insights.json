@@ -7,26 +7,26 @@
             "shortTermOutlook": {
                 "stateDescription": "Recent bullish events outweigh bearish events.",
                 "direction": "Bullish",
-                "score": 1,
-                "scoreDescription": "Weak Bullish Evidence",
-                "sectorDirection": "Bearish",
-                "sectorScore": 2,
-                "sectorScoreDescription": "Bearish Evidence",
+                "score": 2,
+                "scoreDescription": "Bullish Evidence",
+                "sectorDirection": "Bullish",
+                "sectorScore": 1,
+                "sectorScoreDescription": "Weak Bullish Evidence",
                 "indexDirection": "Bullish",
-                "indexScore": 4,
-                "indexScoreDescription": "Very Strong Bullish Evidence"
+                "indexScore": 2,
+                "indexScoreDescription": "Bullish Evidence"
             },
             "intermediateTermOutlook": {
-                "stateDescription": "Recent bearish events outweigh bullish events.",
-                "direction": "Bearish",
+                "stateDescription": "Recent bullish events outweigh bearish events.",
+                "direction": "Bullish",
                 "score": 2,
-                "scoreDescription": "Bearish Evidence",
+                "scoreDescription": "Bullish Evidence",
                 "sectorDirection": "Bullish",
-                "sectorScore": 3,
-                "sectorScoreDescription": "Strong Bullish Evidence",
+                "sectorScore": 2,
+                "sectorScoreDescription": "Bullish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 2,
-                "indexScoreDescription": "Bearish Evidence"
+                "indexScore": 3,
+                "indexScoreDescription": "Strong Bearish Evidence"
             },
             "longTermOutlook": {
                 "stateDescription": "All events are bullish.",
@@ -45,22 +45,22 @@
             "provider": "Trading Central",
             "support": 26.2405,
             "resistance": 29.045,
-            "stopLoss": 26.31193
+            "stopLoss": 27.977198
         },
         "valuation": {
             "color": 0.5,
             "description": "Near Fair Value",
-            "discount": "3%",
+            "discount": "5%",
             "provider": "Trading Central"
         }
     },
     "companySnapshot": {
         "sectorInfo": "Energy",
         "company": {
-            "innovativeness": 0.2028,
+            "innovativeness": 0.20370000000000002,
             "insiderSentiments": 0.8,
-            "earningsReports": 0.768,
-            "dividends": 0.6627
+            "earningsReports": 0.7473000000000001,
+            "dividends": 0.6574
         },
         "sector": {
             "innovativeness": 0.5,
@@ -103,13 +103,13 @@
     },
     "events": [
         {
-            "eventType": "Commodity Channel Index",
+            "eventType": "Williams %R",
             "pricePeriod": "D",
             "tradingHorizon": "S",
-            "tradeType": "U",
+            "tradeType": "L",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1715002200,
-            "endDate": 1715002200
+            "startDate": 1715261400,
+            "endDate": 1715261400
         }
     ],
     "reports": [
@@ -1286,6 +1286,15 @@
         }
     ],
     "secReports": [
+        {
+            "id": "0001061219-24-000011_1061219",
+            "type": "Periodic Financial Reports",
+            "title": "10-Q : Periodic Financial Reports",
+            "description": "Quarterly report pursuant to Section 13 or 15(d)",
+            "filingDate": 1715212800000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001061219/000106121924000011/thumbnail.png",
+            "formType": "10-Q"
+        },
         {
             "id": "0001140361-24-023186_1061219",
             "type": "Corporate Changes & Voting Matters",
