@@ -7,14 +7,14 @@
             "shortTermOutlook": {
                 "stateDescription": "Recent bullish events outweigh bearish events.",
                 "direction": "Bullish",
-                "score": 3,
-                "scoreDescription": "Strong Bullish Evidence",
-                "sectorDirection": "Bearish",
-                "sectorScore": 2,
-                "sectorScoreDescription": "Bearish Evidence",
+                "score": 2,
+                "scoreDescription": "Bullish Evidence",
+                "sectorDirection": "Bullish",
+                "sectorScore": 1,
+                "sectorScoreDescription": "Weak Bullish Evidence",
                 "indexDirection": "Bullish",
-                "indexScore": 4,
-                "indexScoreDescription": "Very Strong Bullish Evidence"
+                "indexScore": 2,
+                "indexScoreDescription": "Bullish Evidence"
             },
             "intermediateTermOutlook": {
                 "stateDescription": "Recent bullish events outweigh bearish events.",
@@ -22,17 +22,17 @@
                 "score": 4,
                 "scoreDescription": "Very Strong Bullish Evidence",
                 "sectorDirection": "Bullish",
-                "sectorScore": 3,
-                "sectorScoreDescription": "Strong Bullish Evidence",
+                "sectorScore": 2,
+                "sectorScoreDescription": "Bullish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 2,
-                "indexScoreDescription": "Bearish Evidence"
+                "indexScore": 3,
+                "indexScoreDescription": "Strong Bearish Evidence"
             },
             "longTermOutlook": {
                 "stateDescription": "Recent bullish events outweigh bearish events.",
                 "direction": "Bullish",
-                "score": 2,
-                "scoreDescription": "Bullish Evidence",
+                "score": 3,
+                "scoreDescription": "Strong Bullish Evidence",
                 "sectorDirection": "Bullish",
                 "sectorScore": 3,
                 "sectorScoreDescription": "Strong Bullish Evidence",
@@ -44,13 +44,13 @@
         "keyTechnicals": {
             "provider": "Trading Central",
             "support": 35.945,
-            "resistance": 36.751,
-            "stopLoss": 34.489985
+            "resistance": 39.4,
+            "stopLoss": 35.924568
         },
         "valuation": {
             "color": 0.0,
             "description": "Overvalued",
-            "discount": "-16%",
+            "discount": "-17%",
             "relativeValue": "Premium",
             "provider": "Trading Central"
         }
@@ -58,10 +58,10 @@
     "companySnapshot": {
         "sectorInfo": "Energy",
         "company": {
-            "innovativeness": 0.5613,
-            "sustainability": 0.0909,
+            "innovativeness": 0.5602,
+            "sustainability": 0.08960000000000001,
             "insiderSentiments": 0.2407,
-            "dividends": 0.6647
+            "dividends": 0.6535
         },
         "sector": {
             "innovativeness": 0.5,
@@ -89,15 +89,15 @@
             "Enbridge has yet to build a moaty renewables business, risking its capital investment here over the next few years."
         ],
         "companyName": "Enbridge Inc",
-        "msBullishBearishSummariesPublishDate": 1713547769000,
+        "msBullishBearishSummariesPublishDate": 1715366786000,
         "upsellReportType": "MORNINGSTAR_ANALYST"
     },
     "upsellSearchDD": {
         "researchReports": {
-            "reportId": "MS_0P000001XR_AnalystReport_1713547769000",
+            "reportId": "MS_0P000001XR_AnalystReport_1715366786000",
             "provider": "Morningstar",
-            "title": "Israel\u2019s Response to Iran\u2019s Strike Confirms Minimal Escalation View; Oil Markets Remain Oversupplied",
-            "reportDate": "2024-04-19T17:29:29Z",
+            "title": "Enbridge Earnings: Solid Quarter, but Trans Mountain Expansion and Utilities Impacts Still to Come",
+            "reportDate": "2024-05-10T18:46:26Z",
             "summary": "Enbridge owns extensive midstream assets that transport hydrocarbons across the US and Canada. Its pipeline network consists of the Canadian Mainline system, regional oil sands pipelines, and natural gas pipelines. The company also owns and operates a regulated natural gas utility and Canada\u2019s largest natural gas distribution company. The firm has a small renewables portfolio primarily focused on onshore and offshore wind projects.  ",
             "investmentRating": "Bullish"
         }
@@ -2226,11 +2226,38 @@
     ],
     "sigDevs": [
         {
-            "headline": "Enbridge Completes Sale Of Its Interests In Alliance Pipeline And Aux Sable",
-            "date": "2024-04-01"
+            "headline": "Enbridge Q1 Adjusted EPS CAD 0.92 Vs. IBES Estimate CAD 0.81",
+            "date": "2024-05-10"
         }
     ],
     "secReports": [
+        {
+            "id": "0000895728-24-000012_895728",
+            "type": "Corporate Changes & Voting Matters",
+            "title": "8-K : Corporate Changes & Voting Matters",
+            "description": "Current report filing",
+            "filingDate": 1715299200000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000089572824000012/thumbnail.png",
+            "formType": "8-K"
+        },
+        {
+            "id": "0000895728-24-000013_895728",
+            "type": "Periodic Financial Reports",
+            "title": "10-Q : Periodic Financial Reports",
+            "description": "Quarterly report pursuant to Section 13 or 15(d)",
+            "filingDate": 1715299200000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000089572824000013/thumbnail.png",
+            "formType": "10-Q"
+        },
+        {
+            "id": "0001193125-24-135302_895728",
+            "type": "Corporate Changes & Voting Matters",
+            "title": "8-K : Corporate Changes & Voting Matters",
+            "description": "Current report filing",
+            "filingDate": 1715212800000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000119312524135302/thumbnail.png",
+            "formType": "8-K"
+        },
         {
             "id": "0001104659-24-044281_895728",
             "type": "Corporate Changes & Voting Matters",
@@ -2259,15 +2286,6 @@
             "formType": "8-K"
         },
         {
-            "id": "0001193125-24-066168_895728",
-            "type": "Periodic Financial Reports",
-            "title": "10-K/A : Periodic Financial Reports",
-            "description": "Annual report pursuant to Section 13 and 15(d)",
-            "filingDate": 1710288000000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000119312524066168/thumbnail.png",
-            "formType": "10-K/A"
-        },
-        {
             "id": "0001193125-24-066167_895728",
             "type": "Corporate Changes & Voting Matters",
             "title": "8-K : Corporate Changes & Voting Matters",
@@ -2275,6 +2293,15 @@
             "filingDate": 1710288000000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000119312524066167/thumbnail.png",
             "formType": "8-K"
+        },
+        {
+            "id": "0001193125-24-066168_895728",
+            "type": "Periodic Financial Reports",
+            "title": "10-K/A : Periodic Financial Reports",
+            "description": "Annual report pursuant to Section 13 and 15(d)",
+            "filingDate": 1710288000000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000119312524066168/thumbnail.png",
+            "formType": "10-K/A"
         },
         {
             "id": "0001193125-24-063693_895728",
@@ -2403,15 +2430,6 @@
             "formType": "10-Q"
         },
         {
-            "id": "0001193125-23-203941_895728",
-            "type": "Corporate Changes & Voting Matters",
-            "title": "8-K/A : Corporate Changes & Voting Matters",
-            "description": "Current report filing",
-            "filingDate": 1691107200000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000119312523203941/thumbnail.png",
-            "formType": "8-K/A"
-        },
-        {
             "id": "0000895728-23-000024_895728",
             "type": "Corporate Changes & Voting Matters",
             "title": "8-K : Corporate Changes & Voting Matters",
@@ -2419,6 +2437,15 @@
             "filingDate": 1691107200000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000089572823000024/thumbnail.png",
             "formType": "8-K"
+        },
+        {
+            "id": "0001193125-23-203941_895728",
+            "type": "Corporate Changes & Voting Matters",
+            "title": "8-K/A : Corporate Changes & Voting Matters",
+            "description": "Current report filing",
+            "filingDate": 1691107200000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000119312523203941/thumbnail.png",
+            "formType": "8-K/A"
         },
         {
             "id": "0001193125-23-197747_895728",
@@ -2556,15 +2583,6 @@
             "formType": "8-K"
         },
         {
-            "id": "0000895728-22-000032_895728",
-            "type": "Corporate Changes & Voting Matters",
-            "title": "8-K : Corporate Changes & Voting Matters",
-            "description": "Current report filing",
-            "filingDate": 1667520000000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000089572822000032/thumbnail.png",
-            "formType": "8-K"
-        },
-        {
             "id": "0000895728-22-000033_895728",
             "type": "Periodic Financial Reports",
             "title": "10-Q : Periodic Financial Reports",
@@ -2572,6 +2590,15 @@
             "filingDate": 1667520000000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000089572822000033/thumbnail.png",
             "formType": "10-Q"
+        },
+        {
+            "id": "0000895728-22-000032_895728",
+            "type": "Corporate Changes & Voting Matters",
+            "title": "8-K : Corporate Changes & Voting Matters",
+            "description": "Current report filing",
+            "filingDate": 1667520000000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000089572822000032/thumbnail.png",
+            "formType": "8-K"
         },
         {
             "id": "0001193125-22-257129_895728",
@@ -2625,33 +2652,6 @@
             "description": "Current report filing",
             "filingDate": 1651795200000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000089572822000017/thumbnail.png",
-            "formType": "8-K"
-        },
-        {
-            "id": "0000895728-22-000019_895728",
-            "type": "Periodic Financial Reports",
-            "title": "10-Q : Periodic Financial Reports",
-            "description": "Quarterly report pursuant to Section 13 or 15(d)",
-            "filingDate": 1651795200000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000089572822000019/thumbnail.png",
-            "formType": "10-Q"
-        },
-        {
-            "id": "0001193125-22-142488_895728",
-            "type": "Corporate Changes & Voting Matters",
-            "title": "8-K : Corporate Changes & Voting Matters",
-            "description": "Current report filing",
-            "filingDate": 1651708800000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000119312522142488/thumbnail.png",
-            "formType": "8-K"
-        },
-        {
-            "id": "0001193125-22-078378_895728",
-            "type": "Corporate Changes & Voting Matters",
-            "title": "8-K : Corporate Changes & Voting Matters",
-            "description": "Current report filing",
-            "filingDate": 1647475200000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000119312522078378/thumbnail.png",
             "formType": "8-K"
         }
     ]

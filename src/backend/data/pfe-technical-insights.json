@@ -5,16 +5,16 @@
             "provider": "Trading Central",
             "sector": "Healthcare",
             "shortTermOutlook": {
-                "stateDescription": "Recent bullish events outweigh bearish events.",
+                "stateDescription": "Bullish events outweigh bearish events.",
                 "direction": "Bullish",
-                "score": 4,
-                "scoreDescription": "Very Strong Bullish Evidence",
+                "score": 3,
+                "scoreDescription": "Strong Bullish Evidence",
                 "sectorDirection": "Bullish",
                 "sectorScore": 2,
                 "sectorScoreDescription": "Bullish Evidence",
                 "indexDirection": "Bullish",
-                "indexScore": 4,
-                "indexScoreDescription": "Very Strong Bullish Evidence"
+                "indexScore": 2,
+                "indexScoreDescription": "Bullish Evidence"
             },
             "intermediateTermOutlook": {
                 "stateDescription": "All events are bullish.",
@@ -22,11 +22,11 @@
                 "score": 3,
                 "scoreDescription": "Strong Bullish Evidence",
                 "sectorDirection": "Bearish",
-                "sectorScore": 4,
-                "sectorScoreDescription": "Very Strong Bearish Evidence",
+                "sectorScore": 2,
+                "sectorScoreDescription": "Bearish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 2,
-                "indexScoreDescription": "Bearish Evidence"
+                "indexScore": 3,
+                "indexScoreDescription": "Strong Bearish Evidence"
             },
             "longTermOutlook": {
                 "stateDescription": "All events are bearish.",
@@ -34,8 +34,8 @@
                 "score": 2,
                 "scoreDescription": "Bearish Evidence",
                 "sectorDirection": "Bullish",
-                "sectorScore": 2,
-                "sectorScoreDescription": "Bullish Evidence",
+                "sectorScore": 1,
+                "sectorScoreDescription": "Weak Bullish Evidence",
                 "indexDirection": "Bullish",
                 "indexScore": 1,
                 "indexScoreDescription": "Weak Bullish Evidence"
@@ -45,25 +45,24 @@
             "provider": "Trading Central",
             "support": 27.6,
             "resistance": 28.3,
-            "stopLoss": 25.499627
+            "stopLoss": 26.45165
         },
         "valuation": {
-            "color": 1.0,
-            "description": "Undervalued",
-            "discount": "63%",
-            "relativeValue": "Discount",
+            "color": 0.5,
+            "description": "Near Fair Value",
+            "discount": "-1%",
             "provider": "Trading Central"
         }
     },
     "companySnapshot": {
         "sectorInfo": "Healthcare",
         "company": {
-            "innovativeness": 0.884,
+            "innovativeness": 0.8863,
             "hiring": 0.9109999999999999,
             "sustainability": 0.6751999999999999,
-            "insiderSentiments": 0.7128,
-            "earningsReports": 0.0053,
-            "dividends": 0.9412
+            "insiderSentiments": 0.7123,
+            "earningsReports": 0.005600000000000001,
+            "dividends": 0.9451999999999999
         },
         "sector": {
             "innovativeness": 0.5,
@@ -95,26 +94,54 @@
     },
     "upsellSearchDD": {
         "researchReports": {
-            "reportId": "MS_0P000004C0_AnalystReport_1714677890000",
-            "provider": "Morningstar",
-            "title": "Pfizer Earnings: Solid Results Supported by Steady Tracking Toward $4 Billion in Cost Cuts",
-            "reportDate": "2024-05-02T19:24:50Z",
-            "summary": "Pfizer is one of the world's largest pharmaceutical firms, with annual sales close to $50 billion (excluding COVID-19 product sales). While it historically sold many types of healthcare products and chemicals, now prescription drugs and vaccines account for the majority of sales. Top sellers include pneumococcal vaccine Prevnar 13, cancer drug Ibrance, and cardiovascular treatment Eliquis. Pfizer sells these products globally, with international sales representing close to 50% of total sales. Within international sales, emerging markets are a major contributor. ",
-            "investmentRating": "Bullish"
+            "reportId": "ARGUS_3305_AnalystReport_1715338192000",
+            "provider": "Argus",
+            "title": "Sales and earnings decline but beat consensus",
+            "reportDate": "2024-05-10T10:49:52Z",
+            "summary": "Pfizer is a leading developer and manufacturer of pharmaceuticals and biotech drugs. Its products include oncology and immunology drugs, treatments for rare diseases, and vaccines.",
+            "investmentRating": "Neutral"
         }
     },
     "events": [
         {
-            "eventType": "Price Crosses Moving Average",
-            "pricePeriod": "W",
-            "tradingHorizon": "I",
-            "tradeType": "L",
+            "eventType": "Engulfing Line (Bearish)",
+            "pricePeriod": "D",
+            "tradingHorizon": "S",
+            "tradeType": "S",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1714743000,
-            "endDate": 1714743000
+            "startDate": 1715002200,
+            "endDate": 1715088600
         }
     ],
     "reports": [
+        {
+            "id": "3305_Analyst Report_1715338192000",
+            "headHtml": "Analyst Report: Pfizer Inc.",
+            "provider": "Argus Research",
+            "reportDate": "2024-05-10T10:49:52Z",
+            "reportTitle": "Pfizer is a leading developer and manufacturer of pharmaceuticals and biotech drugs. Its products include oncology and immunology drugs, treatments for rare diseases, and vaccines.",
+            "investmentRating": "Neutral",
+            "tickers": [
+                "PFE"
+            ],
+            "title": "Pfizer is a leading developer and manufacturer of pharmaceuticals and biotech drugs. Its products include oncology and immunology drugs, treatments for rare diseases, and vaccines."
+        },
+        {
+            "id": "39965_Market Summary_1715337292000",
+            "headHtml": "Market Digest: PFE, PNW, LDOS, VSH, TWLO, NET",
+            "provider": "Argus Research",
+            "reportDate": "2024-05-10T10:34:52Z",
+            "reportTitle": "Stocks rose convincingly on Thursday as hopes are growing that the Fed will cut interest rates sooner than later. The DJIA had its seventh consecutive day in the green (up 0.85%), the Nasdaq Composite was higher by 0.27%, and the S&P 500 popped by 0.51%. Stocks have now reclaimed losses booked in April.",
+            "tickers": [
+                "TWLO",
+                "PNW",
+                "VSH",
+                "NET",
+                "PFE",
+                "LDOS"
+            ],
+            "title": "Stocks rose convincingly on Thursday as hopes are growing that the Fed will cut interest rates sooner than later. The DJIA had its seventh consecutive day in the green (up 0.85%), the Nasdaq Composite was higher by 0.27%, and the S&P 500 popped by 0.51%. Stocks have now reclaimed losses booked in April."
+        },
         {
             "id": "39767_Technical Analysis_1713783194000",
             "headHtml": "Technical Assessment: Neutral in the Intermediate-Term",
@@ -1445,19 +1472,6 @@
             "title": "As we approach the midpoint of 2021, and as we have pointed out many times this year and at the end of last year, index and sector outperformance has flipped 180 degrees. Year-to-date (YTD), the S&P 500 has tacked on 11.6%, the Dow Jones Industrials and the NYSE Composite have added almost 15%, the Nasdaq has gained 5.6%, and the Nasdaq 100 (QQQ) is up 5%. Meanwhile, the S&P Mid-Cap 400 has jumped 18%, the Russell 2000 (IWM) has leapt 15.7%, and the S&P Small-Cap 600 (SML) has catapulted 23%."
         },
         {
-            "id": "3305_Analyst Report_1622531573000",
-            "headHtml": "Analyst Report: Pfizer Inc.",
-            "provider": "Argus Research",
-            "reportDate": "2021-06-01T07:12:53Z",
-            "reportTitle": "Pfizer is a leading global developer and manufacturer of pharmaceuticals and biotech drugs. Its products include oncology and immunology drugs, treatments for rare diseases, and vaccines.",
-            "targetPrice": 55.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "PFE"
-            ],
-            "title": "Pfizer is a leading global developer and manufacturer of pharmaceuticals and biotech drugs. Its products include oncology and immunology drugs, treatments for rare diseases, and vaccines."
-        },
-        {
             "id": "30012_Market Summary_1622531573000",
             "headHtml": "Market Digest: HPQ, PFE, BCE, FOXA",
             "provider": "Argus Research",
@@ -1470,6 +1484,19 @@
                 "PFE"
             ],
             "title": "The stock market moved higher last week, with technology stocks outperforming blue chips. During Friday's session, the Dow Jones Industrial Average increased 65 points, or 0.19%. The S&P 500 was up 0.08%, and the Nasdaq Composite was up 0.09%. For the week, the DJIA was up 322 points, or 0.94%, the S&P 500 was up 1.16%, and the Nasdaq Composite was up 2.06%. Year-to-date, the DJIA is up 12.82%, the S&P 500 is up 11.93%, and the Nasdaq Composite is up 6.68%."
+        },
+        {
+            "id": "3305_Analyst Report_1622531573000",
+            "headHtml": "Analyst Report: Pfizer Inc.",
+            "provider": "Argus Research",
+            "reportDate": "2021-06-01T07:12:53Z",
+            "reportTitle": "Pfizer is a leading global developer and manufacturer of pharmaceuticals and biotech drugs. Its products include oncology and immunology drugs, treatments for rare diseases, and vaccines.",
+            "targetPrice": 55.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "PFE"
+            ],
+            "title": "Pfizer is a leading global developer and manufacturer of pharmaceuticals and biotech drugs. Its products include oncology and immunology drugs, treatments for rare diseases, and vaccines."
         },
         {
             "id": "29743_Technical Analysis_1619594192000",
@@ -1930,96 +1957,6 @@
                 "PFE"
             ],
             "title": "Pfizer is a leading global developer and manufacturer of pharmaceuticals and biotech drugs. Its products include oncology and immunology drugs, treatments for rare diseases, and vaccines."
-        },
-        {
-            "id": "26748_Thematic Portfolio_1587540212000",
-            "headHtml": "Argus High-Yield Portfolio",
-            "provider": "Argus Research",
-            "reportDate": "2020-04-22T07:23:32Z",
-            "reportTitle": "Growth stocks may be outperforming value, again, in 2020. But in an environment of historically low interest rates (and with the coronavirus and economic shutdown seemingly poised to keep them low for a long time), many investors are still searching for high levels of income, which can often be found in value stocks. When we look for attractive high-yield/value stocks at Argus, we look for low valuations on metrics such as price/earnings, price/sales, price/book, yield and price/cash flow. But we also look for companies with clean balance sheets, high levels of profitability, cash-flow generation, and an experienced management teams. We seek to avoid companies in industries that are in secular decline, or with dividend yields that are so high that the payout is clearly at risk. To us, right now, that level is 8%-9%-plus. That said, many value companies may face a substantial near-term industry problem. Based on numerous requests from clients, we have designed a portfolio of companies followed by Argus Research analysts that are BUY-rated on a long-term (five-year) basis, have a Financial Strength rating of at least Medium, and have a yield of 3.5% or higher.",
-            "tickers": [
-                "AVGO",
-                "CSCO",
-                "CVX",
-                "D",
-                "PNC",
-                "VZ",
-                "JPM",
-                "NVS",
-                "SLF",
-                "PFE",
-                "TFC",
-                "GLW",
-                "T",
-                "WFC",
-                "STX",
-                "WDC",
-                "UPS",
-                "SO",
-                "CMI",
-                "NUE",
-                "PSA",
-                "SNY",
-                "MO",
-                "KO",
-                "BCE",
-                "COP",
-                "USB",
-                "IP",
-                "AZN",
-                "PAYX",
-                "GPC",
-                "HPE",
-                "MET",
-                "PM",
-                "ETN"
-            ],
-            "title": "Growth stocks may be outperforming value, again, in 2020. But in an environment of historically low interest rates (and with the coronavirus and economic shutdown seemingly poised to keep them low for a long time), many investors are still searching for high levels of income, which can often be found in value stocks. When we look for attractive high-yield/value stocks at Argus, we look for low valuations on metrics such as price/earnings, price/sales, price/book, yield and price/cash flow. But we also look for companies with clean balance sheets, high levels of profitability, cash-flow generation, and an experienced management teams. We seek to avoid companies in industries that are in secular decline, or with dividend yields that are so high that the payout is clearly at risk. To us, right now, that level is 8%-9%-plus. That said, many value companies may face a substantial near-term industry problem. Based on numerous requests from clients, we have designed a portfolio of companies followed by Argus Research analysts that are BUY-rated on a long-term (five-year) basis, have a Financial Strength rating of at least Medium, and have a yield of 3.5% or higher."
-        },
-        {
-            "id": "26748_Thematic Portfolio_1587539312000",
-            "headHtml": "Argus High-Yield Portfolio",
-            "provider": "Argus Research",
-            "reportDate": "2020-04-22T07:08:32Z",
-            "reportTitle": "Growth stocks may be outperforming value, again, in 2020. But in an environment of historically low interest rates (and with the coronavirus and economic shutdown seemingly poised to keep them low for a long time), many investors are still searching for high levels of income, which can often be found in value stocks. When we look for attractive high-yield/value stocks at Argus, we look for low valuations on metrics such as price/earnings, price/sales, price/book, yield and price/cash flow. But we also look for companies with clean balance sheets, high levels of profitability, cash-flow generation, and an experienced management teams. We seek to avoid companies in industries that are in secular decline, or with dividend yields that are so high that the payout is clearly at risk. To us, right now, that level is 8%-9%-plus. That said, many value companies may face a substantial near-term industry problem. Based on numerous requests from clients, we have designed a portfolio of companies followed by Argus Research analysts that are BUY-rated on a long-term (five-year) basis, have a Financial Strength rating of at least Medium, and have a yield of 3.5% or higher.",
-            "tickers": [
-                "AVGO",
-                "CSCO",
-                "CVX",
-                "D",
-                "PNC",
-                "VZ",
-                "JPM",
-                "NVS",
-                "SLF",
-                "PFE",
-                "TFC",
-                "GLW",
-                "T",
-                "WFC",
-                "STX",
-                "WDC",
-                "UPS",
-                "SO",
-                "CMI",
-                "NUE",
-                "PSA",
-                "SNY",
-                "MO",
-                "KO",
-                "BCE",
-                "COP",
-                "USB",
-                "IP",
-                "AZN",
-                "PAYX",
-                "GPC",
-                "HPE",
-                "MET",
-                "PM",
-                "ETN"
-            ],
-            "title": "Growth stocks may be outperforming value, again, in 2020. But in an environment of historically low interest rates (and with the coronavirus and economic shutdown seemingly poised to keep them low for a long time), many investors are still searching for high levels of income, which can often be found in value stocks. When we look for attractive high-yield/value stocks at Argus, we look for low valuations on metrics such as price/earnings, price/sales, price/book, yield and price/cash flow. But we also look for companies with clean balance sheets, high levels of profitability, cash-flow generation, and an experienced management teams. We seek to avoid companies in industries that are in secular decline, or with dividend yields that are so high that the payout is clearly at risk. To us, right now, that level is 8%-9%-plus. That said, many value companies may face a substantial near-term industry problem. Based on numerous requests from clients, we have designed a portfolio of companies followed by Argus Research analysts that are BUY-rated on a long-term (five-year) basis, have a Financial Strength rating of at least Medium, and have a yield of 3.5% or higher."
         }
     ],
     "sigDevs": [
@@ -2255,15 +2192,6 @@
             "formType": "SC 13D/A"
         },
         {
-            "id": "0000078003-24-000006_78003",
-            "type": "Corporate Changes & Voting Matters",
-            "title": "8-K : Corporate Changes & Voting Matters",
-            "description": "Current report filing",
-            "filingDate": 1704844800000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000078003/000007800324000006/thumbnail.png",
-            "formType": "8-K"
-        },
-        {
             "id": "0000078003-24-000004_78003",
             "type": "Tender Offer/Acquisition Reports",
             "title": "SC 13D/A : Tender Offer/Acquisition Reports",
@@ -2271,6 +2199,15 @@
             "filingDate": 1704844800000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001832168/000007800324000004/thumbnail.png",
             "formType": "SC 13D/A"
+        },
+        {
+            "id": "0000078003-24-000006_78003",
+            "type": "Corporate Changes & Voting Matters",
+            "title": "8-K : Corporate Changes & Voting Matters",
+            "description": "Current report filing",
+            "filingDate": 1704844800000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000078003/000007800324000006/thumbnail.png",
+            "formType": "8-K"
         },
         {
             "id": "0001193125-23-294930_78003",

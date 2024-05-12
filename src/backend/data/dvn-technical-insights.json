@@ -9,24 +9,24 @@
                 "direction": "Bearish",
                 "score": 3,
                 "scoreDescription": "Strong Bearish Evidence",
-                "sectorDirection": "Bearish",
-                "sectorScore": 2,
-                "sectorScoreDescription": "Bearish Evidence",
+                "sectorDirection": "Bullish",
+                "sectorScore": 1,
+                "sectorScoreDescription": "Weak Bullish Evidence",
                 "indexDirection": "Bullish",
-                "indexScore": 4,
-                "indexScoreDescription": "Very Strong Bullish Evidence"
+                "indexScore": 2,
+                "indexScoreDescription": "Bullish Evidence"
             },
             "intermediateTermOutlook": {
-                "stateDescription": "Recent bullish events outweigh bearish events.",
+                "stateDescription": "Bullish events outweigh bearish events.",
                 "direction": "Bullish",
-                "score": 3,
-                "scoreDescription": "Strong Bullish Evidence",
+                "score": 2,
+                "scoreDescription": "Bullish Evidence",
                 "sectorDirection": "Bullish",
-                "sectorScore": 3,
-                "sectorScoreDescription": "Strong Bullish Evidence",
+                "sectorScore": 2,
+                "sectorScoreDescription": "Bullish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 2,
-                "indexScoreDescription": "Bearish Evidence"
+                "indexScore": 3,
+                "indexScoreDescription": "Strong Bearish Evidence"
             },
             "longTermOutlook": {
                 "stateDescription": "All events are bullish.",
@@ -45,7 +45,7 @@
             "provider": "Trading Central",
             "support": 48.3101,
             "resistance": 52.64,
-            "stopLoss": 47.945437
+            "stopLoss": 47.982681
         },
         "valuation": {
             "color": 0.5,
@@ -57,12 +57,12 @@
     "companySnapshot": {
         "sectorInfo": "Energy",
         "company": {
-            "innovativeness": 0.8208,
+            "innovativeness": 0.8194,
             "hiring": 0.24710000000000001,
-            "sustainability": 0.5606,
+            "sustainability": 0.5522,
             "insiderSentiments": 0.736,
-            "earningsReports": 0.7356,
-            "dividends": 0.4241
+            "earningsReports": 0.7143,
+            "dividends": 0.34850000000000003
         },
         "sector": {
             "innovativeness": 0.5,
@@ -105,13 +105,13 @@
     },
     "events": [
         {
-            "eventType": "Fast Stochastic",
+            "eventType": "Commodity Channel Index",
             "pricePeriod": "D",
             "tradingHorizon": "S",
-            "tradeType": "L",
+            "tradeType": "U",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1715002200,
-            "endDate": 1715002200
+            "startDate": 1715261400,
+            "endDate": 1715261400
         }
     ],
     "reports": [
@@ -1664,19 +1664,6 @@
             "title": "Devon Energy is a leading independent energy company engaged in oil and gas exploration, production and property acquisitions. Based in Oklahoma City, Devon is among the largest U.S.-based independent oil and gas producers and is included in the S&P 500 index. The company's operations are focused onshore in the United States and Canada."
         },
         {
-            "id": "2912_Analyst Report_1565792556000",
-            "headHtml": "Reiterating BUY following 2Q results",
-            "provider": "Argus Research",
-            "reportDate": "2019-08-14T14:22:36Z",
-            "reportTitle": "Devon Energy is a leading independent energy company engaged in oil and gas exploration, production and property acquisitions. Based in Oklahoma City, Devon is among the largest U.S.-based independent oil and gas producers and is included in the S&P 500 index. The company's operations are focused onshore in the United States and Canada.",
-            "targetPrice": 32.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "DVN"
-            ],
-            "title": "Devon Energy is a leading independent energy company engaged in oil and gas exploration, production and property acquisitions. Based in Oklahoma City, Devon is among the largest U.S.-based independent oil and gas producers and is included in the S&P 500 index. The company's operations are focused onshore in the United States and Canada."
-        },
-        {
             "id": "24709_Market Update_1565792556000",
             "headHtml": "Market Update: LIN, SNY, SWKS, DVN, MYL",
             "provider": "Argus Research",
@@ -1690,6 +1677,19 @@
                 "SNY"
             ],
             "title": "Stocks plunged on Wednesday morning, more than reversing Tuesday's gains, on fears that an inverted yield curve raised the risk of a recession. Investors also weighed weak economic data in Germany, where overall output fell 0.1% in the second quarter, and in China, where industrial output in July rose at its slowest pace in more than 17 years. The Dow fell 2.5%, the S&P 2.5%, and the Nasdaq 2.9%. Crude oil fell sharply to about $54.50 per barrel, while gold rose $15 to $1529 per ounce."
+        },
+        {
+            "id": "2912_Analyst Report_1565792556000",
+            "headHtml": "Reiterating BUY following 2Q results",
+            "provider": "Argus Research",
+            "reportDate": "2019-08-14T14:22:36Z",
+            "reportTitle": "Devon Energy is a leading independent energy company engaged in oil and gas exploration, production and property acquisitions. Based in Oklahoma City, Devon is among the largest U.S.-based independent oil and gas producers and is included in the S&P 500 index. The company's operations are focused onshore in the United States and Canada.",
+            "targetPrice": 32.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "DVN"
+            ],
+            "title": "Devon Energy is a leading independent energy company engaged in oil and gas exploration, production and property acquisitions. Based in Oklahoma City, Devon is among the largest U.S.-based independent oil and gas producers and is included in the S&P 500 index. The company's operations are focused onshore in the United States and Canada."
         },
         {
             "id": "24709_Market Update_1565740800000",

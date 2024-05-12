@@ -7,26 +7,26 @@
             "shortTermOutlook": {
                 "stateDescription": "Recent bullish events outweigh bearish events.",
                 "direction": "Bullish",
-                "score": 1,
-                "scoreDescription": "Weak Bullish Evidence",
+                "score": 3,
+                "scoreDescription": "Strong Bullish Evidence",
                 "sectorDirection": "Bullish",
-                "sectorScore": 4,
-                "sectorScoreDescription": "Very Strong Bullish Evidence",
+                "sectorScore": 3,
+                "sectorScoreDescription": "Strong Bullish Evidence",
                 "indexDirection": "Bullish",
-                "indexScore": 4,
-                "indexScoreDescription": "Very Strong Bullish Evidence"
+                "indexScore": 2,
+                "indexScoreDescription": "Bullish Evidence"
             },
             "intermediateTermOutlook": {
-                "stateDescription": "The bullish and bearish events are balanced.",
-                "direction": "Neutral",
-                "score": 0,
-                "scoreDescription": "Neutral Evidence",
+                "stateDescription": "Recent bullish events outweigh bearish events.",
+                "direction": "Bullish",
+                "score": 2,
+                "scoreDescription": "Bullish Evidence",
                 "sectorDirection": "Bearish",
                 "sectorScore": 2,
                 "sectorScoreDescription": "Bearish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 2,
-                "indexScoreDescription": "Bearish Evidence"
+                "indexScore": 3,
+                "indexScoreDescription": "Strong Bearish Evidence"
             },
             "longTermOutlook": {
                 "stateDescription": "There are no events.",
@@ -44,8 +44,8 @@
         "keyTechnicals": {
             "provider": "Trading Central",
             "support": 332.89,
-            "resistance": 422.6,
-            "stopLoss": 365.605533
+            "resistance": 415.32,
+            "stopLoss": 398.623968
         },
         "valuation": {
             "color": 0.0,
@@ -58,12 +58,12 @@
     "companySnapshot": {
         "sectorInfo": "Technology",
         "company": {
-            "innovativeness": 0.9645999999999999,
+            "innovativeness": 0.9689,
             "hiring": 0.9662999999999999,
             "sustainability": 0.3667,
-            "insiderSentiments": 0.3379,
-            "earningsReports": 0.8848,
-            "dividends": 0.1484
+            "insiderSentiments": 0.3371,
+            "earningsReports": 0.8881999999999999,
+            "dividends": 0.1502
         },
         "sector": {
             "innovativeness": 0.5,
@@ -106,7 +106,7 @@
     },
     "events": [
         {
-            "eventType": "Price Crosses Moving Average",
+            "eventType": "Williams %R",
             "pricePeriod": "D",
             "tradingHorizon": "S",
             "tradeType": "L",
@@ -2134,8 +2134,8 @@
     ],
     "sigDevs": [
         {
-            "headline": "CI Games Signs Deal With Microsoft For Adding Games To Game Pass Programme",
-            "date": "2024-05-06"
+            "headline": "House Committee Asks Microsoft's Brad Smith To Attend Hearing On Security Lapses - CNBC",
+            "date": "2024-05-10"
         }
     ],
     "secReports": [

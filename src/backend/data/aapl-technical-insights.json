@@ -10,23 +10,23 @@
                 "score": 4,
                 "scoreDescription": "Very Strong Bullish Evidence",
                 "sectorDirection": "Bullish",
-                "sectorScore": 4,
-                "sectorScoreDescription": "Very Strong Bullish Evidence",
+                "sectorScore": 3,
+                "sectorScoreDescription": "Strong Bullish Evidence",
                 "indexDirection": "Bullish",
-                "indexScore": 4,
-                "indexScoreDescription": "Very Strong Bullish Evidence"
+                "indexScore": 2,
+                "indexScoreDescription": "Bullish Evidence"
             },
             "intermediateTermOutlook": {
                 "stateDescription": "Recent bullish events outweigh bearish events.",
                 "direction": "Bullish",
-                "score": 1,
-                "scoreDescription": "Weak Bullish Evidence",
+                "score": 2,
+                "scoreDescription": "Bullish Evidence",
                 "sectorDirection": "Bearish",
                 "sectorScore": 2,
                 "sectorScoreDescription": "Bearish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 2,
-                "indexScoreDescription": "Bearish Evidence"
+                "indexScore": 3,
+                "indexScoreDescription": "Strong Bearish Evidence"
             },
             "longTermOutlook": {
                 "stateDescription": "All events are bullish.",
@@ -45,7 +45,7 @@
             "provider": "Trading Central",
             "support": 173.19,
             "resistance": 189.9,
-            "stopLoss": 171.928158
+            "stopLoss": 174.439491
         },
         "valuation": {
             "color": 0.5,
@@ -60,9 +60,9 @@
             "innovativeness": 0.9961,
             "hiring": 0.9512999999999999,
             "sustainability": 0.575,
-            "insiderSentiments": 0.2812,
-            "earningsReports": 0.8519,
-            "dividends": 0.0891
+            "insiderSentiments": 0.2805,
+            "earningsReports": 0.8571,
+            "dividends": 0.0892
         },
         "sector": {
             "innovativeness": 0.5,
@@ -105,16 +105,28 @@
     },
     "events": [
         {
-            "eventType": "Commodity Channel Index",
-            "pricePeriod": "W",
+            "eventType": "Double Moving Average Crossover",
+            "pricePeriod": "D",
             "tradingHorizon": "S",
-            "tradeType": "U",
+            "tradeType": "L",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1714743000,
-            "endDate": 1714743000
+            "startDate": 1715175000,
+            "endDate": 1715175000
         }
     ],
     "reports": [
+        {
+            "id": "39967_Technical Analysis_1715338854000",
+            "headHtml": "Technical Assessment: Bullish in the Intermediate-Term",
+            "provider": "Argus Research",
+            "reportDate": "2024-05-10T11:00:54Z",
+            "reportTitle": "In the metals space, the iShares Silver Trust ETF (SLV) looks interesting, at least from a short-term technical perspective. SLV hit an intraday high of $27.24 on April 12, the day that both SLV and the SPDR Gold Shares (GLD) reversed sharply lower on huge volume. SLV fell to an intraday low of $23.87 on May 3, or just over 12% and right back to its 50-day exponential average as well as to a 50% retracement of the rally from late February until April 12.",
+            "tickers": [
+                "AAPL",
+                "LHX"
+            ],
+            "title": "In the metals space, the iShares Silver Trust ETF (SLV) looks interesting, at least from a short-term technical perspective. SLV hit an intraday high of $27.24 on April 12, the day that both SLV and the SPDR Gold Shares (GLD) reversed sharply lower on huge volume. SLV fell to an intraday low of $23.87 on May 3, or just over 12% and right back to its 50-day exponential average as well as to a 50% retracement of the rally from late February until April 12."
+        },
         {
             "id": "39911_Stock Picks_1714995528000",
             "headHtml": "Weekly Stock List",
@@ -898,19 +910,6 @@
             "title": "Apple manufactures smartphones, tablets, PCs, software and peripherals for a worldwide customer base. Its products include Mac desktop and mobile PCs, iPhone, iPad, Apple Watch, and various consumer products, including AirPods, Beats headphones and Apple TV. Apple services include App Store, iTunes, iCloud, Apple TV+, Apple Arcade, Apple Music, Apple Pay, and more."
         },
         {
-            "id": "2660_Analyst Report_1675451126000",
-            "headHtml": "Analyst Report: Apple Inc",
-            "provider": "Argus Research",
-            "reportDate": "2023-02-03T19:05:26Z",
-            "reportTitle": "Apple manufactures smartphones, tablets, PCs, software and peripherals for a worldwide customer base. Its products include Mac desktop and mobile PCs, iPhone, iPad, Apple Watch, and various consumer products, including AirPods, Beats headphones and Apple TV. Apple services include App Store, iTunes, iCloud, Apple TV+, Apple Arcade, Apple Music, Apple Pay, and more.",
-            "targetPrice": 200.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "AAPL"
-            ],
-            "title": "Apple manufactures smartphones, tablets, PCs, software and peripherals for a worldwide customer base. Its products include Mac desktop and mobile PCs, iPhone, iPad, Apple Watch, and various consumer products, including AirPods, Beats headphones and Apple TV. Apple services include App Store, iTunes, iCloud, Apple TV+, Apple Arcade, Apple Music, Apple Pay, and more."
-        },
-        {
             "id": "35490_Market Update_1675451126000",
             "headHtml": "Market Update: AAPL, AMZN, BA, BYD, HSY, SKX, WEC, BMI, GM",
             "provider": "Argus Research",
@@ -928,6 +927,19 @@
                 "HSY"
             ],
             "title": "Stocks were mixed on Friday morning after a much better-than-expected jobs report raised prospects for additional Fed rate hikes. The Labor Department reported that the U.S. economy added 517,000 payroll jobs in January, up from 260,000 in December and well above the Reuters consensus forecast of 185,000. The official unemployment rate ticked down to 3.4% from 3.5% in December. The Dow rose 0.2%, the S&P fell 0.1%, and the Nasdaq rose 0.1%. Crude oil fell 1% to $75 per barrel, while gold dropped more than 2% to $1880 per ounce."
+        },
+        {
+            "id": "2660_Analyst Report_1675451126000",
+            "headHtml": "Analyst Report: Apple Inc",
+            "provider": "Argus Research",
+            "reportDate": "2023-02-03T19:05:26Z",
+            "reportTitle": "Apple manufactures smartphones, tablets, PCs, software and peripherals for a worldwide customer base. Its products include Mac desktop and mobile PCs, iPhone, iPad, Apple Watch, and various consumer products, including AirPods, Beats headphones and Apple TV. Apple services include App Store, iTunes, iCloud, Apple TV+, Apple Arcade, Apple Music, Apple Pay, and more.",
+            "targetPrice": 200.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "AAPL"
+            ],
+            "title": "Apple manufactures smartphones, tablets, PCs, software and peripherals for a worldwide customer base. Its products include Mac desktop and mobile PCs, iPhone, iPad, Apple Watch, and various consumer products, including AirPods, Beats headphones and Apple TV. Apple services include App Store, iTunes, iCloud, Apple TV+, Apple Arcade, Apple Music, Apple Pay, and more."
         },
         {
             "id": "35490_Market Update_1675450226000",
@@ -2017,18 +2029,6 @@
                 "CRM"
             ],
             "title": "The Technology sector has led the market recovery from the COVID-19 depths of March 2020. Through November 20, the sector was up 31% for the year, compared to a 10% gain for the S&P 500. The Tech sector is the largest in the U.S. market and now accounts for more than 27% of the S&P 500. Over the long term, we expect the Tech sector to benefit from pervasive digitization across the economy, greater acceptance of transformative technologies, and the development of the Internet of Things (IoT): Healthy company and sector fundamentals are also positive. For individual companies, these include high cash levels, low debt, and broad international business exposure. We have an Over-Weight ranking on the Tech sector and think investors should look to allocate up to 30% of their diversified portfolios to the group. Here is how we use our Tech sector ideas from our analysts in our Focus List and Model Portfolios."
-        },
-        {
-            "id": "28410_Technical Analysis_1605166035000",
-            "headHtml": "Technical Assessment: Bullish in the Intermediate-Term",
-            "provider": "Argus Research",
-            "reportDate": "2020-11-12T07:27:15Z",
-            "reportTitle": "It has been a November to remember, so far. Since the October 30 close, the S&P 500 has advanced 9.3% in just a handful of trading days. That can often be a harbinger of better days to come in the market -- particularly when short and furious rallies occur in the final quarter.",
-            "tickers": [
-                "AAPL",
-                "ANET"
-            ],
-            "title": "It has been a November to remember, so far. Since the October 30 close, the S&P 500 has advanced 9.3% in just a handful of trading days. That can often be a harbinger of better days to come in the market -- particularly when short and furious rallies occur in the final quarter."
         }
     ],
     "sigDevs": [
@@ -2318,15 +2318,6 @@
             "formType": "8-K"
         },
         {
-            "id": "0001193125-22-128368_320193",
-            "type": "Offering Registrations",
-            "title": "S-8 : Offering Registrations",
-            "description": "Initial registration statement for securities to be offered to employees pursuant to employee benefit plans",
-            "filingDate": 1651190400000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000320193/000119312522128368/thumbnail.png",
-            "formType": "S-8"
-        },
-        {
             "id": "0001193125-22-128361_320193",
             "type": "Offering Registrations",
             "title": "S-8 POS : Offering Registrations",
@@ -2334,6 +2325,15 @@
             "filingDate": 1651190400000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000320193/000119312522128361/thumbnail.png",
             "formType": "S-8 POS"
+        },
+        {
+            "id": "0001193125-22-128368_320193",
+            "type": "Offering Registrations",
+            "title": "S-8 : Offering Registrations",
+            "description": "Initial registration statement for securities to be offered to employees pursuant to employee benefit plans",
+            "filingDate": 1651190400000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000320193/000119312522128368/thumbnail.png",
+            "formType": "S-8"
         },
         {
             "id": "0000320193-22-000059_320193",

@@ -5,28 +5,28 @@
             "provider": "Trading Central",
             "sector": "Healthcare",
             "shortTermOutlook": {
-                "stateDescription": "Recent bearish events outweigh bullish events.",
+                "stateDescription": "All events are bearish.",
                 "direction": "Bearish",
-                "score": 2,
-                "scoreDescription": "Bearish Evidence",
+                "score": 3,
+                "scoreDescription": "Strong Bearish Evidence",
                 "sectorDirection": "Bullish",
                 "sectorScore": 2,
                 "sectorScoreDescription": "Bullish Evidence",
                 "indexDirection": "Bullish",
-                "indexScore": 4,
-                "indexScoreDescription": "Very Strong Bullish Evidence"
+                "indexScore": 2,
+                "indexScoreDescription": "Bullish Evidence"
             },
             "intermediateTermOutlook": {
-                "stateDescription": "Bearish events outweigh bullish events.",
+                "stateDescription": "Recent bearish events outweigh bullish events.",
                 "direction": "Bearish",
                 "score": 3,
                 "scoreDescription": "Strong Bearish Evidence",
                 "sectorDirection": "Bearish",
-                "sectorScore": 4,
-                "sectorScoreDescription": "Very Strong Bearish Evidence",
+                "sectorScore": 2,
+                "sectorScoreDescription": "Bearish Evidence",
                 "indexDirection": "Bearish",
-                "indexScore": 2,
-                "indexScoreDescription": "Bearish Evidence"
+                "indexScore": 3,
+                "indexScoreDescription": "Strong Bearish Evidence"
             },
             "longTermOutlook": {
                 "stateDescription": "Recent bearish events outweigh bullish events.",
@@ -34,8 +34,8 @@
                 "score": 3,
                 "scoreDescription": "Strong Bearish Evidence",
                 "sectorDirection": "Bullish",
-                "sectorScore": 2,
-                "sectorScoreDescription": "Bullish Evidence",
+                "sectorScore": 1,
+                "sectorScoreDescription": "Weak Bullish Evidence",
                 "indexDirection": "Bullish",
                 "indexScore": 1,
                 "indexScoreDescription": "Weak Bullish Evidence"
@@ -43,9 +43,9 @@
         },
         "keyTechnicals": {
             "provider": "Trading Central",
-            "support": 54.96,
+            "support": 54.685,
             "resistance": 68.85,
-            "stopLoss": 46.531613
+            "stopLoss": 52.139662
         },
         "valuation": {
             "color": 0.5,
@@ -57,12 +57,12 @@
     "companySnapshot": {
         "sectorInfo": "Healthcare",
         "company": {
-            "innovativeness": 0.9048999999999999,
+            "innovativeness": 0.9034,
             "hiring": 0.9893000000000001,
             "sustainability": 0.4359,
-            "insiderSentiments": 0.9483,
-            "earningsReports": 0.8948,
-            "dividends": 0.8925
+            "insiderSentiments": 0.9481999999999999,
+            "earningsReports": 0.8926999999999999,
+            "dividends": 0.9006000000000001
         },
         "sector": {
             "innovativeness": 0.5,
@@ -105,13 +105,13 @@
     },
     "events": [
         {
-            "eventType": "Bollinger Bands",
+            "eventType": "Commodity Channel Index",
             "pricePeriod": "D",
             "tradingHorizon": "S",
-            "tradeType": "L",
+            "tradeType": "U",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1714570200,
-            "endDate": 1714570200
+            "startDate": 1715261400,
+            "endDate": 1715261400
         }
     ],
     "reports": [
@@ -1849,6 +1849,15 @@
     ],
     "secReports": [
         {
+            "id": "0001193125-24-135296_64803",
+            "type": "Corporate Changes & Voting Matters",
+            "title": "8-K : Corporate Changes & Voting Matters",
+            "description": "Current report filing",
+            "filingDate": 1715212800000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000064803/000119312524135296/thumbnail.png",
+            "formType": "8-K"
+        },
+        {
             "id": "0001193125-24-134280_64803",
             "type": "Corporate Changes & Voting Matters",
             "title": "8-K : Corporate Changes & Voting Matters",
@@ -2029,15 +2038,6 @@
             "formType": "10-Q"
         },
         {
-            "id": "0000064803-23-000032_64803",
-            "type": "Corporate Changes & Voting Matters",
-            "title": "8-K : Corporate Changes & Voting Matters",
-            "description": "Current report filing",
-            "filingDate": 1690934400000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000064803/000006480323000032/thumbnail.png",
-            "formType": "8-K"
-        },
-        {
             "id": "0000947871-23-000807_64803",
             "type": "Offering Registrations",
             "title": "S-8 : Offering Registrations",
@@ -2045,6 +2045,15 @@
             "filingDate": 1690934400000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000064803/000094787123000807/thumbnail.png",
             "formType": "S-8"
+        },
+        {
+            "id": "0000064803-23-000032_64803",
+            "type": "Corporate Changes & Voting Matters",
+            "title": "8-K : Corporate Changes & Voting Matters",
+            "description": "Current report filing",
+            "filingDate": 1690934400000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000064803/000006480323000032/thumbnail.png",
+            "formType": "8-K"
         },
         {
             "id": "0000947871-23-000769_64803",
@@ -2083,15 +2092,6 @@
             "formType": "8-K"
         },
         {
-            "id": "0000064803-23-000021_64803",
-            "type": "Corporate Changes & Voting Matters",
-            "title": "8-K : Corporate Changes & Voting Matters",
-            "description": "Current report filing",
-            "filingDate": 1684972800000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000064803/000006480323000021/thumbnail.png",
-            "formType": "8-K"
-        },
-        {
             "id": "0000947871-23-000633_64803",
             "type": "Offering Registrations",
             "title": "S-3ASR : Offering Registrations",
@@ -2099,6 +2099,15 @@
             "filingDate": 1684972800000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000064803/000094787123000633/thumbnail.png",
             "formType": "S-3ASR"
+        },
+        {
+            "id": "0000064803-23-000021_64803",
+            "type": "Corporate Changes & Voting Matters",
+            "title": "8-K : Corporate Changes & Voting Matters",
+            "description": "Current report filing",
+            "filingDate": 1684972800000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000064803/000006480323000021/thumbnail.png",
+            "formType": "8-K"
         },
         {
             "id": "0000064803-23-000019_64803",
@@ -2236,15 +2245,6 @@
             "formType": "10-K"
         },
         {
-            "id": "0000064803-23-000008_64803",
-            "type": "Corporate Changes & Voting Matters",
-            "title": "8-K : Corporate Changes & Voting Matters",
-            "description": "Current report filing",
-            "filingDate": 1675814400000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000064803/000006480323000008/thumbnail.png",
-            "formType": "8-K"
-        },
-        {
             "id": "0000947871-23-000137_64803",
             "type": "Proxy Statements",
             "title": "DFAN14A : Proxy Statements",
@@ -2252,6 +2252,15 @@
             "filingDate": 1675814400000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001564406/000094787123000137/thumbnail.png",
             "formType": "DFAN14A"
+        },
+        {
+            "id": "0000064803-23-000008_64803",
+            "type": "Corporate Changes & Voting Matters",
+            "title": "8-K : Corporate Changes & Voting Matters",
+            "description": "Current report filing",
+            "filingDate": 1675814400000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000064803/000006480323000008/thumbnail.png",
+            "formType": "8-K"
         },
         {
             "id": "0000947871-23-000080_64803",
@@ -2269,15 +2278,6 @@
             "description": "Current report filing",
             "filingDate": 1673222400000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000064803/000006480323000003/thumbnail.png",
-            "formType": "8-K"
-        },
-        {
-            "id": "0000947871-22-001199_64803",
-            "type": "Corporate Changes & Voting Matters",
-            "title": "8-K : Corporate Changes & Voting Matters",
-            "description": "Current report filing",
-            "filingDate": 1668988800000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000064803/000094787122001199/thumbnail.png",
             "formType": "8-K"
         }
     ]
