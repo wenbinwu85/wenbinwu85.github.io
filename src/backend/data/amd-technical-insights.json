@@ -5,25 +5,25 @@
             "provider": "Trading Central",
             "sector": "Technology",
             "shortTermOutlook": {
+                "stateDescription": "Recent bullish events outweigh bearish events.",
+                "direction": "Bullish",
+                "score": 3,
+                "scoreDescription": "Strong Bullish Evidence",
+                "sectorDirection": "Bullish",
+                "sectorScore": 2,
+                "sectorScoreDescription": "Bullish Evidence",
+                "indexDirection": "Bullish",
+                "indexScore": 1,
+                "indexScoreDescription": "Weak Bullish Evidence"
+            },
+            "intermediateTermOutlook": {
                 "stateDescription": "Recent bearish events outweigh bullish events.",
                 "direction": "Bearish",
                 "score": 2,
                 "scoreDescription": "Bearish Evidence",
                 "sectorDirection": "Bullish",
-                "sectorScore": 3,
-                "sectorScoreDescription": "Strong Bullish Evidence",
-                "indexDirection": "Bullish",
-                "indexScore": 2,
-                "indexScoreDescription": "Bullish Evidence"
-            },
-            "intermediateTermOutlook": {
-                "stateDescription": "Recent bearish events outweigh bullish events.",
-                "direction": "Bearish",
-                "score": 3,
-                "scoreDescription": "Strong Bearish Evidence",
-                "sectorDirection": "Bearish",
-                "sectorScore": 2,
-                "sectorScoreDescription": "Bearish Evidence",
+                "sectorScore": 1,
+                "sectorScoreDescription": "Weak Bullish Evidence",
                 "indexDirection": "Bearish",
                 "indexScore": 3,
                 "indexScoreDescription": "Strong Bearish Evidence"
@@ -44,13 +44,13 @@
         "keyTechnicals": {
             "provider": "Trading Central",
             "support": 107.93,
-            "resistance": 174.22,
-            "stopLoss": 133.882608
+            "resistance": 178.29,
+            "stopLoss": 144.107332
         },
         "valuation": {
             "color": 0.0,
             "description": "Overvalued",
-            "discount": "6%",
+            "discount": "5%",
             "relativeValue": "Premium",
             "provider": "Trading Central"
         }
@@ -58,10 +58,10 @@
     "companySnapshot": {
         "sectorInfo": "Technology",
         "company": {
-            "innovativeness": 0.7767000000000001,
+            "innovativeness": 0.7806000000000001,
             "hiring": 0.8539,
-            "insiderSentiments": 0.09949999999999999,
-            "earningsReports": 0.986
+            "insiderSentiments": 0.0989,
+            "earningsReports": 0.9831
         },
         "sector": {
             "innovativeness": 0.5,
@@ -104,13 +104,13 @@
     },
     "events": [
         {
-            "eventType": "Momentum",
+            "eventType": "Inside Bar (Bearish)",
             "pricePeriod": "D",
             "tradingHorizon": "S",
             "tradeType": "S",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1715261400,
-            "endDate": 1715261400
+            "startDate": 1715952600,
+            "endDate": 1716211800
         }
     ],
     "reports": [
@@ -405,6 +405,19 @@
             "title": "The Portfolio Selector features the Argus Focus List, a group of 30 \"best idea\" stocks generated and regularly updated by Argus' analysts and investment policy committee. It also includes the director of research\u2019s monthly investment strategy column, stock recommendations and sector picks, economic forecasts, and an asset allocation model. This month, the Focus List additions are Linde Plc. (LIN); Crowdstrike Holdings Inc (CRWD); Advanced Micro Devices Inc. (AMD); Vertex Pharmaceuticals, Inc. (VRTX) and the Focus List deletions are Adobe Inc (ADBE); Albemarle Corp. (ALB); Catalent Inc. (CTLT); Intel Corp. (INTC)."
         },
         {
+            "id": "2707_Analyst Report_1698921146000",
+            "headHtml": "Analyst Report: Advanced Micro Devices Inc.",
+            "provider": "Argus Research",
+            "reportDate": "2023-11-02T10:32:26Z",
+            "reportTitle": "Advanced Micro Devices is the number-two player in x86-based microprocessors, behind Intel, and -- with the 2008 acquisition of ATI -- a top player in graphic processors. In 2021, Advanced Micro Devices acquired Xilinx, expanding its presence in embedded computing and data center.",
+            "targetPrice": 170.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "AMD"
+            ],
+            "title": "Advanced Micro Devices is the number-two player in x86-based microprocessors, behind Intel, and -- with the 2008 acquisition of ATI -- a top player in graphic processors. In 2021, Advanced Micro Devices acquired Xilinx, expanding its presence in embedded computing and data center."
+        },
+        {
             "id": "38162_Market Summary_1698921146000",
             "headHtml": "Market Digest: AMD, DHR, ETR, MRK, NI, RJF, STX, OSTK, WRB, AGNC, NOW",
             "provider": "Argus Research",
@@ -424,19 +437,6 @@
                 "RJF"
             ],
             "title": "Stubborn Inflation, Sturdy Consumers: Our Monthly Survey of the Economy, Interest Rates, and Stocks"
-        },
-        {
-            "id": "2707_Analyst Report_1698921146000",
-            "headHtml": "Analyst Report: Advanced Micro Devices Inc.",
-            "provider": "Argus Research",
-            "reportDate": "2023-11-02T10:32:26Z",
-            "reportTitle": "Advanced Micro Devices is the number-two player in x86-based microprocessors, behind Intel, and -- with the 2008 acquisition of ATI -- a top player in graphic processors. In 2021, Advanced Micro Devices acquired Xilinx, expanding its presence in embedded computing and data center.",
-            "targetPrice": 170.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "AMD"
-            ],
-            "title": "Advanced Micro Devices is the number-two player in x86-based microprocessors, behind Intel, and -- with the 2008 acquisition of ATI -- a top player in graphic processors. In 2021, Advanced Micro Devices acquired Xilinx, expanding its presence in embedded computing and data center."
         },
         {
             "id": "37491_Stock Picks_1693222889000",
@@ -981,19 +981,6 @@
             "title": "We pointed out last week that, despite day-to-day stumbles in stocks, market breadth is rebuilding quietly. Indeed, some four-fifths of stocks are now trading above their 200-day trendlines. Last week also saw a continuation of the trend whereby cyclical rotation alternates with re-rotation back into growth names. The DJIA slipped 1.38% last week and the S&P 500 edged up 0.32%, while the growth-oriented Nasdaq Composite rose a sharp 1.24%."
         },
         {
-            "id": "2707_Analyst Report_1635342612000",
-            "headHtml": "Analyst Report: Advanced Micro Devices Inc.",
-            "provider": "Argus Research",
-            "reportDate": "2021-10-27T13:50:12Z",
-            "reportTitle": "Advanced Micro Devices is the number-two player in x86-based microprocessors, behind Intel, and -- with the 2008 acquisition of ATI -- a top player in graphic processors. In 2009, Advanced Micro Devices spun off its foundry operations into a joint venture called Global Foundries. In mid-2014, AMD underwent an internal reorganization, aligning businesses along functional lines and creating a single internal infrastructure.",
-            "targetPrice": 150.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "AMD"
-            ],
-            "title": "Advanced Micro Devices is the number-two player in x86-based microprocessors, behind Intel, and -- with the 2008 acquisition of ATI -- a top player in graphic processors. In 2009, Advanced Micro Devices spun off its foundry operations into a joint venture called Global Foundries. In mid-2014, AMD underwent an internal reorganization, aligning businesses along functional lines and creating a single internal infrastructure."
-        },
-        {
             "id": "31251_Market Update_1635342612000",
             "headHtml": "Market Update: ACC, AMD, HD, LLY, PCAR, SHW, HA, AGNC, IQV, HLT",
             "provider": "Argus Research",
@@ -1012,6 +999,19 @@
                 "IQV"
             ],
             "title": "What happened to the September sell-off? A month ago, the S&P 500 was in the process of falling off all-time highs (ATHs) set early in September. From the ATH of 4,537 on 9/2/21, the '500' fell to the 4,350s on 9/21/21; staged what would be a failed rally to just under 4,450 on 9/24/21; and then made twin lows right around 4,300 on 9/30/21 and 10/4/21."
+        },
+        {
+            "id": "2707_Analyst Report_1635342612000",
+            "headHtml": "Analyst Report: Advanced Micro Devices Inc.",
+            "provider": "Argus Research",
+            "reportDate": "2021-10-27T13:50:12Z",
+            "reportTitle": "Advanced Micro Devices is the number-two player in x86-based microprocessors, behind Intel, and -- with the 2008 acquisition of ATI -- a top player in graphic processors. In 2009, Advanced Micro Devices spun off its foundry operations into a joint venture called Global Foundries. In mid-2014, AMD underwent an internal reorganization, aligning businesses along functional lines and creating a single internal infrastructure.",
+            "targetPrice": 150.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "AMD"
+            ],
+            "title": "Advanced Micro Devices is the number-two player in x86-based microprocessors, behind Intel, and -- with the 2008 acquisition of ATI -- a top player in graphic processors. In 2009, Advanced Micro Devices spun off its foundry operations into a joint venture called Global Foundries. In mid-2014, AMD underwent an internal reorganization, aligning businesses along functional lines and creating a single internal infrastructure."
         },
         {
             "id": "30762_Technical Analysis_1630309694000",
@@ -1603,19 +1603,6 @@
             "title": "Argus has published its latest Portfolio Selector, which features its popular Focus List. Each month, Director of Research Jim Kelleher, CFA, surveys the team of Argus Research industry analysts for their timeliest recommendations out of the company's fundamental universe of approximately 500 stocks. The Focus List typically includes 30 stocks: turnover is high, as Director of Research Kelleher typically adds three or four new stocks per month. Performance information on the Focus List picks is available in our bi-annual Argus Performance Review. Below are the latest additions, all of which are rated BUY."
         },
         {
-            "id": "26640_Market Update_1586355407000",
-            "headHtml": "Market Update: AMD, M, NBL, PPL",
-            "provider": "Argus Research",
-            "reportDate": "2020-04-08T14:16:47Z",
-            "reportTitle": "Stocks rose on Wednesday morning on optimism that coronavirus cases in the U.S. were reaching their peak. On the political front, Senator Bernie Sanders said that he would suspend his campaign for the Democratic presidential nomination. The Dow rose 2.6%, the S&P 2.4%, and the Nasdaq 1.8%. Crude oil traded near $24.50 per barrel, while gold rose $3 to $1687 per ounce.",
-            "tickers": [
-                "AMD",
-                "M",
-                "PPL"
-            ],
-            "title": "Stocks rose on Wednesday morning on optimism that coronavirus cases in the U.S. were reaching their peak. On the political front, Senator Bernie Sanders said that he would suspend his campaign for the Democratic presidential nomination. The Dow rose 2.6%, the S&P 2.4%, and the Nasdaq 1.8%. Crude oil traded near $24.50 per barrel, while gold rose $3 to $1687 per ounce."
-        },
-        {
             "id": "2707_Analyst Report_1586355407000",
             "headHtml": "Analyst Report: Advanced Micro Devices Inc.",
             "provider": "Argus Research",
@@ -1627,6 +1614,19 @@
                 "AMD"
             ],
             "title": "Advanced Micro Devices is the number-two player in x86-based microprocessors, behind Intel, and -- with the 2008 acquisition of ATI -- a top player in graphic processors. In 2009, Advanced Micro Devices spun off its foundry operations into a joint venture called Global Foundries. In mid-2014, AMD underwent an internal reorganization, aligning businesses along functional lines and creating a single internal infrastructure."
+        },
+        {
+            "id": "26640_Market Update_1586355407000",
+            "headHtml": "Market Update: AMD, M, NBL, PPL",
+            "provider": "Argus Research",
+            "reportDate": "2020-04-08T14:16:47Z",
+            "reportTitle": "Stocks rose on Wednesday morning on optimism that coronavirus cases in the U.S. were reaching their peak. On the political front, Senator Bernie Sanders said that he would suspend his campaign for the Democratic presidential nomination. The Dow rose 2.6%, the S&P 2.4%, and the Nasdaq 1.8%. Crude oil traded near $24.50 per barrel, while gold rose $3 to $1687 per ounce.",
+            "tickers": [
+                "AMD",
+                "M",
+                "PPL"
+            ],
+            "title": "Stocks rose on Wednesday morning on optimism that coronavirus cases in the U.S. were reaching their peak. On the political front, Senator Bernie Sanders said that he would suspend his campaign for the Democratic presidential nomination. The Dow rose 2.6%, the S&P 2.4%, and the Nasdaq 1.8%. Crude oil traded near $24.50 per barrel, while gold rose $3 to $1687 per ounce."
         },
         {
             "id": "26638_Portfolio Ideas_1586337927000",
@@ -1767,11 +1767,20 @@
     ],
     "sigDevs": [
         {
-            "headline": "AMD Q1 EPS USD 0.07",
-            "date": "2024-04-30"
+            "headline": "AMD Instinct Mi300x Accelerators Power Microsoft Azure Openai Service Workloads And New Azure Nd Mi300x V5 Vms",
+            "date": "2024-05-21"
         }
     ],
     "secReports": [
+        {
+            "id": "0000002488-24-000076_2488",
+            "type": "Corporate Changes & Voting Matters",
+            "title": "8-K : Corporate Changes & Voting Matters",
+            "description": "Current report filing",
+            "filingDate": 1715558400000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000002488/000000248824000076/thumbnail.png",
+            "formType": "8-K"
+        },
         {
             "id": "0000002488-24-000056_2488",
             "type": "Periodic Financial Reports",
@@ -1800,15 +1809,6 @@
             "formType": "DEF 14A"
         },
         {
-            "id": "0001193125-24-076535_2488",
-            "type": "Annual Report to Shareholders",
-            "title": "ARS : Annual Report to Shareholders",
-            "description": "Annual report to security holders",
-            "filingDate": 1711324800000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000002488/000119312524076535/thumbnail.png",
-            "formType": "ARS"
-        },
-        {
             "id": "0001193125-24-076521_2488",
             "type": "Proxy Statements",
             "title": "DEFA14A : Proxy Statements",
@@ -1816,6 +1816,15 @@
             "filingDate": 1711324800000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000002488/000119312524076521/thumbnail.png",
             "formType": "DEFA14A"
+        },
+        {
+            "id": "0001193125-24-076535_2488",
+            "type": "Annual Report to Shareholders",
+            "title": "ARS : Annual Report to Shareholders",
+            "description": "Annual report to security holders",
+            "filingDate": 1711324800000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000002488/000119312524076535/thumbnail.png",
+            "formType": "ARS"
         },
         {
             "id": "0001628280-24-005593_2488",
@@ -1953,15 +1962,6 @@
             "formType": "10-K"
         },
         {
-            "id": "0000002488-23-000042_2488",
-            "type": "Corporate Changes & Voting Matters",
-            "title": "8-K/A : Corporate Changes & Voting Matters",
-            "description": "Current report filing",
-            "filingDate": 1676937600000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000002488/000000248823000042/thumbnail.png",
-            "formType": "8-K/A"
-        },
-        {
             "id": "0000002488-23-000040_2488",
             "type": "Corporate Changes & Voting Matters",
             "title": "8-K : Corporate Changes & Voting Matters",
@@ -1969,6 +1969,15 @@
             "filingDate": 1676937600000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000002488/000000248823000040/thumbnail.png",
             "formType": "8-K"
+        },
+        {
+            "id": "0000002488-23-000042_2488",
+            "type": "Corporate Changes & Voting Matters",
+            "title": "8-K/A : Corporate Changes & Voting Matters",
+            "description": "Current report filing",
+            "filingDate": 1676937600000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000002488/000000248823000042/thumbnail.png",
+            "formType": "8-K/A"
         },
         {
             "id": "0001104659-23-015209_2488",
@@ -2131,15 +2140,6 @@
             "filingDate": 1651536000000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000002488/000000248822000074/thumbnail.png",
             "formType": "8-K"
-        },
-        {
-            "id": "0001193125-22-123652_2488",
-            "type": "Corporate Changes & Voting Matters",
-            "title": "8-K/A : Corporate Changes & Voting Matters",
-            "description": "Current report filing",
-            "filingDate": 1651017600000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000002488/000119312522123652/thumbnail.png",
-            "formType": "8-K/A"
         }
     ]
 }

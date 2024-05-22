@@ -1,43 +1,43 @@
 {
-    "postMarketChangePercent": 0.00016681942,
-    "postMarketChange": 0.019996643,
-    "postMarketPrice": 119.89,
-    "regularMarketChangePercent": 0.0032641394,
-    "regularMarketChange": 0.3899994,
-    "regularMarketPrice": 119.87,
-    "regularMarketDayHigh": 120.01,
-    "regularMarketDayLow": 119.67,
-    "regularMarketVolume": 720308,
-    "averageDailyVolume10Day": 765740,
-    "averageDailyVolume3Month": 1008656,
-    "regularMarketPreviousClose": 119.48,
-    "regularMarketOpen": 119.84,
+    "postMarketChangePercent": -0.0025618144,
+    "postMarketChange": -0.3100052,
+    "postMarketPrice": 120.7,
+    "regularMarketChangePercent": 0.00124112,
+    "regularMarketChange": 0.150002,
+    "regularMarketPrice": 121.01,
+    "regularMarketDayHigh": 121.18,
+    "regularMarketDayLow": 120.7201,
+    "regularMarketVolume": 527293,
+    "averageDailyVolume10Day": 736670,
+    "averageDailyVolume3Month": 974269,
+    "regularMarketPreviousClose": 120.86,
+    "regularMarketOpen": 120.84,
     "exchange": "PCX",
     "exchangeName": "NYSEArca",
     "quoteType": "ETF",
     "symbol": "VYM",
     "shortName": "Vanguard High Dividend Yield ET",
     "longName": "Vanguard High Dividend Yield Index Fund ETF Shares",
-    "previousClose": 119.48,
-    "open": 119.84,
-    "dayLow": 119.67,
-    "dayHigh": 120.01,
-    "trailingPE": 16.412645,
-    "volume": 720308,
-    "averageVolume": 1008656,
-    "averageVolume10days": 765740,
+    "previousClose": 120.86,
+    "open": 120.84,
+    "dayLow": 120.7201,
+    "dayHigh": 121.18,
+    "trailingPE": 16.568735,
+    "volume": 527293,
+    "averageVolume": 974269,
+    "averageVolume10days": 736670,
     "yield": 0.0293,
     "totalAssets": 65255477248,
     "fiftyTwoWeekLow": 98.4,
-    "fiftyTwoWeekHigh": 121.29,
-    "fiftyDayAverage": 117.847,
-    "twoHundredDayAverage": 110.3587,
-    "navPrice": 119.86,
-    "ytdReturn": 0.079835504,
+    "fiftyTwoWeekHigh": 121.65,
+    "fiftyDayAverage": 118.3258,
+    "twoHundredDayAverage": 110.69095,
+    "navPrice": 120.89,
+    "ytdReturn": 0.0887538,
     "beta3Year": 0.77,
-    "fundInceptionDate": "2006-11-09 19:00:00",
-    "threeYearAverageReturn": 0.069250494,
-    "fiveYearAverageReturn": 0.1021074,
+    "fundInceptionDate": "2019-02-06 19:00:00",
+    "threeYearAverageReturn": 0.075969,
+    "fiveYearAverageReturn": 0.1056946,
     "profile": {
         "longBusinessSummary": "The manager employs an indexing investment approach designed to track the performance of the index, which consists of common stocks of companies that pay dividends that generally are higher than average. The adviser attempts to replicate the target index by investing all, or substantially all, of the fund's assets in the stocks that make up the index, holding each stock in approximately the same proportion as its weighting in the index.",
         "companyOfficers": [],
@@ -51,86 +51,86 @@
             "managerBio": null
         },
         "feesExpensesInvestment": {
-            "annualReportExpenseRatio": 0.00059999997,
+            "annualReportExpenseRatio": 0.0008,
             "annualHoldingsTurnover": 0.06,
-            "totalNetAssets": 99117.44,
+            "totalNetAssets": 95187.62,
             "projectionValues": {}
         },
         "feesExpensesInvestmentCat": {
             "annualReportExpenseRatio": 0.0090342,
             "annualHoldingsTurnover": 0.5481,
-            "totalNetAssets": 99117.44,
+            "totalNetAssets": 95187.62,
             "projectionValuesCat": {}
         },
         "brokerages": []
     },
-    "dividendRate": 3.512191,
+    "dividendRate": 3.545593,
     "dividendYield": 0.0293,
     "topHoldings": {
         "maxAge": 1,
-        "cashPosition": 0.0027,
-        "stockPosition": 0.9973,
+        "cashPosition": 0.0033000002,
+        "stockPosition": 0.99660003,
         "bondPosition": 0.0,
         "otherPosition": 0.0,
         "preferredPosition": 0.0,
         "convertiblePosition": 0.0,
         "holdings": [
             {
-                "symbol": "JPM",
-                "holdingName": "JPMorgan Chase & Co",
-                "holdingPercent": 0.0343518
-            },
-            {
                 "symbol": "AVGO",
                 "holdingName": "Broadcom Inc",
-                "holdingPercent": 0.0339436
+                "holdingPercent": 0.0346627
+            },
+            {
+                "symbol": "JPM",
+                "holdingName": "JPMorgan Chase & Co",
+                "holdingPercent": 0.0342272
             },
             {
                 "symbol": "XOM",
                 "holdingName": "Exxon Mobil Corp",
-                "holdingPercent": 0.0276227
-            },
-            {
-                "symbol": "HD",
-                "holdingName": "The Home Depot Inc",
-                "holdingPercent": 0.0227895
+                "holdingPercent": 0.0292522
             },
             {
                 "symbol": "PG",
                 "holdingName": "Procter & Gamble Co",
-                "holdingPercent": 0.022700801
+                "holdingPercent": 0.023764
             },
             {
                 "symbol": "JNJ",
                 "holdingName": "Johnson & Johnson",
-                "holdingPercent": 0.0226493
+                "holdingPercent": 0.0215478
+            },
+            {
+                "symbol": "HD",
+                "holdingName": "The Home Depot Inc",
+                "holdingPercent": 0.0206682
             },
             {
                 "symbol": "MRK",
                 "holdingName": "Merck & Co Inc",
-                "holdingPercent": 0.0199106
+                "holdingPercent": 0.0202955
             },
             {
                 "symbol": "ABBV",
                 "holdingName": "AbbVie Inc",
-                "holdingPercent": 0.0190904
+                "holdingPercent": 0.017746901
             },
             {
                 "symbol": "CVX",
                 "holdingName": "Chevron Corp",
-                "holdingPercent": 0.0156383
+                "holdingPercent": 0.0166407
             },
             {
                 "symbol": "BAC",
                 "holdingName": "Bank of America Corp",
-                "holdingPercent": 0.015524
+                "holdingPercent": 0.015770901
             }
         ],
         "equityHoldings": {
-            "priceToEarnings": 0.0541,
-            "priceToBook": 0.37269,
-            "priceToSales": 0.54368,
-            "priceToCashflow": 0.08596
+            "priceToEarnings": 0.05582,
+            "priceToBook": 0.39042,
+            "priceToSales": 0.56952,
+            "priceToCashflow": 0.08988
         },
         "bondHoldings": {},
         "bondRatings": [
@@ -143,34 +143,34 @@
                 "realestate": 0.0001
             },
             {
-                "consumer_cyclical": 0.0783
+                "consumer_cyclical": 0.0743
             },
             {
                 "basic_materials": 0.023599999
             },
             {
-                "consumer_defensive": 0.12550001
+                "consumer_defensive": 0.13069999
             },
             {
-                "technology": 0.11399999
+                "technology": 0.1126
             },
             {
-                "communication_services": 0.0326
+                "communication_services": 0.0315
             },
             {
-                "financial_services": 0.2059
+                "financial_services": 0.2052
             },
             {
-                "utilities": 0.0588
+                "utilities": 0.0623
             },
             {
-                "industrials": 0.1241
+                "industrials": 0.1238
             },
             {
-                "energy": 0.1066
+                "energy": 0.109799996
             },
             {
-                "healthcare": 0.1305
+                "healthcare": 0.1259
             }
         ]
     },
@@ -178,11 +178,11 @@
         "maxAge": 1,
         "fundCategoryName": "Large Value",
         "performanceOverview": {
-            "asOfDate": "2024-05-09 20:00:00",
-            "ytdReturnPct": 0.079835504,
-            "fiveYrAvgReturnPct": 0.1021074,
-            "oneYearTotalReturn": 0.19129789,
-            "threeYearTotalReturn": 0.069250494
+            "asOfDate": "2024-05-19 20:00:00",
+            "ytdReturnPct": 0.0887538,
+            "fiveYrAvgReturnPct": 0.1056946,
+            "oneYearTotalReturn": 0.2025269,
+            "threeYearTotalReturn": 0.075969
         },
         "performanceOverviewCat": {
             "ytdReturnPct": 0.044421803,
@@ -191,7 +191,7 @@
             "threeYearTotalReturn": 0.060440302
         },
         "trailingReturns": {
-            "asOfDate": "2024-05-09 20:00:00",
+            "asOfDate": "2024-05-19 20:00:00",
             "ytd": 0.049221702,
             "oneMonth": -0.0382423,
             "threeMonth": 0.0411056,

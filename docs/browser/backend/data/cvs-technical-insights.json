@@ -5,25 +5,25 @@
             "provider": "Trading Central",
             "sector": "Healthcare",
             "shortTermOutlook": {
-                "stateDescription": "All events are bearish.",
-                "direction": "Bearish",
+                "stateDescription": "Recent bullish events outweigh bearish events.",
+                "direction": "Bullish",
                 "score": 3,
-                "scoreDescription": "Strong Bearish Evidence",
-                "sectorDirection": "Bullish",
+                "scoreDescription": "Strong Bullish Evidence",
+                "sectorDirection": "Bearish",
                 "sectorScore": 2,
-                "sectorScoreDescription": "Bullish Evidence",
+                "sectorScoreDescription": "Bearish Evidence",
                 "indexDirection": "Bullish",
-                "indexScore": 2,
-                "indexScoreDescription": "Bullish Evidence"
+                "indexScore": 1,
+                "indexScoreDescription": "Weak Bullish Evidence"
             },
             "intermediateTermOutlook": {
                 "stateDescription": "Recent bearish events outweigh bullish events.",
                 "direction": "Bearish",
-                "score": 3,
-                "scoreDescription": "Strong Bearish Evidence",
+                "score": 2,
+                "scoreDescription": "Bearish Evidence",
                 "sectorDirection": "Bearish",
-                "sectorScore": 2,
-                "sectorScoreDescription": "Bearish Evidence",
+                "sectorScore": 1,
+                "sectorScoreDescription": "Weak Bearish Evidence",
                 "indexDirection": "Bearish",
                 "indexScore": 3,
                 "indexScoreDescription": "Strong Bearish Evidence"
@@ -43,26 +43,26 @@
         },
         "keyTechnicals": {
             "provider": "Trading Central",
-            "support": 54.685,
+            "support": 56.31,
             "resistance": 68.85,
-            "stopLoss": 52.139662
+            "stopLoss": 53.790143
         },
         "valuation": {
             "color": 0.5,
             "description": "Near Fair Value",
-            "discount": "-1%",
+            "discount": "-2%",
             "provider": "Trading Central"
         }
     },
     "companySnapshot": {
         "sectorInfo": "Healthcare",
         "company": {
-            "innovativeness": 0.9034,
+            "innovativeness": 0.9079,
             "hiring": 0.9893000000000001,
-            "sustainability": 0.4359,
-            "insiderSentiments": 0.9481999999999999,
-            "earningsReports": 0.8926999999999999,
-            "dividends": 0.9006000000000001
+            "sustainability": 0.431,
+            "insiderSentiments": 0.8653,
+            "earningsReports": 0.8742,
+            "dividends": 0.8987999999999999
         },
         "sector": {
             "innovativeness": 0.5,
@@ -105,13 +105,13 @@
     },
     "events": [
         {
-            "eventType": "Commodity Channel Index",
-            "pricePeriod": "D",
-            "tradingHorizon": "S",
-            "tradeType": "U",
+            "eventType": "Relative Strength Index (RSI)",
+            "pricePeriod": "W",
+            "tradingHorizon": "I",
+            "tradeType": "L",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1715261400,
-            "endDate": 1715261400
+            "startDate": 1715952600,
+            "endDate": 1715952600
         }
     ],
     "reports": [
@@ -1357,6 +1357,19 @@
             "title": "The dollar has trended higher in 2020 and has now surpassed cycle highs set initially in 2001-2002 and then again in late 2016. On a real trade-weighted basis, the greenback currently is 10% above the average valuation over the past 20 years. The dollar rally reflects several factors, but primarily the relative strength of the U.S. economy and global investor confidence in the U.S. Federal Reserve and Department of Treasury as the world battles COVID-19. We anticipate a trading range around current levels for the greenback this year. That's because we think U.S. GDP may struggle to rebound -- not unlike the European and Asian industrialized economies. Congress is debating another round of fiscal stimulus, but there is no certainty that the divided government will once again reach agreement to help the economy. And, at some point, traders may become wary of the high level of US debt relative to GDP. Lastly, the lofty current valuation of the greenback implies that other currencies are likely undervalued, and traders can be expected to bid up those values over time."
         },
         {
+            "id": "2877_Analyst Report_1589550396000",
+            "headHtml": "Analyst Report: CVS Health Corp",
+            "provider": "Argus Research",
+            "reportDate": "2020-05-15T13:46:36Z",
+            "reportTitle": "CVS Health Corp. operated 9,900 retail drugstores at the end of 2019, including over 1,700 locations in Target stores. The total number of locations exceeds 10,000 when we include a leading specialty pharmacy, Long Term Care pharmacies, Infusion Centers where cancer medicines, for example, are delivered through a needle. The combined company posted 2019 revenue of $257 billion, with about half in the PBM business, 30% in Retail/Long Term Care, and 20% in Health Care Benefits. Approximately 75% of the $87 billion in Retail and long-term care revenue came from prescriptions; 25% from over-the-counter medicines, Beauty and General Merchandise. The 2019 results include Aetna, which was acquired at the end of 2018.\r\n\r\nCVS operated approximately 1,100 Minute Clinics, primarily within CVS pharmacy stores. The corporate headquarters is in Woonsocket, Rhode Island.",
+            "targetPrice": 85.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "CVS"
+            ],
+            "title": "CVS Health Corp. operated 9,900 retail drugstores at the end of 2019, including over 1,700 locations in Target stores. The total number of locations exceeds 10,000 when we include a leading specialty pharmacy, Long Term Care pharmacies, Infusion Centers where cancer medicines, for example, are delivered through a needle. The combined company posted 2019 revenue of $257 billion, with about half in the PBM business, 30% in Retail/Long Term Care, and 20% in Health Care Benefits. Approximately 75% of the $87 billion in Retail and long-term care revenue came from prescriptions; 25% from over-the-counter medicines, Beauty and General Merchandise. The 2019 results include Aetna, which was acquired at the end of 2018.\r\n\r\nCVS operated approximately 1,100 Minute Clinics, primarily within CVS pharmacy stores. The corporate headquarters is in Woonsocket, Rhode Island."
+        },
+        {
             "id": "26951_Market Update_1589550396000",
             "headHtml": "Market Update: BDX, HST, MSI, CVS",
             "provider": "Argus Research",
@@ -1369,19 +1382,6 @@
                 "HST"
             ],
             "title": "Stocks fell on Friday morning following a sharp drop in U.S. retail sales. The Commerce Department said that sales plunged 16.4% in April. This followed an 8.3% decline in March and exceeded the Reuters consensus forecast, which had called for a decline of 12.0%. Meanwhile, the House prepared to vote on a new $3 trillion relief package that would include direct support for state governments and additional payments to individuals; however, Senate Republicans have promised to reject the measure. The S&P fell 1.0%, the Dow 1.0%, and the Nasdaq 1.1%. Crude oil rose 4% to more than $28 per barrel, while gold rose $8 to $1749 per ounce."
-        },
-        {
-            "id": "2877_Analyst Report_1589550396000",
-            "headHtml": "Analyst Report: CVS Health Corp",
-            "provider": "Argus Research",
-            "reportDate": "2020-05-15T13:46:36Z",
-            "reportTitle": "CVS Health Corp. operated 9,900 retail drugstores at the end of 2019, including over 1,700 locations in Target stores. The total number of locations exceeds 10,000 when we include a leading specialty pharmacy, Long Term Care pharmacies, Infusion Centers where cancer medicines, for example, are delivered through a needle. The combined company posted 2019 revenue of $257 billion, with about half in the PBM business, 30% in Retail/Long Term Care, and 20% in Health Care Benefits. Approximately 75% of the $87 billion in Retail and long-term care revenue came from prescriptions; 25% from over-the-counter medicines, Beauty and General Merchandise. The 2019 results include Aetna, which was acquired at the end of 2018.\r\n\r\nCVS operated approximately 1,100 Minute Clinics, primarily within CVS pharmacy stores. The corporate headquarters is in Woonsocket, Rhode Island.",
-            "targetPrice": 85.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "CVS"
-            ],
-            "title": "CVS Health Corp. operated 9,900 retail drugstores at the end of 2019, including over 1,700 locations in Target stores. The total number of locations exceeds 10,000 when we include a leading specialty pharmacy, Long Term Care pharmacies, Infusion Centers where cancer medicines, for example, are delivered through a needle. The combined company posted 2019 revenue of $257 billion, with about half in the PBM business, 30% in Retail/Long Term Care, and 20% in Health Care Benefits. Approximately 75% of the $87 billion in Retail and long-term care revenue came from prescriptions; 25% from over-the-counter medicines, Beauty and General Merchandise. The 2019 results include Aetna, which was acquired at the end of 2018.\r\n\r\nCVS operated approximately 1,100 Minute Clinics, primarily within CVS pharmacy stores. The corporate headquarters is in Woonsocket, Rhode Island."
         },
         {
             "id": "2877_Analyst Report_1589500800000",
