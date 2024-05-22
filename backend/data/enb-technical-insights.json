@@ -5,22 +5,22 @@
             "provider": "Trading Central",
             "sector": "Energy",
             "shortTermOutlook": {
-                "stateDescription": "Recent bullish events outweigh bearish events.",
+                "stateDescription": "Recent bearish events outweigh bullish events.",
+                "direction": "Bearish",
+                "score": 2,
+                "scoreDescription": "Bearish Evidence",
+                "sectorDirection": "Bullish",
+                "sectorScore": 3,
+                "sectorScoreDescription": "Strong Bullish Evidence",
+                "indexDirection": "Bullish",
+                "indexScore": 1,
+                "indexScoreDescription": "Weak Bullish Evidence"
+            },
+            "intermediateTermOutlook": {
+                "stateDescription": "Bullish events outweigh bearish events.",
                 "direction": "Bullish",
                 "score": 2,
                 "scoreDescription": "Bullish Evidence",
-                "sectorDirection": "Bullish",
-                "sectorScore": 1,
-                "sectorScoreDescription": "Weak Bullish Evidence",
-                "indexDirection": "Bullish",
-                "indexScore": 2,
-                "indexScoreDescription": "Bullish Evidence"
-            },
-            "intermediateTermOutlook": {
-                "stateDescription": "Recent bullish events outweigh bearish events.",
-                "direction": "Bullish",
-                "score": 4,
-                "scoreDescription": "Very Strong Bullish Evidence",
                 "sectorDirection": "Bullish",
                 "sectorScore": 2,
                 "sectorScoreDescription": "Bullish Evidence",
@@ -31,8 +31,8 @@
             "longTermOutlook": {
                 "stateDescription": "Recent bullish events outweigh bearish events.",
                 "direction": "Bullish",
-                "score": 3,
-                "scoreDescription": "Strong Bullish Evidence",
+                "score": 1,
+                "scoreDescription": "Weak Bullish Evidence",
                 "sectorDirection": "Bullish",
                 "sectorScore": 3,
                 "sectorScoreDescription": "Strong Bullish Evidence",
@@ -44,13 +44,13 @@
         "keyTechnicals": {
             "provider": "Trading Central",
             "support": 35.945,
-            "resistance": 39.4,
-            "stopLoss": 35.924568
+            "resistance": 36.965,
+            "stopLoss": 35.638114
         },
         "valuation": {
             "color": 0.0,
             "description": "Overvalued",
-            "discount": "-17%",
+            "discount": "-16%",
             "relativeValue": "Premium",
             "provider": "Trading Central"
         }
@@ -59,9 +59,9 @@
         "sectorInfo": "Energy",
         "company": {
             "innovativeness": 0.5602,
-            "sustainability": 0.08960000000000001,
+            "sustainability": 0.0909,
             "insiderSentiments": 0.2407,
-            "dividends": 0.6535
+            "dividends": 0.6731999999999999
         },
         "sector": {
             "innovativeness": 0.5,
@@ -89,28 +89,28 @@
             "Enbridge has yet to build a moaty renewables business, risking its capital investment here over the next few years."
         ],
         "companyName": "Enbridge Inc",
-        "msBullishBearishSummariesPublishDate": 1715366786000,
+        "msBullishBearishSummariesPublishDate": 1715717162000,
         "upsellReportType": "MORNINGSTAR_ANALYST"
     },
     "upsellSearchDD": {
         "researchReports": {
-            "reportId": "MS_0P000001XR_AnalystReport_1715366786000",
+            "reportId": "MS_0P000001XR_AnalystReport_1715717162000",
             "provider": "Morningstar",
-            "title": "Enbridge Earnings: Solid Quarter, but Trans Mountain Expansion and Utilities Impacts Still to Come",
-            "reportDate": "2024-05-10T18:46:26Z",
+            "title": "Finding Undervalued Opportunities From AI and Data Center Demand in E&Ps and Midstream",
+            "reportDate": "2024-05-14T20:06:02Z",
             "summary": "Enbridge owns extensive midstream assets that transport hydrocarbons across the US and Canada. Its pipeline network consists of the Canadian Mainline system, regional oil sands pipelines, and natural gas pipelines. The company also owns and operates a regulated natural gas utility and Canada\u2019s largest natural gas distribution company. The firm has a small renewables portfolio primarily focused on onshore and offshore wind projects.  ",
             "investmentRating": "Bullish"
         }
     },
     "events": [
         {
-            "eventType": "Commodity Channel Index",
+            "eventType": "MACD",
             "pricePeriod": "D",
             "tradingHorizon": "S",
-            "tradeType": "L",
+            "tradeType": "S",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1714656600,
-            "endDate": 1714656600
+            "startDate": 1716211800,
+            "endDate": 1716211800
         }
     ],
     "reports": [
@@ -2226,11 +2226,20 @@
     ],
     "sigDevs": [
         {
-            "headline": "Enbridge Q1 Adjusted EPS CAD 0.92 Vs. IBES Estimate CAD 0.81",
-            "date": "2024-05-10"
+            "headline": "Enbridge Says Operations Continue As Normal Amid Western Canada Wildfire",
+            "date": "2024-05-13"
         }
     ],
     "secReports": [
+        {
+            "id": "0001104659-24-062069_895728",
+            "type": "Corporate Changes & Voting Matters",
+            "title": "8-K : Corporate Changes & Voting Matters",
+            "description": "Current report filing",
+            "filingDate": 1715731200000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000110465924062069/thumbnail.png",
+            "formType": "8-K"
+        },
         {
             "id": "0000895728-24-000012_895728",
             "type": "Corporate Changes & Voting Matters",
@@ -2430,15 +2439,6 @@
             "formType": "10-Q"
         },
         {
-            "id": "0000895728-23-000024_895728",
-            "type": "Corporate Changes & Voting Matters",
-            "title": "8-K : Corporate Changes & Voting Matters",
-            "description": "Current report filing",
-            "filingDate": 1691107200000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000089572823000024/thumbnail.png",
-            "formType": "8-K"
-        },
-        {
             "id": "0001193125-23-203941_895728",
             "type": "Corporate Changes & Voting Matters",
             "title": "8-K/A : Corporate Changes & Voting Matters",
@@ -2446,6 +2446,15 @@
             "filingDate": 1691107200000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000119312523203941/thumbnail.png",
             "formType": "8-K/A"
+        },
+        {
+            "id": "0000895728-23-000024_895728",
+            "type": "Corporate Changes & Voting Matters",
+            "title": "8-K : Corporate Changes & Voting Matters",
+            "description": "Current report filing",
+            "filingDate": 1691107200000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000089572823000024/thumbnail.png",
+            "formType": "8-K"
         },
         {
             "id": "0001193125-23-197747_895728",
@@ -2643,15 +2652,6 @@
             "description": "Current report filing",
             "filingDate": 1654819200000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000119312522171959/thumbnail.png",
-            "formType": "8-K"
-        },
-        {
-            "id": "0000895728-22-000017_895728",
-            "type": "Corporate Changes & Voting Matters",
-            "title": "8-K : Corporate Changes & Voting Matters",
-            "description": "Current report filing",
-            "filingDate": 1651795200000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0000895728/000089572822000017/thumbnail.png",
             "formType": "8-K"
         }
     ]

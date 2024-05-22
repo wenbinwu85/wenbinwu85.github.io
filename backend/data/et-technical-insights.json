@@ -10,11 +10,11 @@
                 "score": 1,
                 "scoreDescription": "Weak Bullish Evidence",
                 "sectorDirection": "Bullish",
-                "sectorScore": 1,
-                "sectorScoreDescription": "Weak Bullish Evidence",
+                "sectorScore": 3,
+                "sectorScoreDescription": "Strong Bullish Evidence",
                 "indexDirection": "Bullish",
-                "indexScore": 2,
-                "indexScoreDescription": "Bullish Evidence"
+                "indexScore": 1,
+                "indexScoreDescription": "Weak Bullish Evidence"
             },
             "intermediateTermOutlook": {
                 "stateDescription": "Bearish events outweigh bullish events.",
@@ -44,13 +44,13 @@
         "keyTechnicals": {
             "provider": "Trading Central",
             "support": 12.8512,
-            "resistance": 16.07,
-            "stopLoss": 15.119532
+            "resistance": 16.2,
+            "stopLoss": 14.564225
         },
         "valuation": {
             "color": 1.0,
             "description": "Undervalued",
-            "discount": "26%",
+            "discount": "28%",
             "relativeValue": "Discount",
             "provider": "Trading Central"
         }
@@ -59,10 +59,10 @@
         "sectorInfo": "Energy",
         "company": {
             "innovativeness": 0.2639,
-            "sustainability": 0.9254000000000001,
-            "insiderSentiments": 0.904,
-            "earningsReports": 0.8332999999999999,
-            "dividends": 0.7347
+            "sustainability": 0.9242,
+            "insiderSentiments": 0.7829,
+            "earningsReports": 0.8323999999999999,
+            "dividends": 0.7243999999999999
         },
         "sector": {
             "innovativeness": 0.5,
@@ -85,28 +85,28 @@
             "Rising interest rates could make Energy Transfer's distribution less attractive as a fixed-income alternative and raise the company's cost of capital."
         ],
         "companyName": "Energy Transfer LP",
-        "msBullishBearishSummariesPublishDate": 1715271675000,
+        "msBullishBearishSummariesPublishDate": 1715717384000,
         "upsellReportType": "MORNINGSTAR_ANALYST"
     },
     "upsellSearchDD": {
         "researchReports": {
-            "reportId": "MS_0P00000AKK_AnalystReport_1715271675000",
+            "reportId": "MS_0P00000AKK_AnalystReport_1715717384000",
             "provider": "Morningstar",
-            "title": "Energy Transfer Earnings: M&A Drives Guidance Increase in Solid Quarter",
-            "reportDate": "2024-05-09T16:21:15Z",
+            "title": "Finding Undervalued Opportunities From AI and Data Center Demand in E&Ps and Midstream",
+            "reportDate": "2024-05-14T20:09:44Z",
             "summary": "Energy Transfer owns a large platform of crude oil, natural gas, and natural gas liquid assets primarily in Texas and the U.S. midcontinent region. It also has gathering and processing facilities, one of the largest fractionation facilities in the U.S., and fuel distribution. Energy Transfer also owns the Lake Charles gas liquefaction facility. It combined its publicly traded limited and general partnerships in October 2018. ",
             "investmentRating": "Bullish"
         }
     },
     "events": [
         {
-            "eventType": "MACD",
+            "eventType": "Commodity Channel Index",
             "pricePeriod": "D",
             "tradingHorizon": "S",
             "tradeType": "L",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1715002200,
-            "endDate": 1715002200
+            "startDate": 1716211800,
+            "endDate": 1716211800
         }
     ],
     "sigDevs": [

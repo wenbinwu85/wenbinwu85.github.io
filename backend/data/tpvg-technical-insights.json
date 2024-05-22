@@ -5,22 +5,22 @@
             "provider": "Trading Central",
             "sector": "Financial Services",
             "shortTermOutlook": {
-                "stateDescription": "Recent bearish events outweigh bullish events.",
-                "direction": "Bearish",
-                "score": 3,
-                "scoreDescription": "Strong Bearish Evidence",
+                "stateDescription": "Recent bullish events outweigh bearish events.",
+                "direction": "Bullish",
+                "score": 4,
+                "scoreDescription": "Very Strong Bullish Evidence",
                 "sectorDirection": "Bullish",
-                "sectorScore": 3,
-                "sectorScoreDescription": "Strong Bullish Evidence",
+                "sectorScore": 2,
+                "sectorScoreDescription": "Bullish Evidence",
                 "indexDirection": "Bullish",
-                "indexScore": 2,
-                "indexScoreDescription": "Bullish Evidence"
+                "indexScore": 1,
+                "indexScoreDescription": "Weak Bullish Evidence"
             },
             "intermediateTermOutlook": {
                 "stateDescription": "Bearish events outweigh bullish events.",
                 "direction": "Bearish",
-                "score": 3,
-                "scoreDescription": "Strong Bearish Evidence",
+                "score": 1,
+                "scoreDescription": "Weak Bearish Evidence",
                 "sectorDirection": "Bearish",
                 "sectorScore": 2,
                 "sectorScoreDescription": "Bearish Evidence",
@@ -45,7 +45,7 @@
             "provider": "Trading Central",
             "support": 9.1414,
             "resistance": 10.8678,
-            "stopLoss": 8.644744
+            "stopLoss": 9.03013
         },
         "valuation": {
             "color": 0.0,
@@ -58,9 +58,9 @@
         "sectorInfo": "Financial Services",
         "company": {
             "innovativeness": 0.0265,
-            "insiderSentiments": 0.9084,
-            "earningsReports": 0.1393,
-            "dividends": 0.9976999999999999
+            "insiderSentiments": 0.8079999999999999,
+            "earningsReports": 0.12300000000000001,
+            "dividends": 0.997
         },
         "sector": {
             "innovativeness": 0.5,
@@ -76,13 +76,13 @@
     },
     "events": [
         {
-            "eventType": "Triple Moving Average Crossover",
+            "eventType": "Commodity Channel Index",
             "pricePeriod": "D",
             "tradingHorizon": "S",
-            "tradeType": "S",
+            "tradeType": "L",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1715261400,
-            "endDate": 1715261400
+            "startDate": 1716211800,
+            "endDate": 1716211800
         }
     ],
     "reports": [
@@ -232,15 +232,6 @@
             "formType": "8-K"
         },
         {
-            "id": "0001580345-23-000030_1580345",
-            "type": "Corporate Changes & Voting Matters",
-            "title": "8-K : Corporate Changes & Voting Matters",
-            "description": "Current report filing",
-            "filingDate": 1690934400000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001580345/000158034523000030/thumbnail.png",
-            "formType": "8-K"
-        },
-        {
             "id": "0001580345-23-000032_1580345",
             "type": "Periodic Financial Reports",
             "title": "10-Q : Periodic Financial Reports",
@@ -248,6 +239,15 @@
             "filingDate": 1690934400000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001580345/000158034523000032/thumbnail.png",
             "formType": "10-Q"
+        },
+        {
+            "id": "0001580345-23-000030_1580345",
+            "type": "Corporate Changes & Voting Matters",
+            "title": "8-K : Corporate Changes & Voting Matters",
+            "description": "Current report filing",
+            "filingDate": 1690934400000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001580345/000158034523000030/thumbnail.png",
+            "formType": "8-K"
         },
         {
             "id": "0001580345-23-000027_1580345",

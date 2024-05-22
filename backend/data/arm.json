@@ -1,84 +1,88 @@
 {
-    "postMarketChangePercent": -0.00064314296,
-    "postMarketChange": -0.0699997,
-    "postMarketPrice": 108.77,
-    "regularMarketChangePercent": 0.05068057,
-    "regularMarketChange": 5.25,
-    "regularMarketPrice": 108.84,
-    "regularMarketDayHigh": 110.3723,
-    "regularMarketDayLow": 106.2,
-    "regularMarketVolume": 15259043,
-    "averageDailyVolume10Day": 9933500,
-    "averageDailyVolume3Month": 13295277,
-    "regularMarketPreviousClose": 103.59,
-    "regularMarketOpen": 106.22,
+    "postMarketChangePercent": 0.0010455934,
+    "postMarketChange": 0.12000275,
+    "postMarketPrice": 114.89,
+    "regularMarketChangePercent": 0.039018627,
+    "regularMarketChange": 4.3099976,
+    "regularMarketPrice": 114.77,
+    "regularMarketDayHigh": 115.779,
+    "regularMarketDayLow": 109.5,
+    "regularMarketVolume": 10427191,
+    "averageDailyVolume10Day": 12132570,
+    "averageDailyVolume3Month": 10675516,
+    "regularMarketPreviousClose": 110.46,
+    "regularMarketOpen": 110.0,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "quoteType": "EQUITY",
     "symbol": "ARM",
     "shortName": "Arm Holdings plc",
     "longName": "Arm Holdings plc",
-    "marketCap": 113229512704,
-    "previousClose": 103.59,
-    "open": 106.22,
-    "dayLow": 106.2,
-    "dayHigh": 110.3723,
+    "marketCap": 119398670336,
+    "previousClose": 110.46,
+    "open": 110.0,
+    "dayLow": 109.5,
+    "dayHigh": 115.779,
     "payoutRatio": 0.0,
-    "trailingPE": 375.31033,
-    "forwardPE": 54.693466,
-    "volume": 15259043,
-    "averageVolume": 13295277,
-    "averageVolume10days": 9933500,
+    "trailingPE": 382.56665,
+    "forwardPE": 56.536945,
+    "volume": 10427191,
+    "averageVolume": 10675516,
+    "averageVolume10days": 12132570,
     "fiftyTwoWeekLow": 46.5,
     "fiftyTwoWeekHigh": 164.0,
-    "priceToSalesTrailing12Months": 38.539658,
-    "fiftyDayAverage": 119.3326,
-    "twoHundredDayAverage": 85.18241,
+    "priceToSalesTrailing12Months": 36.931232,
+    "fiftyDayAverage": 116.5248,
+    "twoHundredDayAverage": 86.17971,
     "trailingAnnualDividendRate": 0.0,
     "trailingAnnualDividendYield": 0.0,
-    "enterpriseValue": 106867949568,
-    "profitMargins": 0.02893,
-    "floatShares": 96382064,
+    "enterpriseValue": 116696727552,
+    "profitMargins": 0.09465,
+    "floatShares": 108631310,
     "sharesOutstanding": 1040329984,
-    "sharesShort": 8360719,
-    "sharesShortPriorMonth": 7928779,
-    "sharesShortPreviousMonthDate": "2024-03-14 20:00:00",
-    "dateShortInterest": "2024-04-14 20:00:00",
-    "sharesPercentSharesOut": 0.0081,
-    "heldPercentInsiders": 0.90440005,
-    "heldPercentInstitutions": 0.07191,
-    "shortRatio": 0.76,
+    "sharesShort": 7692422,
+    "sharesShortPriorMonth": 8189547,
+    "sharesShortPreviousMonthDate": "2024-03-27 20:00:00",
+    "dateShortInterest": "2024-04-29 20:00:00",
+    "sharesPercentSharesOut": 0.0074,
+    "heldPercentInsiders": 0.89374,
+    "heldPercentInstitutions": 0.06112,
+    "shortRatio": 0.9,
+    "shortPercentOfFloat": 0.0696,
     "impliedSharesOutstanding": 1040329984,
-    "bookValue": 4.867,
-    "priceToBook": 22.36285,
-    "lastFiscalYearEnd": "2023-03-30 20:00:00",
-    "nextFiscalYearEnd": "2024-03-30 20:00:00",
-    "mostRecentQuarter": "2023-12-30 19:00:00",
-    "earningsQuarterlyGrowth": -0.522,
-    "netIncomeToCommon": 85000000,
-    "trailingEps": 0.29,
-    "forwardEps": 1.99,
-    "enterpriseToRevenue": 36.374,
-    "enterpriseToEbitda": 437.088,
-    "52WeekChange": 0.7115898,
-    "SandP52WeekChange": 0.26265144,
-    "currentPrice": 108.84,
+    "bookValue": 5.09,
+    "priceToBook": 22.548132,
+    "lastFiscalYearEnd": "2024-03-30 20:00:00",
+    "nextFiscalYearEnd": "2025-03-30 20:00:00",
+    "mostRecentQuarter": "2024-03-30 20:00:00",
+    "earningsQuarterlyGrowth": 73.667,
+    "netIncomeToCommon": 306000000,
+    "trailingEps": 0.3,
+    "forwardEps": 2.03,
+    "enterpriseToRevenue": 36.095,
+    "enterpriseToEbitda": 427.461,
+    "52WeekChange": 0.73706555,
+    "SandP52WeekChange": 0.28043115,
+    "currentPrice": 114.77,
     "recommendationKey": "none",
-    "totalCash": 2400999936,
-    "totalCashPerShare": 2.335,
-    "ebitda": 244500000,
+    "totalCash": 2923000064,
+    "totalCashPerShare": 2.81,
+    "ebitda": 273000000,
     "totalDebt": 221000000,
-    "quickRatio": 4.018,
-    "currentRatio": 4.189,
-    "totalRevenue": 2937999872,
-    "debtToEquity": 4.416,
-    "revenuePerShare": 2.864,
-    "operatingCashflow": 906000000,
-    "earningsGrowth": -0.549,
-    "revenueGrowth": 0.138,
-    "grossMargins": 0.95235,
-    "ebitdaMargins": 0.08322,
-    "operatingMargins": 0.1699,
+    "quickRatio": 2.684,
+    "currentRatio": 2.789,
+    "totalRevenue": 3232999936,
+    "debtToEquity": 4.174,
+    "revenuePerShare": 3.147,
+    "returnOnAssets": 0.009380001,
+    "returnOnEquity": 0.06548,
+    "freeCashflow": 1380375040,
+    "operatingCashflow": 1090000000,
+    "earningsGrowth": 71.041,
+    "revenueGrowth": 0.466,
+    "grossMargins": 0.95237,
+    "ebitdaMargins": 0.08444,
+    "operatingMargins": 0.044180002,
     "financialCurrency": "USD",
     "profile": {
         "address1": "110 Fulbourn Road",
@@ -94,7 +98,7 @@
         "sectorKey": "technology",
         "sectorDisp": "Technology",
         "longBusinessSummary": "Arm Holdings plc architects, develops, and licenses central processing unit products and related technologies for semiconductor companies and original equipment manufacturers rely on to develop products. It offers microprocessors, systems intellectual property (IPs), graphics processing units, physical IP and associated systems IPs, software, tools, and other related services. Its products are used in various markets, such as automotive, computing infrastructure, consumer technologies, and Internet of things. The company operates in the United States, the People's Republic of China, Taiwan, South Korea, and internationally. The company was founded in 1990 and is headquartered in Cambridge, the United Kingdom. Arm Holdings plc operates as a subsidiary of Kronos II LLC.",
-        "fullTimeEmployees": 6870,
+        "fullTimeEmployees": 7096,
         "companyOfficers": [
             {
                 "maxAge": 1,
@@ -199,6 +203,11 @@
                     "date": 2023,
                     "revenue": 2679000000,
                     "earnings": 524000000
+                },
+                {
+                    "date": 2024,
+                    "revenue": 3233000000,
+                    "earnings": 306000000
                 }
             ],
             "quarterly": [
@@ -216,6 +225,11 @@
                     "date": "4Q2023",
                     "revenue": 824000000,
                     "earnings": 87000000
+                },
+                {
+                    "date": "1Q2024",
+                    "revenue": 928000000,
+                    "earnings": 224000000
                 }
             ]
         },
@@ -474,28 +488,28 @@
     "indexTrend": {
         "maxAge": 1,
         "symbol": "SP5",
-        "peRatio": 15.4971,
-        "pegRatio": 1.144,
+        "peRatio": 15.6985,
+        "pegRatio": 1.36278,
         "estimates": [
             {
                 "period": "0q",
-                "growth": 0.084
+                "growth": 0.079
             },
             {
                 "period": "+1q",
-                "growth": 0.118999995
+                "growth": 0.123
             },
             {
                 "period": "0y",
-                "growth": 0.055999998
+                "growth": 0.056999996
             },
             {
                 "period": "+1y",
-                "growth": 0.13
+                "growth": 0.126
             },
             {
                 "period": "+5y",
-                "growth": 0.110451005
+                "growth": 0.113703005
             },
             {
                 "period": "-5y"
@@ -515,16 +529,16 @@
         {
             "period": "-1m",
             "strongBuy": 4,
-            "buy": 12,
-            "hold": 11,
+            "buy": 13,
+            "hold": 10,
             "sell": 1,
             "strongSell": 1
         },
         {
             "period": "-2m",
-            "strongBuy": 5,
-            "buy": 11,
-            "hold": 10,
+            "strongBuy": 4,
+            "buy": 12,
+            "hold": 11,
             "sell": 1,
             "strongSell": 1
         },
@@ -543,9 +557,9 @@
                 "maxAge": 1,
                 "reportDate": "2024-01-31",
                 "organization": "Goldman Sachs GQG Partners International Opportunities Fund",
-                "pctHeld": 0.0068,
+                "pctHeld": 0.0067000003,
                 "position": 6947069,
-                "value": 756118964,
+                "value": 797315085,
                 "pctChange": 0.0
             },
             {
@@ -554,7 +568,7 @@
                 "organization": "Harbor Capital Appreciation Fund",
                 "pctHeld": 0.0016,
                 "position": 1661153,
-                "value": 180799886,
+                "value": 190650524,
                 "pctChange": -0.0309
             },
             {
@@ -563,7 +577,7 @@
                 "organization": "Hartford Growth Opportunities Fund",
                 "pctHeld": 0.001,
                 "position": 990857,
-                "value": 107844872,
+                "value": 113720654,
                 "pctChange": 0.36540002
             },
             {
@@ -572,7 +586,7 @@
                 "organization": "Fidelity Select Portfolios - Semiconductors Portfolio",
                 "pctHeld": 0.001,
                 "position": 1066300,
-                "value": 116056088,
+                "value": 122379247,
                 "pctChange": 2.1566
             },
             {
@@ -581,7 +595,7 @@
                 "organization": "Delaware Ivy Science and Technology Fund",
                 "pctHeld": 0.00090000004,
                 "position": 940193,
-                "value": 102330602,
+                "value": 107905947,
                 "pctChange": 0.0
             },
             {
@@ -590,7 +604,7 @@
                 "organization": "Hartford/Schroders International Stock Fd",
                 "pctHeld": 0.00090000004,
                 "position": 939780,
-                "value": 102285651,
+                "value": 107858547,
                 "pctChange": 0.24379998
             },
             {
@@ -599,7 +613,7 @@
                 "organization": "Vanguard International Growth Fund",
                 "pctHeld": 0.00090000004,
                 "position": 931404,
-                "value": 101374007,
+                "value": 106897233,
                 "pctChange": -0.42150003
             },
             {
@@ -608,7 +622,7 @@
                 "organization": "Vanguard Horizon Fund-Capital Opportunity Fund",
                 "pctHeld": 0.0008,
                 "position": 784500,
-                "value": 85384977,
+                "value": 90037062,
                 "pctChange": 0.0
             },
             {
@@ -617,7 +631,7 @@
                 "organization": "Fidelity Select Portfolios - Technology",
                 "pctHeld": 0.0008,
                 "position": 803100,
-                "value": 87409401,
+                "value": 92171784,
                 "pctChange": 0.1577
             },
             {
@@ -626,7 +640,7 @@
                 "organization": "Invesco Main Street Fund",
                 "pctHeld": 0.0007,
                 "position": 717945,
-                "value": 78141131,
+                "value": 82398545,
                 "pctChange": 0.0
             }
         ],
@@ -634,75 +648,66 @@
         "institutionOwnership": [
             {
                 "maxAge": 1,
-                "reportDate": "2023-12-31",
+                "reportDate": "2024-03-31",
                 "organization": "GQG Partners LLC",
-                "pctHeld": 0.0149,
-                "position": 15369239,
-                "value": 1672787916,
-                "pctChange": -0.0623
+                "pctHeld": 0.010299999,
+                "position": 10682133,
+                "value": 1225988368,
+                "pctChange": -0.305
             },
             {
                 "maxAge": 1,
-                "reportDate": "2023-12-31",
-                "organization": "Schroder Investment Management Group",
-                "pctHeld": 0.0062,
-                "position": 6390228,
-                "value": 695512392,
-                "pctChange": 1.0
-            },
-            {
-                "maxAge": 1,
-                "reportDate": "2023-12-31",
-                "organization": "Wellington Management Group, LLP",
-                "pctHeld": 0.0043,
-                "position": 4468720,
-                "value": 486375468,
-                "pctChange": 0.5642
-            },
-            {
-                "maxAge": 1,
-                "reportDate": "2023-12-31",
-                "organization": "Goldman Sachs Group Inc",
-                "pctHeld": 0.0034999999,
-                "position": 3550217,
-                "value": 386405605,
-                "pctChange": 0.17469999
-            },
-            {
-                "maxAge": 1,
-                "reportDate": "2023-12-31",
+                "reportDate": "2024-03-31",
                 "organization": "FMR, LLC",
-                "pctHeld": 0.0029,
-                "position": 3000812,
-                "value": 326608367,
-                "pctChange": -0.3386
+                "pctHeld": 0.0037,
+                "position": 3819531,
+                "value": 438367560,
+                "pctChange": 0.2728
             },
             {
                 "maxAge": 1,
-                "reportDate": "2023-12-31",
-                "organization": "Blackrock Inc.",
+                "reportDate": "2024-03-31",
+                "organization": "Schroder Investment Management Group",
+                "pctHeld": 0.0031,
+                "position": 3245019,
+                "value": 372430819,
+                "pctChange": -0.49220002
+            },
+            {
+                "maxAge": 1,
+                "reportDate": "2024-03-31",
+                "organization": "Citadel Advisors Llc",
                 "pctHeld": 0.0023999999,
-                "position": 2442277,
-                "value": 265817419,
-                "pctChange": -0.1657
+                "position": 2528962,
+                "value": 290248960,
+                "pctChange": 0.8618
             },
             {
                 "maxAge": 1,
-                "reportDate": "2023-12-31",
-                "organization": "Nvidia Corp                          ",
-                "pctHeld": 0.0019,
-                "position": 1960784,
-                "value": 213411723,
+                "reportDate": "2024-03-31",
+                "organization": "Shaw D.E. & Co., Inc.",
+                "pctHeld": 0.0023,
+                "position": 2379839,
+                "value": 273134114,
                 "pctChange": 1.0
             },
             {
                 "maxAge": 1,
-                "reportDate": "2023-12-31",
-                "organization": "Mubadala Investment Co PJSC",
-                "pctHeld": 0.0019,
-                "position": 2001960,
-                "value": 217893319,
-                "pctChange": 1.0
+                "reportDate": "2024-03-31",
+                "organization": "Blackrock Inc.",
+                "pctHeld": 0.002,
+                "position": 2091354,
+                "value": 240024691,
+                "pctChange": -0.1437
+            },
+            {
+                "maxAge": 1,
+                "reportDate": "2024-03-31",
+                "organization": "Goldman Sachs Group Inc",
+                "pctHeld": 0.002,
+                "position": 2087121,
+                "value": 239538870,
+                "pctChange": -0.4121
             },
             {
                 "maxAge": 1,
@@ -710,28 +715,44 @@
                 "organization": "Alphabet Inc.",
                 "pctHeld": 0.0019,
                 "position": 1960784,
-                "value": 213411723,
+                "value": 225039173,
                 "pctChange": 0.0
             },
             {
                 "maxAge": 1,
-                "reportDate": "2023-12-31",
-                "organization": "Franklin Resources, Inc.",
-                "pctHeld": 0.0018000001,
-                "position": 1812273,
-                "value": 197247786,
-                "pctChange": -0.0855
+                "reportDate": "2024-03-31",
+                "organization": "Nvidia Corp                          ",
+                "pctHeld": 0.0019,
+                "position": 1960784,
+                "value": 225039173,
+                "pctChange": 0.0
+            },
+            {
+                "maxAge": 1,
+                "reportDate": "2024-03-31",
+                "organization": "Mubadala Investment Co PJSC",
+                "pctHeld": 0.0014,
+                "position": 1501960,
+                "value": 172379944,
+                "pctChange": -0.2498
             }
         ],
         "majorHolders": {
             "maxAge": 1,
-            "insidersPercentHeld": 0.90440005,
-            "institutionsPercentHeld": 0.07191,
-            "institutionsFloatPercentHeld": 0.75214,
-            "institutionsCount": 455
+            "insidersPercentHeld": 0.89374,
+            "institutionsPercentHeld": 0.06112,
+            "institutionsFloatPercentHeld": 0.57523,
+            "institutionsCount": 511
         }
     },
     "upgradeDowngradeHistory": [
+        {
+            "epochGradeDate": "2024-05-16 10:07:49",
+            "firm": "Bernstein",
+            "toGrade": "Underperform",
+            "fromGrade": "Underperform",
+            "action": "main"
+        },
         {
             "epochGradeDate": "2024-05-09 08:22:42",
             "firm": "Needham",
@@ -759,13 +780,6 @@
             "toGrade": "Overweight",
             "fromGrade": "Overweight",
             "action": "main"
-        },
-        {
-            "epochGradeDate": "2024-04-19 05:15:26",
-            "firm": "Exane BNP Paribas",
-            "toGrade": "Neutral",
-            "fromGrade": "Outperform",
-            "action": "down"
         }
     ],
     "fcfPerShare": 0,

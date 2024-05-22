@@ -1,75 +1,75 @@
 {
-    "postMarketChangePercent": -0.00189578,
-    "postMarketChange": -0.0400009,
-    "postMarketPrice": 21.06,
-    "regularMarketChangePercent": 0.008604221,
-    "regularMarketChange": 0.1800003,
-    "regularMarketPrice": 21.1,
-    "regularMarketDayHigh": 21.14,
-    "regularMarketDayLow": 20.9,
-    "regularMarketVolume": 3380292,
-    "averageDailyVolume10Day": 3293790,
-    "averageDailyVolume3Month": 3446795,
-    "regularMarketPreviousClose": 20.92,
-    "regularMarketOpen": 20.9,
+    "postMarketChangePercent": 0.0027912501,
+    "postMarketChange": 0.0599003,
+    "postMarketPrice": 21.5199,
+    "regularMarketChangePercent": 0.006094663,
+    "regularMarketChange": 0.12999916,
+    "regularMarketPrice": 21.46,
+    "regularMarketDayHigh": 21.53,
+    "regularMarketDayLow": 21.33,
+    "regularMarketVolume": 3421623,
+    "averageDailyVolume10Day": 3895610,
+    "averageDailyVolume3Month": 3454477,
+    "regularMarketPreviousClose": 21.33,
+    "regularMarketOpen": 21.36,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "quoteType": "EQUITY",
     "symbol": "ARCC",
     "shortName": "Ares Capital Corporation",
     "longName": "Ares Capital Corporation",
-    "marketCap": 12823820288,
-    "previousClose": 20.92,
-    "open": 20.9,
-    "dayLow": 20.9,
-    "dayHigh": 21.14,
+    "marketCap": 13187556352,
+    "previousClose": 21.33,
+    "open": 21.36,
+    "dayLow": 21.33,
+    "dayHigh": 21.53,
     "dividendRate": 1.92,
-    "dividendYield": 0.091000006,
+    "dividendYield": 0.09,
     "exDividendDate": "2024-06-13 20:00:00",
     "payoutRatio": 0.65529996,
     "fiveYearAvgDividendYield": 9.23,
     "beta": 1.02,
-    "trailingPE": 7.201365,
-    "forwardPE": 9.590909,
-    "volume": 3380292,
-    "averageVolume": 3446795,
-    "averageVolume10days": 3293790,
+    "trailingPE": 7.2745757,
+    "forwardPE": 9.754545,
+    "volume": 3421623,
+    "averageVolume": 3454477,
+    "averageVolume10days": 3895610,
     "fiftyTwoWeekLow": 18.01,
-    "fiftyTwoWeekHigh": 21.14,
-    "priceToSalesTrailing12Months": 4.7548466,
-    "fiftyDayAverage": 20.479,
-    "twoHundredDayAverage": 19.879,
+    "fiftyTwoWeekHigh": 21.53,
+    "priceToSalesTrailing12Months": 4.8897133,
+    "fiftyDayAverage": 20.5826,
+    "twoHundredDayAverage": 19.929,
     "trailingAnnualDividendRate": 1.92,
-    "trailingAnnualDividendYield": 0.091778204,
-    "enterpriseValue": 24090810368,
+    "trailingAnnualDividendYield": 0.09001406,
+    "enterpriseValue": 24309606400,
     "profitMargins": 0.62773,
-    "sharesOutstanding": 607763968,
+    "sharesOutstanding": 614518016,
     "sharesShort": 17834540,
     "sharesShortPriorMonth": 16093486,
     "sharesShortPreviousMonthDate": "2024-03-27 20:00:00",
     "dateShortInterest": "2024-04-29 20:00:00",
     "sharesPercentSharesOut": 0.0293,
-    "heldPercentInsiders": 0.0058899997,
-    "heldPercentInstitutions": 0.30111,
+    "heldPercentInsiders": 0.0058399998,
+    "heldPercentInstitutions": 0.29045,
     "shortRatio": 6.84,
     "shortPercentOfFloat": 0.0295,
-    "impliedSharesOutstanding": 607763968,
+    "impliedSharesOutstanding": 614518016,
     "bookValue": 19.526,
-    "priceToBook": 1.0806105,
+    "priceToBook": 1.0990474,
     "lastFiscalYearEnd": "2023-12-30 19:00:00",
     "nextFiscalYearEnd": "2024-12-30 19:00:00",
     "mostRecentQuarter": "2024-03-30 20:00:00",
     "earningsQuarterlyGrowth": 0.615,
     "netIncomeToCommon": 1692999936,
-    "trailingEps": 2.93,
+    "trailingEps": 2.95,
     "forwardEps": 2.2,
-    "pegRatio": -9.98,
-    "enterpriseToRevenue": 8.932,
-    "52WeekChange": 0.14736271,
-    "SandP52WeekChange": 0.26265144,
+    "pegRatio": -2.29,
+    "enterpriseToRevenue": 9.014,
+    "52WeekChange": 0.13820708,
+    "SandP52WeekChange": 0.28043115,
     "lastDividendValue": 0.48,
     "lastDividendDate": 1710374400,
-    "currentPrice": 21.1,
+    "currentPrice": 21.46,
     "targetHighPrice": 24.0,
     "targetLowPrice": 20.5,
     "targetMeanPrice": 21.96,
@@ -117,18 +117,8 @@
                 "maxAge": 1,
                 "name": "Mr. Michael J. Arougheti",
                 "age": 51,
-                "title": "Co-Chairman & Executive VP",
+                "title": "Chairman & Executive VP",
                 "yearBorn": 1972,
-                "fiscalYear": 2023,
-                "exercisedValue": 0,
-                "unexercisedValue": 0
-            },
-            {
-                "maxAge": 1,
-                "name": "Mr. Bennett  Rosenthal",
-                "age": 60,
-                "title": "Co-Founder & Co-Chairman",
-                "yearBorn": 1963,
                 "fiscalYear": 2023,
                 "exercisedValue": 0,
                 "unexercisedValue": 0
@@ -139,6 +129,16 @@
                 "age": 50,
                 "title": "CEO & Director",
                 "yearBorn": 1973,
+                "fiscalYear": 2023,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bennett  Rosenthal",
+                "age": 60,
+                "title": "Co-Founder & Chairman Emeritus",
+                "yearBorn": 1963,
                 "fiscalYear": 2023,
                 "exercisedValue": 0,
                 "unexercisedValue": 0
@@ -380,15 +380,15 @@
                 },
                 "epsTrend": {
                     "current": 0.58,
-                    "7daysAgo": 0.59,
+                    "7daysAgo": 0.58,
                     "30daysAgo": 0.6,
                     "60daysAgo": 0.6,
                     "90daysAgo": 0.6
                 },
                 "epsRevisions": {
-                    "upLast7days": 1,
-                    "upLast30days": 2,
-                    "downLast30days": 3,
+                    "upLast7days": 0,
+                    "upLast30days": 1,
+                    "downLast30days": 0,
                     "downLast90days": {}
                 }
             },
@@ -421,9 +421,9 @@
                     "90daysAgo": 0.59
                 },
                 "epsRevisions": {
-                    "upLast7days": 2,
-                    "upLast30days": 4,
-                    "downLast30days": 3,
+                    "upLast7days": 0,
+                    "upLast30days": 3,
+                    "downLast30days": 0,
                     "downLast90days": {}
                 }
             },
@@ -450,15 +450,15 @@
                 },
                 "epsTrend": {
                     "current": 2.33,
-                    "7daysAgo": 2.34,
+                    "7daysAgo": 2.33,
                     "30daysAgo": 2.37,
                     "60daysAgo": 2.37,
                     "90daysAgo": 2.37
                 },
                 "epsRevisions": {
-                    "upLast7days": 1,
-                    "upLast30days": 2,
-                    "downLast30days": 3,
+                    "upLast7days": 0,
+                    "upLast30days": 1,
+                    "downLast30days": 0,
                     "downLast90days": {}
                 }
             },
@@ -488,10 +488,10 @@
                     "7daysAgo": 2.2,
                     "30daysAgo": 2.23,
                     "60daysAgo": 2.22,
-                    "90daysAgo": 2.21
+                    "90daysAgo": 2.22
                 },
                 "epsRevisions": {
-                    "upLast7days": 2,
+                    "upLast7days": 0,
                     "upLast30days": 3,
                     "downLast30days": 0,
                     "downLast90days": {}
@@ -501,7 +501,7 @@
                 "maxAge": 1,
                 "period": "+5y",
                 "endDate": null,
-                "growth": -0.009,
+                "growth": -0.04,
                 "earningsEstimate": {
                     "avg": {},
                     "low": {},
@@ -572,28 +572,28 @@
     "indexTrend": {
         "maxAge": 1,
         "symbol": "SP5",
-        "peRatio": 15.4971,
-        "pegRatio": 1.144,
+        "peRatio": 15.6985,
+        "pegRatio": 1.36278,
         "estimates": [
             {
                 "period": "0q",
-                "growth": 0.084
+                "growth": 0.079
             },
             {
                 "period": "+1q",
-                "growth": 0.118999995
+                "growth": 0.123
             },
             {
                 "period": "0y",
-                "growth": 0.055999998
+                "growth": 0.056999996
             },
             {
                 "period": "+1y",
-                "growth": 0.13
+                "growth": 0.126
             },
             {
                 "period": "+5y",
-                "growth": 0.110451005
+                "growth": 0.113703005
             },
             {
                 "period": "-5y"
@@ -2413,7 +2413,7 @@
         },
         {
             "period": "-1m",
-            "strongBuy": 6,
+            "strongBuy": 5,
             "buy": 7,
             "hold": 3,
             "sell": 0,
@@ -2440,20 +2440,20 @@
         "fundOwnership": [
             {
                 "maxAge": 1,
-                "reportDate": "2024-03-31",
+                "reportDate": "2024-04-30",
                 "organization": "VanEck ETF Trust -VanEck BDC Income ETF",
-                "pctHeld": 0.0159,
-                "position": 9651867,
-                "value": 203654397,
-                "pctChange": 0.0545
+                "pctHeld": 0.0167,
+                "position": 10278053,
+                "value": 220567007,
+                "pctChange": 0.064899996
             },
             {
                 "maxAge": 1,
                 "reportDate": "2024-03-31",
                 "organization": "Fidelity Dividend Growth Fund",
-                "pctHeld": 0.0076,
+                "pctHeld": 0.0075,
                 "position": 4591582,
-                "value": 96882381,
+                "value": 98535345,
                 "pctChange": 0.3848
             },
             {
@@ -2462,7 +2462,7 @@
                 "organization": "Fidelity Advisor Dividend Growth Fund",
                 "pctHeld": 0.0014,
                 "position": 874629,
-                "value": 18454672,
+                "value": 18769537,
                 "pctChange": 0.2672
             },
             {
@@ -2471,7 +2471,7 @@
                 "organization": "Columbia Fds Ser Tr II-Columbia Flexible Capital Income Fd",
                 "pctHeld": 0.0011,
                 "position": 650000,
-                "value": 13715000,
+                "value": 13948999,
                 "pctChange": 0.0
             },
             {
@@ -2480,7 +2480,7 @@
                 "organization": "Columbia Fds Ser Tr II-Columbia Dividend Opportunity Fd",
                 "pctHeld": 0.00090000004,
                 "position": 568000,
-                "value": 11984800,
+                "value": 12189279,
                 "pctChange": 0.0
             },
             {
@@ -2489,7 +2489,7 @@
                 "organization": "Tri-Continental Corp",
                 "pctHeld": 0.0007,
                 "position": 450000,
-                "value": 9495000,
+                "value": 9656999,
                 "pctChange": 0.0
             },
             {
@@ -2498,17 +2498,8 @@
                 "organization": "Bridge Builder Tr-Bridge Builder Large Cap Value Fd",
                 "pctHeld": 0.00059999997,
                 "position": 393900,
-                "value": 8311290,
+                "value": 8453093,
                 "pctChange": 0.0
-            },
-            {
-                "maxAge": 1,
-                "reportDate": "2024-03-31",
-                "organization": "Invesco ETF Tr-Invesco Global Listed Private Equity ETF",
-                "pctHeld": 0.00059999997,
-                "position": 336192,
-                "value": 7093651,
-                "pctChange": 0.035
             },
             {
                 "maxAge": 1,
@@ -2516,7 +2507,7 @@
                 "organization": "Advisors Inner Circle Fund-CIBC Atlas Income Opportunities Fund",
                 "pctHeld": 0.0005,
                 "position": 324545,
-                "value": 6847899,
+                "value": 6964735,
                 "pctChange": 0.0
             },
             {
@@ -2525,8 +2516,17 @@
                 "organization": "LMP Capital & Income Fund",
                 "pctHeld": 0.0005,
                 "position": 286890,
-                "value": 6053379,
+                "value": 6156659,
                 "pctChange": 0.0
+            },
+            {
+                "maxAge": 1,
+                "reportDate": "2024-03-31",
+                "organization": "Invesco ETF Tr-Invesco Global Listed Private Equity ETF",
+                "pctHeld": 0.0005,
+                "position": 336192,
+                "value": 7214680,
+                "pctChange": 0.035
             }
         ],
         "insiderHolders": [
@@ -2634,101 +2634,101 @@
         "institutionOwnership": [
             {
                 "maxAge": 1,
-                "reportDate": "2023-12-31",
+                "reportDate": "2024-03-31",
                 "organization": "Morgan Stanley",
-                "pctHeld": 0.0225,
-                "position": 13681240,
-                "value": 288674169,
-                "pctChange": 0.14899999
-            },
-            {
-                "maxAge": 1,
-                "reportDate": "2023-12-31",
-                "organization": "Royal Bank of Canada",
-                "pctHeld": 0.0185,
-                "position": 11269125,
-                "value": 237778541,
-                "pctChange": -0.0738
+                "pctHeld": 0.0241,
+                "position": 14803082,
+                "value": 317674126,
+                "pctChange": 0.081999995
             },
             {
                 "maxAge": 1,
                 "reportDate": "2024-03-31",
                 "organization": "Van Eck Associates Corporation",
-                "pctHeld": 0.016,
+                "pctHeld": 0.015800001,
                 "position": 9719943,
-                "value": 205090801,
+                "value": 208589967,
                 "pctChange": 0.1736
             },
             {
                 "maxAge": 1,
-                "reportDate": "2023-12-31",
+                "reportDate": "2024-03-31",
+                "organization": "Royal Bank of Canada",
+                "pctHeld": 0.0108,
+                "position": 6657843,
+                "value": 142877304,
+                "pctChange": -0.40919998
+            },
+            {
+                "maxAge": 1,
+                "reportDate": "2024-03-31",
                 "organization": "Bank of America Corporation",
-                "pctHeld": 0.0098,
-                "position": 5929702,
-                "value": 125116714,
-                "pctChange": 0.027
+                "pctHeld": 0.0101,
+                "position": 6177125,
+                "value": 132561096,
+                "pctChange": 0.0417
             },
             {
                 "maxAge": 1,
-                "reportDate": "2023-12-31",
+                "reportDate": "2024-03-31",
+                "organization": "FMR, LLC",
+                "pctHeld": 0.0089,
+                "position": 5467456,
+                "value": 117331600,
+                "pctChange": 4.4772
+            },
+            {
+                "maxAge": 1,
+                "reportDate": "2024-03-31",
                 "organization": "Legal & General Group PLC",
-                "pctHeld": 0.007900001,
-                "position": 4771933,
-                "value": 100687788,
-                "pctChange": 0.08180001
-            },
-            {
-                "maxAge": 1,
-                "reportDate": "2023-12-31",
-                "organization": "Two Sigma Advisers, LP",
-                "pctHeld": 0.0077,
-                "position": 4674500,
-                "value": 98631951,
-                "pctChange": -0.033
-            },
-            {
-                "maxAge": 1,
-                "reportDate": "2023-12-31",
-                "organization": "Two Sigma Investments, LP",
-                "pctHeld": 0.0070999996,
-                "position": 4328734,
-                "value": 91336289,
-                "pctChange": -0.0553
+                "pctHeld": 0.0082,
+                "position": 5029133,
+                "value": 107925189,
+                "pctChange": 0.0539
             },
             {
                 "maxAge": 1,
                 "reportDate": "2024-03-31",
                 "organization": "Confluence Investment Management LLC",
-                "pctHeld": 0.0068,
+                "pctHeld": 0.0067000003,
                 "position": 4141554,
-                "value": 87386790,
+                "value": 88877745,
                 "pctChange": -0.0354
             },
             {
                 "maxAge": 1,
-                "reportDate": "2023-12-31",
+                "reportDate": "2024-03-31",
                 "organization": "OMERS Administration Corporation",
-                "pctHeld": 0.0064999997,
-                "position": 3972793,
-                "value": 83825933,
-                "pctChange": -0.0877
+                "pctHeld": 0.0066000004,
+                "position": 4064384,
+                "value": 87221676,
+                "pctChange": 0.0231
             },
             {
                 "maxAge": 1,
-                "reportDate": "2023-12-31",
+                "reportDate": "2024-03-31",
                 "organization": "Ameriprise Financial, Inc.",
-                "pctHeld": 0.0062,
-                "position": 3776072,
-                "value": 79675120,
-                "pctChange": -0.0028
+                "pctHeld": 0.0064,
+                "position": 3957691,
+                "value": 84932045,
+                "pctChange": 0.0481
+            },
+            {
+                "maxAge": 1,
+                "reportDate": "2024-03-31",
+                "organization": "LPL Financial LLC",
+                "pctHeld": 0.0052,
+                "position": 3219222,
+                "value": 69084501,
+                "pctChange": 0.0765
             }
         ],
         "majorHolders": {
             "maxAge": 1,
-            "insidersPercentHeld": 0.0058899997,
-            "institutionsPercentHeld": 0.30111,
-            "institutionsFloatPercentHeld": 0.30290002,
-            "institutionsCount": 785
+            "insidersPercentHeld": 0.0058399998,
+            "institutionsPercentHeld": 0.29045,
+            "institutionsFloatPercentHeld": 0.29215,
+            "institutionsCount": 795
         }
     },
     "upgradeDowngradeHistory": [
@@ -2768,7 +2768,7 @@
             "action": "main"
         }
     ],
-    "fcfPerShare": 0.9343676787367559,
-    "fcfYield": 0.04428282643132436,
-    "fcfPayoutRatio": 2.054865599156637
+    "fcfPerShare": 0.9240982252992238,
+    "fcfYield": 0.04306142797364253,
+    "fcfPayoutRatio": 2.0777012090660625
 }

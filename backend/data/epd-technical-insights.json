@@ -7,20 +7,20 @@
             "shortTermOutlook": {
                 "stateDescription": "Recent bullish events outweigh bearish events.",
                 "direction": "Bullish",
-                "score": 2,
-                "scoreDescription": "Bullish Evidence",
+                "score": 3,
+                "scoreDescription": "Strong Bullish Evidence",
                 "sectorDirection": "Bullish",
-                "sectorScore": 1,
-                "sectorScoreDescription": "Weak Bullish Evidence",
+                "sectorScore": 3,
+                "sectorScoreDescription": "Strong Bullish Evidence",
                 "indexDirection": "Bullish",
-                "indexScore": 2,
-                "indexScoreDescription": "Bullish Evidence"
+                "indexScore": 1,
+                "indexScoreDescription": "Weak Bullish Evidence"
             },
             "intermediateTermOutlook": {
-                "stateDescription": "Recent bullish events outweigh bearish events.",
-                "direction": "Bullish",
+                "stateDescription": "Recent bearish events outweigh bullish events.",
+                "direction": "Bearish",
                 "score": 2,
-                "scoreDescription": "Bullish Evidence",
+                "scoreDescription": "Bearish Evidence",
                 "sectorDirection": "Bullish",
                 "sectorScore": 2,
                 "sectorScoreDescription": "Bullish Evidence",
@@ -43,9 +43,9 @@
         },
         "keyTechnicals": {
             "provider": "Trading Central",
-            "support": 26.2405,
+            "support": 26.425,
             "resistance": 29.045,
-            "stopLoss": 27.977198
+            "stopLoss": 27.41141
         },
         "valuation": {
             "color": 0.5,
@@ -58,9 +58,9 @@
         "sectorInfo": "Energy",
         "company": {
             "innovativeness": 0.20370000000000002,
-            "insiderSentiments": 0.8,
-            "earningsReports": 0.7473000000000001,
-            "dividends": 0.6574
+            "insiderSentiments": 0.7752,
+            "earningsReports": 0.7495,
+            "dividends": 0.6594
         },
         "sector": {
             "innovativeness": 0.5,
@@ -103,13 +103,13 @@
     },
     "events": [
         {
-            "eventType": "Williams %R",
+            "eventType": "Price Crosses Moving Average",
             "pricePeriod": "D",
             "tradingHorizon": "S",
             "tradeType": "L",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1715261400,
-            "endDate": 1715261400
+            "startDate": 1716211800,
+            "endDate": 1716211800
         }
     ],
     "reports": [
@@ -494,6 +494,19 @@
             "title": "We recently raised our rating on the Energy sector to Over-Weight from Market-Weight. Already strong demand for petroleum products (related to global reopening) is now exacerbated by the war in Ukraine, which has led to broad sanctions on Russia and may exclude this major supplier from the global energy markets. Although we expect other counties to add to supply, we expect energy prices to remain elevated at least through year-end. Energy accounts for 3.6% of S&P 500 market cap; over the past five years, the weighting has ranged from 2% to 10%. We think investors should consider allocating 4%-5% of diversified portfolios to the group. The sector is outperforming thus far in 2022, with a gain of 32.3%. It also outperformed in 2021, with a gain of 47.7%. It underperformed in 2020, with a loss of 37.3%, and in 2019, with a gain of 7.6%.  Here are some of the Energy sector companies that are on our BUY List. Some also are featured in our model portfolios (Growth & Income, Equity Income, Growth, and Institutional) and in our Focus List."
         },
         {
+            "id": "2942_Analyst Report_1644219288000",
+            "headHtml": "Analyst Report: Enterprise Prods Pntr L",
+            "provider": "Argus Research",
+            "reportDate": "2022-02-07T07:34:48Z",
+            "reportTitle": "Enterprise Products Partners L.P. is a North American provider of midstream energy services to producers and consumers of natural gas, NGLs, crude oil, refined products and petrochemicals. The partnership's assets include over 50,000 miles of natural gas, NGL, refined products, and petrochemical pipelines; 260 million barrels of storage capacity for NGLs, refined products and crude oil; and 14 billion cubic feet of natural gas storage capacity. The company completed its IPO in July 1998.",
+            "targetPrice": 28.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "EPD"
+            ],
+            "title": "Enterprise Products Partners L.P. is a North American provider of midstream energy services to producers and consumers of natural gas, NGLs, crude oil, refined products and petrochemicals. The partnership's assets include over 50,000 miles of natural gas, NGL, refined products, and petrochemical pipelines; 260 million barrels of storage capacity for NGLs, refined products and crude oil; and 14 billion cubic feet of natural gas storage capacity. The company completed its IPO in July 1998."
+        },
+        {
             "id": "32064_Market Summary_1644219288000",
             "headHtml": "Market Digest: NDAQ, ASH, CENT, EPD, ETN, HON, HSY, NFG, NSC, SAP, ANTM",
             "provider": "Argus Research",
@@ -513,19 +526,6 @@
                 "NSC"
             ],
             "title": "The stock market kicked off February with a winning week, though 2022 remains deeply in the loss column. On Friday, the Dow Jones Industrial Average edged down by 21 points, or 0.06%. The S&P 500 was up 0.52%, and the Nasdaq Composite rose 1.58%. For the week, the DJIA was up 364 points, or 1.05%, the S&P 500 was up 1.55%, and the Nasdaq Composite was up 2.38%. Year-to-date, the Dow is down 3.44%; the S&P 500 is off 5.57%; and the Nasdaq Composite is on the edge of correction territory, down 9.89%."
-        },
-        {
-            "id": "2942_Analyst Report_1644219288000",
-            "headHtml": "Analyst Report: Enterprise Prods Pntr L",
-            "provider": "Argus Research",
-            "reportDate": "2022-02-07T07:34:48Z",
-            "reportTitle": "Enterprise Products Partners L.P. is a North American provider of midstream energy services to producers and consumers of natural gas, NGLs, crude oil, refined products and petrochemicals. The partnership's assets include over 50,000 miles of natural gas, NGL, refined products, and petrochemical pipelines; 260 million barrels of storage capacity for NGLs, refined products and crude oil; and 14 billion cubic feet of natural gas storage capacity. The company completed its IPO in July 1998.",
-            "targetPrice": 28.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "EPD"
-            ],
-            "title": "Enterprise Products Partners L.P. is a North American provider of midstream energy services to producers and consumers of natural gas, NGLs, crude oil, refined products and petrochemicals. The partnership's assets include over 50,000 miles of natural gas, NGL, refined products, and petrochemical pipelines; 260 million barrels of storage capacity for NGLs, refined products and crude oil; and 14 billion cubic feet of natural gas storage capacity. The company completed its IPO in July 1998."
         },
         {
             "id": "2942_Analyst Report_1636442982000",
@@ -891,23 +891,6 @@
             "title": "Stocks remain on a wild ride that mostly goes down. Yet something else also is taking shape: exceedingly bullish insider sentiment in the midst of broader market pain. When the market carnage first started, corporate insiders looked the massive selling right in the eyes and responded by buying. Now, with the stock-market decline gaining momentum, insider-sentiment data from Vickers Stock Research again shows that insiders are gobbling up shares. As well, the volume of insider transactions is very high, giving additional weight to the sentiment that comes from those transactions. Vickers' Total One-Week Sell/Buy Ratio is now 1.35, very positive on a scale where anything below 2.00 is bullish. Vickers' Total eight-week moving is now 2.88, and has improved from 4.76 a mere two weeks ago. We acknowledge that (most) insiders are not doctors and their current enthusiasm in no way reflects an imminent end to the coronavirus. But assuming this health crisis follows the same path to resolution as those that came before it, insiders seem to see current value in stocks."
         },
         {
-            "id": "26141_Market Update_1581083709000",
-            "headHtml": "Market Update: PRU, SHW, SKX, BHP, EBAY, EPD, PM",
-            "provider": "Argus Research",
-            "reportDate": "2020-02-07T13:55:09Z",
-            "reportTitle": "Stocks fell on Friday morning despite a strong January employment report. However, the Labor Department also said that the U.S. economy created 514,000 fewer jobs in the year ended March 2019 than it initially reported. January nonfarm payrolls rose by 225,000, up from a revised 147,000 in December and above the Reuters consensus forecast of 160,000. The official unemployment rate edged up to 3.6% from 3.5%. The S&P fell 0.3%, the Dow 0.5%, and the Nasdaq 0.3%. Crude oil fell slightly to $51 per barrel, while gold rose $2.50 to $1572 per ounce.",
-            "tickers": [
-                "SKX",
-                "PRU",
-                "SHW",
-                "EBAY",
-                "EPD",
-                "BHP",
-                "PM"
-            ],
-            "title": "Stocks fell on Friday morning despite a strong January employment report. However, the Labor Department also said that the U.S. economy created 514,000 fewer jobs in the year ended March 2019 than it initially reported. January nonfarm payrolls rose by 225,000, up from a revised 147,000 in December and above the Reuters consensus forecast of 160,000. The official unemployment rate edged up to 3.6% from 3.5%. The S&P fell 0.3%, the Dow 0.5%, and the Nasdaq 0.3%. Crude oil fell slightly to $51 per barrel, while gold rose $2.50 to $1572 per ounce."
-        },
-        {
             "id": "2942_Analyst Report_1581083709000",
             "headHtml": "Analyst Report: Enterprise Prods Pntr L",
             "provider": "Argus Research",
@@ -921,10 +904,10 @@
             "title": "Enterprise Products Partners L.P. is a North American provider of midstream energy services to producers and consumers of natural gas, NGLs, crude oil, refined products and petrochemicals. The partnership's assets include over 50,000 miles of natural gas, NGL, refined products, and petrochemical pipelines; 260 million barrels of storage capacity for NGLs, refined products and crude oil; and 14 billion cubic feet of natural gas storage capacity. The company completed its IPO in July 1998."
         },
         {
-            "id": "26141_Market Update_1581033600000",
+            "id": "26141_Market Update_1581083709000",
             "headHtml": "Market Update: PRU, SHW, SKX, BHP, EBAY, EPD, PM",
             "provider": "Argus Research",
-            "reportDate": "2020-02-07T00:00:00Z",
+            "reportDate": "2020-02-07T13:55:09Z",
             "reportTitle": "Stocks fell on Friday morning despite a strong January employment report. However, the Labor Department also said that the U.S. economy created 514,000 fewer jobs in the year ended March 2019 than it initially reported. January nonfarm payrolls rose by 225,000, up from a revised 147,000 in December and above the Reuters consensus forecast of 160,000. The official unemployment rate edged up to 3.6% from 3.5%. The S&P fell 0.3%, the Dow 0.5%, and the Nasdaq 0.3%. Crude oil fell slightly to $51 per barrel, while gold rose $2.50 to $1572 per ounce.",
             "tickers": [
                 "SKX",
@@ -949,6 +932,23 @@
                 "EPD"
             ],
             "title": "Enterprise Products Partners L.P. is a North American provider of midstream energy services to producers and consumers of natural gas, NGLs, crude oil, refined products and petrochemicals. The partnership's assets include over 50,000 miles of natural gas, NGL, refined products, and petrochemical pipelines; 260 million barrels of storage capacity for NGLs, refined products and crude oil; and 14 billion cubic feet of natural gas storage capacity. The company completed its IPO in July 1998."
+        },
+        {
+            "id": "26141_Market Update_1581033600000",
+            "headHtml": "Market Update: PRU, SHW, SKX, BHP, EBAY, EPD, PM",
+            "provider": "Argus Research",
+            "reportDate": "2020-02-07T00:00:00Z",
+            "reportTitle": "Stocks fell on Friday morning despite a strong January employment report. However, the Labor Department also said that the U.S. economy created 514,000 fewer jobs in the year ended March 2019 than it initially reported. January nonfarm payrolls rose by 225,000, up from a revised 147,000 in December and above the Reuters consensus forecast of 160,000. The official unemployment rate edged up to 3.6% from 3.5%. The S&P fell 0.3%, the Dow 0.5%, and the Nasdaq 0.3%. Crude oil fell slightly to $51 per barrel, while gold rose $2.50 to $1572 per ounce.",
+            "tickers": [
+                "SKX",
+                "PRU",
+                "SHW",
+                "EBAY",
+                "EPD",
+                "BHP",
+                "PM"
+            ],
+            "title": "Stocks fell on Friday morning despite a strong January employment report. However, the Labor Department also said that the U.S. economy created 514,000 fewer jobs in the year ended March 2019 than it initially reported. January nonfarm payrolls rose by 225,000, up from a revised 147,000 in December and above the Reuters consensus forecast of 160,000. The official unemployment rate edged up to 3.6% from 3.5%. The S&P fell 0.3%, the Dow 0.5%, and the Nasdaq 0.3%. Crude oil fell slightly to $51 per barrel, while gold rose $2.50 to $1572 per ounce."
         },
         {
             "id": "25854_Technical Analysis_1578034762000",

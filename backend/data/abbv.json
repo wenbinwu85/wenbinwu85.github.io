@@ -1,49 +1,49 @@
 {
-    "postMarketChangePercent": 0.0,
-    "postMarketChange": 0.0,
-    "postMarketPrice": 160.75,
-    "regularMarketChangePercent": 0.002182083,
-    "regularMarketChange": 0.3500061,
-    "regularMarketPrice": 160.75,
-    "regularMarketDayHigh": 161.4399,
-    "regularMarketDayLow": 160.35,
-    "regularMarketVolume": 3404315,
-    "averageDailyVolume10Day": 5275690,
-    "averageDailyVolume3Month": 5693575,
-    "regularMarketPreviousClose": 160.4,
-    "regularMarketOpen": 160.71,
+    "postMarketChangePercent": -0.000859261,
+    "postMarketChange": -0.139999,
+    "postMarketPrice": 162.79,
+    "regularMarketChangePercent": -0.009905231,
+    "regularMarketChange": -1.6300049,
+    "regularMarketPrice": 162.93,
+    "regularMarketDayHigh": 165.705,
+    "regularMarketDayLow": 162.5,
+    "regularMarketVolume": 3644087,
+    "averageDailyVolume10Day": 4388460,
+    "averageDailyVolume3Month": 5604850,
+    "regularMarketPreviousClose": 164.56,
+    "regularMarketOpen": 165.37,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "quoteType": "EQUITY",
     "symbol": "ABBV",
     "shortName": "AbbVie Inc.",
     "longName": "AbbVie Inc.",
-    "marketCap": 283863580672,
-    "previousClose": 160.4,
-    "open": 160.71,
-    "dayLow": 160.35,
-    "dayHigh": 161.4399,
+    "marketCap": 287713165312,
+    "previousClose": 164.56,
+    "open": 165.37,
+    "dayLow": 162.5,
+    "dayHigh": 165.705,
     "dividendRate": 6.2,
-    "dividendYield": 0.038599998,
+    "dividendYield": 0.0377,
     "exDividendDate": "2024-04-11 20:00:00",
     "payoutRatio": 1.7827001,
     "fiveYearAvgDividendYield": 4.4,
     "beta": 0.593,
-    "trailingPE": 47.842262,
-    "forwardPE": 13.318145,
-    "volume": 3404315,
-    "averageVolume": 5693575,
-    "averageVolume10days": 5275690,
+    "trailingPE": 48.49107,
+    "forwardPE": 13.521161,
+    "volume": 3644087,
+    "averageVolume": 5604850,
+    "averageVolume10days": 4388460,
     "fiftyTwoWeekLow": 130.96,
     "fiftyTwoWeekHigh": 182.89,
-    "priceToSalesTrailing12Months": 5.217793,
-    "fiftyDayAverage": 171.4022,
-    "twoHundredDayAverage": 157.945,
+    "priceToSalesTrailing12Months": 5.288553,
+    "fiftyDayAverage": 169.53,
+    "twoHundredDayAverage": 158.3737,
     "trailingAnnualDividendRate": 6.06,
-    "trailingAnnualDividendYield": 0.03778055,
-    "enterpriseValue": 340193247232,
+    "trailingAnnualDividendYield": 0.036825474,
+    "enterpriseValue": 346921205760,
     "profitMargins": 0.11016,
-    "floatShares": 1762000531,
+    "floatShares": 1762247752,
     "sharesOutstanding": 1765869952,
     "sharesShort": 14477382,
     "sharesShortPriorMonth": 13120924,
@@ -51,34 +51,34 @@
     "dateShortInterest": "2024-04-29 20:00:00",
     "sharesPercentSharesOut": 0.0082,
     "heldPercentInsiders": 0.00105,
-    "heldPercentInstitutions": 0.72436,
+    "heldPercentInstitutions": 0.72690004,
     "shortRatio": 2.6,
     "shortPercentOfFloat": 0.0082,
-    "impliedSharesOutstanding": 1765869952,
+    "impliedSharesOutstanding": 1785830016,
     "bookValue": 4.535,
-    "priceToBook": 35.44653,
+    "priceToBook": 35.92723,
     "lastFiscalYearEnd": "2023-12-30 19:00:00",
     "nextFiscalYearEnd": "2024-12-30 19:00:00",
     "mostRecentQuarter": "2024-03-30 20:00:00",
     "earningsQuarterlyGrowth": 4.728,
     "netIncomeToCommon": 5951000064,
     "trailingEps": 3.36,
-    "forwardEps": 12.07,
-    "pegRatio": 2.34,
-    "enterpriseToRevenue": 6.253,
-    "enterpriseToEbitda": 13.026,
-    "52WeekChange": 0.096596,
-    "SandP52WeekChange": 0.26265144,
+    "forwardEps": 12.05,
+    "pegRatio": 2.36,
+    "enterpriseToRevenue": 6.377,
+    "enterpriseToEbitda": 13.284,
+    "52WeekChange": 0.15464497,
+    "SandP52WeekChange": 0.28043115,
     "lastDividendValue": 1.55,
     "lastDividendDate": 1712880000,
-    "currentPrice": 160.75,
+    "currentPrice": 162.93,
     "targetHighPrice": 207.0,
     "targetLowPrice": 161.0,
-    "targetMeanPrice": 182.41,
-    "targetMedianPrice": 182.5,
+    "targetMeanPrice": 183.11,
+    "targetMedianPrice": 185.0,
     "recommendationMean": 2.2,
     "recommendationKey": "buy",
-    "numberOfAnalystOpinions": 24,
+    "numberOfAnalystOpinions": 25,
     "totalCash": 18069000192,
     "totalCashPerShare": 10.232,
     "ebitda": 26115999744,
@@ -234,10 +234,10 @@
                 "2024-07-25 09:30:S",
                 "2024-07-29 09:30:S"
             ],
-            "earningsAverage": 3.06,
+            "earningsAverage": 3.05,
             "earningsLow": 2.99,
             "earningsHigh": 3.11,
-            "revenueAverage": 14013100000,
+            "revenueAverage": 14004700000,
             "revenueLow": 13820000000,
             "revenueHigh": 14197400000
         },
@@ -269,7 +269,7 @@
                     "estimate": 2.23
                 }
             ],
-            "currentQuarterEstimate": 3.06,
+            "currentQuarterEstimate": 3.05,
             "currentQuarterEstimateDate": "2Q",
             "currentQuarterEstimateYear": 2024,
             "earningsDate": [
@@ -367,33 +367,33 @@
                 "maxAge": 1,
                 "period": "0q",
                 "endDate": "2024-06-30",
-                "growth": 0.051999997,
+                "growth": 0.048,
                 "earningsEstimate": {
-                    "avg": 3.06,
+                    "avg": 3.05,
                     "low": 2.99,
                     "high": 3.11,
                     "yearAgoEps": 2.91,
-                    "numberOfAnalysts": 16,
-                    "growth": 0.051999997
+                    "numberOfAnalysts": 19,
+                    "growth": 0.048
                 },
                 "revenueEstimate": {
-                    "avg": 14013100000,
+                    "avg": 14004700000,
                     "low": 13820000000,
                     "high": 14197400000,
-                    "numberOfAnalysts": 15,
+                    "numberOfAnalysts": 18,
                     "yearAgoRevenue": 13865000000,
-                    "growth": 0.011
+                    "growth": 0.01
                 },
                 "epsTrend": {
-                    "current": 3.06,
-                    "7daysAgo": 3.05,
+                    "current": 3.05,
+                    "7daysAgo": 3.06,
                     "30daysAgo": 2.81,
                     "60daysAgo": 2.81,
                     "90daysAgo": 2.8
                 },
                 "epsRevisions": {
                     "upLast7days": 0,
-                    "upLast30days": 15,
+                    "upLast30days": 16,
                     "downLast30days": 0,
                     "downLast90days": {}
                 }
@@ -405,17 +405,17 @@
                 "growth": -0.017,
                 "earningsEstimate": {
                     "avg": 2.9,
-                    "low": 2.82,
-                    "high": 2.94,
+                    "low": 2.81,
+                    "high": 2.98,
                     "yearAgoEps": 2.95,
-                    "numberOfAnalysts": 16,
+                    "numberOfAnalysts": 19,
                     "growth": -0.017
                 },
                 "revenueEstimate": {
-                    "avg": 14172100000,
+                    "avg": 14169000000,
                     "low": 13976000000,
                     "high": 14370000000,
-                    "numberOfAnalysts": 14,
+                    "numberOfAnalysts": 17,
                     "yearAgoRevenue": 13705200000,
                     "growth": 0.034
                 },
@@ -423,8 +423,8 @@
                     "current": 2.9,
                     "7daysAgo": 2.9,
                     "30daysAgo": 2.93,
-                    "60daysAgo": 2.92,
-                    "90daysAgo": 2.91
+                    "60daysAgo": 2.93,
+                    "90daysAgo": 2.93
                 },
                 "epsRevisions": {
                     "upLast7days": 0,
@@ -437,34 +437,34 @@
                 "maxAge": 1,
                 "period": "0y",
                 "endDate": "2024-12-31",
-                "growth": 0.0139999995,
+                "growth": 0.012999999,
                 "earningsEstimate": {
-                    "avg": 11.26,
+                    "avg": 11.25,
                     "low": 11.02,
                     "high": 11.4,
                     "yearAgoEps": 11.11,
-                    "numberOfAnalysts": 17,
-                    "growth": 0.0139999995
+                    "numberOfAnalysts": 21,
+                    "growth": 0.012999999
                 },
                 "revenueEstimate": {
-                    "avg": 55241500000,
+                    "avg": 55222000000,
                     "low": 54897000000,
                     "high": 55840500000,
-                    "numberOfAnalysts": 17,
+                    "numberOfAnalysts": 21,
                     "yearAgoRevenue": 54318000000,
                     "growth": 0.017
                 },
                 "epsTrend": {
-                    "current": 11.26,
-                    "7daysAgo": 11.24,
-                    "30daysAgo": 11.21,
+                    "current": 11.25,
+                    "7daysAgo": 11.26,
+                    "30daysAgo": 11.11,
                     "60daysAgo": 11.19,
-                    "90daysAgo": 11.18
+                    "90daysAgo": 11.19
                 },
                 "epsRevisions": {
                     "upLast7days": 0,
-                    "upLast30days": 16,
-                    "downLast30days": 1,
+                    "upLast30days": 18,
+                    "downLast30days": 0,
                     "downLast90days": {}
                 }
             },
@@ -472,34 +472,34 @@
                 "maxAge": 1,
                 "period": "+1y",
                 "endDate": "2025-12-31",
-                "growth": 0.072,
+                "growth": 0.071,
                 "earningsEstimate": {
-                    "avg": 12.07,
-                    "low": 11.46,
+                    "avg": 12.05,
+                    "low": 11.4,
                     "high": 12.71,
-                    "yearAgoEps": 11.26,
-                    "numberOfAnalysts": 17,
-                    "growth": 0.072
+                    "yearAgoEps": 11.25,
+                    "numberOfAnalysts": 21,
+                    "growth": 0.071
                 },
                 "revenueEstimate": {
-                    "avg": 58547200000,
-                    "low": 57004000000,
+                    "avg": 58355700000,
+                    "low": 56432000000,
                     "high": 60814000000,
-                    "numberOfAnalysts": 17,
-                    "yearAgoRevenue": 55241500000,
-                    "growth": 0.06
+                    "numberOfAnalysts": 21,
+                    "yearAgoRevenue": 55222000000,
+                    "growth": 0.056999996
                 },
                 "epsTrend": {
-                    "current": 12.07,
-                    "7daysAgo": 12.02,
-                    "30daysAgo": 12.22,
-                    "60daysAgo": 12.21,
-                    "90daysAgo": 12.17
+                    "current": 12.05,
+                    "7daysAgo": 12.07,
+                    "30daysAgo": 12.17,
+                    "60daysAgo": 12.2,
+                    "90daysAgo": 12.23
                 },
                 "epsRevisions": {
                     "upLast7days": 0,
-                    "upLast30days": 8,
-                    "downLast30days": 1,
+                    "upLast30days": 10,
+                    "downLast30days": 0,
                     "downLast90days": {}
                 }
             },
@@ -507,7 +507,7 @@
                 "maxAge": 1,
                 "period": "+5y",
                 "endDate": null,
-                "growth": 0.060900003,
+                "growth": 0.0621,
                 "earningsEstimate": {
                     "avg": {},
                     "low": {},
@@ -578,28 +578,28 @@
     "indexTrend": {
         "maxAge": 1,
         "symbol": "SP5",
-        "peRatio": 15.4971,
-        "pegRatio": 1.144,
+        "peRatio": 15.6985,
+        "pegRatio": 1.36278,
         "estimates": [
             {
                 "period": "0q",
-                "growth": 0.084
+                "growth": 0.079
             },
             {
                 "period": "+1q",
-                "growth": 0.118999995
+                "growth": 0.123
             },
             {
                 "period": "0y",
-                "growth": 0.055999998
+                "growth": 0.056999996
             },
             {
                 "period": "+1y",
-                "growth": 0.13
+                "growth": 0.126
             },
             {
                 "period": "+5y",
-                "growth": 0.110451005
+                "growth": 0.113703005
             },
             {
                 "period": "-5y"
@@ -607,6 +607,30 @@
         ]
     },
     "insiderTransactions": [
+        {
+            "maxAge": 1,
+            "shares": 1322,
+            "value": 0,
+            "filerUrl": "",
+            "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+            "filerName": "FREYMAN THOMAS C",
+            "filerRelation": "Director",
+            "moneyText": "",
+            "startDate": "2024-05-03",
+            "ownership": "D"
+        },
+        {
+            "maxAge": 1,
+            "shares": 1322,
+            "value": 0,
+            "filerUrl": "",
+            "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+            "filerName": "AUSTIN ROXANNE SCHUH",
+            "filerRelation": "Director",
+            "moneyText": "",
+            "startDate": "2024-05-03",
+            "ownership": "D"
+        },
         {
             "maxAge": 1,
             "shares": 1322,
@@ -638,6 +662,30 @@
             "filerUrl": "",
             "transactionText": "Stock Award(Grant) at price 0.00 per share.",
             "filerName": "RAPP EDWARD J",
+            "filerRelation": "Director",
+            "moneyText": "",
+            "startDate": "2024-05-03",
+            "ownership": "D"
+        },
+        {
+            "maxAge": 1,
+            "shares": 1322,
+            "value": 0,
+            "filerUrl": "",
+            "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+            "filerName": "ALPERN ROBERT J",
+            "filerRelation": "Director",
+            "moneyText": "",
+            "startDate": "2024-05-03",
+            "ownership": "D"
+        },
+        {
+            "maxAge": 1,
+            "shares": 1322,
+            "value": 0,
+            "filerUrl": "",
+            "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+            "filerName": "HART BRETT J",
             "filerRelation": "Director",
             "moneyText": "",
             "startDate": "2024-05-03",
@@ -2357,54 +2405,6 @@
             "moneyText": "",
             "startDate": "2021-12-13",
             "ownership": "D"
-        },
-        {
-            "maxAge": 1,
-            "shares": 174100,
-            "value": 21453641,
-            "filerUrl": "",
-            "transactionText": "Sale at price 122.80 - 123.48 per share.",
-            "filerName": "GONZALEZ RICHARD A",
-            "filerRelation": "Chief Executive Officer",
-            "moneyText": "",
-            "startDate": "2021-12-09",
-            "ownership": "D"
-        },
-        {
-            "maxAge": 1,
-            "shares": 174100,
-            "value": 10682776,
-            "filerUrl": "",
-            "transactionText": "Conversion of Exercise of derivative security at price 61.36 per share.",
-            "filerName": "GONZALEZ RICHARD A",
-            "filerRelation": "Chief Executive Officer",
-            "moneyText": "",
-            "startDate": "2021-12-09",
-            "ownership": "D"
-        },
-        {
-            "maxAge": 1,
-            "shares": 50350,
-            "value": 6042000,
-            "filerUrl": "",
-            "transactionText": "Sale at price 120.00 per share.",
-            "filerName": "RICHMOND TIMOTHY J",
-            "filerRelation": "Officer",
-            "moneyText": "",
-            "startDate": "2021-12-06",
-            "ownership": "D"
-        },
-        {
-            "maxAge": 1,
-            "shares": 50350,
-            "value": 2964608,
-            "filerUrl": "",
-            "transactionText": "Conversion of Exercise of derivative security at price 58.88 per share.",
-            "filerName": "RICHMOND TIMOTHY J",
-            "filerRelation": "Officer",
-            "moneyText": "",
-            "startDate": "2021-12-06",
-            "ownership": "D"
         }
     ],
     "recommendationTrend": [
@@ -2420,7 +2420,7 @@
             "period": "-1m",
             "strongBuy": 4,
             "buy": 14,
-            "hold": 12,
+            "hold": 11,
             "sell": 0,
             "strongSell": 0
         },
@@ -2428,7 +2428,7 @@
             "period": "-2m",
             "strongBuy": 4,
             "buy": 14,
-            "hold": 11,
+            "hold": 12,
             "sell": 0,
             "strongSell": 0
         },
@@ -2449,7 +2449,7 @@
                 "organization": "Vanguard Total Stock Market Index Fund",
                 "pctHeld": 0.031400003,
                 "position": 55425132,
-                "value": 8909589969,
+                "value": 9030416350,
                 "pctChange": 0.0084
             },
             {
@@ -2458,7 +2458,7 @@
                 "organization": "Vanguard 500 Index Fund",
                 "pctHeld": 0.024400001,
                 "position": 43127151,
-                "value": 6932689523,
+                "value": 7026706396,
                 "pctChange": 0.0168
             },
             {
@@ -2467,7 +2467,7 @@
                 "organization": "SPDR S&P 500 ETF Trust",
                 "pctHeld": 0.0121,
                 "position": 21290423,
-                "value": 3422435497,
+                "value": 3468848463,
                 "pctChange": 0.028099999
             },
             {
@@ -2476,7 +2476,7 @@
                 "organization": "Fidelity 500 Index Fund",
                 "pctHeld": 0.0121,
                 "position": 21337711,
-                "value": 3430037043,
+                "value": 3476553096,
                 "pctChange": 0.0077
             },
             {
@@ -2485,7 +2485,7 @@
                 "organization": "American Mutual Fund Inc",
                 "pctHeld": 0.0107,
                 "position": 18828248,
-                "value": 3026640866,
+                "value": 3067686308,
                 "pctChange": -0.0015
             },
             {
@@ -2494,7 +2494,7 @@
                 "organization": "iShares Core S&P 500 ETF",
                 "pctHeld": 0.0104,
                 "position": 18301999,
-                "value": 2942046339,
+                "value": 2981944563,
                 "pctChange": -0.0036000002
             },
             {
@@ -2503,7 +2503,7 @@
                 "organization": "Washington Mutual Investors Fund",
                 "pctHeld": 0.0091,
                 "position": 16112222,
-                "value": 2590039686,
+                "value": 2625164212,
                 "pctChange": 0.0847
             },
             {
@@ -2512,7 +2512,7 @@
                 "organization": "Vanguard Index-Value Index Fund",
                 "pctHeld": 0.0083,
                 "position": 14714573,
-                "value": 2365367609,
+                "value": 2397445271,
                 "pctChange": -0.0279
             },
             {
@@ -2521,7 +2521,7 @@
                 "organization": "Schwab Strategic Tr-Schwab U.S. Dividend Equity ETF",
                 "pctHeld": 0.0081,
                 "position": 14251563,
-                "value": 2290938752,
+                "value": 2322007055,
                 "pctChange": 0.049000002
             },
             {
@@ -2530,11 +2530,31 @@
                 "organization": "Capital Income Builder, Inc.",
                 "pctHeld": 0.0076,
                 "position": 13384481,
-                "value": 2151555320,
+                "value": 2180733391,
                 "pctChange": 0.0
             }
         ],
         "insiderHolders": [
+            {
+                "maxAge": 1,
+                "name": "ALPERN ROBERT J",
+                "relation": "Director",
+                "url": "",
+                "transactionDescription": "Stock Award(Grant)",
+                "latestTransDate": "2024-05-03",
+                "positionDirect": 34443,
+                "positionDirectDate": "2024-05-03"
+            },
+            {
+                "maxAge": 1,
+                "name": "AUSTIN ROXANNE SCHUH",
+                "relation": "Director",
+                "url": "",
+                "transactionDescription": "Stock Award(Grant)",
+                "latestTransDate": "2024-05-03",
+                "positionDirect": 37255,
+                "positionDirectDate": "2024-05-03"
+            },
             {
                 "maxAge": 1,
                 "name": "BURNSIDE WILLIAM H L",
@@ -2547,23 +2567,23 @@
             },
             {
                 "maxAge": 1,
-                "name": "DAVIS JENNIFER L",
+                "name": "FREYMAN THOMAS C",
                 "relation": "Director",
                 "url": "",
                 "transactionDescription": "Stock Award(Grant)",
                 "latestTransDate": "2024-05-03",
-                "positionDirect": 1322,
+                "positionDirect": 133430,
                 "positionDirectDate": "2024-05-03"
             },
             {
                 "maxAge": 1,
-                "name": "DONOGHOE NICHOLAS",
-                "relation": "Officer",
+                "name": "HART BRETT J",
+                "relation": "Director",
                 "url": "",
-                "transactionDescription": "Sale",
-                "latestTransDate": "2024-03-20",
-                "positionDirect": 55903,
-                "positionDirectDate": "2024-03-20"
+                "transactionDescription": "Stock Award(Grant)",
+                "latestTransDate": "2024-05-03",
+                "positionDirect": 18269,
+                "positionDirectDate": "2024-05-03"
             },
             {
                 "maxAge": 1,
@@ -2573,16 +2593,6 @@
                 "transactionDescription": "Stock Award(Grant)",
                 "latestTransDate": "2024-05-03",
                 "positionDirect": 15295,
-                "positionDirectDate": "2024-05-03"
-            },
-            {
-                "maxAge": 1,
-                "name": "QUAGGIN SUSAN E",
-                "relation": "Director",
-                "url": "",
-                "transactionDescription": "Stock Award(Grant)",
-                "latestTransDate": "2024-05-03",
-                "positionDirect": 1322,
                 "positionDirectDate": "2024-05-03"
             },
             {
@@ -2604,16 +2614,6 @@
                 "latestTransDate": "2024-05-03",
                 "positionDirect": 12525,
                 "positionDirectDate": "2024-05-03"
-            },
-            {
-                "maxAge": 1,
-                "name": "STEWART JEFFREY RYAN",
-                "relation": "Officer",
-                "url": "",
-                "transactionDescription": "Sale",
-                "latestTransDate": "2024-03-18",
-                "positionDirect": 62279,
-                "positionDirectDate": "2024-03-18"
             },
             {
                 "maxAge": 1,
@@ -2639,75 +2639,75 @@
         "institutionOwnership": [
             {
                 "maxAge": 1,
-                "reportDate": "2023-12-31",
+                "reportDate": "2024-03-31",
                 "organization": "Vanguard Group Inc",
-                "pctHeld": 0.0908,
-                "position": 160398331,
-                "value": 25784031708,
-                "pctChange": -0.0022
+                "pctHeld": 0.096499994,
+                "position": 170376746,
+                "value": 27759481977,
+                "pctChange": 0.0622
             },
             {
                 "maxAge": 1,
-                "reportDate": "2023-12-31",
+                "reportDate": "2024-03-31",
                 "organization": "Blackrock Inc.",
-                "pctHeld": 0.081099994,
-                "position": 143182709,
-                "value": 23016620471,
-                "pctChange": 0.0374
+                "pctHeld": 0.081,
+                "position": 142959104,
+                "value": 23292325767,
+                "pctChange": -0.0016
             },
             {
                 "maxAge": 1,
-                "reportDate": "2023-12-31",
+                "reportDate": "2024-03-31",
                 "organization": "State Street Corporation",
-                "pctHeld": 0.044299997,
-                "position": 78200866,
-                "value": 12570789209,
-                "pctChange": 0.0031
+                "pctHeld": 0.0442,
+                "position": 77970658,
+                "value": 12703758736,
+                "pctChange": -0.0029
             },
             {
                 "maxAge": 1,
-                "reportDate": "2023-12-31",
+                "reportDate": "2024-03-31",
                 "organization": "JP Morgan Chase & Company",
-                "pctHeld": 0.0293,
-                "position": 51818311,
-                "value": 8329793493,
-                "pctChange": -0.0618
+                "pctHeld": 0.029000001,
+                "position": 51258003,
+                "value": 8351466053,
+                "pctChange": -0.0108
             },
             {
                 "maxAge": 1,
-                "reportDate": "2023-12-31",
+                "reportDate": "2024-03-31",
                 "organization": "Capital International Investors",
-                "pctHeld": 0.0255,
-                "position": 44988183,
-                "value": 7231850417,
-                "pctChange": 0.059899997
+                "pctHeld": 0.0272,
+                "position": 48098784,
+                "value": 7836734524,
+                "pctChange": 0.0691
             },
             {
                 "maxAge": 1,
-                "reportDate": "2023-12-31",
+                "reportDate": "2024-03-31",
                 "organization": "Geode Capital Management, LLC",
-                "pctHeld": 0.021,
-                "position": 37017486,
-                "value": 5950560874,
-                "pctChange": 0.0224
+                "pctHeld": 0.0212,
+                "position": 37494653,
+                "value": 6109003538,
+                "pctChange": 0.0128999995
             },
             {
                 "maxAge": 1,
-                "reportDate": "2023-12-31",
+                "reportDate": "2024-03-31",
                 "organization": "Morgan Stanley",
-                "pctHeld": 0.019299999,
-                "position": 34052535,
-                "value": 5473945001,
-                "pctChange": 0.0583
+                "pctHeld": 0.0199,
+                "position": 35171689,
+                "value": 5730523031,
+                "pctChange": 0.032899998
             },
             {
                 "maxAge": 1,
-                "reportDate": "2023-12-31",
+                "reportDate": "2024-03-31",
                 "organization": "Capital Research Global Investors",
-                "pctHeld": 0.0172,
-                "position": 30302654,
-                "value": 4871151630,
-                "pctChange": -0.0523
+                "pctHeld": 0.0177,
+                "position": 31295150,
+                "value": 5098918560,
+                "pctChange": 0.0328
             },
             {
                 "maxAge": 1,
@@ -2715,28 +2715,35 @@
                 "organization": "Charles Schwab Investment Management, Inc.",
                 "pctHeld": 0.0128999995,
                 "position": 22717314,
-                "value": 3651808225,
+                "value": 3701331803,
                 "pctChange": -0.0709
             },
             {
                 "maxAge": 1,
                 "reportDate": "2023-12-31",
-                "organization": "Northern Trust Corporation",
-                "pctHeld": 0.0119,
-                "position": 20936113,
-                "value": 3365480164,
-                "pctChange": -0.0456
+                "organization": "Norges Bank Investment Management",
+                "pctHeld": 0.0117999995,
+                "position": 20842023,
+                "value": 3395790654,
+                "pctChange": 0.0571
             }
         ],
         "majorHolders": {
             "maxAge": 1,
             "insidersPercentHeld": 0.00105,
-            "institutionsPercentHeld": 0.72436,
-            "institutionsFloatPercentHeld": 0.72512,
-            "institutionsCount": 4115
+            "institutionsPercentHeld": 0.72690004,
+            "institutionsFloatPercentHeld": 0.72766,
+            "institutionsCount": 4126
         }
     },
     "upgradeDowngradeHistory": [
+        {
+            "epochGradeDate": "2024-05-17 07:15:05",
+            "firm": "Cantor Fitzgerald",
+            "toGrade": "Overweight",
+            "fromGrade": "",
+            "action": "init"
+        },
         {
             "epochGradeDate": "2024-04-29 11:25:57",
             "firm": "Barclays",
@@ -2764,16 +2771,9 @@
             "toGrade": "Buy",
             "fromGrade": "Buy",
             "action": "main"
-        },
-        {
-            "epochGradeDate": "2024-02-06 09:13:05",
-            "firm": "Truist Securities",
-            "toGrade": "Buy",
-            "fromGrade": "Buy",
-            "action": "main"
         }
     ],
     "fcfPerShare": 13.371030249004429,
-    "fcfYield": 0.08317904145401,
+    "fcfYield": 0.08206611094210921,
     "fcfPayoutRatio": 0.46368902654016775
 }
