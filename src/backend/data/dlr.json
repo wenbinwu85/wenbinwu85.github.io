@@ -1,47 +1,47 @@
 {
-    "postMarketChangePercent": -0.0018022634,
-    "postMarketChange": -0.2599945,
-    "postMarketPrice": 144.0,
-    "regularMarketChangePercent": 0.00634802,
-    "regularMarketChange": 0.909988,
-    "regularMarketPrice": 144.26,
-    "regularMarketDayHigh": 144.54,
-    "regularMarketDayLow": 142.5,
-    "regularMarketVolume": 871312,
-    "averageDailyVolume10Day": 3174510,
-    "averageDailyVolume3Month": 2108038,
-    "regularMarketPreviousClose": 143.35,
-    "regularMarketOpen": 143.0,
+    "postMarketChangePercent": -0.00597544,
+    "postMarketChange": -0.850006,
+    "postMarketPrice": 141.4,
+    "regularMarketChangePercent": -0.00628707,
+    "regularMarketChange": -0.899994,
+    "regularMarketPrice": 142.25,
+    "regularMarketDayHigh": 144.82,
+    "regularMarketDayLow": 141.935,
+    "regularMarketVolume": 2249200,
+    "averageDailyVolume10Day": 2661100,
+    "averageDailyVolume3Month": 2061827,
+    "regularMarketPreviousClose": 143.15,
+    "regularMarketOpen": 144.0,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "quoteType": "EQUITY",
     "symbol": "DLR",
     "shortName": "Digital Realty Trust, Inc.",
     "longName": "Digital Realty Trust, Inc.",
-    "marketCap": 47461683200,
-    "previousClose": 143.35,
-    "open": 143.0,
-    "dayLow": 142.5,
-    "dayHigh": 144.54,
+    "marketCap": 47395565568,
+    "previousClose": 143.15,
+    "open": 144.0,
+    "dayLow": 141.935,
+    "dayHigh": 144.82,
     "dividendRate": 4.88,
-    "dividendYield": 0.034,
+    "dividendYield": 0.0341,
     "exDividendDate": "2024-06-13 20:00:00",
     "payoutRatio": 1.3481,
     "fiveYearAvgDividendYield": 3.53,
     "beta": 0.562,
-    "trailingPE": 39.523285,
-    "forwardPE": 107.65671,
-    "volume": 871312,
-    "averageVolume": 2108038,
-    "averageVolume10days": 3174510,
-    "fiftyTwoWeekLow": 86.33,
+    "trailingPE": 39.404434,
+    "forwardPE": 106.156715,
+    "volume": 2249200,
+    "averageVolume": 2061827,
+    "averageVolume10days": 2661100,
+    "fiftyTwoWeekLow": 88.88,
     "fiftyTwoWeekHigh": 154.18,
-    "priceToSalesTrailing12Months": 8.774925,
-    "fiftyDayAverage": 141.4734,
-    "twoHundredDayAverage": 134.2461,
+    "priceToSalesTrailing12Months": 8.762701,
+    "fiftyDayAverage": 141.387,
+    "twoHundredDayAverage": 134.4789,
     "trailingAnnualDividendRate": 4.88,
-    "trailingAnnualDividendYield": 0.034042552,
-    "enterpriseValue": 64900317184,
+    "trailingAnnualDividendYield": 0.034090117,
+    "enterpriseValue": 64553525248,
     "profitMargins": 0.21476999,
     "floatShares": 311973595,
     "sharesOutstanding": 324502016,
@@ -51,27 +51,27 @@
     "dateShortInterest": "2024-04-29 20:00:00",
     "sharesPercentSharesOut": 0.0323,
     "heldPercentInsiders": 0.00131,
-    "heldPercentInstitutions": 0.98550004,
+    "heldPercentInstitutions": 0.98583,
     "shortRatio": 6.54,
     "shortPercentOfFloat": 0.0436,
-    "impliedSharesOutstanding": 329000992,
+    "impliedSharesOutstanding": 333184992,
     "bookValue": 58.537,
-    "priceToBook": 2.4644241,
+    "priceToBook": 2.430087,
     "lastFiscalYearEnd": "2023-12-30 19:00:00",
     "nextFiscalYearEnd": "2024-12-30 19:00:00",
     "mostRecentQuarter": "2024-03-30 20:00:00",
     "earningsQuarterlyGrowth": 3.096,
     "netIncomeToCommon": 1120896000,
-    "trailingEps": 3.65,
+    "trailingEps": 3.61,
     "forwardEps": 1.34,
-    "pegRatio": -6.9,
-    "enterpriseToRevenue": 11.999,
-    "enterpriseToEbitda": 27.535,
-    "52WeekChange": 0.585204,
-    "SandP52WeekChange": 0.28043115,
+    "pegRatio": -6.72,
+    "enterpriseToRevenue": 11.935,
+    "enterpriseToEbitda": 27.388,
+    "52WeekChange": 0.55226636,
+    "SandP52WeekChange": 0.27840328,
     "lastDividendValue": 1.22,
     "lastDividendDate": 1710374400,
-    "currentPrice": 144.26,
+    "currentPrice": 142.25,
     "targetHighPrice": 175.0,
     "targetLowPrice": 111.0,
     "targetMeanPrice": 147.53,
@@ -241,7 +241,7 @@
             "earningsAverage": 0.22,
             "earningsLow": 0.1,
             "earningsHigh": 0.39,
-            "revenueAverage": 1380420000,
+            "revenueAverage": 1380520000,
             "revenueLow": 1353710000,
             "revenueHigh": 1404760000
         },
@@ -377,14 +377,14 @@
                     "low": 0.1,
                     "high": 0.39,
                     "yearAgoEps": 0.37,
-                    "numberOfAnalysts": 12,
+                    "numberOfAnalysts": 11,
                     "growth": -0.405
                 },
                 "revenueEstimate": {
-                    "avg": 1380420000,
+                    "avg": 1380520000,
                     "low": 1353710000,
                     "high": 1404760000,
-                    "numberOfAnalysts": 12,
+                    "numberOfAnalysts": 11,
                     "yearAgoRevenue": 1371710000,
                     "growth": 0.006
                 },
@@ -393,7 +393,7 @@
                     "7daysAgo": 0.22,
                     "30daysAgo": 0.23,
                     "60daysAgo": 0.23,
-                    "90daysAgo": 0.24
+                    "90daysAgo": 0.2
                 },
                 "epsRevisions": {
                     "upLast7days": 0,
@@ -406,29 +406,29 @@
                 "maxAge": 1,
                 "period": "+1q",
                 "endDate": "2024-09-30",
-                "growth": -0.89699996,
+                "growth": -0.893,
                 "earningsEstimate": {
-                    "avg": 0.24,
+                    "avg": 0.25,
                     "low": 0.13,
                     "high": 0.42,
                     "yearAgoEps": 2.33,
-                    "numberOfAnalysts": 11,
-                    "growth": -0.89699996
+                    "numberOfAnalysts": 10,
+                    "growth": -0.893
                 },
                 "revenueEstimate": {
-                    "avg": 1419340000,
+                    "avg": 1418770000,
                     "low": 1390740000,
                     "high": 1451190000,
-                    "numberOfAnalysts": 11,
+                    "numberOfAnalysts": 10,
                     "yearAgoRevenue": {},
                     "growth": {}
                 },
                 "epsTrend": {
-                    "current": 0.24,
+                    "current": 0.25,
                     "7daysAgo": 0.27,
                     "30daysAgo": 0.27,
                     "60daysAgo": 0.36,
-                    "90daysAgo": 0.26
+                    "90daysAgo": 0.24
                 },
                 "epsRevisions": {
                     "upLast7days": 0,
@@ -441,29 +441,29 @@
                 "maxAge": 1,
                 "period": "0y",
                 "endDate": "2024-12-31",
-                "growth": -0.47,
+                "growth": -0.45700002,
                 "earningsEstimate": {
-                    "avg": 1.59,
-                    "low": 0.83,
+                    "avg": 1.63,
+                    "low": 1.22,
                     "high": 1.96,
                     "yearAgoEps": 3.0,
-                    "numberOfAnalysts": 13,
-                    "growth": -0.47
+                    "numberOfAnalysts": 11,
+                    "growth": -0.45700002
                 },
                 "revenueEstimate": {
-                    "avg": 5586250000,
+                    "avg": 5582100000,
                     "low": 5500100000,
                     "high": 5642000000,
-                    "numberOfAnalysts": 17,
+                    "numberOfAnalysts": 15,
                     "yearAgoRevenue": 5477060000,
-                    "growth": 0.02
+                    "growth": 0.019
                 },
                 "epsTrend": {
-                    "current": 1.59,
+                    "current": 1.63,
                     "7daysAgo": 1.51,
                     "30daysAgo": 1.15,
                     "60daysAgo": 1.24,
-                    "90daysAgo": 1.08
+                    "90daysAgo": 1.04
                 },
                 "epsRevisions": {
                     "upLast7days": 2,
@@ -476,29 +476,29 @@
                 "maxAge": 1,
                 "period": "+1y",
                 "endDate": "2025-12-31",
-                "growth": -0.157,
+                "growth": -0.17799999,
                 "earningsEstimate": {
                     "avg": 1.34,
                     "low": 0.75,
                     "high": 1.84,
-                    "yearAgoEps": 1.59,
-                    "numberOfAnalysts": 14,
-                    "growth": -0.157
+                    "yearAgoEps": 1.63,
+                    "numberOfAnalysts": 13,
+                    "growth": -0.17799999
                 },
                 "revenueEstimate": {
-                    "avg": 5982110000,
+                    "avg": 5973380000,
                     "low": 5652200000,
                     "high": 6360100000,
-                    "numberOfAnalysts": 17,
-                    "yearAgoRevenue": 5586250000,
-                    "growth": 0.071
+                    "numberOfAnalysts": 15,
+                    "yearAgoRevenue": 5582100000,
+                    "growth": 0.07
                 },
                 "epsTrend": {
                     "current": 1.34,
                     "7daysAgo": 1.29,
                     "30daysAgo": 1.26,
                     "60daysAgo": 1.26,
-                    "90daysAgo": 1.37
+                    "90daysAgo": 1.24
                 },
                 "epsRevisions": {
                     "upLast7days": 1,
@@ -582,28 +582,28 @@
     "indexTrend": {
         "maxAge": 1,
         "symbol": "SP5",
-        "peRatio": 15.6985,
-        "pegRatio": 1.36278,
+        "peRatio": 15.787,
+        "pegRatio": 1.30495,
         "estimates": [
             {
                 "period": "0q",
-                "growth": 0.079
+                "growth": 0.091000006
             },
             {
                 "period": "+1q",
-                "growth": 0.123
+                "growth": 0.113000005
             },
             {
                 "period": "0y",
-                "growth": 0.056999996
+                "growth": 0.058000002
             },
             {
                 "period": "+1y",
-                "growth": 0.126
+                "growth": 0.125
             },
             {
                 "period": "+5y",
-                "growth": 0.113703005
+                "growth": 0.114204
             },
             {
                 "period": "-5y"
@@ -2409,7 +2409,7 @@
                 "organization": "Vanguard Specialized-Real Estate Index Fund",
                 "pctHeld": 0.037100002,
                 "position": 11600749,
-                "value": 1673523987,
+                "value": 1650206545,
                 "pctChange": 0.0187
             },
             {
@@ -2418,7 +2418,7 @@
                 "organization": "Vanguard Total Stock Market Index Fund",
                 "pctHeld": 0.0304,
                 "position": 9501851,
-                "value": 1370736973,
+                "value": 1351638304,
                 "pctChange": 0.0076
             },
             {
@@ -2427,7 +2427,7 @@
                 "organization": "Vanguard 500 Index Fund",
                 "pctHeld": 0.023699999,
                 "position": 7397289,
-                "value": 1067132870,
+                "value": 1052264360,
                 "pctChange": 0.016900001
             },
             {
@@ -2436,7 +2436,7 @@
                 "organization": "Vanguard Mid-Cap Index Fund",
                 "pctHeld": 0.0217,
                 "position": 6788014,
-                "value": 979238862,
+                "value": 965594991,
                 "pctChange": -0.0097
             },
             {
@@ -2445,7 +2445,7 @@
                 "organization": "Cohen & Steers Real Estate Securities Fund",
                 "pctHeld": 0.0119,
                 "position": 3726088,
-                "value": 537525434,
+                "value": 530036018,
                 "pctChange": -0.0949
             },
             {
@@ -2454,7 +2454,7 @@
                 "organization": "SPDR S&P 500 ETF Trust",
                 "pctHeld": 0.0117,
                 "position": 3654323,
-                "value": 527172615,
+                "value": 519827446,
                 "pctChange": 0.028099999
             },
             {
@@ -2463,7 +2463,7 @@
                 "organization": "Fidelity 500 Index Fund",
                 "pctHeld": 0.0117,
                 "position": 3660170,
-                "value": 528016104,
+                "value": 520659182,
                 "pctChange": 0.0077
             },
             {
@@ -2472,7 +2472,7 @@
                 "organization": "Cohen & Steers Institutional Realty Shares Incorporated",
                 "pctHeld": 0.0105,
                 "position": 3279953,
-                "value": 473166001,
+                "value": 466573314,
                 "pctChange": 0.0101
             },
             {
@@ -2481,7 +2481,7 @@
                 "organization": "iShares Core S&P 500 ETF",
                 "pctHeld": 0.01,
                 "position": 3139250,
-                "value": 452868187,
+                "value": 446558312,
                 "pctChange": -0.0037
             },
             {
@@ -2490,7 +2490,7 @@
                 "organization": "Cohen & Steers Realty Shares Incorporated",
                 "pctHeld": 0.0092,
                 "position": 2865320,
-                "value": 413351047,
+                "value": 407591770,
                 "pctChange": -0.0242
             }
         ],
@@ -2601,7 +2601,7 @@
                 "organization": "Vanguard Group Inc",
                 "pctHeld": 0.1552,
                 "position": 48503593,
-                "value": 6997128059,
+                "value": 6899636104,
                 "pctChange": 0.02
             },
             {
@@ -2610,7 +2610,7 @@
                 "organization": "Blackrock Inc.",
                 "pctHeld": 0.106000006,
                 "position": 33106967,
-                "value": 4776010877,
+                "value": 4709466055,
                 "pctChange": 0.0013
             },
             {
@@ -2619,7 +2619,7 @@
                 "organization": "Cohen & Steers Inc.",
                 "pctHeld": 0.0706,
                 "position": 22053263,
-                "value": 3181403599,
+                "value": 3137076661,
                 "pctChange": -0.0183
             },
             {
@@ -2628,7 +2628,7 @@
                 "organization": "State Street Corporation",
                 "pctHeld": 0.0624,
                 "position": 19501178,
-                "value": 2813239831,
+                "value": 2774042570,
                 "pctChange": -0.0798
             },
             {
@@ -2637,7 +2637,7 @@
                 "organization": "Norges Bank Investment Management",
                 "pctHeld": 0.0509,
                 "position": 15915369,
-                "value": 2295951044,
+                "value": 2263961240,
                 "pctChange": 1.7621001
             },
             {
@@ -2646,7 +2646,7 @@
                 "organization": "Bank of America Corporation",
                 "pctHeld": 0.032899998,
                 "position": 10282701,
-                "value": 1483382389,
+                "value": 1462714217,
                 "pctChange": 0.059
             },
             {
@@ -2655,7 +2655,7 @@
                 "organization": "Apg Asset Management US Inc.",
                 "pctHeld": 0.0294,
                 "position": 9180030,
-                "value": 1324311077,
+                "value": 1305859267,
                 "pctChange": -0.0081
             },
             {
@@ -2664,7 +2664,7 @@
                 "organization": "JP Morgan Chase & Company",
                 "pctHeld": 0.0254,
                 "position": 7938741,
-                "value": 1145242733,
+                "value": 1129285907,
                 "pctChange": 0.33490002
             },
             {
@@ -2673,7 +2673,7 @@
                 "organization": "Geode Capital Management, LLC",
                 "pctHeld": 0.0251,
                 "position": 7845989,
-                "value": 1131862330,
+                "value": 1116091935,
                 "pctChange": 0.019199999
             },
             {
@@ -2682,16 +2682,16 @@
                 "organization": "FMR, LLC",
                 "pctHeld": 0.0202,
                 "position": 6300119,
-                "value": 908855132,
+                "value": 896191927,
                 "pctChange": -0.082200006
             }
         ],
         "majorHolders": {
             "maxAge": 1,
             "insidersPercentHeld": 0.00131,
-            "institutionsPercentHeld": 0.98550004,
-            "institutionsFloatPercentHeld": 0.98679,
-            "institutionsCount": 1465
+            "institutionsPercentHeld": 0.98583,
+            "institutionsFloatPercentHeld": 0.98713,
+            "institutionsCount": 1466
         }
     },
     "upgradeDowngradeHistory": [
@@ -2732,6 +2732,6 @@
         }
     ],
     "fcfPerShare": 4.265037638471867,
-    "fcfYield": 0.029160645360339854,
+    "fcfYield": 0.02920132496392115,
     "fcfPayoutRatio": 1.1441868545264398
 }

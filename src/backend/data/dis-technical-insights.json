@@ -7,11 +7,11 @@
             "shortTermOutlook": {
                 "stateDescription": "Bearish events outweigh bullish events.",
                 "direction": "Bearish",
-                "score": 3,
-                "scoreDescription": "Strong Bearish Evidence",
+                "score": 2,
+                "scoreDescription": "Bearish Evidence",
                 "sectorDirection": "Bullish",
-                "sectorScore": 3,
-                "sectorScoreDescription": "Strong Bullish Evidence",
+                "sectorScore": 2,
+                "sectorScoreDescription": "Bullish Evidence",
                 "indexDirection": "Bullish",
                 "indexScore": 1,
                 "indexScoreDescription": "Weak Bullish Evidence"
@@ -45,7 +45,7 @@
             "provider": "Trading Central",
             "support": 92.07,
             "resistance": 112.67,
-            "stopLoss": 98.395208
+            "stopLoss": 98.63299
         },
         "valuation": {
             "color": 1.0,
@@ -62,8 +62,8 @@
             "hiring": 0.8169,
             "sustainability": 0.2895,
             "insiderSentiments": 0.8220000000000001,
-            "earningsReports": 0.9643999999999999,
-            "dividends": 0.0703
+            "earningsReports": 0.9645999999999999,
+            "dividends": 0.0708
         },
         "sector": {
             "innovativeness": 0.5,
@@ -827,6 +827,19 @@
             "title": "The stock market returned to its bearish ways last week, as the January CPI posted its highest annual increase in 40 years and the 10-year Treasury yield pushed up almost to 2%. On Friday, the Dow Jones Industrial Average dropped 504 points, or 1.43%. The S&P 500 fell 1.90%, and the Nasdaq Composite plunged 2.78%. For the week, the DJIA was down 351 points, or 1.00%, the S&P 500 was down 1.82%, and the Nasdaq Composite was off by 2.18%. Year-to-date, the Dow is down 4.40%; the S&P 500 is off 7.29%; and the Nasdaq Composite is back in correction territory, down 11.85%."
         },
         {
+            "id": "2894_Analyst Report_1636960874000",
+            "headHtml": "Analyst Report: Walt Disney Co (The)",
+            "provider": "Argus Research",
+            "reportDate": "2021-11-15T07:21:14Z",
+            "reportTitle": "Walt Disney Co. is a global entertainment company. The company owns and leverages well-known brands, ranging from Mickey Mouse and 'Frozen' to ESPN and ABC. Disney acquired the animated movie producer Pixar Animation Studios in 2006, comic book and movie producer Marvel Entertainment in 2010, 'Star Wars' originator Lucasfilm in 2012, a 75% interest in streaming video technology platform BAMTech (now Disney Streaming Services) in 2017, the assets of 21st Century Fox in March 2019, and Hulu in May 2019. Disney derives 24% of its revenue from outside of North America and 12% from Europe.",
+            "targetPrice": 225.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "DIS"
+            ],
+            "title": "Walt Disney Co. is a global entertainment company. The company owns and leverages well-known brands, ranging from Mickey Mouse and 'Frozen' to ESPN and ABC. Disney acquired the animated movie producer Pixar Animation Studios in 2006, comic book and movie producer Marvel Entertainment in 2010, 'Star Wars' originator Lucasfilm in 2012, a 75% interest in streaming video technology platform BAMTech (now Disney Streaming Services) in 2017, the assets of 21st Century Fox in March 2019, and Hulu in May 2019. Disney derives 24% of its revenue from outside of North America and 12% from Europe."
+        },
+        {
             "id": "31389_Market Summary_1636960874000",
             "headHtml": "Market Digest: AMGN, DIS, EOG, AVGO, IGT, W",
             "provider": "Argus Research",
@@ -841,19 +854,6 @@
                 "DIS"
             ],
             "title": "The stock market moved slightly lower last week as investors eyed inflation metrics and earnings season slowed down. Tech stocks performed similarly to blue chips on the week. During Friday's session, the Dow Jones Industrial Average increased 179 points, or 0.50%. The S&P 500 was up 0.72%, and the Nasdaq Composite was up 1.00%. For the week, the DJIA was down 228 points, or 0.63%, the S&P 500 was down 0.31%, and the Nasdaq Composite was down 0.69%. Year-to-date, the DJIA is up 17.95%, the S&P 500 is up 24.67%, and the Nasdaq Composite is up 23.06%."
-        },
-        {
-            "id": "2894_Analyst Report_1636960874000",
-            "headHtml": "Analyst Report: Walt Disney Co (The)",
-            "provider": "Argus Research",
-            "reportDate": "2021-11-15T07:21:14Z",
-            "reportTitle": "Walt Disney Co. is a global entertainment company. The company owns and leverages well-known brands, ranging from Mickey Mouse and 'Frozen' to ESPN and ABC. Disney acquired the animated movie producer Pixar Animation Studios in 2006, comic book and movie producer Marvel Entertainment in 2010, 'Star Wars' originator Lucasfilm in 2012, a 75% interest in streaming video technology platform BAMTech (now Disney Streaming Services) in 2017, the assets of 21st Century Fox in March 2019, and Hulu in May 2019. Disney derives 24% of its revenue from outside of North America and 12% from Europe.",
-            "targetPrice": 225.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "DIS"
-            ],
-            "title": "Walt Disney Co. is a global entertainment company. The company owns and leverages well-known brands, ranging from Mickey Mouse and 'Frozen' to ESPN and ABC. Disney acquired the animated movie producer Pixar Animation Studios in 2006, comic book and movie producer Marvel Entertainment in 2010, 'Star Wars' originator Lucasfilm in 2012, a 75% interest in streaming video technology platform BAMTech (now Disney Streaming Services) in 2017, the assets of 21st Century Fox in March 2019, and Hulu in May 2019. Disney derives 24% of its revenue from outside of North America and 12% from Europe."
         },
         {
             "id": "30792_Technical Analysis_1630566276000",
@@ -1199,6 +1199,19 @@
             "title": "Stocks fell on Friday morning as a stalemate in Congress over coronavirus relief and increased U.S.-China tensions, prompted by U.S. restrictions on Chinese social media networks, offset slightly better-than-expected July employment data. The Labor Department said that the U.S. economy added 1.763 million payroll jobs in July, down from 4.791 million in June, but above the Reuters consensus forecast of 1.6 million. The official unemployment rate also fell to 10.2% from 11.1% in June, and was better than the consensus estimate of 10.6%. The Dow fell 0.4%, the S&P 0.2%, and the Nasdaq 0.5%. Crude oil fell more than 1% to $41.50 per barrel, while gold traded near $2038 per ounce."
         },
         {
+            "id": "2894_Analyst Report_1588945602000",
+            "headHtml": "Analyst Report: Walt Disney Co (The)",
+            "provider": "Argus Research",
+            "reportDate": "2020-05-08T13:46:42Z",
+            "reportTitle": "Walt Disney Co. is a global entertainment company. The company owns and leverages well-known brands, ranging from Mickey Mouse and 'Frozen' to ESPN and ABC. Disney acquired the animated movie producer Pixar Animation Studios in 2006, comic book and movie producer Marvel Entertainment in 2010, 'Star Wars' originator Lucasfilm in 2012, a 75% interest in streaming video technology platform BAMTech (now Disney Streaming Services) in 2017, the assets of 21st Century Fox in March 2019, and Hulu in May 2019. Disney derives 24% of its revenue from outside of North America and 12% from Europe.",
+            "targetPrice": 130.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "DIS"
+            ],
+            "title": "Walt Disney Co. is a global entertainment company. The company owns and leverages well-known brands, ranging from Mickey Mouse and 'Frozen' to ESPN and ABC. Disney acquired the animated movie producer Pixar Animation Studios in 2006, comic book and movie producer Marvel Entertainment in 2010, 'Star Wars' originator Lucasfilm in 2012, a 75% interest in streaming video technology platform BAMTech (now Disney Streaming Services) in 2017, the assets of 21st Century Fox in March 2019, and Hulu in May 2019. Disney derives 24% of its revenue from outside of North America and 12% from Europe."
+        },
+        {
             "id": "26890_Market Update_1588945602000",
             "headHtml": "Market Update: REGN, AMP, BDN, K, OXY, DIS, EIX",
             "provider": "Argus Research",
@@ -1214,19 +1227,6 @@
                 "DIS"
             ],
             "title": "Stocks rose strongly on Friday morning as investors again looked past devastating employment data. The Labor Department said that the U.S. economy lost 20.5 million jobs last month, up from a revised 870,000 in March. The reading was the worst since the Great Depression, but slightly better than the Reuters consensus forecast of 22 million. The official unemployment rate also soared to a record 14.7% from 4.4% in March. The S&P rose 1.4%, the Dow 1.5%, and the Nasdaq 1.4%. Crude oil rose 2% to $24 per barrel, while gold fell $7 to $1719 per ounce."
-        },
-        {
-            "id": "2894_Analyst Report_1588945602000",
-            "headHtml": "Analyst Report: Walt Disney Co (The)",
-            "provider": "Argus Research",
-            "reportDate": "2020-05-08T13:46:42Z",
-            "reportTitle": "Walt Disney Co. is a global entertainment company. The company owns and leverages well-known brands, ranging from Mickey Mouse and 'Frozen' to ESPN and ABC. Disney acquired the animated movie producer Pixar Animation Studios in 2006, comic book and movie producer Marvel Entertainment in 2010, 'Star Wars' originator Lucasfilm in 2012, a 75% interest in streaming video technology platform BAMTech (now Disney Streaming Services) in 2017, the assets of 21st Century Fox in March 2019, and Hulu in May 2019. Disney derives 24% of its revenue from outside of North America and 12% from Europe.",
-            "targetPrice": 130.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "DIS"
-            ],
-            "title": "Walt Disney Co. is a global entertainment company. The company owns and leverages well-known brands, ranging from Mickey Mouse and 'Frozen' to ESPN and ABC. Disney acquired the animated movie producer Pixar Animation Studios in 2006, comic book and movie producer Marvel Entertainment in 2010, 'Star Wars' originator Lucasfilm in 2012, a 75% interest in streaming video technology platform BAMTech (now Disney Streaming Services) in 2017, the assets of 21st Century Fox in March 2019, and Hulu in May 2019. Disney derives 24% of its revenue from outside of North America and 12% from Europe."
         },
         {
             "id": "26890_Market Update_1588896000000",
@@ -1301,6 +1301,19 @@
             "title": "We recently raised our rating on the Communication Services sector to Over-Weight from Market-Weight.  While existing pressures remain, including assault by regulators on social media companies and intense competition among telecom companies, these concerns have been superseded by COVID-19. In this \"barbell\" sector, telco giants Verizon and AT&T are now apparent islands of relative stability and secure income. Simultaneously, internet giants Alphabet & Facebook are acting as forums for community concerns around the coronavirus outbreak. Given the lack of historical performance data for the new sector, S&P Dow Jones Indices performed pro-forma back-testing over a 10-year period to determine the general characteristics of the new sector. The style mix is approximately one-third \"value\" and two-thirds \"growth,\" while the predecessor Telecom sector was 100% value. The adjusted pro-forma beta is approximately 0.8 (like the old Telecoms), while the yield is 0.9% (reflecting the impact of Google and Facebook).  The smoothed growth rate is 8% and the P/E ratio is 19.6x. The sector accounts for 10.6% of the S&P 500. We think investors should consider allocating 12%-14% of their diversified Portfolios to the sector."
         },
         {
+            "id": "2894_Analyst Report_1586761958000",
+            "headHtml": "Analyst Report: Walt Disney Co (The)",
+            "provider": "Argus Research",
+            "reportDate": "2020-04-13T07:12:38Z",
+            "reportTitle": "Walt Disney Co. is a global entertainment company. The company owns and leverages well-known brands, ranging from Mickey Mouse and 'Frozen' to ESPN and ABC. Disney acquired the animated movie producer Pixar Animation Studios in 2006, comic book and movie producer Marvel Entertainment in 2010, 'Star Wars' originator Lucasfilm in 2012, a 75% interest in streaming video technology platform BAMTech (now Disney Streaming Services) in 2017, the assets of 21st Century Fox in March 2019, and Hulu in May 2019. Disney derives 24% of its revenue from outside of North America and 12% of its revenue from Europe.",
+            "targetPrice": 130.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "DIS"
+            ],
+            "title": "Walt Disney Co. is a global entertainment company. The company owns and leverages well-known brands, ranging from Mickey Mouse and 'Frozen' to ESPN and ABC. Disney acquired the animated movie producer Pixar Animation Studios in 2006, comic book and movie producer Marvel Entertainment in 2010, 'Star Wars' originator Lucasfilm in 2012, a 75% interest in streaming video technology platform BAMTech (now Disney Streaming Services) in 2017, the assets of 21st Century Fox in March 2019, and Hulu in May 2019. Disney derives 24% of its revenue from outside of North America and 12% of its revenue from Europe."
+        },
+        {
             "id": "26661_Market Summary_1586761958000",
             "headHtml": "Market Digest: SO, CTSH, DIS, XLNX, THO, SRE",
             "provider": "Argus Research",
@@ -1315,19 +1328,6 @@
                 "DIS"
             ],
             "title": "Stocks shrugged off a dismal weekly unemployment claims report, the third in as many weeks, on Thursday to close higher, as the Federal Reserve announced a vast new lending program to support the economy. The Dow Jones Industrial Average added 1.2%, the Nasdaq Composite rose 0.8% and the S&P 500 climbed 1.5%. For the holiday-shortened trading week, with the backdrop of an improving coronavirus outlook as the number of cases appeared to be hitting a plateau, the major benchmarks rose sharply from depressed levels. Gains amounted to 12.7% for the Dow, 10.6% for the Nasdaq, and 12.1% for the S&P 500. Year-to-date losses improved to 16.9% for the Dow, 9.1% for the Nasdaq and 13.7% for the S&P 500. "
-        },
-        {
-            "id": "2894_Analyst Report_1586761958000",
-            "headHtml": "Analyst Report: Walt Disney Co (The)",
-            "provider": "Argus Research",
-            "reportDate": "2020-04-13T07:12:38Z",
-            "reportTitle": "Walt Disney Co. is a global entertainment company. The company owns and leverages well-known brands, ranging from Mickey Mouse and 'Frozen' to ESPN and ABC. Disney acquired the animated movie producer Pixar Animation Studios in 2006, comic book and movie producer Marvel Entertainment in 2010, 'Star Wars' originator Lucasfilm in 2012, a 75% interest in streaming video technology platform BAMTech (now Disney Streaming Services) in 2017, the assets of 21st Century Fox in March 2019, and Hulu in May 2019. Disney derives 24% of its revenue from outside of North America and 12% of its revenue from Europe.",
-            "targetPrice": 130.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "DIS"
-            ],
-            "title": "Walt Disney Co. is a global entertainment company. The company owns and leverages well-known brands, ranging from Mickey Mouse and 'Frozen' to ESPN and ABC. Disney acquired the animated movie producer Pixar Animation Studios in 2006, comic book and movie producer Marvel Entertainment in 2010, 'Star Wars' originator Lucasfilm in 2012, a 75% interest in streaming video technology platform BAMTech (now Disney Streaming Services) in 2017, the assets of 21st Century Fox in March 2019, and Hulu in May 2019. Disney derives 24% of its revenue from outside of North America and 12% of its revenue from Europe."
         },
         {
             "id": "26661_Market Summary_1586736000000",
@@ -1560,6 +1560,19 @@
             "title": "Black Swan: Our Monthly Survey of the Economy, Interest Rates, and Markets"
         },
         {
+            "id": "2894_Analyst Report_1580947200000",
+            "headHtml": "Analyst Report: Walt Disney Company",
+            "provider": "Argus Research",
+            "reportDate": "2020-02-06T00:00:00Z",
+            "reportTitle": "Walt Disney Co. is a global entertainment company. The company owns and leverages well-known brands, ranging from Mickey Mouse and 'Frozen' to ESPN and ABC. Disney acquired the animated movie producer Pixar Animation Studios in 2006, comic book and movie producer Marvel Entertainment in 2010, 'Star Wars' originator Lucasfilm in 2012, a 75% interest in streaming video technology platform BAMTech (now Disney Streaming Services) in 2017, the assets of 21st Century Fox in March 2019, and Hulu in May 2019. Disney derives 24% of its revenue from outside of North America and 12% of its revenue from Europe.",
+            "targetPrice": 160.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "DIS"
+            ],
+            "title": "Walt Disney Co. is a global entertainment company. The company owns and leverages well-known brands, ranging from Mickey Mouse and 'Frozen' to ESPN and ABC. Disney acquired the animated movie producer Pixar Animation Studios in 2006, comic book and movie producer Marvel Entertainment in 2010, 'Star Wars' originator Lucasfilm in 2012, a 75% interest in streaming video technology platform BAMTech (now Disney Streaming Services) in 2017, the assets of 21st Century Fox in March 2019, and Hulu in May 2019. Disney derives 24% of its revenue from outside of North America and 12% of its revenue from Europe."
+        },
+        {
             "id": "26123_Market Summary_1580947200000",
             "headHtml": "Market Digest: AMGN, APO, PCAR, RCL, STX, VIAV, VSH, DIS, VLO, NJR",
             "provider": "Argus Research",
@@ -1578,19 +1591,6 @@
                 "DIS"
             ],
             "title": "Black Swan: Our Monthly Survey of the Economy, Interest Rates, and Markets"
-        },
-        {
-            "id": "2894_Analyst Report_1580947200000",
-            "headHtml": "Analyst Report: Walt Disney Company",
-            "provider": "Argus Research",
-            "reportDate": "2020-02-06T00:00:00Z",
-            "reportTitle": "Walt Disney Co. is a global entertainment company. The company owns and leverages well-known brands, ranging from Mickey Mouse and 'Frozen' to ESPN and ABC. Disney acquired the animated movie producer Pixar Animation Studios in 2006, comic book and movie producer Marvel Entertainment in 2010, 'Star Wars' originator Lucasfilm in 2012, a 75% interest in streaming video technology platform BAMTech (now Disney Streaming Services) in 2017, the assets of 21st Century Fox in March 2019, and Hulu in May 2019. Disney derives 24% of its revenue from outside of North America and 12% of its revenue from Europe.",
-            "targetPrice": 160.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "DIS"
-            ],
-            "title": "Walt Disney Co. is a global entertainment company. The company owns and leverages well-known brands, ranging from Mickey Mouse and 'Frozen' to ESPN and ABC. Disney acquired the animated movie producer Pixar Animation Studios in 2006, comic book and movie producer Marvel Entertainment in 2010, 'Star Wars' originator Lucasfilm in 2012, a 75% interest in streaming video technology platform BAMTech (now Disney Streaming Services) in 2017, the assets of 21st Century Fox in March 2019, and Hulu in May 2019. Disney derives 24% of its revenue from outside of North America and 12% of its revenue from Europe."
         },
         {
             "id": "25999_Thematic Portfolio_1579675622000",
@@ -1792,23 +1792,30 @@
             "title": "Stocks finished flat to slightly higher on Friday, aided by optimism over a phase I trade deal with China and the potential delay of upcoming tariffs. The Dow Jones Industrial Average was flat, while the Nasdaq Composite rose 0.5% and the S&P 500 added 0.3%, closing at a record high. As third-quarter earnings announcements began to wind down in a better-than-expected fashion, stocks also maintained momentum for the week, leading to a fifth consecutive rise. The Dow was up 1.2%, the Nasdaq added 1.1%, and the S&P 500 rose 0.9%. Year-to-date gains are now 18.7% for the Dow, 27.7% for the Nasdaq and 23.4% for the S&P 500.  "
         },
         {
-            "id": "2894_Analyst Report_1573430400000",
-            "headHtml": "Analyst Report: Walt Disney Company",
+            "id": "25430_Market Summary_1573430400000",
+            "headHtml": "Market Digest: W, LHX, ABBV, EL, PRU, STX, DIS, GSK, OXY, EIX",
             "provider": "Argus Research",
             "reportDate": "2019-11-11T00:00:00Z",
-            "reportTitle": "Walt Disney Co. is a global entertainment company. The company owns and leverages well-known brands, ranging from Mickey Mouse and 'Frozen' to ESPN and ABC. Disney acquired the animated movie producer Pixar Animation Studios in 2006, comic book and movie producer Marvel Entertainment in 2010, 'Star Wars' originator Lucasfilm in 2012, a 75% interest in streaming video technology platform BAMTech (now Disney Streaming Services) in 2017, the assets of 21st Century Fox in March 2019, and Hulu in May 2019. Disney derives 24% of its revenue from outside of North America and 12% of its revenue from Europe.",
-            "targetPrice": 160.0,
-            "investmentRating": "Bullish",
+            "reportTitle": "Stocks finished flat to slightly higher on Friday, aided by optimism over a phase I trade deal with China and the potential delay of upcoming tariffs. The Dow Jones Industrial Average was flat, while the Nasdaq Composite rose 0.5% and the S&P 500 added 0.3%, closing at a record high. As third-quarter earnings announcements began to wind down in a better-than-expected fashion, stocks also maintained momentum for the week, leading to a fifth consecutive rise. The Dow was up 1.2%, the Nasdaq added 1.1%, and the S&P 500 rose 0.9%. Year-to-date gains are now 18.7% for the Dow, 27.7% for the Nasdaq and 23.4% for the S&P 500.  ",
             "tickers": [
+                "OXY",
+                "PRU",
+                "EIX",
+                "STX",
+                "EL",
+                "W",
+                "ABBV",
+                "LHX",
+                "GSK",
                 "DIS"
             ],
-            "title": "Walt Disney Co. is a global entertainment company. The company owns and leverages well-known brands, ranging from Mickey Mouse and 'Frozen' to ESPN and ABC. Disney acquired the animated movie producer Pixar Animation Studios in 2006, comic book and movie producer Marvel Entertainment in 2010, 'Star Wars' originator Lucasfilm in 2012, a 75% interest in streaming video technology platform BAMTech (now Disney Streaming Services) in 2017, the assets of 21st Century Fox in March 2019, and Hulu in May 2019. Disney derives 24% of its revenue from outside of North America and 12% of its revenue from Europe."
+            "title": "Stocks finished flat to slightly higher on Friday, aided by optimism over a phase I trade deal with China and the potential delay of upcoming tariffs. The Dow Jones Industrial Average was flat, while the Nasdaq Composite rose 0.5% and the S&P 500 added 0.3%, closing at a record high. As third-quarter earnings announcements began to wind down in a better-than-expected fashion, stocks also maintained momentum for the week, leading to a fifth consecutive rise. The Dow was up 1.2%, the Nasdaq added 1.1%, and the S&P 500 rose 0.9%. Year-to-date gains are now 18.7% for the Dow, 27.7% for the Nasdaq and 23.4% for the S&P 500.  "
         }
     ],
     "sigDevs": [
         {
-            "headline": "Disney Reports Q2 Adj EPS $1.21 Versus Estimate $1.10",
-            "date": "2024-05-07"
+            "headline": "Disney Said to Sell Stake in Tata's $1 Billion India TV Platform - Bloomberg News",
+            "date": "2024-05-22"
         }
     ],
     "secReports": [
@@ -1867,21 +1874,21 @@
             "formType": "8-K"
         },
         {
-            "id": "0000950157-24-000550_1744489",
-            "type": "Proxy Statements",
-            "title": "DEFA14A : Proxy Statements",
-            "description": "Definitive additional proxy soliciting materials including Rule 14(a)(12) material. Note: Submission type DEFA14A can be filed as part of Form 8-K. For filers subject to 8-K filing requirements we recommend the use of the 8-K combined form type as the easiest method for fulfilling your filing requirement for both forms",
-            "filingDate": 1711584000000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001744489/000095015724000550/thumbnail.png",
-            "formType": "DEFA14A"
-        },
-        {
             "id": "0000950157-24-000539_1744489",
             "type": "Proxy Statements",
             "title": "DEFA14A : Proxy Statements",
             "description": "Definitive additional proxy soliciting materials including Rule 14(a)(12) material. Note: Submission type DEFA14A can be filed as part of Form 8-K. For filers subject to 8-K filing requirements we recommend the use of the 8-K combined form type as the easiest method for fulfilling your filing requirement for both forms",
             "filingDate": 1711584000000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001744489/000095015724000539/thumbnail.png",
+            "formType": "DEFA14A"
+        },
+        {
+            "id": "0000950157-24-000550_1744489",
+            "type": "Proxy Statements",
+            "title": "DEFA14A : Proxy Statements",
+            "description": "Definitive additional proxy soliciting materials including Rule 14(a)(12) material. Note: Submission type DEFA14A can be filed as part of Form 8-K. For filers subject to 8-K filing requirements we recommend the use of the 8-K combined form type as the easiest method for fulfilling your filing requirement for both forms",
+            "filingDate": 1711584000000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001744489/000095015724000550/thumbnail.png",
             "formType": "DEFA14A"
         },
         {

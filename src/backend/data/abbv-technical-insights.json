@@ -5,10 +5,10 @@
             "provider": "Trading Central",
             "sector": "Healthcare",
             "shortTermOutlook": {
-                "stateDescription": "Recent bullish events outweigh bearish events.",
-                "direction": "Bullish",
-                "score": 4,
-                "scoreDescription": "Very Strong Bullish Evidence",
+                "stateDescription": "Recent bearish events outweigh bullish events.",
+                "direction": "Bearish",
+                "score": 3,
+                "scoreDescription": "Strong Bearish Evidence",
                 "sectorDirection": "Bearish",
                 "sectorScore": 2,
                 "sectorScoreDescription": "Bearish Evidence",
@@ -43,14 +43,14 @@
         },
         "keyTechnicals": {
             "provider": "Trading Central",
-            "support": 147.56,
-            "resistance": 178.92,
-            "stopLoss": 158.403018
+            "support": 137.95,
+            "resistance": 162.89,
+            "stopLoss": 148.232057
         },
         "valuation": {
             "color": 1.0,
             "description": "Undervalued",
-            "discount": "35%",
+            "discount": "36%",
             "relativeValue": "Discount",
             "provider": "Trading Central"
         }
@@ -58,12 +58,12 @@
     "companySnapshot": {
         "sectorInfo": "Healthcare",
         "company": {
-            "innovativeness": 0.9459000000000001,
+            "innovativeness": 0.9481,
             "hiring": 0.9181,
             "sustainability": 0.9309999999999999,
-            "insiderSentiments": 0.0851,
-            "earningsReports": 0.9587,
-            "dividends": 0.8097
+            "insiderSentiments": 0.0837,
+            "earningsReports": 0.9591,
+            "dividends": 0.8057
         },
         "sector": {
             "innovativeness": 0.5,
@@ -105,13 +105,13 @@
     },
     "events": [
         {
-            "eventType": "Triple Moving Average Crossover",
+            "eventType": "Slow Stochastic",
             "pricePeriod": "D",
             "tradingHorizon": "S",
-            "tradeType": "L",
+            "tradeType": "S",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1716211800,
-            "endDate": 1716211800
+            "startDate": 1716384600,
+            "endDate": 1716384600
         }
     ],
     "reports": [
@@ -256,18 +256,6 @@
             "title": "The Vickers Top Buyers & Sellers is a daily report that identifies the five companies the largest insider purchase transactions based on the dollar value of the transactions as well as the five companies the largest insider sales transactions based on the dollar value of the transactions."
         },
         {
-            "id": "3610_Analyst Report_1682941454000",
-            "headHtml": "Analyst Report: AbbVie Inc",
-            "provider": "Argus Research",
-            "reportDate": "2023-05-01T11:44:14Z",
-            "reportTitle": "AbbVie, a research-based biopharmaceutical company, was spun off from Abbott Laboratories in January 2013. The company is based in suburban Chicago. The shares are a component of the S&P 500.",
-            "investmentRating": "Neutral",
-            "tickers": [
-                "ABBV"
-            ],
-            "title": "AbbVie, a research-based biopharmaceutical company, was spun off from Abbott Laboratories in January 2013. The company is based in suburban Chicago. The shares are a component of the S&P 500."
-        },
-        {
             "id": "36322_Market Summary_1682941454000",
             "headHtml": "Market Digest: NLY, AJG, BXP, CAT, CMCSA, COF, DPZ, FHI, HES, IP, JNPR, SHW, URI, WM, GM, HA, ABBV, SNAP, MRNA",
             "provider": "Argus Research",
@@ -295,6 +283,18 @@
                 "AJG"
             ],
             "title": "Monday Tee Up: The Fed, Jobs, Earnings"
+        },
+        {
+            "id": "3610_Analyst Report_1682941454000",
+            "headHtml": "Analyst Report: AbbVie Inc",
+            "provider": "Argus Research",
+            "reportDate": "2023-05-01T11:44:14Z",
+            "reportTitle": "AbbVie, a research-based biopharmaceutical company, was spun off from Abbott Laboratories in January 2013. The company is based in suburban Chicago. The shares are a component of the S&P 500.",
+            "investmentRating": "Neutral",
+            "tickers": [
+                "ABBV"
+            ],
+            "title": "AbbVie, a research-based biopharmaceutical company, was spun off from Abbott Laboratories in January 2013. The company is based in suburban Chicago. The shares are a component of the S&P 500."
         },
         {
             "id": "36224_Top/Bottom Insider Activity_1681988589000",
@@ -886,19 +886,6 @@
             "title": "Stocks fell on Thursday morning following more signs of accelerating inflation. The Labor Department said that U.S. consumer prices rose at a 7.5% annualized rate in January, up from 7.0% in December. The reading exceeded the Bloomberg consensus forecast of 7.3% and was the highest since 1982. The core CPI excluding food and energy rose an annualized 6.0%, up from 5.5% in December. The Dow fell 0.2%, the S&P 0.3%, and the Nasdaq 0.3%. Crude oil rose more than 2% to $92 per barrel, while gold rose $5 to $1841 per ounce."
         },
         {
-            "id": "3610_Analyst Report_1636096726000",
-            "headHtml": "Analyst Report: AbbVie Inc",
-            "provider": "Argus Research",
-            "reportDate": "2021-11-05T07:18:46Z",
-            "reportTitle": "AbbVie, a research-based biopharmaceutical company, was spun off from Abbott Laboratories in January 2013. The company is based in suburban Chicago. The shares are a component of the S&P 500.",
-            "targetPrice": 140.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "ABBV"
-            ],
-            "title": "AbbVie, a research-based biopharmaceutical company, was spun off from Abbott Laboratories in January 2013. The company is based in suburban Chicago. The shares are a component of the S&P 500."
-        },
-        {
             "id": "31322_Market Summary_1636096726000",
             "headHtml": "Market Digest: ETN, PH, RL, AWK, ABBV, QRVO, SHOP",
             "provider": "Argus Research",
@@ -914,6 +901,19 @@
                 "ETN"
             ],
             "title": "Stocks finished mostly higher on Thursday as investors weighed a new round of earnings reports and continued to assess the Fed's tapering plan. Employment data was strong. The Labor Department said that first-time claims for state unemployment benefits fell to 269,000 for the week ended October 30, down from 283,000 a week earlier and below the Bloomberg consensus of 275,000. Continuing claims of 2.105 million were also down from the prior week and below consensus. The data came ahead of the government's October employment report on Friday morning. The consensus calls for the addition of 450,000 new payroll jobs after an increase of 194,000 in September, and a decrease in the unemployment rate to 4.7%. The Dow fell 0.09%, the S&P rose 0.42%, and the Nasdaq rose 0.81%. Crude oil fell 2% to $79 per barrel, while gold rose $29 to $1793 per ounce."
+        },
+        {
+            "id": "3610_Analyst Report_1636096726000",
+            "headHtml": "Analyst Report: AbbVie Inc",
+            "provider": "Argus Research",
+            "reportDate": "2021-11-05T07:18:46Z",
+            "reportTitle": "AbbVie, a research-based biopharmaceutical company, was spun off from Abbott Laboratories in January 2013. The company is based in suburban Chicago. The shares are a component of the S&P 500.",
+            "targetPrice": 140.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "ABBV"
+            ],
+            "title": "AbbVie, a research-based biopharmaceutical company, was spun off from Abbott Laboratories in January 2013. The company is based in suburban Chicago. The shares are a component of the S&P 500."
         },
         {
             "id": "31322_Market Summary_1636095826000",
@@ -1412,19 +1412,6 @@
             "title": "This is among our most important themes for 2020, and stretches across industries. We think companies that raise their dividends consistently at a double-digit rate are delivering three important signals amid all the recent market volatility:  1) the company's balance sheet is strong enough to pay a dividend; 2) management is focused on providing shareholder returns; and 3) management is confident enough in the near-term outlook to raise the payout aggressively. This third factor is especially important as the pandemic upends the nation's recent record of long-term economic growth.  Here are 13 stocks that meet our double-digit dividend test and are on the Argus BUY List.  They are also new holdings in our Dividend Growth Separately Managed Account and in the Dividend Growers Total Return Trust, sponsored by SmartTrust."
         },
         {
-            "id": "3610_Analyst Report_1597759743000",
-            "headHtml": "Analyst Report: AbbVie Inc",
-            "provider": "Argus Research",
-            "reportDate": "2020-08-18T14:09:03Z",
-            "reportTitle": "AbbVie, a research-based biopharmaceutical company, was spun off from Abbott Laboratories in January 2013. The company is based in suburban Chicago. The shares are a component of the S&P 500.",
-            "targetPrice": 115.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "ABBV"
-            ],
-            "title": "AbbVie, a research-based biopharmaceutical company, was spun off from Abbott Laboratories in January 2013. The company is based in suburban Chicago. The shares are a component of the S&P 500."
-        },
-        {
             "id": "27712_Market Update_1597759743000",
             "headHtml": "Market Update: ABBV, MKL, FOXA, HOG, SYY, WRK, WSM, AEP",
             "provider": "Argus Research",
@@ -1441,6 +1428,19 @@
                 "MKL"
             ],
             "title": "Stocks were mixed on Tuesday morning as investors weighed earnings from Walmart and Kohl's and new housing market data. Walmart topped consensus revenue and earnings estimates in fiscal 2Q, noting that the strong results were boosted by enhanced unemployment benefits and other government aid. Kohl's shares fell more than 15% after the company reported a 2Q loss and warned of a challenging back-to-school season. Meanwhile, the Commerce Department said that housing starts rose a strong 22.6% in July to an annualized 1.496 million units, well above the Reuters consensus forecast of 1.24 million. The Dow fell 0.1%, the S&P rose 0.2%, and the Nasdaq rose 0.4%. Crude oil traded near $42.50 per barrel, while gold rose $15 to $2014 per ounce."
+        },
+        {
+            "id": "3610_Analyst Report_1597759743000",
+            "headHtml": "Analyst Report: AbbVie Inc",
+            "provider": "Argus Research",
+            "reportDate": "2020-08-18T14:09:03Z",
+            "reportTitle": "AbbVie, a research-based biopharmaceutical company, was spun off from Abbott Laboratories in January 2013. The company is based in suburban Chicago. The shares are a component of the S&P 500.",
+            "targetPrice": 115.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "ABBV"
+            ],
+            "title": "AbbVie, a research-based biopharmaceutical company, was spun off from Abbott Laboratories in January 2013. The company is based in suburban Chicago. The shares are a component of the S&P 500."
         },
         {
             "id": "27712_Market Update_1597708800000",
@@ -2106,15 +2106,6 @@
             "formType": "S-8"
         },
         {
-            "id": "0001551152-24-000011_1551152",
-            "type": "Periodic Financial Reports",
-            "title": "10-K : Periodic Financial Reports",
-            "description": "Annual report pursuant to Section 13 and 15(d)",
-            "filingDate": 1708387200000,
-            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001551152/000155115224000011/thumbnail.png",
-            "formType": "10-K"
-        },
-        {
             "id": "0001104659-24-025262_1551152",
             "type": "Corporate Changes & Voting Matters",
             "title": "8-K : Corporate Changes & Voting Matters",
@@ -2122,6 +2113,15 @@
             "filingDate": 1708387200000,
             "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001551152/000110465924025262/thumbnail.png",
             "formType": "8-K"
+        },
+        {
+            "id": "0001551152-24-000011_1551152",
+            "type": "Periodic Financial Reports",
+            "title": "10-K : Periodic Financial Reports",
+            "description": "Annual report pursuant to Section 13 and 15(d)",
+            "filingDate": 1708387200000,
+            "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001551152/000155115224000011/thumbnail.png",
+            "formType": "10-K"
         },
         {
             "id": "0001104659-24-013692_1551152",

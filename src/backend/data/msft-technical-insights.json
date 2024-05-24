@@ -7,8 +7,8 @@
             "shortTermOutlook": {
                 "stateDescription": "Recent bullish events outweigh bearish events.",
                 "direction": "Bullish",
-                "score": 3,
-                "scoreDescription": "Strong Bullish Evidence",
+                "score": 2,
+                "scoreDescription": "Bullish Evidence",
                 "sectorDirection": "Bullish",
                 "sectorScore": 2,
                 "sectorScoreDescription": "Bullish Evidence",
@@ -19,8 +19,8 @@
             "intermediateTermOutlook": {
                 "stateDescription": "Recent bullish events outweigh bearish events.",
                 "direction": "Bullish",
-                "score": 2,
-                "scoreDescription": "Bullish Evidence",
+                "score": 3,
+                "scoreDescription": "Strong Bullish Evidence",
                 "sectorDirection": "Bullish",
                 "sectorScore": 1,
                 "sectorScoreDescription": "Weak Bullish Evidence",
@@ -44,13 +44,13 @@
         "keyTechnicals": {
             "provider": "Trading Central",
             "support": 332.89,
-            "resistance": 427.82,
-            "stopLoss": 409.949891
+            "resistance": 430.82,
+            "stopLoss": 409.894459
         },
         "valuation": {
             "color": 0.0,
             "description": "Overvalued",
-            "discount": "-1%",
+            "discount": "-2%",
             "relativeValue": "Premium",
             "provider": "Trading Central"
         }
@@ -58,12 +58,12 @@
     "companySnapshot": {
         "sectorInfo": "Technology",
         "company": {
-            "innovativeness": 0.9689,
+            "innovativeness": 0.9709,
             "hiring": 0.9662999999999999,
             "sustainability": 0.3667,
             "insiderSentiments": 0.382,
-            "earningsReports": 0.8787999999999999,
-            "dividends": 0.1491
+            "earningsReports": 0.8798999999999999,
+            "dividends": 0.1507
         },
         "sector": {
             "innovativeness": 0.5,
@@ -2134,8 +2134,8 @@
     ],
     "sigDevs": [
         {
-            "headline": "AMD Instinct Mi300x Accelerators Power Microsoft Azure Openai Service Workloads And New Azure Nd Mi300x V5 Vms",
-            "date": "2024-05-21"
+            "headline": "UK's Information Commissioner's Office To Make Enquiries With Microsoft On Its Recall feature",
+            "date": "2024-05-22"
         }
     ],
     "secReports": [

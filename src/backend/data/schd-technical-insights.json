@@ -34,8 +34,8 @@
         "keyTechnicals": {
             "provider": "Trading Central",
             "support": 77.4,
-            "resistance": 79.87,
-            "stopLoss": 77.673098
+            "resistance": 79.49,
+            "stopLoss": 77.251439
         },
         "valuation": {
             "provider": "Trading Central"
@@ -43,13 +43,13 @@
     },
     "events": [
         {
-            "eventType": "Commodity Channel Index",
+            "eventType": "Double Moving Average Crossover",
             "pricePeriod": "D",
             "tradingHorizon": "S",
-            "tradeType": "U",
+            "tradeType": "L",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1716211800,
-            "endDate": 1716211800
+            "startDate": 1716384600,
+            "endDate": 1716384600
         }
     ],
     "sigDevs": []

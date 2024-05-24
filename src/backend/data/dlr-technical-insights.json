@@ -7,11 +7,11 @@
             "shortTermOutlook": {
                 "stateDescription": "Recent bearish events outweigh bullish events.",
                 "direction": "Bearish",
-                "score": 2,
-                "scoreDescription": "Bearish Evidence",
+                "score": 1,
+                "scoreDescription": "Weak Bearish Evidence",
                 "sectorDirection": "Bullish",
-                "sectorScore": 3,
-                "sectorScoreDescription": "Strong Bullish Evidence",
+                "sectorScore": 2,
+                "sectorScoreDescription": "Bullish Evidence",
                 "indexDirection": "Bullish",
                 "indexScore": 1,
                 "indexScoreDescription": "Weak Bullish Evidence"
@@ -44,8 +44,8 @@
         "keyTechnicals": {
             "provider": "Trading Central",
             "support": 135.89,
-            "resistance": 144.035,
-            "stopLoss": 134.821861
+            "resistance": 144.62,
+            "stopLoss": 135.022545
         },
         "valuation": {
             "color": 0.0,
@@ -61,8 +61,8 @@
             "innovativeness": 0.5097999999999999,
             "sustainability": 0.4082,
             "insiderSentiments": 0.5128,
-            "earningsReports": 0.8753,
-            "dividends": 0.1775
+            "earningsReports": 0.8758,
+            "dividends": 0.1808
         },
         "sector": {
             "innovativeness": 0.5,
@@ -105,13 +105,13 @@
     },
     "events": [
         {
-            "eventType": "Engulfing Line (Bearish)",
+            "eventType": "Momentum",
             "pricePeriod": "D",
             "tradingHorizon": "S",
-            "tradeType": "S",
+            "tradeType": "L",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1715866200,
-            "endDate": 1715952600
+            "startDate": 1716384600,
+            "endDate": 1716384600
         }
     ],
     "reports": [
@@ -606,19 +606,6 @@
             "title": "The Vickers Top Buyers & Sellers is a daily report that identifies the five companies the largest insider purchase transactions based on the dollar value of the transactions as well as the five companies the largest insider sales transactions based on the dollar value of the transactions."
         },
         {
-            "id": "4555_Analyst Report_1635752351000",
-            "headHtml": "Analyst Report: Digital Realty Trust Inc",
-            "provider": "Argus Research",
-            "reportDate": "2021-11-01T07:39:11Z",
-            "reportTitle": "Digital Realty Trust is a real estate investment trust focusing on interconnected data centers. Digital Realty Trust also develops data center platforms for businesses involved in cloud software, IT, financial services, social media, and mobile services. The company operates in more than 36 metropolitan markets on five continents. It is based in Austin, Texas.",
-            "targetPrice": 180.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "DLR"
-            ],
-            "title": "Digital Realty Trust is a real estate investment trust focusing on interconnected data centers. Digital Realty Trust also develops data center platforms for businesses involved in cloud software, IT, financial services, social media, and mobile services. The company operates in more than 36 metropolitan markets on five continents. It is based in Austin, Texas."
-        },
-        {
             "id": "31276_Market Summary_1635752351000",
             "headHtml": "Market Digest: BA, BMY, CME, GD, MCO, MRK, WDC, FB, DLR, LIN, CARR",
             "provider": "Argus Research",
@@ -638,6 +625,19 @@
                 "BMY"
             ],
             "title": "The stock market moved higher last week during the busiest days of earnings season. Tech stocks far outperformed blue chips, though a portion of the outperformance was attributable to Tesla, as its stock is included in the S&P 500 and Nasdaq Composite, but not the DJIA. During Friday's session, the Dow Jones Industrial Average increased 89 points, or 0.25%. The S&P 500 was up 0.19%, and the Nasdaq Composite was up 0.33%. For the week, the DJIA was up 143 points, or 0.40%, the S&P 500 was up 1.33%, and the Nasdaq Composite was up 2.70%. For the YTD, the DJIA is up 17.03%, the S&P 500 is up 22.61%, and the Nasdaq Composite is up 20.25%."
+        },
+        {
+            "id": "4555_Analyst Report_1635752351000",
+            "headHtml": "Analyst Report: Digital Realty Trust Inc",
+            "provider": "Argus Research",
+            "reportDate": "2021-11-01T07:39:11Z",
+            "reportTitle": "Digital Realty Trust is a real estate investment trust focusing on interconnected data centers. Digital Realty Trust also develops data center platforms for businesses involved in cloud software, IT, financial services, social media, and mobile services. The company operates in more than 36 metropolitan markets on five continents. It is based in Austin, Texas.",
+            "targetPrice": 180.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "DLR"
+            ],
+            "title": "Digital Realty Trust is a real estate investment trust focusing on interconnected data centers. Digital Realty Trust also develops data center platforms for businesses involved in cloud software, IT, financial services, social media, and mobile services. The company operates in more than 36 metropolitan markets on five continents. It is based in Austin, Texas."
         },
         {
             "id": "30806_Top/Bottom Insider Activity_1630653775000",
@@ -1133,18 +1133,6 @@
             "title": "Earnings season has come and gone, and the volume of insider transactions is not just back to normal -- it is exceeding recent patterns. This gives increased significance to any sentiment trends that come from trades made by corporate executives, directors and beneficial owners. This week, some 1661 insider transactions met the criteria for inclusion in Vickers Weekly Insider Report. The last time we saw this level of trading volume was back in May -- so transaction activity is brisk. That said, what is this activity telling us?"
         },
         {
-            "id": "25559_Market Summary_1574726400000",
-            "headHtml": "Market Digest: ARNC, DLR",
-            "provider": "Argus Research",
-            "reportDate": "2019-11-26T00:00:00Z",
-            "reportTitle": "Earnings season has come and gone, and the volume of insider transactions is not just back to normal -- it is exceeding recent patterns. This gives increased significance to any sentiment trends that come from trades made by corporate executives, directors and beneficial owners. This week, some 1661 insider transactions met the criteria for inclusion in Vickers Weekly Insider Report. The last time we saw this level of trading volume was back in May -- so transaction activity is brisk. That said, what is this activity telling us?",
-            "tickers": [
-                "ARNC",
-                "DLR"
-            ],
-            "title": "Earnings season has come and gone, and the volume of insider transactions is not just back to normal -- it is exceeding recent patterns. This gives increased significance to any sentiment trends that come from trades made by corporate executives, directors and beneficial owners. This week, some 1661 insider transactions met the criteria for inclusion in Vickers Weekly Insider Report. The last time we saw this level of trading volume was back in May -- so transaction activity is brisk. That said, what is this activity telling us?"
-        },
-        {
             "id": "4555_Analyst Report_1574726400000",
             "headHtml": "Analyst Report: Digital Realty Trust Inc",
             "provider": "Argus Research",
@@ -1156,6 +1144,18 @@
                 "DLR"
             ],
             "title": "Digital Realty Trust is a real estate investment trust focusing on interconnected data centers. Digital Realty Trust also develops data center platforms for businesses involved in cloud software, IT, financial services, social media, and mobile services. The company operates in more than 35 metropolitan markets on five continents."
+        },
+        {
+            "id": "25559_Market Summary_1574726400000",
+            "headHtml": "Market Digest: ARNC, DLR",
+            "provider": "Argus Research",
+            "reportDate": "2019-11-26T00:00:00Z",
+            "reportTitle": "Earnings season has come and gone, and the volume of insider transactions is not just back to normal -- it is exceeding recent patterns. This gives increased significance to any sentiment trends that come from trades made by corporate executives, directors and beneficial owners. This week, some 1661 insider transactions met the criteria for inclusion in Vickers Weekly Insider Report. The last time we saw this level of trading volume was back in May -- so transaction activity is brisk. That said, what is this activity telling us?",
+            "tickers": [
+                "ARNC",
+                "DLR"
+            ],
+            "title": "Earnings season has come and gone, and the volume of insider transactions is not just back to normal -- it is exceeding recent patterns. This gives increased significance to any sentiment trends that come from trades made by corporate executives, directors and beneficial owners. This week, some 1661 insider transactions met the criteria for inclusion in Vickers Weekly Insider Report. The last time we saw this level of trading volume was back in May -- so transaction activity is brisk. That said, what is this activity telling us?"
         },
         {
             "id": "25263_Technical Analysis_1571641657000",

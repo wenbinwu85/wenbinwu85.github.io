@@ -5,13 +5,13 @@
             "provider": "Trading Central",
             "sector": "Energy",
             "shortTermOutlook": {
-                "stateDescription": "Recent bullish events outweigh bearish events.",
-                "direction": "Bullish",
-                "score": 3,
-                "scoreDescription": "Strong Bullish Evidence",
-                "sectorDirection": "Bullish",
-                "sectorScore": 3,
-                "sectorScoreDescription": "Strong Bullish Evidence",
+                "stateDescription": "Recent bearish events outweigh bullish events.",
+                "direction": "Bearish",
+                "score": 2,
+                "scoreDescription": "Bearish Evidence",
+                "sectorDirection": "Bearish",
+                "sectorScore": 4,
+                "sectorScoreDescription": "Very Strong Bearish Evidence",
                 "indexDirection": "Bullish",
                 "indexScore": 1,
                 "indexScoreDescription": "Weak Bullish Evidence"
@@ -21,9 +21,9 @@
                 "direction": "Bearish",
                 "score": 2,
                 "scoreDescription": "Bearish Evidence",
-                "sectorDirection": "Bullish",
-                "sectorScore": 2,
-                "sectorScoreDescription": "Bullish Evidence",
+                "sectorDirection": "Bearish",
+                "sectorScore": 1,
+                "sectorScoreDescription": "Weak Bearish Evidence",
                 "indexDirection": "Bearish",
                 "indexScore": 3,
                 "indexScoreDescription": "Strong Bearish Evidence"
@@ -44,8 +44,8 @@
         "keyTechnicals": {
             "provider": "Trading Central",
             "support": 26.425,
-            "resistance": 29.045,
-            "stopLoss": 27.41141
+            "resistance": 28.75,
+            "stopLoss": 27.620966
         },
         "valuation": {
             "color": 0.5,
@@ -57,10 +57,10 @@
     "companySnapshot": {
         "sectorInfo": "Energy",
         "company": {
-            "innovativeness": 0.20370000000000002,
+            "innovativeness": 0.1991,
             "insiderSentiments": 0.7752,
-            "earningsReports": 0.7495,
-            "dividends": 0.6594
+            "earningsReports": 0.7422,
+            "dividends": 0.6653
         },
         "sector": {
             "innovativeness": 0.5,
@@ -106,10 +106,10 @@
             "eventType": "Price Crosses Moving Average",
             "pricePeriod": "D",
             "tradingHorizon": "S",
-            "tradeType": "L",
+            "tradeType": "S",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1716211800,
-            "endDate": 1716211800
+            "startDate": 1716384600,
+            "endDate": 1716384600
         }
     ],
     "reports": [
@@ -331,6 +331,19 @@
             "title": "The major stock indices passed a key test late last week as they all held important support. For the S&P 500, a 61.8% retracement of the rally off the June lows targeted 3,900 -- and last week's low was 3,904. As well, a measured move based on the small head-and-shoulders top came in at 3,910. A 61.8% giveback for the Nasdaq was 11,564 (last week's low was 11,547), and for the QQQs, the same retrace targeted 293.84 (with the intraday low last week at 293)."
         },
         {
+            "id": "2942_Analyst Report_1660562833000",
+            "headHtml": "Analyst Report: Enterprise Prods Pntr L",
+            "provider": "Argus Research",
+            "reportDate": "2022-08-15T11:27:13Z",
+            "reportTitle": "Enterprise Products Partners L.P. is a North American provider of midstream energy services to producers and consumers of natural gas, NGLs, crude oil, refined products and petrochemicals. The partnership's assets include over 50,000 miles of natural gas, NGL, refined products, and petrochemical pipelines; 260 million barrels of storage capacity for NGLs, refined products and crude oil; and 14 billion cubic feet of natural gas storage capacity. The company completed its IPO in July 1998.",
+            "targetPrice": 32.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "EPD"
+            ],
+            "title": "Enterprise Products Partners L.P. is a North American provider of midstream energy services to producers and consumers of natural gas, NGLs, crude oil, refined products and petrochemicals. The partnership's assets include over 50,000 miles of natural gas, NGL, refined products, and petrochemical pipelines; 260 million barrels of storage capacity for NGLs, refined products and crude oil; and 14 billion cubic feet of natural gas storage capacity. The company completed its IPO in July 1998."
+        },
+        {
             "id": "33802_Market Summary_1660562833000",
             "headHtml": "Market Digest: MKL, AES, AIG, CHD, EPD, ETR, VIAV, LUV, NI, OXY, SPH, ELV, KHC, W, UWMC",
             "provider": "Argus Research",
@@ -354,19 +367,6 @@
                 "UWMC"
             ],
             "title": "Monday Tee-Up: Housing, Consumers, Manufacturing"
-        },
-        {
-            "id": "2942_Analyst Report_1660562833000",
-            "headHtml": "Analyst Report: Enterprise Prods Pntr L",
-            "provider": "Argus Research",
-            "reportDate": "2022-08-15T11:27:13Z",
-            "reportTitle": "Enterprise Products Partners L.P. is a North American provider of midstream energy services to producers and consumers of natural gas, NGLs, crude oil, refined products and petrochemicals. The partnership's assets include over 50,000 miles of natural gas, NGL, refined products, and petrochemical pipelines; 260 million barrels of storage capacity for NGLs, refined products and crude oil; and 14 billion cubic feet of natural gas storage capacity. The company completed its IPO in July 1998.",
-            "targetPrice": 32.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "EPD"
-            ],
-            "title": "Enterprise Products Partners L.P. is a North American provider of midstream energy services to producers and consumers of natural gas, NGLs, crude oil, refined products and petrochemicals. The partnership's assets include over 50,000 miles of natural gas, NGL, refined products, and petrochemical pipelines; 260 million barrels of storage capacity for NGLs, refined products and crude oil; and 14 billion cubic feet of natural gas storage capacity. The company completed its IPO in July 1998."
         },
         {
             "id": "33802_Market Summary_1660561933000",
@@ -805,6 +805,19 @@
             "title": "Insider sell/buy ratios from Vickers Stock Research reflect a cautious outlook from corporate insiders. The neutral range for these readings is between 2.00 and 2.50, and things are bearish above 2.50. This week, Vickers' NYSE/ASE One-Week Sell/Buy Ratio sits at 4.61 and the Total one-week result (which adds in transactions on the Nasdaq) is 3.89. Those are not frightening readings, but they are clearly cautious. Of particular interest, insiders at technology companies that often list on the Nasdaq had been the most cautious for the past month. That made sense, as the shares of those companies (generally) have led the charge higher since the March lows and there was a lot of money on the table. But this week, those same insiders are clearly less cautious than their peers at the blue chips firms that typically are found on the NYSE.  By the numbers, the one-week sell/buy reading for the NYSE is 5.42, while the same figure at the Nasdaq is a markedly lesser 3.48. One might infer that blue chip businesses have much more to fear from a resurgence in coronavirus than do newer, technology-based companies that help people work at home, shelter at home, and have everything they need delivered to home."
         },
         {
+            "id": "2942_Analyst Report_1589206713000",
+            "headHtml": "Analyst Report: Enterprise Prods Pntr L",
+            "provider": "Argus Research",
+            "reportDate": "2020-05-11T14:18:33Z",
+            "reportTitle": "Enterprise Products Partners L.P. is a North American provider of midstream energy services to producers and consumers of natural gas, NGLs, crude oil, refined products and petrochemicals. The partnership's assets include over 50,000 miles of natural gas, NGL, refined products, and petrochemical pipelines; 260 million barrels of storage capacity for NGLs, refined products and crude oil; and 14 billion cubic feet of natural gas storage capacity. The company completed its IPO in July 1998.",
+            "targetPrice": 20.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "EPD"
+            ],
+            "title": "Enterprise Products Partners L.P. is a North American provider of midstream energy services to producers and consumers of natural gas, NGLs, crude oil, refined products and petrochemicals. The partnership's assets include over 50,000 miles of natural gas, NGL, refined products, and petrochemical pipelines; 260 million barrels of storage capacity for NGLs, refined products and crude oil; and 14 billion cubic feet of natural gas storage capacity. The company completed its IPO in July 1998."
+        },
+        {
             "id": "26902_Market Update_1589206713000",
             "headHtml": "Market Update: AMT, ADP, MNST, SHW, VIAV, EPD, FBHS, NYT, X",
             "provider": "Argus Research",
@@ -822,19 +835,6 @@
                 "ADP"
             ],
             "title": "Stocks were mixed on Monday morning amid concerns about a surge in new coronavirus cases in Germany and South Korea. A report in the Global Times, a Chinese newspaper aligned with the government, also suggested that Chinese leaders were reevaluating the phase 1 trade deal signed by the U.S. and China in January. The Dow fell 0.6%, the S&P fell 0.3%, and the Nasdaq rose 0.4%. Crude oil fell slightly to $24.50 per barrel, while gold fell $16 to $1698 per ounce."
-        },
-        {
-            "id": "2942_Analyst Report_1589206713000",
-            "headHtml": "Analyst Report: Enterprise Prods Pntr L",
-            "provider": "Argus Research",
-            "reportDate": "2020-05-11T14:18:33Z",
-            "reportTitle": "Enterprise Products Partners L.P. is a North American provider of midstream energy services to producers and consumers of natural gas, NGLs, crude oil, refined products and petrochemicals. The partnership's assets include over 50,000 miles of natural gas, NGL, refined products, and petrochemical pipelines; 260 million barrels of storage capacity for NGLs, refined products and crude oil; and 14 billion cubic feet of natural gas storage capacity. The company completed its IPO in July 1998.",
-            "targetPrice": 20.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "EPD"
-            ],
-            "title": "Enterprise Products Partners L.P. is a North American provider of midstream energy services to producers and consumers of natural gas, NGLs, crude oil, refined products and petrochemicals. The partnership's assets include over 50,000 miles of natural gas, NGL, refined products, and petrochemical pipelines; 260 million barrels of storage capacity for NGLs, refined products and crude oil; and 14 billion cubic feet of natural gas storage capacity. The company completed its IPO in July 1998."
         },
         {
             "id": "26902_Market Update_1589155200000",
@@ -891,19 +891,6 @@
             "title": "Stocks remain on a wild ride that mostly goes down. Yet something else also is taking shape: exceedingly bullish insider sentiment in the midst of broader market pain. When the market carnage first started, corporate insiders looked the massive selling right in the eyes and responded by buying. Now, with the stock-market decline gaining momentum, insider-sentiment data from Vickers Stock Research again shows that insiders are gobbling up shares. As well, the volume of insider transactions is very high, giving additional weight to the sentiment that comes from those transactions. Vickers' Total One-Week Sell/Buy Ratio is now 1.35, very positive on a scale where anything below 2.00 is bullish. Vickers' Total eight-week moving is now 2.88, and has improved from 4.76 a mere two weeks ago. We acknowledge that (most) insiders are not doctors and their current enthusiasm in no way reflects an imminent end to the coronavirus. But assuming this health crisis follows the same path to resolution as those that came before it, insiders seem to see current value in stocks."
         },
         {
-            "id": "2942_Analyst Report_1581083709000",
-            "headHtml": "Analyst Report: Enterprise Prods Pntr L",
-            "provider": "Argus Research",
-            "reportDate": "2020-02-07T13:55:09Z",
-            "reportTitle": "Enterprise Products Partners L.P. is a North American provider of midstream energy services to producers and consumers of natural gas, NGLs, crude oil, refined products and petrochemicals. The partnership's assets include over 50,000 miles of natural gas, NGL, refined products, and petrochemical pipelines; 260 million barrels of storage capacity for NGLs, refined products and crude oil; and 14 billion cubic feet of natural gas storage capacity. The company completed its IPO in July 1998.",
-            "targetPrice": 38.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "EPD"
-            ],
-            "title": "Enterprise Products Partners L.P. is a North American provider of midstream energy services to producers and consumers of natural gas, NGLs, crude oil, refined products and petrochemicals. The partnership's assets include over 50,000 miles of natural gas, NGL, refined products, and petrochemical pipelines; 260 million barrels of storage capacity for NGLs, refined products and crude oil; and 14 billion cubic feet of natural gas storage capacity. The company completed its IPO in July 1998."
-        },
-        {
             "id": "26141_Market Update_1581083709000",
             "headHtml": "Market Update: PRU, SHW, SKX, BHP, EBAY, EPD, PM",
             "provider": "Argus Research",
@@ -921,10 +908,10 @@
             "title": "Stocks fell on Friday morning despite a strong January employment report. However, the Labor Department also said that the U.S. economy created 514,000 fewer jobs in the year ended March 2019 than it initially reported. January nonfarm payrolls rose by 225,000, up from a revised 147,000 in December and above the Reuters consensus forecast of 160,000. The official unemployment rate edged up to 3.6% from 3.5%. The S&P fell 0.3%, the Dow 0.5%, and the Nasdaq 0.3%. Crude oil fell slightly to $51 per barrel, while gold rose $2.50 to $1572 per ounce."
         },
         {
-            "id": "2942_Analyst Report_1581033600000",
+            "id": "2942_Analyst Report_1581083709000",
             "headHtml": "Analyst Report: Enterprise Prods Pntr L",
             "provider": "Argus Research",
-            "reportDate": "2020-02-07T00:00:00Z",
+            "reportDate": "2020-02-07T13:55:09Z",
             "reportTitle": "Enterprise Products Partners L.P. is a North American provider of midstream energy services to producers and consumers of natural gas, NGLs, crude oil, refined products and petrochemicals. The partnership's assets include over 50,000 miles of natural gas, NGL, refined products, and petrochemical pipelines; 260 million barrels of storage capacity for NGLs, refined products and crude oil; and 14 billion cubic feet of natural gas storage capacity. The company completed its IPO in July 1998.",
             "targetPrice": 38.0,
             "investmentRating": "Bullish",
@@ -949,6 +936,19 @@
                 "PM"
             ],
             "title": "Stocks fell on Friday morning despite a strong January employment report. However, the Labor Department also said that the U.S. economy created 514,000 fewer jobs in the year ended March 2019 than it initially reported. January nonfarm payrolls rose by 225,000, up from a revised 147,000 in December and above the Reuters consensus forecast of 160,000. The official unemployment rate edged up to 3.6% from 3.5%. The S&P fell 0.3%, the Dow 0.5%, and the Nasdaq 0.3%. Crude oil fell slightly to $51 per barrel, while gold rose $2.50 to $1572 per ounce."
+        },
+        {
+            "id": "2942_Analyst Report_1581033600000",
+            "headHtml": "Analyst Report: Enterprise Prods Pntr L",
+            "provider": "Argus Research",
+            "reportDate": "2020-02-07T00:00:00Z",
+            "reportTitle": "Enterprise Products Partners L.P. is a North American provider of midstream energy services to producers and consumers of natural gas, NGLs, crude oil, refined products and petrochemicals. The partnership's assets include over 50,000 miles of natural gas, NGL, refined products, and petrochemical pipelines; 260 million barrels of storage capacity for NGLs, refined products and crude oil; and 14 billion cubic feet of natural gas storage capacity. The company completed its IPO in July 1998.",
+            "targetPrice": 38.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "EPD"
+            ],
+            "title": "Enterprise Products Partners L.P. is a North American provider of midstream energy services to producers and consumers of natural gas, NGLs, crude oil, refined products and petrochemicals. The partnership's assets include over 50,000 miles of natural gas, NGL, refined products, and petrochemical pipelines; 260 million barrels of storage capacity for NGLs, refined products and crude oil; and 14 billion cubic feet of natural gas storage capacity. The company completed its IPO in July 1998."
         },
         {
             "id": "25854_Technical Analysis_1578034762000",
@@ -1007,6 +1007,19 @@
             "title": "The major indices are mixed at midday on Tuesday, with the Nasdaq trailing after Alphabet announced an earnings miss, sending the stock down 2%. Industries doing well today include Automobiles, Health Care Providers & Services, and Real Estate Management & Development. Industries showing weakness include Wireless Telecommunication Services, Construction Materials, and Interactive Media & Services. The VIX is up 0.21 to 13.32 after the previous close of 13.11. The Dow was flat, the S&P rose 0.1%, and the Nasdaq fell 0.3%. Crude oil fell slightly to about $55.50 per barrel, while gold traded near $1492 per ounce."
         },
         {
+            "id": "2942_Analyst Report_1572307200000",
+            "headHtml": "Analyst Report: Enterprise Prods Pntr L",
+            "provider": "Argus Research",
+            "reportDate": "2019-10-29T00:00:00Z",
+            "reportTitle": "Enterprise Products Partners L.P. is a North American provider of midstream energy services to producers and consumers of natural gas, NGLs, crude oil, refined products and petrochemicals. The partnership's assets include over 50,000 miles of natural gas, NGL, refined products, and petrochemical pipelines; 260 million barrels of storage capacity for NGLs, refined products and crude oil; and 14 billion cubic feet of natural gas storage capacity. The company completed its IPO in July 1998.",
+            "targetPrice": 38.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "EPD"
+            ],
+            "title": "Enterprise Products Partners L.P. is a North American provider of midstream energy services to producers and consumers of natural gas, NGLs, crude oil, refined products and petrochemicals. The partnership's assets include over 50,000 miles of natural gas, NGL, refined products, and petrochemical pipelines; 260 million barrels of storage capacity for NGLs, refined products and crude oil; and 14 billion cubic feet of natural gas storage capacity. The company completed its IPO in July 1998."
+        },
+        {
             "id": "25335_Market Update_1572307200000",
             "headHtml": "Market Update: DHR, FLEX, MA, RTN, QSR, VFC, BAX, EPD, GT, RIG",
             "provider": "Argus Research",
@@ -1025,19 +1038,6 @@
                 "DHR"
             ],
             "title": "The major indices are mixed at midday on Tuesday, with the Nasdaq trailing after Alphabet announced an earnings miss, sending the stock down 2%. Industries doing well today include Automobiles, Health Care Providers & Services, and Real Estate Management & Development. Industries showing weakness include Wireless Telecommunication Services, Construction Materials, and Interactive Media & Services. The VIX is up 0.21 to 13.32 after the previous close of 13.11. The Dow was flat, the S&P rose 0.1%, and the Nasdaq fell 0.3%. Crude oil fell slightly to about $55.50 per barrel, while gold traded near $1492 per ounce."
-        },
-        {
-            "id": "2942_Analyst Report_1572307200000",
-            "headHtml": "Analyst Report: Enterprise Prods Pntr L",
-            "provider": "Argus Research",
-            "reportDate": "2019-10-29T00:00:00Z",
-            "reportTitle": "Enterprise Products Partners L.P. is a North American provider of midstream energy services to producers and consumers of natural gas, NGLs, crude oil, refined products and petrochemicals. The partnership's assets include over 50,000 miles of natural gas, NGL, refined products, and petrochemical pipelines; 260 million barrels of storage capacity for NGLs, refined products and crude oil; and 14 billion cubic feet of natural gas storage capacity. The company completed its IPO in July 1998.",
-            "targetPrice": 38.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "EPD"
-            ],
-            "title": "Enterprise Products Partners L.P. is a North American provider of midstream energy services to producers and consumers of natural gas, NGLs, crude oil, refined products and petrochemicals. The partnership's assets include over 50,000 miles of natural gas, NGL, refined products, and petrochemical pipelines; 260 million barrels of storage capacity for NGLs, refined products and crude oil; and 14 billion cubic feet of natural gas storage capacity. The company completed its IPO in July 1998."
         },
         {
             "id": "2942_Analyst Report_1565097880000",
