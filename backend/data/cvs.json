@@ -1,47 +1,47 @@
 {
-    "postMarketChangePercent": 0.0026169142,
-    "postMarketChange": 0.15000153,
-    "postMarketPrice": 57.47,
-    "regularMarketChangePercent": -0.00139376,
-    "regularMarketChange": -0.0800018,
-    "regularMarketPrice": 57.32,
-    "regularMarketDayHigh": 57.48,
-    "regularMarketDayLow": 56.7,
-    "regularMarketVolume": 16753194,
-    "averageDailyVolume10Day": 12936830,
-    "averageDailyVolume3Month": 11085080,
-    "regularMarketPreviousClose": 57.4,
-    "regularMarketOpen": 57.45,
+    "postMarketChangePercent": 0.00503142,
+    "postMarketChange": 0.279999,
+    "postMarketPrice": 55.93,
+    "regularMarketChangePercent": -0.0311629,
+    "regularMarketChange": -1.79,
+    "regularMarketPrice": 55.65,
+    "regularMarketDayHigh": 59.73,
+    "regularMarketDayLow": 55.48,
+    "regularMarketVolume": 15527289,
+    "averageDailyVolume10Day": 12455700,
+    "averageDailyVolume3Month": 11347440,
+    "regularMarketPreviousClose": 57.44,
+    "regularMarketOpen": 57.18,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "quoteType": "EQUITY",
     "symbol": "CVS",
     "shortName": "CVS Health Corporation",
     "longName": "CVS Health Corporation",
-    "marketCap": 72058691584,
-    "previousClose": 57.4,
-    "open": 57.45,
-    "dayLow": 56.7,
-    "dayHigh": 57.48,
+    "marketCap": 72108490752,
+    "previousClose": 57.44,
+    "open": 57.18,
+    "dayLow": 55.48,
+    "dayHigh": 59.73,
     "dividendRate": 2.66,
     "dividendYield": 0.0463,
     "exDividendDate": "2024-04-18 20:00:00",
     "payoutRatio": 0.4351,
     "fiveYearAvgDividendYield": 2.86,
     "beta": 0.552,
-    "trailingPE": 10.073813,
-    "forwardPE": 7.3487177,
-    "volume": 16753194,
-    "averageVolume": 11085080,
-    "averageVolume10days": 12936830,
+    "trailingPE": 9.763159,
+    "forwardPE": 7.1346154,
+    "volume": 15527289,
+    "averageVolume": 11347440,
+    "averageVolume10days": 12455700,
     "fiftyTwoWeekLow": 53.7,
     "fiftyTwoWeekHigh": 83.25,
-    "priceToSalesTrailing12Months": 0.20035115,
-    "fiftyDayAverage": 68.616,
-    "twoHundredDayAverage": 71.36745,
+    "priceToSalesTrailing12Months": 0.20048961,
+    "fiftyDayAverage": 67.8882,
+    "twoHundredDayAverage": 71.20725,
     "trailingAnnualDividendRate": 2.48,
-    "trailingAnnualDividendYield": 0.043205574,
-    "enterpriseValue": 140842975232,
+    "trailingAnnualDividendYield": 0.04317549,
+    "enterpriseValue": 140993626112,
     "profitMargins": 0.02036,
     "floatShares": 1252196878,
     "sharesOutstanding": 1255369984,
@@ -54,24 +54,24 @@
     "heldPercentInstitutions": 0.82165,
     "shortRatio": 1.55,
     "shortPercentOfFloat": 0.0109,
-    "impliedSharesOutstanding": 1257129984,
+    "impliedSharesOutstanding": 1295750016,
     "bookValue": 59.08,
-    "priceToBook": 0.97020984,
+    "priceToBook": 0.9419431,
     "lastFiscalYearEnd": "2023-12-30 19:00:00",
     "nextFiscalYearEnd": "2024-12-30 19:00:00",
     "mostRecentQuarter": "2024-03-30 20:00:00",
     "earningsQuarterlyGrowth": -0.479,
     "netIncomeToCommon": 7320999936,
-    "trailingEps": 5.69,
+    "trailingEps": 5.7,
     "forwardEps": 7.8,
-    "pegRatio": -27.33,
+    "pegRatio": -27.37,
     "enterpriseToRevenue": 0.392,
-    "enterpriseToEbitda": 8.322,
-    "52WeekChange": -0.17611599,
-    "SandP52WeekChange": 0.28043115,
+    "enterpriseToEbitda": 8.331,
+    "52WeekChange": -0.15117484,
+    "SandP52WeekChange": 0.27840328,
     "lastDividendValue": 0.665,
     "lastDividendDate": 1713484800,
-    "currentPrice": 57.32,
+    "currentPrice": 55.65,
     "targetHighPrice": 93.31,
     "targetLowPrice": 59.0,
     "targetMeanPrice": 68.76,
@@ -386,7 +386,7 @@
                 "epsTrend": {
                     "current": 1.77,
                     "7daysAgo": 1.77,
-                    "30daysAgo": 2.21,
+                    "30daysAgo": 2.07,
                     "60daysAgo": 2.22,
                     "90daysAgo": 2.2
                 },
@@ -421,7 +421,7 @@
                 "epsTrend": {
                     "current": 2.0,
                     "7daysAgo": 2.0,
-                    "30daysAgo": 2.23,
+                    "30daysAgo": 2.1,
                     "60daysAgo": 2.23,
                     "90daysAgo": 2.24
                 },
@@ -456,9 +456,9 @@
                 "epsTrend": {
                     "current": 7.0,
                     "7daysAgo": 7.0,
-                    "30daysAgo": 8.3,
+                    "30daysAgo": 7.78,
                     "60daysAgo": 8.31,
-                    "90daysAgo": 8.33
+                    "90daysAgo": 8.32
                 },
                 "epsRevisions": {
                     "upLast7days": 0,
@@ -491,9 +491,9 @@
                 "epsTrend": {
                     "current": 7.8,
                     "7daysAgo": 7.8,
-                    "30daysAgo": 9.17,
+                    "30daysAgo": 8.6,
                     "60daysAgo": 9.22,
-                    "90daysAgo": 9.23
+                    "90daysAgo": 9.22
                 },
                 "epsRevisions": {
                     "upLast7days": 0,
@@ -577,28 +577,28 @@
     "indexTrend": {
         "maxAge": 1,
         "symbol": "SP5",
-        "peRatio": 15.6985,
-        "pegRatio": 1.36278,
+        "peRatio": 15.787,
+        "pegRatio": 1.30495,
         "estimates": [
             {
                 "period": "0q",
-                "growth": 0.079
+                "growth": 0.091000006
             },
             {
                 "period": "+1q",
-                "growth": 0.123
+                "growth": 0.113000005
             },
             {
                 "period": "0y",
-                "growth": 0.056999996
+                "growth": 0.058000002
             },
             {
                 "period": "+1y",
-                "growth": 0.126
+                "growth": 0.125
             },
             {
                 "period": "+5y",
-                "growth": 0.113703005
+                "growth": 0.114204
             },
             {
                 "period": "-5y"
@@ -2449,7 +2449,7 @@
                 "organization": "Vanguard Total Stock Market Index Fund",
                 "pctHeld": 0.0322,
                 "position": 40404146,
-                "value": 2315965636,
+                "value": 2248490786,
                 "pctChange": 0.0106
             },
             {
@@ -2458,7 +2458,7 @@
                 "organization": "Washington Mutual Investors Fund",
                 "pctHeld": 0.0257,
                 "position": 32277191,
-                "value": 1850128578,
+                "value": 1796225728,
                 "pctChange": -0.0007
             },
             {
@@ -2467,7 +2467,7 @@
                 "organization": "Vanguard 500 Index Fund",
                 "pctHeld": 0.025,
                 "position": 31378806,
-                "value": 1798633150,
+                "value": 1746230601,
                 "pctChange": 0.0167
             },
             {
@@ -2476,7 +2476,7 @@
                 "organization": "Income Fund of America Inc",
                 "pctHeld": 0.0186,
                 "position": 23364178,
-                "value": 1339234675,
+                "value": 1300216541,
                 "pctChange": 0.1785
             },
             {
@@ -2485,7 +2485,7 @@
                 "organization": "Dodge & Cox Stock Fund",
                 "pctHeld": 0.0163,
                 "position": 20465000,
-                "value": 1173053793,
+                "value": 1138877281,
                 "pctChange": 0.1158
             },
             {
@@ -2494,7 +2494,7 @@
                 "organization": "American Balanced Fund",
                 "pctHeld": 0.013099999,
                 "position": 16386012,
-                "value": 939246202,
+                "value": 911881592,
                 "pctChange": 0.056199998
             },
             {
@@ -2503,7 +2503,7 @@
                 "organization": "SPDR S&P 500 ETF Trust",
                 "pctHeld": 0.0121,
                 "position": 15185778,
-                "value": 870448790,
+                "value": 845088568,
                 "pctChange": 0.008
             },
             {
@@ -2512,7 +2512,7 @@
                 "organization": "Fidelity 500 Index Fund",
                 "pctHeld": 0.0121,
                 "position": 15209218,
-                "value": 871792371,
+                "value": 846393004,
                 "pctChange": -0.0127
             },
             {
@@ -2521,7 +2521,7 @@
                 "organization": "iShares Core S&P 500 ETF",
                 "pctHeld": 0.0104,
                 "position": 13045326,
-                "value": 747758082,
+                "value": 725972411,
                 "pctChange": -0.023699999
             },
             {
@@ -2530,7 +2530,7 @@
                 "organization": "Vanguard Index-Value Index Fund",
                 "pctHeld": 0.0085,
                 "position": 10725962,
-                "value": 614812138,
+                "value": 596899801,
                 "pctChange": -0.026199998
             }
         ],
@@ -2643,7 +2643,7 @@
                 "organization": "Vanguard Group Inc",
                 "pctHeld": 0.0925,
                 "position": 116117490,
-                "value": 6655854491,
+                "value": 6461938495,
                 "pctChange": -0.0134000005
             },
             {
@@ -2652,7 +2652,7 @@
                 "organization": "Blackrock Inc.",
                 "pctHeld": 0.0694,
                 "position": 87101436,
-                "value": 4992654284,
+                "value": 4847195046,
                 "pctChange": 0.00090000004
             },
             {
@@ -2661,7 +2661,7 @@
                 "organization": "State Street Corporation",
                 "pctHeld": 0.0438,
                 "position": 55004275,
-                "value": 3152845026,
+                "value": 3060987987,
                 "pctChange": -0.0036000002
             },
             {
@@ -2670,7 +2670,7 @@
                 "organization": "Capital World Investors",
                 "pctHeld": 0.0349,
                 "position": 43776874,
-                "value": 2509290404,
+                "value": 2436183104,
                 "pctChange": 0.0797
             },
             {
@@ -2679,7 +2679,7 @@
                 "organization": "Dodge & Cox Inc",
                 "pctHeld": 0.0327,
                 "position": 41012543,
-                "value": 2350838952,
+                "value": 2282348080,
                 "pctChange": 0.34849998
             },
             {
@@ -2688,7 +2688,7 @@
                 "organization": "Capital International Investors",
                 "pctHeld": 0.030199999,
                 "position": 37917923,
-                "value": 2173455334,
+                "value": 2110132472,
                 "pctChange": 0.1254
             },
             {
@@ -2697,7 +2697,7 @@
                 "organization": "FMR, LLC",
                 "pctHeld": 0.0274,
                 "position": 34423281,
-                "value": 1973142456,
+                "value": 1915655640,
                 "pctChange": -0.08979999
             },
             {
@@ -2706,7 +2706,7 @@
                 "organization": "Morgan Stanley",
                 "pctHeld": 0.0231,
                 "position": 29039992,
-                "value": 1664572332,
+                "value": 1616075599,
                 "pctChange": -0.0515
             },
             {
@@ -2715,7 +2715,7 @@
                 "organization": "Geode Capital Management, LLC",
                 "pctHeld": 0.0202,
                 "position": 25382075,
-                "value": 1454900531,
+                "value": 1412512512,
                 "pctChange": 0.0356
             },
             {
@@ -2724,7 +2724,7 @@
                 "organization": "Bank of America Corporation",
                 "pctHeld": 0.0128999995,
                 "position": 16159874,
-                "value": 926283972,
+                "value": 899297012,
                 "pctChange": 0.0592
             }
         ],
@@ -2733,7 +2733,7 @@
             "insidersPercentHeld": 0.00119,
             "institutionsPercentHeld": 0.82165,
             "institutionsFloatPercentHeld": 0.82262003,
-            "institutionsCount": 2738
+            "institutionsCount": 2739
         }
     },
     "upgradeDowngradeHistory": [
@@ -2774,6 +2774,6 @@
         }
     ],
     "fcfPerShare": 6.662179388224086,
-    "fcfYield": 0.11606511092767388,
+    "fcfYield": 0.11598495468119377,
     "fcfPayoutRatio": 0.3992687445045017
 }

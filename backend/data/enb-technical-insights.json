@@ -7,11 +7,11 @@
             "shortTermOutlook": {
                 "stateDescription": "Recent bearish events outweigh bullish events.",
                 "direction": "Bearish",
-                "score": 2,
-                "scoreDescription": "Bearish Evidence",
-                "sectorDirection": "Bullish",
-                "sectorScore": 3,
-                "sectorScoreDescription": "Strong Bullish Evidence",
+                "score": 3,
+                "scoreDescription": "Strong Bearish Evidence",
+                "sectorDirection": "Bearish",
+                "sectorScore": 4,
+                "sectorScoreDescription": "Very Strong Bearish Evidence",
                 "indexDirection": "Bullish",
                 "indexScore": 1,
                 "indexScoreDescription": "Weak Bullish Evidence"
@@ -21,9 +21,9 @@
                 "direction": "Bullish",
                 "score": 2,
                 "scoreDescription": "Bullish Evidence",
-                "sectorDirection": "Bullish",
-                "sectorScore": 2,
-                "sectorScoreDescription": "Bullish Evidence",
+                "sectorDirection": "Bearish",
+                "sectorScore": 1,
+                "sectorScoreDescription": "Weak Bearish Evidence",
                 "indexDirection": "Bearish",
                 "indexScore": 3,
                 "indexScoreDescription": "Strong Bearish Evidence"
@@ -44,14 +44,13 @@
         "keyTechnicals": {
             "provider": "Trading Central",
             "support": 35.945,
-            "resistance": 36.965,
-            "stopLoss": 35.638114
+            "resistance": 36.751,
+            "stopLoss": 35.521163
         },
         "valuation": {
-            "color": 0.0,
-            "description": "Overvalued",
-            "discount": "-16%",
-            "relativeValue": "Premium",
+            "color": 0.5,
+            "description": "Near Fair Value",
+            "discount": "1%",
             "provider": "Trading Central"
         }
     },
@@ -61,7 +60,7 @@
             "innovativeness": 0.5602,
             "sustainability": 0.0909,
             "insiderSentiments": 0.2407,
-            "dividends": 0.6731999999999999
+            "dividends": 0.6793
         },
         "sector": {
             "innovativeness": 0.5,
@@ -104,13 +103,13 @@
     },
     "events": [
         {
-            "eventType": "MACD",
+            "eventType": "Price Crosses Moving Average",
             "pricePeriod": "D",
             "tradingHorizon": "S",
             "tradeType": "S",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1716211800,
-            "endDate": 1716211800
+            "startDate": 1716384600,
+            "endDate": 1716384600
         }
     ],
     "reports": [
@@ -2055,23 +2054,6 @@
             "title": "Much of the weekly data from Vickers Stock Research suggests that things are pretty much as expected in the world of insider transactions. Earnings season is still underway and the volume of insider transactions is therefore low. As well, most of Vickers' insider indexes and insider sell/buy ratios are either neutral or slightly bearish. That makes sense as insiders jumped in when stock prices cratered on COVID-19 fears, and those same insiders have pulled back as stocks have rebounded. So is there anything of note in current insider activity? Why yes there is."
         },
         {
-            "id": "27063_Market Update_1590761426000",
-            "headHtml": "Market Update: AAP, CAH, FL, NTAP, BBY, ENB, CMS",
-            "provider": "Argus Research",
-            "reportDate": "2020-05-29T14:10:26Z",
-            "reportTitle": "Stocks were mixed on Friday morning amid continued U.S.-China tensions over Hong Kong and weak consumer spending data. The Commerce Department said that consumer spending fell 13.6% in April, nearly double the 6.9% drop in March and more than the Reuters consensus forecast, which called for a decline of 12.6%. The Dow fell 0.7%, the S&P fell 0.4%, and the Nasdaq rose 0.2%. Crude oil fell slightly to $33.50 per barrel, while gold rose $23 to $1751 per ounce.",
-            "tickers": [
-                "AAP",
-                "NTAP",
-                "FL",
-                "ENB",
-                "BBY",
-                "CMS",
-                "CAH"
-            ],
-            "title": "Stocks were mixed on Friday morning amid continued U.S.-China tensions over Hong Kong and weak consumer spending data. The Commerce Department said that consumer spending fell 13.6% in April, nearly double the 6.9% drop in March and more than the Reuters consensus forecast, which called for a decline of 12.6%. The Dow fell 0.7%, the S&P fell 0.4%, and the Nasdaq rose 0.2%. Crude oil fell slightly to $33.50 per barrel, while gold rose $23 to $1751 per ounce."
-        },
-        {
             "id": "3799_Analyst Report_1590761426000",
             "headHtml": "Analyst Report: Enbridge Inc",
             "provider": "Argus Research",
@@ -2085,10 +2067,10 @@
             "title": "Enbridge Inc. is North America's largest energy infrastructure company. Enbridge has six operating segments: Liquids Pipelines, Gas Transmission & Midstream, Gas Distribution, Renewable Power Generation & Transmission, Energy Services, and Eliminations & Other. According to the company's most recent 10-K, Enbridge delivers over three million barrels of crude oil per day, and transports 62% of all U.S.-bound Canadian crude exports. The company also transports 18% of the natural gas used in the U.S. Its regulated utilities serve approximately 3.7 million retail customers."
         },
         {
-            "id": "27063_Market Update_1590710400000",
+            "id": "27063_Market Update_1590761426000",
             "headHtml": "Market Update: AAP, CAH, FL, NTAP, BBY, ENB, CMS",
             "provider": "Argus Research",
-            "reportDate": "2020-05-29T00:00:00Z",
+            "reportDate": "2020-05-29T14:10:26Z",
             "reportTitle": "Stocks were mixed on Friday morning amid continued U.S.-China tensions over Hong Kong and weak consumer spending data. The Commerce Department said that consumer spending fell 13.6% in April, nearly double the 6.9% drop in March and more than the Reuters consensus forecast, which called for a decline of 12.6%. The Dow fell 0.7%, the S&P fell 0.4%, and the Nasdaq rose 0.2%. Crude oil fell slightly to $33.50 per barrel, while gold rose $23 to $1751 per ounce.",
             "tickers": [
                 "AAP",
@@ -2113,6 +2095,23 @@
                 "ENB"
             ],
             "title": "Enbridge Inc. is North America's largest energy infrastructure company. Enbridge has six operating segments: Liquids Pipelines, Gas Transmission & Midstream, Gas Distribution, Renewable Power Generation & Transmission, Energy Services, and Eliminations & Other. According to the company's most recent 10-K, Enbridge delivers over three million barrels of crude oil per day, and transports 62% of all U.S.-bound Canadian crude exports. The company also transports 18% of the natural gas used in the U.S. Its regulated utilities serve approximately 3.7 million retail customers."
+        },
+        {
+            "id": "27063_Market Update_1590710400000",
+            "headHtml": "Market Update: AAP, CAH, FL, NTAP, BBY, ENB, CMS",
+            "provider": "Argus Research",
+            "reportDate": "2020-05-29T00:00:00Z",
+            "reportTitle": "Stocks were mixed on Friday morning amid continued U.S.-China tensions over Hong Kong and weak consumer spending data. The Commerce Department said that consumer spending fell 13.6% in April, nearly double the 6.9% drop in March and more than the Reuters consensus forecast, which called for a decline of 12.6%. The Dow fell 0.7%, the S&P fell 0.4%, and the Nasdaq rose 0.2%. Crude oil fell slightly to $33.50 per barrel, while gold rose $23 to $1751 per ounce.",
+            "tickers": [
+                "AAP",
+                "NTAP",
+                "FL",
+                "ENB",
+                "BBY",
+                "CMS",
+                "CAH"
+            ],
+            "title": "Stocks were mixed on Friday morning amid continued U.S.-China tensions over Hong Kong and weak consumer spending data. The Commerce Department said that consumer spending fell 13.6% in April, nearly double the 6.9% drop in March and more than the Reuters consensus forecast, which called for a decline of 12.6%. The Dow fell 0.7%, the S&P fell 0.4%, and the Nasdaq rose 0.2%. Crude oil fell slightly to $33.50 per barrel, while gold rose $23 to $1751 per ounce."
         },
         {
             "id": "26296_Thematic Portfolio_1582786699000",

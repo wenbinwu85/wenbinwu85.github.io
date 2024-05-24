@@ -7,8 +7,8 @@
             "shortTermOutlook": {
                 "stateDescription": "Recent bearish events outweigh bullish events.",
                 "direction": "Bearish",
-                "score": 3,
-                "scoreDescription": "Strong Bearish Evidence",
+                "score": 2,
+                "scoreDescription": "Bearish Evidence",
                 "sectorDirection": "Bullish",
                 "sectorScore": 2,
                 "sectorScoreDescription": "Bullish Evidence",
@@ -43,7 +43,7 @@
         },
         "keyTechnicals": {
             "provider": "Trading Central",
-            "stopLoss": 94.848011
+            "stopLoss": 99.733648
         },
         "valuation": {
             "color": 0.0,
@@ -56,7 +56,7 @@
     "companySnapshot": {
         "sectorInfo": "Technology",
         "company": {
-            "earningsReports": 0.9887999999999999
+            "earningsReports": 0.9895999999999999
         },
         "sector": {
             "innovativeness": 0.5,

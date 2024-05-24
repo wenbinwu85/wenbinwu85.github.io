@@ -5,13 +5,13 @@
             "provider": "Trading Central",
             "sector": "Real Estate",
             "shortTermOutlook": {
-                "stateDescription": "Bearish events outweigh bullish events.",
+                "stateDescription": "Recent bearish events outweigh bullish events.",
                 "direction": "Bearish",
-                "score": 2,
-                "scoreDescription": "Bearish Evidence",
+                "score": 3,
+                "scoreDescription": "Strong Bearish Evidence",
                 "sectorDirection": "Bullish",
-                "sectorScore": 3,
-                "sectorScoreDescription": "Strong Bullish Evidence",
+                "sectorScore": 2,
+                "sectorScoreDescription": "Bullish Evidence",
                 "indexDirection": "Bullish",
                 "indexScore": 1,
                 "indexScoreDescription": "Weak Bullish Evidence"
@@ -45,7 +45,7 @@
             "provider": "Trading Central",
             "support": 142.22,
             "resistance": 149.96,
-            "stopLoss": 140.848653
+            "stopLoss": 139.029361
         },
         "valuation": {
             "color": 0.0,
@@ -58,12 +58,12 @@
     "companySnapshot": {
         "sectorInfo": "Real Estate",
         "company": {
-            "innovativeness": 0.6314,
+            "innovativeness": 0.6275,
             "hiring": 0.6901,
             "sustainability": 0.5611999999999999,
             "insiderSentiments": 0.9423,
-            "earningsReports": 0.6548999999999999,
-            "dividends": 0.3851
+            "earningsReports": 0.648,
+            "dividends": 0.3907
         },
         "sector": {
             "innovativeness": 0.5,
@@ -111,8 +111,8 @@
             "tradingHorizon": "I",
             "tradeType": "S",
             "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
-            "startDate": 1716211800,
-            "endDate": 1716211800
+            "startDate": 1716384600,
+            "endDate": 1716384600
         }
     ],
     "reports": [
@@ -377,19 +377,6 @@
             "title": "Stocks edged lower on Thursday morning after giving up early gains. The decline followed a selloff on Wednesday after the Fed's latest meeting minutes indicated that the central bank remained focused on controlling inflation and suggested that further rate hikes were possible at upcoming meetings. On the earnings front, Cisco shares rose 4% after the company reported better-than-expected fiscal 4Q results, while Walmart shares fell despite strong second-quarter sales and earnings and an increase in its full-year EPS guidance. The Dow fell 0.1%, the S&P 0.1%, and the Nasdaq 0.4%. Crude oil rose 2% to $81 per barrel, while gold fell $6 to $1923 per ounce."
         },
         {
-            "id": "3403_Analyst Report_1683804637000",
-            "headHtml": "Analyst Report: Simon Property Group, Inc.",
-            "provider": "Argus Research",
-            "reportDate": "2023-05-11T11:30:37Z",
-            "reportTitle": "Simon Property Group Inc., based in Indianapolis, is a retail REIT that is one of the largest owners of high-end malls, outlet centers, and lifestyle destinations in North America, Asia, and Europe. The company has expanded its profile by investing in the retail operations of several well-known brands, including JC Penny and SPARC (Aeropostale, Reebok, Nautica, Izod, and Forever 21). NOI from these retail investments is approximately 8% of total NOI. SPG also operates Simon Brand Ventures, which offers appraisals and real estate services.\r\n\r\nSimon owns or has interests in 230 properties with 184 million square feet of leasable space. U.S. malls and outlets account for approximately 72% of NOI. Properties in California, Florida, and Texas account for just under half of the portfolio. Additionally, the company has an 80% interest in the Taubman Group and a 22% interest in Klepierre, a Paris-based real estate firm. Recent development activity includes construction of a lifestyle center in Atlanta and premium outlets in Tokyo and South Korea. \r\n\r\nThe REIT has a varied tenant base with its largest U.S. tenant, Gap Inc., has almost 300 locations, but accounting for less than 3% of base minimum rents.  SPG is a member of the S&P 500 and has a market cap of $36.6 billion.",
-            "targetPrice": 140.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "SPG"
-            ],
-            "title": "Simon Property Group Inc., based in Indianapolis, is a retail REIT that is one of the largest owners of high-end malls, outlet centers, and lifestyle destinations in North America, Asia, and Europe. The company has expanded its profile by investing in the retail operations of several well-known brands, including JC Penny and SPARC (Aeropostale, Reebok, Nautica, Izod, and Forever 21). NOI from these retail investments is approximately 8% of total NOI. SPG also operates Simon Brand Ventures, which offers appraisals and real estate services.\r\n\r\nSimon owns or has interests in 230 properties with 184 million square feet of leasable space. U.S. malls and outlets account for approximately 72% of NOI. Properties in California, Florida, and Texas account for just under half of the portfolio. Additionally, the company has an 80% interest in the Taubman Group and a 22% interest in Klepierre, a Paris-based real estate firm. Recent development activity includes construction of a lifestyle center in Atlanta and premium outlets in Tokyo and South Korea. \r\n\r\nThe REIT has a varied tenant base with its largest U.S. tenant, Gap Inc., has almost 300 locations, but accounting for less than 3% of base minimum rents.  SPG is a member of the S&P 500 and has a market cap of $36.6 billion."
-        },
-        {
             "id": "36436_Market Summary_1683804637000",
             "headHtml": "Market Digest: ACM, BIIB, CENT, DINO, SPG, TSN, VSH, KKR, ETSY",
             "provider": "Argus Research",
@@ -407,6 +394,19 @@
                 "BIIB"
             ],
             "title": "Earnings, Employment, Economy: Three Es Keeping Recession at Bay"
+        },
+        {
+            "id": "3403_Analyst Report_1683804637000",
+            "headHtml": "Analyst Report: Simon Property Group, Inc.",
+            "provider": "Argus Research",
+            "reportDate": "2023-05-11T11:30:37Z",
+            "reportTitle": "Simon Property Group Inc., based in Indianapolis, is a retail REIT that is one of the largest owners of high-end malls, outlet centers, and lifestyle destinations in North America, Asia, and Europe. The company has expanded its profile by investing in the retail operations of several well-known brands, including JC Penny and SPARC (Aeropostale, Reebok, Nautica, Izod, and Forever 21). NOI from these retail investments is approximately 8% of total NOI. SPG also operates Simon Brand Ventures, which offers appraisals and real estate services.\r\n\r\nSimon owns or has interests in 230 properties with 184 million square feet of leasable space. U.S. malls and outlets account for approximately 72% of NOI. Properties in California, Florida, and Texas account for just under half of the portfolio. Additionally, the company has an 80% interest in the Taubman Group and a 22% interest in Klepierre, a Paris-based real estate firm. Recent development activity includes construction of a lifestyle center in Atlanta and premium outlets in Tokyo and South Korea. \r\n\r\nThe REIT has a varied tenant base with its largest U.S. tenant, Gap Inc., has almost 300 locations, but accounting for less than 3% of base minimum rents.  SPG is a member of the S&P 500 and has a market cap of $36.6 billion.",
+            "targetPrice": 140.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "SPG"
+            ],
+            "title": "Simon Property Group Inc., based in Indianapolis, is a retail REIT that is one of the largest owners of high-end malls, outlet centers, and lifestyle destinations in North America, Asia, and Europe. The company has expanded its profile by investing in the retail operations of several well-known brands, including JC Penny and SPARC (Aeropostale, Reebok, Nautica, Izod, and Forever 21). NOI from these retail investments is approximately 8% of total NOI. SPG also operates Simon Brand Ventures, which offers appraisals and real estate services.\r\n\r\nSimon owns or has interests in 230 properties with 184 million square feet of leasable space. U.S. malls and outlets account for approximately 72% of NOI. Properties in California, Florida, and Texas account for just under half of the portfolio. Additionally, the company has an 80% interest in the Taubman Group and a 22% interest in Klepierre, a Paris-based real estate firm. Recent development activity includes construction of a lifestyle center in Atlanta and premium outlets in Tokyo and South Korea. \r\n\r\nThe REIT has a varied tenant base with its largest U.S. tenant, Gap Inc., has almost 300 locations, but accounting for less than 3% of base minimum rents.  SPG is a member of the S&P 500 and has a market cap of $36.6 billion."
         },
         {
             "id": "35776_Stock Picks_1678106062000",
@@ -907,19 +907,6 @@
             "title": "November was the best month on the S&P 500 since...April, when the index was up 12.7%. In this unprecedented year, you do not have to go back very far to find a blowout month. "
         },
         {
-            "id": "3403_Analyst Report_1598452719000",
-            "headHtml": "Analyst Report: Simon Property Group, Inc.",
-            "provider": "Argus Research",
-            "reportDate": "2020-08-26T14:38:39Z",
-            "reportTitle": "Simon Property Group Inc., based in Indianapolis, is a retail REIT that owns and leases malls and outlets. Simon has an interest in or owns 234 properties with 191 million square feet of leasable space in North America, Asia, and Europe. It also has a 22% interest in Klepierre, a Paris-based real estate firm, which owns shopping centers in 15 European countries. SPG is a member of the S&P 500.",
-            "targetPrice": 85.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "SPG"
-            ],
-            "title": "Simon Property Group Inc., based in Indianapolis, is a retail REIT that owns and leases malls and outlets. Simon has an interest in or owns 234 properties with 191 million square feet of leasable space in North America, Asia, and Europe. It also has a 22% interest in Klepierre, a Paris-based real estate firm, which owns shopping centers in 15 European countries. SPG is a member of the S&P 500."
-        },
-        {
             "id": "27784_Market Update_1598452719000",
             "headHtml": "Market Update: PANW, SLF, BBY, MDU, SPG",
             "provider": "Argus Research",
@@ -933,6 +920,19 @@
                 "PANW"
             ],
             "title": "Stocks were mixed on Wednesday morning amid strong earnings from Salesforce.com and new capital goods data. The Commerce Department said that orders for core capital goods excluding aircraft rose 1.9% in July, in line with the Reuters consensus forecast but down from 4.3% growth in June. Salesforce shares jumped 26% after the company posted strong fiscal 2Q results and raised its full-year revenue guidance. The Dow fell 0.3%, the S&P rose 0.4%, and the Nasdaq rose 1.0%. Crude oil traded near $43.50 per barrel, while gold rose $25 to $1948 per ounce."
+        },
+        {
+            "id": "3403_Analyst Report_1598452719000",
+            "headHtml": "Analyst Report: Simon Property Group, Inc.",
+            "provider": "Argus Research",
+            "reportDate": "2020-08-26T14:38:39Z",
+            "reportTitle": "Simon Property Group Inc., based in Indianapolis, is a retail REIT that owns and leases malls and outlets. Simon has an interest in or owns 234 properties with 191 million square feet of leasable space in North America, Asia, and Europe. It also has a 22% interest in Klepierre, a Paris-based real estate firm, which owns shopping centers in 15 European countries. SPG is a member of the S&P 500.",
+            "targetPrice": 85.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "SPG"
+            ],
+            "title": "Simon Property Group Inc., based in Indianapolis, is a retail REIT that owns and leases malls and outlets. Simon has an interest in or owns 234 properties with 191 million square feet of leasable space in North America, Asia, and Europe. It also has a 22% interest in Klepierre, a Paris-based real estate firm, which owns shopping centers in 15 European countries. SPG is a member of the S&P 500."
         },
         {
             "id": "3403_Analyst Report_1598400000000",
@@ -963,6 +963,19 @@
             "title": "Stocks were mixed on Wednesday morning amid strong earnings from Salesforce.com and new capital goods data. The Commerce Department said that orders for core capital goods excluding aircraft rose 1.9% in July, in line with the Reuters consensus forecast but down from 4.3% growth in June. Salesforce shares jumped 26% after the company posted strong fiscal 2Q results and raised its full-year revenue guidance. The Dow fell 0.3%, the S&P rose 0.4%, and the Nasdaq rose 1.0%. Crude oil traded near $43.50 per barrel, while gold rose $25 to $1948 per ounce."
         },
         {
+            "id": "3403_Analyst Report_1591883229000",
+            "headHtml": "Analyst Report: Simon Property Group, Inc.",
+            "provider": "Argus Research",
+            "reportDate": "2020-06-11T13:47:09Z",
+            "reportTitle": "Simon Property Group Inc., based in Indianapolis, is a retail REIT that owns and leases malls and outlets. Simon has an interest in or owns 234 properties with 191 million square feet of leasable space in North America, Asia, and Europe. It also has a 22% interest in Klepierre, a Paris-based real estate firm, which owns shopping centers in 15 European countries. SPG is a member of the S&P 500.",
+            "targetPrice": 110.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "SPG"
+            ],
+            "title": "Simon Property Group Inc., based in Indianapolis, is a retail REIT that owns and leases malls and outlets. Simon has an interest in or owns 234 properties with 191 million square feet of leasable space in North America, Asia, and Europe. It also has a 22% interest in Klepierre, a Paris-based real estate firm, which owns shopping centers in 15 European countries. SPG is a member of the S&P 500."
+        },
+        {
             "id": "27168_Market Update_1591883229000",
             "headHtml": "Market Update: BAX, SPG, ULTA, LB, M",
             "provider": "Argus Research",
@@ -976,19 +989,6 @@
                 "M"
             ],
             "title": "Stocks fell sharply on Thursday morning amid concerns about rising coronavirus cases in many states and a bleak economic outlook from the Federal Reserve. First-time jobless claims totaled 1.542 million for the week ended June 6, down from the prior week and below the Reuters consensus of 1.55 million. The Dow fell 3.2%, the S&P 3.4%, and the Nasdaq 1.7%. Crude oil fell nearly 7% to $37 per barrel, while gold rose $29 to $1750 per ounce."
-        },
-        {
-            "id": "3403_Analyst Report_1591883229000",
-            "headHtml": "Analyst Report: Simon Property Group, Inc.",
-            "provider": "Argus Research",
-            "reportDate": "2020-06-11T13:47:09Z",
-            "reportTitle": "Simon Property Group Inc., based in Indianapolis, is a retail REIT that owns and leases malls and outlets. Simon has an interest in or owns 234 properties with 191 million square feet of leasable space in North America, Asia, and Europe. It also has a 22% interest in Klepierre, a Paris-based real estate firm, which owns shopping centers in 15 European countries. SPG is a member of the S&P 500.",
-            "targetPrice": 110.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "SPG"
-            ],
-            "title": "Simon Property Group Inc., based in Indianapolis, is a retail REIT that owns and leases malls and outlets. Simon has an interest in or owns 234 properties with 191 million square feet of leasable space in North America, Asia, and Europe. It also has a 22% interest in Klepierre, a Paris-based real estate firm, which owns shopping centers in 15 European countries. SPG is a member of the S&P 500."
         },
         {
             "id": "3403_Analyst Report_1591833600000",
@@ -1048,6 +1048,19 @@
             "title": "Stocks rose on Thursday morning as China announced plans to lower tariffs on $75 billion of U.S. goods next Friday under the terms of the phase one trade deal signed last month. On the earnings front, Twitter shares soared more than 16%, despite lower-than-expected 4Q EPS, after the company posted $1 billion in quarterly revenue for the first time and strong growth in 'monetizable daily active users.' Bristol-Myers Squibb also rose strongly following much better than expected revenue and earnings. The Dow rose 0.1%, the S&P 0.3%, and the Nasdaq 0.4%. Crude oil rose slightly to $51 per barrel, while gold rose $4 to $1567 per ounce."
         },
         {
+            "id": "3403_Analyst Report_1580947200000",
+            "headHtml": "Analyst Report: Simon Property Group, Inc.",
+            "provider": "Argus Research",
+            "reportDate": "2020-02-06T00:00:00Z",
+            "reportTitle": "Simon Property Group Inc., based in Indianapolis, is a retail REIT that owns and leases malls and outlets. Simon has an interest in or owns 233 properties with 191 million square feet of leasable space in North America, Asia, and Europe. It also has a 22% interest in Klepierre, a Paris-based real estate firm, which owns shopping centers in 15 European countries. SPG is a member of the S&P 500.",
+            "targetPrice": 160.0,
+            "investmentRating": "Bullish",
+            "tickers": [
+                "SPG"
+            ],
+            "title": "Simon Property Group Inc., based in Indianapolis, is a retail REIT that owns and leases malls and outlets. Simon has an interest in or owns 233 properties with 191 million square feet of leasable space in North America, Asia, and Europe. It also has a 22% interest in Klepierre, a Paris-based real estate firm, which owns shopping centers in 15 European countries. SPG is a member of the S&P 500."
+        },
+        {
             "id": "26128_Market Update_1580947200000",
             "headHtml": "Market Update: CMG, ETH, IR, KLAC, MRK, MCHP, SPG",
             "provider": "Argus Research",
@@ -1063,19 +1076,6 @@
                 "CMG"
             ],
             "title": "Stocks rose on Thursday morning as China announced plans to lower tariffs on $75 billion of U.S. goods next Friday under the terms of the phase one trade deal signed last month. On the earnings front, Twitter shares soared more than 16%, despite lower-than-expected 4Q EPS, after the company posted $1 billion in quarterly revenue for the first time and strong growth in 'monetizable daily active users.' Bristol-Myers Squibb also rose strongly following much better than expected revenue and earnings. The Dow rose 0.1%, the S&P 0.3%, and the Nasdaq 0.4%. Crude oil rose slightly to $51 per barrel, while gold rose $4 to $1567 per ounce."
-        },
-        {
-            "id": "3403_Analyst Report_1580947200000",
-            "headHtml": "Analyst Report: Simon Property Group, Inc.",
-            "provider": "Argus Research",
-            "reportDate": "2020-02-06T00:00:00Z",
-            "reportTitle": "Simon Property Group Inc., based in Indianapolis, is a retail REIT that owns and leases malls and outlets. Simon has an interest in or owns 233 properties with 191 million square feet of leasable space in North America, Asia, and Europe. It also has a 22% interest in Klepierre, a Paris-based real estate firm, which owns shopping centers in 15 European countries. SPG is a member of the S&P 500.",
-            "targetPrice": 160.0,
-            "investmentRating": "Bullish",
-            "tickers": [
-                "SPG"
-            ],
-            "title": "Simon Property Group Inc., based in Indianapolis, is a retail REIT that owns and leases malls and outlets. Simon has an interest in or owns 233 properties with 191 million square feet of leasable space in North America, Asia, and Europe. It also has a 22% interest in Klepierre, a Paris-based real estate firm, which owns shopping centers in 15 European countries. SPG is a member of the S&P 500."
         },
         {
             "id": "3403_Analyst Report_1573221592000",
@@ -1164,19 +1164,6 @@
             "title": "Stocks rose strongly on Friday morning, led by the Financial and Technology sectors, as investors weighed a new round of earnings reports and July housing market data. The Commerce Department said that U.S. housing starts fell 4.0% to a seasonally adjusted 1.191 million last month, below the Reuters consensus forecast of 1.257 million. However, building permits rose 8.4%, the strongest gain since June 2017. Nvidia shares rose more than 8% after the chipmaker posted stronger-than-expected 2Q results. The S&P rose 1.4%, the Dow 1.1%, and the Nasdaq 1.6%. Crude oil rose slightly to about $55 per barrel, while gold fell $11 to $1520 per ounce."
         },
         {
-            "id": "24735_Market Update_1565913600000",
-            "headHtml": "Market Update: HUM, SPG, MRO",
-            "provider": "Argus Research",
-            "reportDate": "2019-08-16T00:00:00Z",
-            "reportTitle": "Stocks rose strongly on Friday morning, led by the Financial and Technology sectors, as investors weighed a new round of earnings reports and July housing market data. The Commerce Department said that U.S. housing starts fell 4.0% to a seasonally adjusted 1.191 million last month, below the Reuters consensus forecast of 1.257 million. However, building permits rose 8.4%, the strongest gain since June 2017. Nvidia shares rose more than 8% after the chipmaker posted stronger-than-expected 2Q results. The S&P rose 1.4%, the Dow 1.1%, and the Nasdaq 1.6%. Crude oil rose slightly to about $55 per barrel, while gold fell $11 to $1520 per ounce.",
-            "tickers": [
-                "HUM",
-                "MRO",
-                "SPG"
-            ],
-            "title": "Stocks rose strongly on Friday morning, led by the Financial and Technology sectors, as investors weighed a new round of earnings reports and July housing market data. The Commerce Department said that U.S. housing starts fell 4.0% to a seasonally adjusted 1.191 million last month, below the Reuters consensus forecast of 1.257 million. However, building permits rose 8.4%, the strongest gain since June 2017. Nvidia shares rose more than 8% after the chipmaker posted stronger-than-expected 2Q results. The S&P rose 1.4%, the Dow 1.1%, and the Nasdaq 1.6%. Crude oil rose slightly to about $55 per barrel, while gold fell $11 to $1520 per ounce."
-        },
-        {
             "id": "3403_Analyst Report_1565913600000",
             "headHtml": "Maintaining BUY but lowering estimates on demand concerns",
             "provider": "Argus Research",
@@ -1188,6 +1175,19 @@
                 "SPG"
             ],
             "title": "Simon Property Group Inc., based in Indianapolis, is a retail REIT that owns and leases malls and outlets. Simon has an interest in or owns 235 properties with 190 million square feet of leasable space in North America, Asia, and Europe. It also has a 22% interest in Klepierre, a Paris-based real estate firm, which owns shopping centers in 16 European countries. SPG is a member of the S&P 500."
+        },
+        {
+            "id": "24735_Market Update_1565913600000",
+            "headHtml": "Market Update: HUM, SPG, MRO",
+            "provider": "Argus Research",
+            "reportDate": "2019-08-16T00:00:00Z",
+            "reportTitle": "Stocks rose strongly on Friday morning, led by the Financial and Technology sectors, as investors weighed a new round of earnings reports and July housing market data. The Commerce Department said that U.S. housing starts fell 4.0% to a seasonally adjusted 1.191 million last month, below the Reuters consensus forecast of 1.257 million. However, building permits rose 8.4%, the strongest gain since June 2017. Nvidia shares rose more than 8% after the chipmaker posted stronger-than-expected 2Q results. The S&P rose 1.4%, the Dow 1.1%, and the Nasdaq 1.6%. Crude oil rose slightly to about $55 per barrel, while gold fell $11 to $1520 per ounce.",
+            "tickers": [
+                "HUM",
+                "MRO",
+                "SPG"
+            ],
+            "title": "Stocks rose strongly on Friday morning, led by the Financial and Technology sectors, as investors weighed a new round of earnings reports and July housing market data. The Commerce Department said that U.S. housing starts fell 4.0% to a seasonally adjusted 1.191 million last month, below the Reuters consensus forecast of 1.257 million. However, building permits rose 8.4%, the strongest gain since June 2017. Nvidia shares rose more than 8% after the chipmaker posted stronger-than-expected 2Q results. The S&P rose 1.4%, the Dow 1.1%, and the Nasdaq 1.6%. Crude oil rose slightly to about $55 per barrel, while gold fell $11 to $1520 per ounce."
         },
         {
             "id": "24482_Thematic Portfolio_1563343414000",
