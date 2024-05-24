@@ -1,0 +1,14 @@
+{
+  "routes": [
+    "/",
+    "/portfolio",
+    "/portfolio/analysis",
+    "/portfolio/dividend",
+    "/portfolio/financials",
+    "/portfolio/holdings",
+    "/portfolio/price-insights",
+    "/portfolio/summary",
+    "/toolbox",
+    "/watchlists"
+  ]
+}

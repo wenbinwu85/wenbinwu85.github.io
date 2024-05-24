@@ -1,0 +1,788 @@
+{
+    "postMarketChangePercent": 0.00391009,
+    "postMarketChange": 0.440002,
+    "postMarketPrice": 112.97,
+    "regularMarketChangePercent": 0.0008894287,
+    "regularMarketChange": 0.099998474,
+    "regularMarketPrice": 112.53,
+    "regularMarketDayHigh": 117.33,
+    "regularMarketDayLow": 110.38,
+    "regularMarketVolume": 8400504,
+    "averageDailyVolume10Day": 11672780,
+    "averageDailyVolume3Month": 10175375,
+    "regularMarketPreviousClose": 112.43,
+    "regularMarketOpen": 117.0,
+    "exchange": "NMS",
+    "exchangeName": "NasdaqGS",
+    "quoteType": "EQUITY",
+    "symbol": "ARM",
+    "shortName": "Arm Holdings plc",
+    "longName": "Arm Holdings plc",
+    "marketCap": 117068333056,
+    "previousClose": 112.43,
+    "open": 117.0,
+    "dayLow": 110.38,
+    "dayHigh": 117.33,
+    "payoutRatio": 0.0,
+    "trailingPE": 388.0345,
+    "forwardPE": 55.4335,
+    "volume": 8400504,
+    "averageVolume": 10175375,
+    "averageVolume10days": 11672780,
+    "fiftyTwoWeekLow": 46.5,
+    "fiftyTwoWeekHigh": 164.0,
+    "priceToSalesTrailing12Months": 36.210434,
+    "fiftyDayAverage": 115.944,
+    "twoHundredDayAverage": 86.49489,
+    "trailingAnnualDividendRate": 0.0,
+    "trailingAnnualDividendYield": 0.0,
+    "enterpriseValue": 114262360064,
+    "profitMargins": 0.09465,
+    "floatShares": 108631310,
+    "sharesOutstanding": 1040329984,
+    "sharesShort": 7692422,
+    "sharesShortPriorMonth": 8189547,
+    "sharesShortPreviousMonthDate": "2024-03-27 20:00:00",
+    "dateShortInterest": "2024-04-29 20:00:00",
+    "sharesPercentSharesOut": 0.0074,
+    "heldPercentInsiders": 0.89374,
+    "heldPercentInstitutions": 0.061090004,
+    "shortRatio": 0.9,
+    "shortPercentOfFloat": 0.0696,
+    "impliedSharesOutstanding": 1040329984,
+    "bookValue": 5.09,
+    "priceToBook": 22.108053,
+    "lastFiscalYearEnd": "2024-03-30 20:00:00",
+    "nextFiscalYearEnd": "2025-03-30 20:00:00",
+    "mostRecentQuarter": "2024-03-30 20:00:00",
+    "earningsQuarterlyGrowth": 73.667,
+    "netIncomeToCommon": 306000000,
+    "trailingEps": 0.29,
+    "forwardEps": 2.03,
+    "enterpriseToRevenue": 35.343,
+    "enterpriseToEbitda": 391.309,
+    "52WeekChange": 0.7680453,
+    "SandP52WeekChange": 0.27840328,
+    "currentPrice": 112.53,
+    "recommendationKey": "none",
+    "totalCash": 2923000064,
+    "totalCashPerShare": 2.81,
+    "ebitda": 292000000,
+    "totalDebt": 221000000,
+    "quickRatio": 2.684,
+    "currentRatio": 2.789,
+    "totalRevenue": 3232999936,
+    "debtToEquity": 4.174,
+    "revenuePerShare": 3.147,
+    "returnOnAssets": 0.010980001,
+    "returnOnEquity": 0.06548,
+    "freeCashflow": 1359250048,
+    "operatingCashflow": 1090000000,
+    "earningsGrowth": 71.041,
+    "revenueGrowth": 0.466,
+    "grossMargins": 0.95268,
+    "ebitdaMargins": 0.09032,
+    "operatingMargins": 0.044180002,
+    "financialCurrency": "USD",
+    "profile": {
+        "address1": "110 Fulbourn Road",
+        "city": "Cambridge",
+        "zip": "CB1 9NJ",
+        "country": "United Kingdom",
+        "phone": "44 1223 400 400",
+        "website": "https://www.arm.com",
+        "industry": "Semiconductors",
+        "industryKey": "semiconductors",
+        "industryDisp": "Semiconductors",
+        "sector": "Technology",
+        "sectorKey": "technology",
+        "sectorDisp": "Technology",
+        "longBusinessSummary": "Arm Holdings plc architects, develops, and licenses central processing unit products and related technologies for semiconductor companies and original equipment manufacturers rely on to develop products. It offers microprocessors, systems intellectual property (IPs), graphics processing units, physical IP and associated systems IPs, software, tools, and other related services. Its products are used in various markets, such as automotive, computing infrastructure, consumer technologies, and Internet of things. The company operates in the United States, the People's Republic of China, Taiwan, South Korea, and internationally. The company was founded in 1990 and is headquartered in Cambridge, the United Kingdom. Arm Holdings plc operates as a subsidiary of Kronos II LLC.",
+        "fullTimeEmployees": 7096,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Rene  Haas",
+                "age": 61,
+                "title": "CEO & Director",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jason E. Child",
+                "age": 54,
+                "title": "Executive VP & CFO",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Laura  Bartels",
+                "title": "Chief Accounting Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ian  Thornton",
+                "title": "Head of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Spencer  Collins",
+                "age": 42,
+                "title": "Executive VP & Chief Legal Officer",
+                "yearBorn": 1981,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Ami M. Badani",
+                "title": "Chief Marketing Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Kirsty  Gill",
+                "age": 51,
+                "title": "Executive VP & Chief People Officer",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Richard  Grisenthwaite",
+                "age": 55,
+                "title": "Executive VP & Chief Architect",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. William  Abbey",
+                "age": 52,
+                "title": "Executive VP & Chief Commercial Officer",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Tamika Curry Smith",
+                "title": "Senior VP & Chief Diversity Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": []
+        }
+    },
+    "earnings": {
+        "maxAge": 1,
+        "earningsChart": {
+            "quarterly": [],
+            "earningsDate": []
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2023,
+                    "revenue": 2679000000,
+                    "earnings": 524000000
+                },
+                {
+                    "date": 2024,
+                    "revenue": 3233000000,
+                    "earnings": 306000000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "2Q2023",
+                    "revenue": 675000000,
+                    "earnings": 105000000
+                },
+                {
+                    "date": "3Q2023",
+                    "revenue": 806000000,
+                    "earnings": -110000000
+                },
+                {
+                    "date": "4Q2023",
+                    "revenue": 824000000,
+                    "earnings": 87000000
+                },
+                {
+                    "date": "1Q2024",
+                    "revenue": 928000000,
+                    "earnings": 224000000
+                }
+            ]
+        },
+        "financialCurrency": "USD",
+        "history": [
+            {
+                "maxAge": 1,
+                "epsActual": {},
+                "epsEstimate": {},
+                "epsDifference": {},
+                "surprisePercent": {},
+                "quarter": {},
+                "period": "-4q"
+            },
+            {
+                "maxAge": 1,
+                "epsActual": {},
+                "epsEstimate": {},
+                "epsDifference": {},
+                "surprisePercent": {},
+                "quarter": {},
+                "period": "-3q"
+            },
+            {
+                "maxAge": 1,
+                "epsActual": {},
+                "epsEstimate": {},
+                "epsDifference": {},
+                "surprisePercent": {},
+                "quarter": {},
+                "period": "-2q"
+            },
+            {
+                "maxAge": 1,
+                "epsActual": {},
+                "epsEstimate": {},
+                "epsDifference": {},
+                "surprisePercent": {},
+                "quarter": {},
+                "period": "-1q"
+            }
+        ],
+        "trend": [
+            {
+                "maxAge": 1,
+                "period": "0q",
+                "endDate": null,
+                "growth": {},
+                "earningsEstimate": {
+                    "avg": 0.0,
+                    "low": 0.0,
+                    "high": 0.0,
+                    "yearAgoEps": {},
+                    "numberOfAnalysts": 0,
+                    "growth": {}
+                },
+                "revenueEstimate": {
+                    "avg": 0,
+                    "low": 0,
+                    "high": 0,
+                    "numberOfAnalysts": 0,
+                    "yearAgoRevenue": {},
+                    "growth": {}
+                },
+                "epsTrend": {
+                    "current": 0.0,
+                    "7daysAgo": 0.0,
+                    "30daysAgo": 0.0,
+                    "60daysAgo": 0.0,
+                    "90daysAgo": 0.0
+                },
+                "epsRevisions": {
+                    "upLast7days": 0,
+                    "upLast30days": 0,
+                    "downLast30days": 0,
+                    "downLast90days": {}
+                }
+            },
+            {
+                "maxAge": 1,
+                "period": "+1q",
+                "endDate": null,
+                "growth": {},
+                "earningsEstimate": {
+                    "avg": 0.0,
+                    "low": 0.0,
+                    "high": 0.0,
+                    "yearAgoEps": {},
+                    "numberOfAnalysts": 0,
+                    "growth": {}
+                },
+                "revenueEstimate": {
+                    "avg": 0,
+                    "low": 0,
+                    "high": 0,
+                    "numberOfAnalysts": 0,
+                    "yearAgoRevenue": {},
+                    "growth": {}
+                },
+                "epsTrend": {
+                    "current": 0.0,
+                    "7daysAgo": 0.0,
+                    "30daysAgo": 0.0,
+                    "60daysAgo": 0.0,
+                    "90daysAgo": 0.0
+                },
+                "epsRevisions": {
+                    "upLast7days": 0,
+                    "upLast30days": 0,
+                    "downLast30days": 0,
+                    "downLast90days": {}
+                }
+            },
+            {
+                "maxAge": 1,
+                "period": "0y",
+                "endDate": null,
+                "growth": {},
+                "earningsEstimate": {
+                    "avg": 0.0,
+                    "low": 0.0,
+                    "high": 0.0,
+                    "yearAgoEps": {},
+                    "numberOfAnalysts": 0,
+                    "growth": {}
+                },
+                "revenueEstimate": {
+                    "avg": 0,
+                    "low": 0,
+                    "high": 0,
+                    "numberOfAnalysts": 0,
+                    "yearAgoRevenue": {},
+                    "growth": {}
+                },
+                "epsTrend": {
+                    "current": 0.0,
+                    "7daysAgo": 0.0,
+                    "30daysAgo": 0.0,
+                    "60daysAgo": 0.0,
+                    "90daysAgo": 0.0
+                },
+                "epsRevisions": {
+                    "upLast7days": 0,
+                    "upLast30days": 0,
+                    "downLast30days": 0,
+                    "downLast90days": {}
+                }
+            },
+            {
+                "maxAge": 1,
+                "period": "+1y",
+                "endDate": null,
+                "growth": {},
+                "earningsEstimate": {
+                    "avg": 0.0,
+                    "low": 0.0,
+                    "high": 0.0,
+                    "yearAgoEps": {},
+                    "numberOfAnalysts": 0,
+                    "growth": {}
+                },
+                "revenueEstimate": {
+                    "avg": 0,
+                    "low": 0,
+                    "high": 0,
+                    "numberOfAnalysts": 0,
+                    "yearAgoRevenue": {},
+                    "growth": {}
+                },
+                "epsTrend": {
+                    "current": 0.0,
+                    "7daysAgo": 0.0,
+                    "30daysAgo": 0.0,
+                    "60daysAgo": 0.0,
+                    "90daysAgo": 0.0
+                },
+                "epsRevisions": {
+                    "upLast7days": 0,
+                    "upLast30days": 0,
+                    "downLast30days": 0,
+                    "downLast90days": {}
+                }
+            },
+            {
+                "maxAge": 1,
+                "period": "+5y",
+                "endDate": null,
+                "growth": {},
+                "earningsEstimate": {
+                    "avg": {},
+                    "low": {},
+                    "high": {},
+                    "yearAgoEps": {},
+                    "numberOfAnalysts": {},
+                    "growth": {}
+                },
+                "revenueEstimate": {
+                    "avg": {},
+                    "low": {},
+                    "high": {},
+                    "numberOfAnalysts": {},
+                    "yearAgoRevenue": {},
+                    "growth": {}
+                },
+                "epsTrend": {
+                    "current": {},
+                    "7daysAgo": {},
+                    "30daysAgo": {},
+                    "60daysAgo": {},
+                    "90daysAgo": {}
+                },
+                "epsRevisions": {
+                    "upLast7days": {},
+                    "upLast30days": {},
+                    "downLast30days": {},
+                    "downLast90days": {}
+                }
+            },
+            {
+                "maxAge": 1,
+                "period": "-5y",
+                "endDate": null,
+                "growth": {},
+                "earningsEstimate": {
+                    "avg": {},
+                    "low": {},
+                    "high": {},
+                    "yearAgoEps": {},
+                    "numberOfAnalysts": {},
+                    "growth": {}
+                },
+                "revenueEstimate": {
+                    "avg": {},
+                    "low": {},
+                    "high": {},
+                    "numberOfAnalysts": {},
+                    "yearAgoRevenue": {},
+                    "growth": {}
+                },
+                "epsTrend": {
+                    "current": {},
+                    "7daysAgo": {},
+                    "30daysAgo": {},
+                    "60daysAgo": {},
+                    "90daysAgo": {}
+                },
+                "epsRevisions": {
+                    "upLast7days": {},
+                    "upLast30days": {},
+                    "downLast30days": {},
+                    "downLast90days": {}
+                }
+            }
+        ]
+    },
+    "indexTrend": {
+        "maxAge": 1,
+        "symbol": "SP5",
+        "peRatio": 15.787,
+        "pegRatio": 1.30495,
+        "estimates": [
+            {
+                "period": "0q",
+                "growth": 0.091000006
+            },
+            {
+                "period": "+1q",
+                "growth": 0.113000005
+            },
+            {
+                "period": "0y",
+                "growth": 0.058000002
+            },
+            {
+                "period": "+1y",
+                "growth": 0.125
+            },
+            {
+                "period": "+5y",
+                "growth": 0.114204
+            },
+            {
+                "period": "-5y"
+            }
+        ]
+    },
+    "insiderTransactions": {},
+    "recommendationTrend": [
+        {
+            "period": "0m",
+            "strongBuy": 0,
+            "buy": 0,
+            "hold": 0,
+            "sell": 0,
+            "strongSell": 1
+        },
+        {
+            "period": "-1m",
+            "strongBuy": 4,
+            "buy": 13,
+            "hold": 10,
+            "sell": 1,
+            "strongSell": 1
+        },
+        {
+            "period": "-2m",
+            "strongBuy": 4,
+            "buy": 12,
+            "hold": 11,
+            "sell": 1,
+            "strongSell": 1
+        },
+        {
+            "period": "-3m",
+            "strongBuy": 0,
+            "buy": 0,
+            "hold": 0,
+            "sell": 0,
+            "strongSell": 0
+        }
+    ],
+    "shareholders": {
+        "fundOwnership": [
+            {
+                "maxAge": 1,
+                "reportDate": "2024-01-31",
+                "organization": "Goldman Sachs GQG Partners International Opportunities Fund",
+                "pctHeld": 0.0067000003,
+                "position": 6947069,
+                "value": 781753666,
+                "pctChange": 0.0
+            },
+            {
+                "maxAge": 1,
+                "reportDate": "2024-01-31",
+                "organization": "Harbor Capital Appreciation Fund",
+                "pctHeld": 0.0016,
+                "position": 1661153,
+                "value": 186929545,
+                "pctChange": -0.0309
+            },
+            {
+                "maxAge": 1,
+                "reportDate": "2024-01-31",
+                "organization": "Hartford Growth Opportunities Fund",
+                "pctHeld": 0.001,
+                "position": 990857,
+                "value": 111501137,
+                "pctChange": 0.36540002
+            },
+            {
+                "maxAge": 1,
+                "reportDate": "2024-03-31",
+                "organization": "Fidelity Select Portfolios - Semiconductors Portfolio",
+                "pctHeld": 0.001,
+                "position": 1066300,
+                "value": 119990737,
+                "pctChange": 2.1566
+            },
+            {
+                "maxAge": 1,
+                "reportDate": "2023-12-31",
+                "organization": "Delaware Ivy Science and Technology Fund",
+                "pctHeld": 0.00090000004,
+                "position": 940193,
+                "value": 105799917,
+                "pctChange": 0.0
+            },
+            {
+                "maxAge": 1,
+                "reportDate": "2024-01-31",
+                "organization": "Hartford/Schroders International Stock Fd",
+                "pctHeld": 0.00090000004,
+                "position": 939780,
+                "value": 105753442,
+                "pctChange": 0.24379998
+            },
+            {
+                "maxAge": 1,
+                "reportDate": "2024-02-29",
+                "organization": "Vanguard International Growth Fund",
+                "pctHeld": 0.00090000004,
+                "position": 931404,
+                "value": 104810890,
+                "pctChange": -0.42150003
+            },
+            {
+                "maxAge": 1,
+                "reportDate": "2023-12-31",
+                "organization": "Vanguard Horizon Fund-Capital Opportunity Fund",
+                "pctHeld": 0.0008,
+                "position": 784500,
+                "value": 88279784,
+                "pctChange": 0.0
+            },
+            {
+                "maxAge": 1,
+                "reportDate": "2024-03-31",
+                "organization": "Fidelity Select Portfolios - Technology",
+                "pctHeld": 0.0008,
+                "position": 803100,
+                "value": 90372842,
+                "pctChange": 0.1577
+            },
+            {
+                "maxAge": 1,
+                "reportDate": "2024-01-31",
+                "organization": "Invesco Main Street Fund",
+                "pctHeld": 0.0007,
+                "position": 717945,
+                "value": 80790349,
+                "pctChange": 0.0
+            }
+        ],
+        "insiderHolders": [],
+        "institutionOwnership": [
+            {
+                "maxAge": 1,
+                "reportDate": "2024-03-31",
+                "organization": "GQG Partners LLC",
+                "pctHeld": 0.010299999,
+                "position": 10682133,
+                "value": 1202060413,
+                "pctChange": -0.305
+            },
+            {
+                "maxAge": 1,
+                "reportDate": "2024-03-31",
+                "organization": "FMR, LLC",
+                "pctHeld": 0.0037,
+                "position": 3819531,
+                "value": 429811818,
+                "pctChange": 0.2728
+            },
+            {
+                "maxAge": 1,
+                "reportDate": "2024-03-31",
+                "organization": "Schroder Investment Management Group",
+                "pctHeld": 0.0031,
+                "position": 3245019,
+                "value": 365161984,
+                "pctChange": -0.49220002
+            },
+            {
+                "maxAge": 1,
+                "reportDate": "2024-03-31",
+                "organization": "Citadel Advisors Llc",
+                "pctHeld": 0.0023999999,
+                "position": 2528962,
+                "value": 284584090,
+                "pctChange": 0.8618
+            },
+            {
+                "maxAge": 1,
+                "reportDate": "2024-03-31",
+                "organization": "Shaw D.E. & Co., Inc.",
+                "pctHeld": 0.0023,
+                "position": 2379839,
+                "value": 267803279,
+                "pctChange": 1.0
+            },
+            {
+                "maxAge": 1,
+                "reportDate": "2024-03-31",
+                "organization": "Blackrock Inc.",
+                "pctHeld": 0.002,
+                "position": 2091354,
+                "value": 235340063,
+                "pctChange": -0.1437
+            },
+            {
+                "maxAge": 1,
+                "reportDate": "2024-03-31",
+                "organization": "Goldman Sachs Group Inc",
+                "pctHeld": 0.002,
+                "position": 2087121,
+                "value": 234863723,
+                "pctChange": -0.4121
+            },
+            {
+                "maxAge": 1,
+                "reportDate": "2024-03-31",
+                "organization": "Alphabet Inc.",
+                "pctHeld": 0.0019,
+                "position": 1960784,
+                "value": 220647021,
+                "pctChange": 0.0
+            },
+            {
+                "maxAge": 1,
+                "reportDate": "2024-03-31",
+                "organization": "Nvidia Corp                          ",
+                "pctHeld": 0.0019,
+                "position": 1960784,
+                "value": 220647021,
+                "pctChange": 0.0
+            },
+            {
+                "maxAge": 1,
+                "reportDate": "2024-03-31",
+                "organization": "Mubadala Investment Co PJSC",
+                "pctHeld": 0.0014,
+                "position": 1501960,
+                "value": 169015556,
+                "pctChange": -0.2498
+            }
+        ],
+        "majorHolders": {
+            "maxAge": 1,
+            "insidersPercentHeld": 0.89374,
+            "institutionsPercentHeld": 0.061090004,
+            "institutionsFloatPercentHeld": 0.57490003,
+            "institutionsCount": 511
+        }
+    },
+    "upgradeDowngradeHistory": [
+        {
+            "epochGradeDate": "2024-05-16 10:07:49",
+            "firm": "Bernstein",
+            "toGrade": "Underperform",
+            "fromGrade": "Underperform",
+            "action": "main"
+        },
+        {
+            "epochGradeDate": "2024-05-09 08:22:42",
+            "firm": "Needham",
+            "toGrade": "Hold",
+            "fromGrade": "",
+            "action": "reit"
+        },
+        {
+            "epochGradeDate": "2024-05-09 05:58:07",
+            "firm": "Evercore ISI Group",
+            "toGrade": "Outperform",
+            "fromGrade": "Outperform",
+            "action": "main"
+        },
+        {
+            "epochGradeDate": "2024-05-06 08:08:47",
+            "firm": "Rosenblatt",
+            "toGrade": "Buy",
+            "fromGrade": "Buy",
+            "action": "main"
+        },
+        {
+            "epochGradeDate": "2024-04-29 14:14:57",
+            "firm": "Wells Fargo",
+            "toGrade": "Overweight",
+            "fromGrade": "Overweight",
+            "action": "main"
+        }
+    ],
+    "fcfPerShare": 0,
+    "fcfYield": 0,
+    "fcfPayoutRatio": 0
+}
